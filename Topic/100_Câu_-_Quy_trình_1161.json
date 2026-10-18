@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Câu 1Câu 1: Quy trình kiểm tra thuế mới nhất ban hành kèm theo quyết định nào của Cục Thuế?",
+    "options": [
+      "A.Quyết định số 970/QĐ-TCT",
+      "B.Quyết định số 1161/QĐ-CT",
+      "C.Quyết định số 1614/QĐ-TCT",
+      "D.Quyết định số 1296/QĐ-TCT"
+    ],
+    "answer": "B.Quyết định số 1161/QĐ-CT"
+  },
+  {
+    "question": "Câu 2Câu 2: Quyết định số 1161/QĐ-CT chính thức có hiệu lực thi hành từ ngày nào?",
+    "options": [
+      "A.Ngày 01/01/2026",
+      "B.Ngày 01/07/2026",
+      "C.Ngày 14/08/2026",
+      "D.Ngày 31/12/2026"
+    ],
+    "answer": "C.Ngày 14/08/2026"
+  },
+  {
+    "question": "Câu 3Câu 3: Quyết định 1161/QĐ-CT ban hành thay thế cho văn bản quy trình kiểm tra thuế nào trước đó?",
+    "options": [
+      "A.Quyết định số 970/QĐ-TCT ngày 14/07/2023",
+      "B.Quyết định số 1614/QĐ-TCT ngày 13/10/2020",
+      "C.Quyết định số 1296/QĐ-TCT ngày 13/08/2018",
+      "D.Thông tư số 80/2021/TT-BTC"
+    ],
+    "answer": "A.Quyết định số 970/QĐ-TCT ngày 14/07/2023"
+  },
+  {
+    "question": "Câu 4Câu 4: Khung pháp lý cao nhất trực tiếp làm căn cứ ban hành Quyết định 1161/QĐ-CT có hiệu lực từ ngày 01/07/2026 là văn bản nào?",
+    "options": [
+      "A.Luật Quản lý thuế số 38/2019/QH14",
+      "B.Luật Quản lý thuế số 108/2025/QH15",
+      "C.Luật Thuế Giá trị gia tăng số 13/2008/QH12",
+      "D.Luật Thanh tra số 11/2022/QH15"
+    ],
+    "answer": "B.Luật Quản lý thuế số 108/2025/QH15"
+  },
+  {
+    "question": "Câu 5Câu 5: Nghị định nào của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế làm căn cứ cho Quy trình 1161?",
+    "options": [
+      "A.Nghị định số 126/2020/NĐ-CP",
+      "B.Nghị định số 123/2020/NĐ-CP",
+      "C.Nghị định số 252/2026/NĐ-CP",
+      "D.Nghị định số 15/2022/NĐ-CP"
+    ],
+    "answer": "C.Nghị định số 252/2026/NĐ-CP"
+  },
+  {
+    "question": "Câu 6Câu 6: Thông tư nào của Bộ Tài chính hướng dẫn chi tiết về công tác kiểm tra thuế trực tiếp làm căn cứ cho Quyết định 1161?",
+    "options": [
+      "A.Thông tư số 80/2021/TT-BTC",
+      "B.Thông tư số 89/2026/TT-BTC",
+      "C.Thông tư số 94/2026/TT-BTC",
+      "D.Thông tư số 78/2021/TT-BTC"
+    ],
+    "answer": "B.Thông tư số 89/2026/TT-BTC"
+  },
+  {
+    "question": "Câu 7Câu 7: Thông tư nào của Bộ Tài chính quy định về quản lý tuân thủ và áp dụng quản lý rủi ro trong quản lý thuế?",
+    "options": [
+      "A.Thông tư số 89/2026/TT-BTC",
+      "B.Thông tư số 94/2026/TT-BTC",
+      "C.Thông tư số 31/2021/TT-BTC",
+      "D.Thông tư số 105/2020/TT-BTC"
+    ],
+    "answer": "B.Thông tư số 94/2026/TT-BTC"
+  },
+  {
+    "question": "Câu 8Câu 8: Điểm khác biệt căn bản về mặt cấu trúc giữa Quy trình 1161 và Quy trình 970 cũ là gì?",
+    "options": [
+      "A.Quy trình 1161 phân tách riêng từng phần tác nghiệp cho Tổ chức, Hộ kinh doanh và Cá nhân",
+      "B.Quy trình 1161 chỉ áp dụng cho doanh nghiệp FDI",
+      "C.Quy trình 1161 bỏ hình thức kiểm tra tại trụ sở cơ quan thuế",
+      "D.Quy trình 1161 không quy định mẫu biểu kiểm tra"
+    ],
+    "answer": "A.Quy trình 1161 phân tách riêng từng phần tác nghiệp cho Tổ chức, Hộ kinh doanh và Cá nhân"
+  },
+  {
+    "question": "Câu 9Câu 9: Theo Quy trình 1161, ký hiệu đuôi của các mẫu biểu áp dụng cho Tổ chức (Doanh nghiệp) là gì?",
+    "options": [
+      "A.-HKD,CNKD",
+      "B.-TC",
+      "C.-CN",
+      "D.-MC"
+    ],
+    "answer": "B.-TC"
+  },
+  {
+    "question": "Câu 10Câu 10: Ký hiệu đuôi nào được sử dụng cho các mẫu biểu dùng chung cho mọi đối tượng theo Quy trình 1161?",
+    "options": [
+      "A.-MC",
+      "B.-TC",
+      "C.-DC",
+      "D.-KT"
+    ],
+    "answer": "A.-MC"
+  },
+  {
+    "question": "Câu 11Câu 11: Tổng số mẫu biểu chuyên biệt và dùng chung được ban hành kèm theo Quyết định 1161 là bao nhiêu mẫu?",
+    "options": [
+      "A.17 mẫu biểu",
+      "B.25 mẫu biểu",
+      "C.34 mẫu biểu",
+      "D.50 mẫu biểu"
+    ],
+    "answer": "C.34 mẫu biểu"
+  },
+  {
+    "question": "Câu 12Câu 12: Mục đích cốt lõi của công tác kiểm tra thuế theo Quy trình 1161 là gì?",
+    "options": [
+      "A.Đánh giá tính đầy đủ, chính xác của hồ sơ thuế và sự tuân thủ pháp luật của người nộp thuế",
+      "B.Tăng thu ngân sách nhà nước bằng mọi giá",
+      "C.Hình sự hóa các sai sót kế toán của doanh nghiệp",
+      "D.Thay thế hoàn toàn hoạt động thanh tra tài chính"
+    ],
+    "answer": "A.Đánh giá tính đầy đủ, chính xác của hồ sơ thuế và sự tuân thủ pháp luật của người nộp thuế"
+  },
+  {
+    "question": "Câu 13Câu 13: Nguyên tắc quản lý nào bắt buộc phải áp dụng xuyên suốt trong công tác kiểm tra thuế theo Luật 108 và QĐ 1161?",
+    "options": [
+      "A.Quản lý ngẫu nhiên 100%",
+      "B.Áp dụng quản lý rủi ro và ứng dụng công nghệ thông tin",
+      "C.Kiểm tra theo chu kỳ cố định 3 năm/lần",
+      "D.Kiểm tra theo yêu cầu của báo chí"
+    ],
+    "answer": "B.Áp dụng quản lý rủi ro và ứng dụng công nghệ thông tin"
+  },
+  {
+    "question": "Câu 14Câu 14: Trường hợp cuộc kiểm tra có quyết định kiểm tra ban hành TRƯỚC ngày 01/07/2026 nhưng đến ngày 14/08/2026 chưa kết thúc thì áp dụng văn bản nào?",
+    "options": [
+      "A.Áp dụng hoàn toàn theo Quy trình 1161",
+      "B.Tiếp tục thực hiện theo Luật Quản lý thuế số 38/2019/QH14 và Quy trình 970/QĐ-TCT",
+      "C.Bị hủy bỏ cuộc kiểm tra",
+      "D.Chuyển sang cơ quan công an xử lý"
+    ],
+    "answer": "B.Tiếp tục thực hiện theo Luật Quản lý thuế số 38/2019/QH14 và Quy trình 970/QĐ-TCT"
+  },
+  {
+    "question": "Câu 15Câu 15: Các quyết định kiểm tra thuế ban hành từ ngày 14/08/2026 trở đi thực hiện theo quy trình nào?",
+    "options": [
+      "A.Áp dụng hoàn toàn theo Quy trình 1161/QĐ-CT",
+      "B.Áp dụng song song QĐ 970 và QĐ 1161",
+      "C.Áp dụng theo QĐ 1614/QĐ-TCT",
+      "D.Tùy Trưởng đoàn lựa chọn"
+    ],
+    "answer": "A.Áp dụng hoàn toàn theo Quy trình 1161/QĐ-CT"
+  },
+  {
+    "question": "Câu 16Câu 16: Đơn vị nào chịu trách nhiệm chỉ đạo, tổ chức thực hiện Quy trình 1161 trong toàn ngành thuế?",
+    "options": [
+      "A.Bộ Tài chính",
+      "B.Cục Thuế / Tổng cục Thuế",
+      "C.Thanh tra Chính phủ",
+      "D.Ủy ban nhân dân cấp tỉnh"
+    ],
+    "answer": "B.Cục Thuế / Tổng cục Thuế"
+  },
+  {
+    "question": "Câu 17Câu 17: Nguồn dữ liệu đầu vào quan trọng nhất để ứng dụng phân tích rủi ro kiểm tra thuế hiện nay là gì?",
+    "options": [
+      "A.Báo cáo giấy do doanh nghiệp nộp",
+      "B.Dữ liệu Hóa đơn điện tử và Hệ thống quản lý thuế tập trung (TMS)",
+      "C.Tin đồn trên mạng xã hội",
+      "D.Sổ kế toán viết tay"
+    ],
+    "answer": "B.Dữ liệu Hóa đơn điện tử và Hệ thống quản lý thuế tập trung (TMS)"
+  },
+  {
+    "question": "Câu 18Câu 18: Tỷ lệ lựa chọn người nộp thuế vào Kế hoạch kiểm tra tại trụ sở NNT hàng năm dựa trên phân tích rủi ro tối thiểu là bao nhiêu?",
+    "options": [
+      "A.Không dưới 50%",
+      "B.Không dưới 70%",
+      "C.Không dưới 90%",
+      "D.1"
+    ],
+    "answer": "C.Không dưới 90%"
+  },
+  {
+    "question": "Câu 19Câu 19: Thời gian công khai Kế hoạch kiểm tra thuế hàng năm sau khi được phê duyệt là khi nào?",
+    "options": [
+      "A.Trong thời hạn 05 ngày làm việc",
+      "B.Trong thời hạn 10 ngày làm việc",
+      "C.Trong thời hạn 30 ngày",
+      "D.Không được công khai"
+    ],
+    "answer": "A.Trong thời hạn 05 ngày làm việc"
+  },
+  {
+    "question": "Câu 20Câu 20: Thẩm quyền phê duyệt Kế hoạch kiểm tra thuế hàng năm thuộc về ai?",
+    "options": [
+      "A.Bộ trưởng Bộ Tài chính",
+      "B.Thủ trưởng Cơ quan Thuế ban hành quyết định (Cục trưởng/Chi cục trưởng)",
+      "C.Chủ tịch UBND tỉnh",
+      "D.Trưởng phòng Kiểm tra thuế"
+    ],
+    "answer": "B.Thủ trưởng Cơ quan Thuế ban hành quyết định (Cục trưởng/Chi cục trưởng)"
+  },
+  {
+    "question": "Câu 21Câu 21: Kiểm tra tại trụ sở cơ quan thuế là phương thức kiểm tra được thực hiện như thế nào?",
+    "options": [
+      "A.Công chức thuế trực tiếp đến văn phòng doanh nghiệp kiểm tra",
+      "B.Công chức thuế rà soát, khai thác dữ liệu hồ sơ thuế trên hệ thống công nghệ thông tin tại bàn làm việc",
+      "C.Thu thuê đơn vị kiểm toán độc lập làm thay",
+      "D.Mời người dân đến cơ quan thuế chứng kiến"
+    ],
+    "answer": "B.Công chức thuế rà soát, khai thác dữ liệu hồ sơ thuế trên hệ thống công nghệ thông tin tại bàn làm việc"
+  },
+  {
+    "question": "Câu 22Câu 22: Nhân sự tối thiểu để phân công kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế đối với 01 người nộp thuế là bao nhiêu?",
+    "options": [
+      "A.01 công chức",
+      "B.Tối thiểu 02 công chức / 01 Tổ kiểm tra",
+      "C.05 công chức",
+      "D.Không quy định số lượng"
+    ],
+    "answer": "B.Tối thiểu 02 công chức / 01 Tổ kiểm tra"
+  },
+  {
+    "question": "Câu 23Câu 23: Khi kiểm tra hồ sơ thuế tại cơ quan thuế phát hiện có rủi ro/sai sót, cơ quan thuế ban hành văn bản nào đầu tiên gửi NNT?",
+    "options": [
+      "A.Quyết định xử phạt vi phạm hành chính",
+      "B.Thông báo yêu cầu giải trình, bổ sung thông tin tài liệu (Thông báo lần 1)",
+      "C.Quyết định cưỡng chế tài khoản",
+      "D.Lệnh khởi tố vụ án"
+    ],
+    "answer": "B.Thông báo yêu cầu giải trình, bổ sung thông tin tài liệu (Thông báo lần 1)"
+  },
+  {
+    "question": "Câu 24Câu 24: Thời hạn để người nộp thuế thực hiện giải trình hoặc bổ sung tài liệu theo Thông báo của cơ quan thuế là bao nhiêu ngày?",
+    "options": [
+      "A.05 ngày làm việc",
+      "B.Không quá 10 ngày làm việc kể từ ngày nhận thông báo",
+      "C.20 ngày",
+      "D.30 ngày"
+    ],
+    "answer": "B.Không quá 10 ngày làm việc kể từ ngày nhận thông báo"
+  },
+  {
+    "question": "Câu 25Câu 25: Cơ quan thuế được phép gửi Thông báo yêu cầu giải trình, bổ sung hồ sơ tối đa bao nhiêu lần đối với 01 cuộc kiểm tra tại bàn?",
+    "options": [
+      "A.01 lần",
+      "B.Không quá 02 lần (Thông báo lần 1 và Thông báo lần 2)",
+      "C.05 lần",
+      "D.Không giới hạn số lần"
+    ],
+    "answer": "B.Không quá 02 lần (Thông báo lần 1 và Thông báo lần 2)"
+  },
+  {
+    "question": "Câu 26Câu 26: Nếu NNT giải trình đúng, chứng minh được số thuế đã khai là hợp pháp thì xử lý thế nào?",
+    "options": [
+      "A.Phạt hành chính về lỗi khai chậm",
+      "B.Hồ sơ được chấp nhận và phê duyệt lưu",
+      "C.Vẫn ban hành quyết định kiểm tra tại doanh nghiệp",
+      "D.Yêu cầu nộp tiền phạt vi phạm"
+    ],
+    "answer": "B.Hồ sơ được chấp nhận và phê duyệt lưu"
+  },
+  {
+    "question": "Câu 27Câu 27: Điểm MỚI ĐỘT PHÁ của Quy trình 1161 tại khâu kiểm tra ở cơ quan thuế là gì?",
+    "options": [
+      "A.Cho phép ban hành 'Quyết định kiểm tra tại trụ sở cơ quan thuế' khi có đủ căn cứ vi phạm rõ ràng",
+      "B.Bỏ hẳn khâu yêu cầu giải trình",
+      "C.Bắt buộc doanh nghiệp nộp bản chính sổ sách",
+      "D.Không cho phép gửi thông báo điện tử"
+    ],
+    "answer": "A.Cho phép ban hành 'Quyết định kiểm tra tại trụ sở cơ quan thuế' khi có đủ căn cứ vi phạm rõ ràng"
+  },
+  {
+    "question": "Câu 28Câu 28: Mẫu biểu nào được sử dụng để ban hành Quyết định kiểm tra tại trụ sở cơ quan thuế theo Quy trình 1161?",
+    "options": [
+      "A.Mẫu số 06/KTT",
+      "B.Mẫu số 04/KTT",
+      "C.Mẫu số 11/QTKT-TC",
+      "D.Mẫu số 01/QTKT-MC"
+    ],
+    "answer": "B.Mẫu số 04/KTT"
+  },
+  {
+    "question": "Câu 29Câu 29: Thời hạn kiểm tra tại trụ sở cơ quan thuế kể từ ngày ban hành Quyết định kiểm tra tại cơ quan thuế là bao lâu?",
+    "options": [
+      "A.Không quá 05 ngày làm việc",
+      "B.Không quá 10 ngày làm việc",
+      "C.Không quá 20 ngày làm việc",
+      "D.Không quá 40 ngày"
+    ],
+    "answer": "B.Không quá 10 ngày làm việc"
+  },
+  {
+    "question": "Câu 30Câu 30: Kết thúc cuộc kiểm tra theo Quyết định kiểm tra tại cơ quan thuế, hai bên lập và ký văn bản nào?",
+    "options": [
+      "A.Biên bản kiểm tra tại trụ sở cơ quan thuế (Mẫu số 05/KTT)",
+      "B.Kết luận thanh tra",
+      "C.Biên bản vi phạm giao thông",
+      "D.Phiếu thu tiền mặt"
+    ],
+    "answer": "A.Biên bản kiểm tra tại trụ sở cơ quan thuế (Mẫu số 05/KTT)"
+  },
+  {
+    "question": "Câu 31Câu 31: Sau khi hết hạn Thông báo lần 2 mà NNT không giải trình và không bổ sung hồ sơ, cơ quan thuế xử lý thế nào nếu có đủ căn cứ?",
+    "options": [
+      "A.Thực hiện ấn định số thuế phải nộp theo quy định",
+      "B.Bỏ qua không xử lý nữa",
+      "C.Thu hồi giấy phép đăng ký kinh doanh ngay lập tức",
+      "D.Phạt tù người đại diện pháp luật"
+    ],
+    "answer": "A.Thực hiện ấn định số thuế phải nộp theo quy định"
+  },
+  {
+    "question": "Câu 32Câu 32: Trường hợp không đủ căn cứ ấn định thuế tại bàn sau 02 lần thông báo giải trình, cơ quan thuế xử lý ra sao?",
+    "options": [
+      "A.Ban hành Quyết định kiểm tra tại trụ sở của NNT hoặc đưa vào diện rủi ro cao để lập kế hoạch kiểm tra",
+      "B.Bị đóng mã số thuế ngay",
+      "C.Khởi kiện ra tòa án",
+      "D.Xóa nợ thuế"
+    ],
+    "answer": "A.Ban hành Quyết định kiểm tra tại trụ sở của NNT hoặc đưa vào diện rủi ro cao để lập kế hoạch kiểm tra"
+  },
+  {
+    "question": "Câu 33Câu 33: Văn bản nào được lập sau khi công chức thuế kết thúc việc rà soát làm việc nội bộ về nội dung giải trình của NNT ở khâu rà sơ bộ?",
+    "options": [
+      "A.Phiếu nhận xét hồ sơ thuế hoặc Biên bản làm việc (Mẫu số 03/KTT)",
+      "B.Quyết định xử phạt",
+      "C.Lệnh cưỡng chế",
+      "D.Hóa đơn GTGT"
+    ],
+    "answer": "A.Phiếu nhận xét hồ sơ thuế hoặc Biên bản làm việc (Mẫu số 03/KTT)"
+  },
+  {
+    "question": "Câu 34Câu 34: Biên bản làm việc theo Mẫu số 03/KTT được lập nhằm mục đích gì trong kiểm tra tại cơ quan thuế?",
+    "options": [
+      "A.Ghi nhận kết quả làm việc, giải trình và đối chiếu số liệu giữa công chức thuế và NNT tại cơ quan thuế",
+      "B.Xử phạt nộp chậm tiền thuế",
+      "C.Tạm đình chỉ hoạt động doanh nghiệp",
+      "D.Ủy quyền ký thay"
+    ],
+    "answer": "A.Ghi nhận kết quả làm việc, giải trình và đối chiếu số liệu giữa công chức thuế và NNT tại cơ quan thuế"
+  },
+  {
+    "question": "Câu 35Câu 35: Phương thức gửi Thông báo giải trình hồ sơ thuế từ cơ quan thuế đến NNT được ưu tiên thực hiện qua kênh nào?",
+    "options": [
+      "A.Gửi qua đường bưu điện thư bảo đảm",
+      "B.Phương thức giao dịch điện tử (Cổng thông tin điện tử của Tổng cục Thuế)",
+      "C.Gửi tin nhắn SMS cá nhân",
+      "D.Đăng tải trên mạng xã hội"
+    ],
+    "answer": "B.Phương thức giao dịch điện tử (Cổng thông tin điện tử của Tổng cục Thuế)"
+  },
+  {
+    "question": "Câu 36Câu 36: Văn bản nào ghi nhận việc chuyển hồ sơ từ khâu kiểm tra tại cơ quan thuế sang kiểm tra tại trụ sở NNT?",
+    "options": [
+      "A.Phiếu chuyển giao thông tin, hồ sơ (Mẫu số 04/QTKT-TC)",
+      "B.Quyết định xử phạt",
+      "C.Tờ khai quyết toán thuế",
+      "D.Giấy giới thiệu"
+    ],
+    "answer": "A.Phiếu chuyển giao thông tin, hồ sơ (Mẫu số 04/QTKT-TC)"
+  },
+  {
+    "question": "Câu 37Câu 37: Nguyên tắc 'Kế thừa kết quả' khi chuyển hồ sơ sang kiểm tra tại trụ sở NNT được hiểu là gì?",
+    "options": [
+      "A.Đoàn kiểm tra thực địa bắt buộc sử dụng kết quả, số liệu đã làm rõ ở khâu trước, không yêu cầu NNT giải trình lại từ đầu",
+      "B.Bắt buộc kiểm tra lại toàn bộ từ đầu",
+      "C.Bỏ qua các số liệu có nghi vấn",
+      "D.Không cho NNT giải trình thêm"
+    ],
+    "answer": "A.Đoàn kiểm tra thực địa bắt buộc sử dụng kết quả, số liệu đã làm rõ ở khâu trước, không yêu cầu NNT giải trình lại từ đầu"
+  },
+  {
+    "question": "Câu 38Câu 38: Trường hợp NNT bổ sung hồ sơ khai thuế trong thời hạn giải trình thì số thuế khai bổ sung được xử lý thế nào?",
+    "options": [
+      "A.Được ghi nhận để tính lại nghĩa vụ thuế và tính tiền chậm nộp (nếu có) theo quy định",
+      "B.Không được chấp nhận",
+      "C.Bị phạt vi phạm 100% số thuế bổ sung",
+      "D.Phải nộp tiền gấp 2 lần"
+    ],
+    "answer": "A.Được ghi nhận để tính lại nghĩa vụ thuế và tính tiền chậm nộp (nếu có) theo quy định"
+  },
+  {
+    "question": "Câu 39Câu 39: Công chức thuế thực hiện kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế có chịu trách nhiệm về kết quả kiểm tra không?",
+    "options": [
+      "A.Không chịu trách nhiệm gì",
+      "B.Chịu trách nhiệm về nội dung kiểm tra, nhận xét trong phạm vi thông tin tài liệu NNT đã cung cấp",
+      "C.Chịu trách nhiệm thay cho kế toán doanh nghiệp",
+      "D.Chịu trách nhiệm vô hạn"
+    ],
+    "answer": "B.Chịu trách nhiệm về nội dung kiểm tra, nhận xét trong phạm vi thông tin tài liệu NNT đã cung cấp"
+  },
+  {
+    "question": "Câu 40Câu 40: Trường hợp kết quả kiểm tra tại cơ quan thuế xác định NNT thuộc diện khai sai nhưng không làm giảm số thuế phải nộp thì xử lý ra sao?",
+    "options": [
+      "A.Lập biên bản vi phạm hành chính để xử phạt hành vi khai sai thủ tục theo quy định",
+      "B.Bỏ qua không xử lý",
+      "C.Chuyển hồ sơ sang công an",
+      "D.Khóa mã số thuế"
+    ],
+    "answer": "A.Lập biên bản vi phạm hành chính để xử phạt hành vi khai sai thủ tục theo quy định"
+  },
+  {
+    "question": "Câu 41Câu 41: Trường hợp rà soát hóa đơn điện tử phát hiện doanh nghiệp bán hàng bỏ trốn (F0), cơ quan thuế xử lý thế nào ở khâu rà soát tại bàn?",
+    "options": [
+      "A.Gửi thông báo rủi ro hóa đơn yêu cầu NNT (F1) giải trình chứng minh tính thực tế của giao dịch",
+      "B.Truy thu ngay không cần giải trình",
+      "C.Tịch thu toàn bộ hàng hóa",
+      "D.Đóng cửa doanh nghiệp F1"
+    ],
+    "answer": "A.Gửi thông báo rủi ro hóa đơn yêu cầu NNT (F1) giải trình chứng minh tính thực tế của giao dịch"
+  },
+  {
+    "question": "Câu 42Câu 42: Nếu NNT chứng minh được giao dịch mua hàng với doanh nghiệp bỏ trốn là có thật và đầy đủ chứng từ thanh toán ngân hàng thì xử lý ra sao?",
+    "options": [
+      "A.Chấp nhận chi phí và thuế GTGT khấu trừ theo quy định pháp luật",
+      "B.Vẫn xử phạt vi phạm trốn thuế",
+      "C.Tịch thu hóa đơn",
+      "D.Phạt tiền 50%"
+    ],
+    "answer": "A.Chấp nhận chi phí và thuế GTGT khấu trừ theo quy định pháp luật"
+  },
+  {
+    "question": "Câu 43Câu 43: Ứng dụng công nghệ thông tin nào hỗ trợ tự động cảnh báo chênh lệch hóa đơn và tờ khai thuế tại cơ quan thuế?",
+    "options": [
+      "A.Phân hệ kiểm tra hóa đơn và Hệ thống quản lý thuế tập trung (TMS/TPR)",
+      "B.Phần mềm Word/Excel đơn thuần",
+      "C.Phần mềm Photoshop",
+      "D.Hệ thống hải quan tự động VNACCS"
+    ],
+    "answer": "A.Phân hệ kiểm tra hóa đơn và Hệ thống quản lý thuế tập trung (TMS/TPR)"
+  },
+  {
+    "question": "Câu 44Câu 44: Ai là người có thẩm quyền ký Thông báo yêu cầu giải trình hồ sơ thuế tại trụ sở cơ quan thuế?",
+    "options": [
+      "A.Công chức trực tiếp kiểm tra",
+      "B.Thủ trưởng Cơ quan thuế hoặc Trưởng phòng/Đội trưởng được phân công/ủy quyền",
+      "C.Nhân viên bảo vệ cơ quan thuế",
+      "D.Giám đốc doanh nghiệp"
+    ],
+    "answer": "B.Thủ trưởng Cơ quan thuế hoặc Trưởng phòng/Đội trưởng được phân công/ủy quyền"
+  },
+  {
+    "question": "Câu 45Câu 45: Thời hạn lưu trữ hồ sơ rà soát tại trụ sở cơ quan thuế đối với trường hợp không phát hiện rủi ro là bao lâu?",
+    "options": [
+      "A.Lưu trữ theo quy định về quản lý hồ sơ tài liệu của ngành thuế",
+      "B.Hủy ngay sau 1 tháng",
+      "C.Không cần lưu",
+      "D.Trả lại toàn bộ cho NNT"
+    ],
+    "answer": "A.Lưu trữ theo quy định về quản lý hồ sơ tài liệu của ngành thuế"
+  },
+  {
+    "question": "Câu 46Câu 46: Mẫu biểu nào được sử dụng để ban hành Quyết định kiểm tra thuế tại trụ sở người nộp thuế (đối với Tổ chức)?",
+    "options": [
+      "A.Mẫu số 06/KTT",
+      "B.Mẫu số 04/KTT",
+      "C.Mẫu số 14/KTT",
+      "D.Mẫu số 01/QTKT-MC"
+    ],
+    "answer": "A.Mẫu số 06/KTT"
+  },
+  {
+    "question": "Câu 47Câu 47: Quyết định kiểm tra thuế tại trụ sở NNT phải được gửi cho NNT trong thời hạn bao lâu kể từ ngày ban hành?",
+    "options": [
+      "A.Chậm nhất 03 ngày làm việc",
+      "B.Chậm nhất 05 ngày làm việc",
+      "C.Chậm nhất 10 ngày",
+      "D.Gửi ngay trong ngày công bố"
+    ],
+    "answer": "A.Chậm nhất 03 ngày làm việc"
+  },
+  {
+    "question": "Câu 48Câu 48: Thời hạn phải tiến hành công bố Quyết định kiểm tra thuế tại trụ sở NNT kể từ ngày ban hành Quyết định là bao lâu?",
+    "options": [
+      "A.Không quá 05 ngày làm việc",
+      "B.Không quá 10 ngày làm việc (trừ trường hợp bãi bỏ hoặc hoãn)",
+      "C.20 ngày",
+      "D.30 ngày"
+    ],
+    "answer": "B.Không quá 10 ngày làm việc (trừ trường hợp bãi bỏ hoặc hoãn)"
+  },
+  {
+    "question": "Câu 49Câu 49: Thời hạn kiểm tra thực tế tại trụ sở NNT đối với 01 cuộc kiểm tra thông thường (theo Luật 108) là bao lâu?",
+    "options": [
+      "A.Không quá 05 ngày làm việc",
+      "B.Không quá 10 ngày làm việc",
+      "C.Không quá 20 ngày làm việc",
+      "D.Không quá 40 ngày làm việc"
+    ],
+    "answer": "C.Không quá 20 ngày làm việc"
+  },
+  {
+    "question": "Câu 50Câu 50: Trường hợp phức tạp, thời hạn kiểm tra tại trụ sở NNT được gia hạn tối đa bao nhiêu lần và thời gian gia hạn là bao lâu?",
+    "options": [
+      "A.Gia hạn 01 lần, không quá 10 ngày làm việc",
+      "B.Gia hạn 01 lần, không quá 20 ngày làm việc",
+      "C.Gia hạn 02 lần, mỗi lần 20 ngày",
+      "D.Không được gia hạn"
+    ],
+    "answer": "B.Gia hạn 01 lần, không quá 20 ngày làm việc"
+  },
+  {
+    "question": "Câu 51Câu 51: Đối với doanh nghiệp có phát sinh GIAO DỊCH LIÊN KẾT, thời hạn kiểm tra tại trụ sở NNT tối đa là bao lâu?",
+    "options": [
+      "A.Không quá 20 ngày",
+      "B.Không quá 40 ngày làm việc (và gia hạn 1 lần không quá 40 ngày làm việc)",
+      "C.1 năm",
+      "D.2 năm"
+    ],
+    "answer": "B.Không quá 40 ngày làm việc (và gia hạn 1 lần không quá 40 ngày làm việc)"
+  },
+  {
+    "question": "Câu 52Câu 52: Trường hợp kiểm tra cần xác minh thông tin từ cơ quan quản lý thuế nước ngoài thì thời gian kiểm tra tối đa là bao lâu?",
+    "options": [
+      "A.Không quá 6 tháng",
+      "B.Không quá 01 năm",
+      "C.Không quá 02 năm",
+      "D.Không giới hạn"
+    ],
+    "answer": "C.Không quá 02 năm"
+  },
+  {
+    "question": "Câu 53Câu 53: Thẩm quyền ban hành Quyết định kiểm tra thuế tại trụ sở người nộp thuế thuộc về ai?",
+    "options": [
+      "A.Thủ trưởng cơ quan thuế (Cục trưởng Cục Thuế, Chi cục trưởng Chi cục Thuế)",
+      "B.Trưởng đoàn kiểm tra",
+      "C.Công chức kiểm tra",
+      "D.Bộ trưởng Bộ Tài chính"
+    ],
+    "answer": "A.Thủ trưởng cơ quan thuế (Cục trưởng Cục Thuế, Chi cục trưởng Chi cục Thuế)"
+  },
+  {
+    "question": "Câu 54Câu 54: Trường hợp NNT có lý do chính đáng xin hoãn thời gian kiểm tra thì phải gửi văn bản đề nghị cho cơ quan thuế khi nào?",
+    "options": [
+      "A.Trước khi công bố quyết định kiểm tra",
+      "B.Sau khi đã ký biên bản kiểm tra",
+      "C.Bất kỳ lúc nào",
+      "D.Khi đã ra quyết định xử phạt"
+    ],
+    "answer": "A.Trước khi công bố quyết định kiểm tra"
+  },
+  {
+    "question": "Câu 55Câu 55: Thời gian hoãn kiểm tra theo đề nghị của NNT được xem xét tối đa là bao lâu?",
+    "options": [
+      "A.01 tháng",
+      "B.03 tháng",
+      "C.Không quá 01 lần (thời gian hoãn do Thủ trưởng cơ quan thuế quyết định căn cứ lý do)",
+      "D.1 năm"
+    ],
+    "answer": "C.Không quá 01 lần (thời gian hoãn do Thủ trưởng cơ quan thuế quyết định căn cứ lý do)"
+  },
+  {
+    "question": "Câu 56Câu 56: Khi bắt đầu làm việc tại trụ sở NNT, Trưởng đoàn kiểm tra phải thực hiện thủ tục pháp lý nào đầu tiên?",
+    "options": [
+      "A.Công bố Quyết định kiểm tra thuế và lập Biên bản công bố quyết định",
+      "B.Thu giữ ngay ổ cứng máy tính",
+      "C.Lập biên bản vi phạm hành chính",
+      "D.Đòi tiền bồi dưỡng"
+    ],
+    "answer": "A.Công bố Quyết định kiểm tra thuế và lập Biên bản công bố quyết định"
+  },
+  {
+    "question": "Câu 57Câu 57: Trường hợp người nộp thuế không chấp hành Quyết định kiểm tra thuế thì xử lý thế nào?",
+    "options": [
+      "A.Lập biên bản vi phạm hành chính về hành vi không chấp hành và thực hiện ấn định thuế hoặc chuyển kiểm tra đột xuất/thanh tra",
+      "B.Bỏ về không làm nữa",
+      "C.Khóa cửa doanh nghiệp",
+      "D.Phạt tiền Trưởng đoàn"
+    ],
+    "answer": "A.Lập biên bản vi phạm hành chính về hành vi không chấp hành và thực hiện ấn định thuế hoặc chuyển kiểm tra đột xuất/thanh tra"
+  },
+  {
+    "question": "Câu 58Câu 58: Trong quá trình kiểm tra, NNT có trách nhiệm cung cấp hồ sơ tài liệu liên quan đến nội dung kiểm tra trong thời hạn bao lâu kể từ khi nhận được yêu cầu?",
+    "options": [
+      "A.Chậm nhất trong 06 giờ làm việc (hoặc theo thời hạn ghi trong phiếu yêu cầu)",
+      "B.03 ngày",
+      "C.05 ngày",
+      "D.10 ngày"
+    ],
+    "answer": "A.Chậm nhất trong 06 giờ làm việc (hoặc theo thời hạn ghi trong phiếu yêu cầu)"
+  },
+  {
+    "question": "Câu 59Câu 59: Thành viên Đoàn kiểm tra khi kết thúc phần việc được giao bắt buộc phải lập văn bản nào với đại diện NNT?",
+    "options": [
+      "A.Biên bản xác nhận số liệu kiểm tra thuế (Mẫu số 11/QTKT-TC)",
+      "B.Quyết định xử phạt",
+      "C.Hóa đơn tài chính",
+      "D.Giấy nhận tiền"
+    ],
+    "answer": "A.Biên bản xác nhận số liệu kiểm tra thuế (Mẫu số 11/QTKT-TC)"
+  },
+  {
+    "question": "Câu 60Câu 60: Biên bản xác nhận số liệu (Mẫu 11/QTKT-TC) có vai trò gì trong hồ sơ cuộc kiểm tra?",
+    "options": [
+      "A.Là căn cứ kỹ thuật chốt số liệu thô giữa công chức phụ trách phần việc và NNT trước khi tổng hợp Biên bản kiểm tra chung",
+      "B.Có giá trị thay thế Quyết định xử phạt",
+      "C.Dùng để vay vốn ngân hàng",
+      "D.Không có giá trị pháp lý"
+    ],
+    "answer": "A.Là căn cứ kỹ thuật chốt số liệu thô giữa công chức phụ trách phần việc và NNT trước khi tổng hợp Biên bản kiểm tra chung"
+  },
+  {
+    "question": "Câu 61Câu 61: Trước khi ký Biên bản kiểm tra thuế chính thức, Trưởng đoàn kiểm tra phải thực hiện bước thủ tục nào?",
+    "options": [
+      "A.Bàn giao và công khai Dự thảo Biên bản kiểm tra cho NNT (Mẫu số 15/KTT)",
+      "B.Thu hồi biên bản cũ",
+      "C.Đi ăn liên hoan",
+      "D.Báo cáo công an"
+    ],
+    "answer": "A.Bàn giao và công khai Dự thảo Biên bản kiểm tra cho NNT (Mẫu số 15/KTT)"
+  },
+  {
+    "question": "Câu 62Câu 62: Thời hạn để hoàn thiện và ký chính thức BIÊN BẢN KIỂM TRA THUẾ kể từ ngày kết thúc kiểm tra thực tế tại trụ sở NNT là bao lâu?",
+    "options": [
+      "A.Trong thời hạn 05 ngày làm việc",
+      "B.10 ngày làm việc",
+      "C.20 ngày",
+      "D.30 ngày"
+    ],
+    "answer": "A.Trong thời hạn 05 ngày làm việc"
+  },
+  {
+    "question": "Câu 63Câu 63: Mẫu biểu nào được sử dụng để lập Biên bản kiểm tra thuế chính thức đối với Tổ chức?",
+    "options": [
+      "A.Mẫu số 14/KTT",
+      "B.Mẫu số 06/KTT",
+      "C.Mẫu số 04/KTT",
+      "D.Mẫu số 17/KTT"
+    ],
+    "answer": "A.Mẫu số 14/KTT"
+  },
+  {
+    "question": "Câu 64Câu 64: Những ai bắt buộc phải ký vào Biên bản kiểm tra thuế (Mẫu 14/KTT)?",
+    "options": [
+      "A.Trưởng đoàn kiểm tra và Người đại diện theo pháp luật của NNT (hoặc người được ủy quyền hợp pháp)",
+      "B.Chỉ cần Trưởng đoàn ký",
+      "C.Tất cả nhân viên doanh nghiệp",
+      "D.Bảo vệ cơ quan thuế"
+    ],
+    "answer": "A.Trưởng đoàn kiểm tra và Người đại diện theo pháp luật của NNT (hoặc người được ủy quyền hợp pháp)"
+  },
+  {
+    "question": "Câu 65Câu 65: Trường hợp Đại diện người nộp thuế cố tình KHÔNG KÝ Biên bản kiểm tra thuế thì xử lý ra sao?",
+    "options": [
+      "A.Trưởng đoàn lập biên bản vi phạm hành chính về việc không ký biên bản, ghi rõ lý do và báo cáo Thủ trưởng ra Quyết định xử lý theo quy định",
+      "B.Biên bản bị vô hiệu hóa",
+      "C.Hủy bỏ toàn bộ kết quả kiểm tra",
+      "D.Thả cho doanh nghiệp về"
+    ],
+    "answer": "A.Trưởng đoàn lập biên bản vi phạm hành chính về việc không ký biên bản, ghi rõ lý do và báo cáo Thủ trưởng ra Quyết định xử lý theo quy định"
+  },
+  {
+    "question": "Câu 66Câu 66: Trường hợp cuộc kiểm tra có nội dung vướng mắc về cơ chế chính sách cần xin ý kiến cấp trên thì lập thêm văn bản nào kèm Biên bản kiểm tra?",
+    "options": [
+      "A.Phụ lục Biên bản kiểm tra thuế (Mẫu số 16/KTT)",
+      "B.Tờ trình khởi tố",
+      "C.Biên bản tịch thu tài sản",
+      "D.Giấy hẹn lần sau"
+    ],
+    "answer": "A.Phụ lục Biên bản kiểm tra thuế (Mẫu số 16/KTT)"
+  },
+  {
+    "question": "Câu 67Câu 67: Trong thời hạn bao lâu kể từ ngày ký Biên bản kiểm tra thuế, Trưởng đoàn phải báo cáo kết quả kiểm tra lên Thủ trưởng cơ quan thuế?",
+    "options": [
+      "A.Chậm nhất 03 ngày làm việc",
+      "B.Chậm nhất 05 ngày làm việc",
+      "C.10 ngày",
+      "D.15 ngày"
+    ],
+    "answer": "A.Chậm nhất 03 ngày làm việc"
+  },
+  {
+    "question": "Câu 68Câu 68: Trường hợp cuộc kiểm tra phát hiện sai phạm dẫn đến truy thu, xử phạt thì Thủ trưởng cơ quan thuế ban hành văn bản nào?",
+    "options": [
+      "A.Quyết định xử phạt vi phạm hành chính về thuế (Mẫu MQĐ02)",
+      "B.Kết luận kiểm tra thuế",
+      "C.Thông báo biểu dương",
+      "D.Thư mời tài trợ"
+    ],
+    "answer": "A.Quyết định xử phạt vi phạm hành chính về thuế (Mẫu MQĐ02)"
+  },
+  {
+    "question": "Câu 69Câu 69: Thời hạn ban hành Quyết định xử phạt vi phạm hành chính về thuế kể từ ngày ký Biên bản kiểm tra thuế là bao lâu?",
+    "options": [
+      "A.Trong thời hạn 07 ngày làm việc (trường hợp phức tạp có thể kéo dài theo Luật xử lý VPHC)",
+      "B.30 ngày",
+      "C.60 ngày",
+      "D.90 ngày"
+    ],
+    "answer": "A.Trong thời hạn 07 ngày làm việc (trường hợp phức tạp có thể kéo dài theo Luật xử lý VPHC)"
+  },
+  {
+    "question": "Câu 70Câu 70: Trường hợp cuộc kiểm tra KHÔNG CÓ sai phạm hoặc không phải xử phạt vi phạm hành chính thì Thủ trưởng cơ quan thuế ban hành văn bản nào?",
+    "options": [
+      "A.Kết luận kiểm tra thuế (Mẫu số 17/KTT)",
+      "B.Quyết định xử phạt 0 đồng",
+      "C.Biên bản tịch thu",
+      "D.Lệnh niêm phong"
+    ],
+    "answer": "A.Kết luận kiểm tra thuế (Mẫu số 17/KTT)"
+  },
+  {
+    "question": "Câu 71Câu 71: Thời hạn ban hành Kết luận kiểm tra thuế kể từ ngày ký Biên bản kiểm tra là bao lâu?",
+    "options": [
+      "A.Trong thời hạn 07 ngày làm việc",
+      "B.15 ngày",
+      "C.30 ngày",
+      "D.45 ngày"
+    ],
+    "answer": "A.Trong thời hạn 07 ngày làm việc"
+  },
+  {
+    "question": "Câu 72Câu 72: Doanh nghiệp giải thể, phá sản có số thuế GTGT chưa khấu trừ hết thuộc diện kiểm tra thực địa thì hồ sơ hoàn thuế nộp thừa được xử lý thế nào?",
+    "options": [
+      "A.Đề xuất hoàn trả được ghi nhận trực tiếp tại Biên bản kiểm tra thuế (Mẫu 14/KTT), không cần nộp hồ sơ hoàn riêng",
+      "B.Phải nộp bộ hồ sơ hoàn thuế mới",
+      "C.Bị hủy bỏ số thuế nộp thừa",
+      "D.Sung công quỹ ngay"
+    ],
+    "answer": "A.Đề xuất hoàn trả được ghi nhận trực tiếp tại Biên bản kiểm tra thuế (Mẫu 14/KTT), không cần nộp hồ sơ hoàn riêng"
+  },
+  {
+    "question": "Câu 73Câu 73: Trường hợp phát hiện sai phạm có dấu hiệu TỘI PHẠM TRỐN THUẾ trong quá trình kiểm tra thì Đoàn kiểm tra xử lý ra sao?",
+    "options": [
+      "A.Trưởng đoàn báo cáo Thủ trưởng cơ quan thuế chuyển hồ sơ sang cơ quan điều tra công an theo quy định",
+      "B.Tự thỏa thuận tiền phạt với doanh nghiệp",
+      "C.Bỏ qua không xử lý",
+      "D.Phạt tiền gấp 10 lần rồi cho qua"
+    ],
+    "answer": "A.Trưởng đoàn báo cáo Thủ trưởng cơ quan thuế chuyển hồ sơ sang cơ quan điều tra công an theo quy định"
+  },
+  {
+    "question": "Câu 74Câu 74: Quyết định thay đổi, bổ sung thành viên Đoàn kiểm tra thuế do ai ban hành?",
+    "options": [
+      "A.Thủ trưởng cơ quan thuế ban hành Quyết định kiểm tra",
+      "B.Trưởng đoàn kiểm tra tự ký",
+      "C.Doanh nghiệp tự chỉ định",
+      "D.Bộ Tài chính"
+    ],
+    "answer": "A.Thủ trưởng cơ quan thuế ban hành Quyết định kiểm tra"
+  },
+  {
+    "question": "Câu 75Câu 75: Trường hợp cần tạm dừng cuộc kiểm tra tại trụ sở NNT thì sử dụng mẫu biểu nào?",
+    "options": [
+      "A.Thông báo tạm dừng kiểm tra tại trụ sở người nộp thuế (Mẫu số 10/QTKT-TC)",
+      "B.Lệnh giải tán",
+      "C.Giấy xin phép",
+      "D.Biên bản hủy quyết định"
+    ],
+    "answer": "A.Thông báo tạm dừng kiểm tra tại trụ sở người nộp thuế (Mẫu số 10/QTKT-TC)"
+  },
+  {
+    "question": "Câu 76Câu 76: Phần quy định riêng về Phương thức kiểm tra trực tuyến, từ xa trên cơ sở dữ liệu điện tử nằm ở phần nào của Quy trình 1161?",
+    "options": [
+      "A.Phần I",
+      "B.Phần II",
+      "C.Phần III",
+      "D.Phần IV"
+    ],
+    "answer": "D.Phần IV"
+  },
+  {
+    "question": "Câu 77Câu 77: Điều kiện cơ bản để áp dụng phương thức kiểm tra điện tử trực tuyến giữa cơ quan thuế và NNT là gì?",
+    "options": [
+      "A.Hệ thống hạ tầng CNTT của cơ quan thuế và NNT đáp ứng điều kiện kết nối, giao dịch điện tử và chữ ký số",
+      "B.NNT phải mua máy tính mới cho cán bộ thuế",
+      "C.Phải có sự đồng ý của Bộ Công an",
+      "D.Chỉ áp dụng cho công ty phần mềm"
+    ],
+    "answer": "A.Hệ thống hạ tầng CNTT của cơ quan thuế và NNT đáp ứng điều kiện kết nối, giao dịch điện tử và chữ ký số"
+  },
+  {
+    "question": "Câu 78Câu 78: Khi gửi các quyết định, thông báo kiểm tra qua phương thức điện tử, văn bản có giá trị pháp lý khi nào?",
+    "options": [
+      "A.Khi văn bản điện tử được ký số hợp pháp và truyền thành công vào Cổng thông tin điện tử / Tài khoản giao dịch thuế của NNT",
+      "B.Khi in ra giấy dán lên tường",
+      "C.Khi gửi qua tin nhắn Zalo cá nhân",
+      "D.Không có giá trị pháp lý"
+    ],
+    "answer": "A.Khi văn bản điện tử được ký số hợp pháp và truyền thành công vào Cổng thông tin điện tử / Tài khoản giao dịch thuế của NNT"
+  },
+  {
+    "question": "Câu 79Câu 79: Mẫu biểu nào dùng để xác nhận NNT đã nhận, hiểu và chấp hành Quyết định kiểm tra theo phương thức giao dịch điện tử?",
+    "options": [
+      "A.Mẫu số 01/QTKT-MC",
+      "B.Mẫu số 02/QTKT-MC",
+      "C.Mẫu số 06/KTT",
+      "D.Mẫu số 11/QTKT-TC"
+    ],
+    "answer": "A.Mẫu số 01/QTKT-MC"
+  },
+  {
+    "question": "Câu 80Câu 80: Mẫu biểu nào dùng để thực hiện công khai dự thảo Biên bản kiểm tra thuế theo phương thức giao dịch điện tử?",
+    "options": [
+      "A.Mẫu số 02/QTKT-MC",
+      "B.Mẫu số 01/QTKT-MC",
+      "C.Mẫu số 15/KTT",
+      "D.Mẫu số 04/KTT"
+    ],
+    "answer": "A.Mẫu số 02/QTKT-MC"
+  },
+  {
+    "question": "Câu 81Câu 81: Quy định về việc cung cấp chứng từ, tài liệu điện tử trong kiểm tra từ xa yêu cầu NNT thực hiện ra sao?",
+    "options": [
+      "A.Kết xuất dữ liệu, hồ sơ số hóa, ký số và gửi qua Cổng thông tin điện tử của cơ quan thuế",
+      "B.Chụp ảnh bằng điện thoại gửi Facebook",
+      "C.Mang ổ cứng USB đến nộp trực tiếp",
+      "D.Gửi qua đường bưu điện"
+    ],
+    "answer": "A.Kết xuất dữ liệu, hồ sơ số hóa, ký số và gửi qua Cổng thông tin điện tử của cơ quan thuế"
+  },
+  {
+    "question": "Câu 82Câu 82: Đối với hồ sơ kiểm tra điện tử, việc ký Biên bản kiểm tra thuế giữa Trưởng đoàn và Đại diện NNT được thực hiện bằng cách nào?",
+    "options": [
+      "A.Ký số hợp pháp trên file văn bản điện tử (.pdf/.docx)",
+      "B.In ra giấy rồi điểm chỉ bằng mực đỏ",
+      "C.Gửi email xác nhận không cần chữ ký",
+      "D.Nhắn tin xác nhận"
+    ],
+    "answer": "A.Ký số hợp pháp trên file văn bản điện tử (.pdf/.docx)"
+  },
+  {
+    "question": "Câu 83Câu 83: Cổng giao tiếp điện tử phục vụ cuộc kiểm tra sẽ tự động đóng lại khi nào?",
+    "options": [
+      "A.Ngay khi cuộc kiểm tra hoàn thành và ban hành Quyết định xử phạt / Kết luận kiểm tra",
+      "B.Mở vĩnh viễn",
+      "C.Đóng sau 1 ngày",
+      "D.Do cán bộ công nghệ tự tắt"
+    ],
+    "answer": "A.Ngay khi cuộc kiểm tra hoàn thành và ban hành Quyết định xử phạt / Kết luận kiểm tra"
+  },
+  {
+    "question": "Câu 84Câu 84: Nguyên tắc 'không nộp lại tài liệu' trong kiểm tra điện tử được quy định như thế nào?",
+    "options": [
+      "A.NNT không phải nộp lại các tài liệu đã có sẵn trên hệ thống dữ liệu ngành thuế hoặc đã chia sẻ từ CSDL quốc gia",
+      "B.NNT không cần nộp bất kỳ tài liệu nào",
+      "C.Cơ quan thuế tự nghĩ ra tài liệu",
+      "D.Bắt buộc nộp lại 2 lần"
+    ],
+    "answer": "A.NNT không phải nộp lại các tài liệu đã có sẵn trên hệ thống dữ liệu ngành thuế hoặc đã chia sẻ từ CSDL quốc gia"
+  },
+  {
+    "question": "Câu 85Câu 85: Trường hợp tài liệu là bản sao giấy tờ thì khi nộp qua giao dịch điện tử cần điều kiện gì?",
+    "options": [
+      "A.Chấp nhận bản sao điện tử được chứng thực hoặc quét số hóa từ bản chính có ký số xác nhận của NNT",
+      "B.Phải công chứng giấy",
+      "C.Không được chấp nhận",
+      "D.Phải có xác nhận của công an"
+    ],
+    "answer": "A.Chấp nhận bản sao điện tử được chứng thực hoặc quét số hóa từ bản chính có ký số xác nhận của NNT"
+  },
+  {
+    "question": "Câu 86Câu 86: Ưu điểm lớn nhất của phương thức kiểm tra điện tử, từ xa đối với doanh nghiệp là gì?",
+    "options": [
+      "A.Tiết kiệm thời gian, chi phí đi lại, minh bạch thủ tục và không làm gián đoạn hoạt động sản xuất kinh doanh trực tiếp",
+      "B.Được miễn 100% tiền thuế",
+      "C.Không bị phạt nếu có sai phạm",
+      "D.Tự do khai số liệu sai"
+    ],
+    "answer": "A.Tiết kiệm thời gian, chi phí đi lại, minh bạch thủ tục và không làm gián đoạn hoạt động sản xuất kinh doanh trực tiếp"
+  },
+  {
+    "question": "Câu 87Câu 87: Văn bản điện tử không thể gửi thành công do lỗi kỹ thuật của Cổng thông tin điện tử ngành thuế thì xử lý thế nào?",
+    "options": [
+      "A.Hệ thống báo lỗi và cơ quan thuế phối hợp xử lý sự cố kỹ thuật hoặc chuyển sang phương thức gửi văn bản giấy theo quy định",
+      "B.Phạt NNT vi phạm",
+      "C.Hủy bỏ cuộc kiểm tra",
+      "D.Tự động tính nộp chậm"
+    ],
+    "answer": "A.Hệ thống báo lỗi và cơ quan thuế phối hợp xử lý sự cố kỹ thuật hoặc chuyển sang phương thức gửi văn bản giấy theo quy định"
+  },
+  {
+    "question": "Câu 88Câu 88: Thời điểm nhận văn bản điện tử của NNT gửi cho cơ quan thuế được tính là khi nào?",
+    "options": [
+      "A.Là ngày, giờ hệ thống Cổng thông tin điện tử của Tổng cục Thuế ghi nhận tiếp nhận thành công và phát thông báo phản hồi",
+      "B.Khi cán bộ thuế mở máy tính ra xem",
+      "C.Ngày hôm sau",
+      "D.Do NNT tự ghi"
+    ],
+    "answer": "A.Là ngày, giờ hệ thống Cổng thông tin điện tử của Tổng cục Thuế ghi nhận tiếp nhận thành công và phát thông báo phản hồi"
+  },
+  {
+    "question": "Câu 89Câu 89: Quy chế giám sát hoạt động của Đoàn thanh tra, kiểm tra thuế được ban hành kèm theo quyết định nào của Tổng cục Thuế?",
+    "options": [
+      "A.Quyết định số 1614/QĐ-TCT",
+      "B.Quyết định số 1296/QĐ-TCT",
+      "C.Quyết định số 970/QĐ-TCT",
+      "D.Quyết định số 1161/QĐ-CT"
+    ],
+    "answer": "A.Quyết định số 1614/QĐ-TCT"
+  },
+  {
+    "question": "Câu 90Câu 90: Theo Quy trình 1161, khi trình ban hành Quyết định kiểm tra tại trụ sở NNT, bộ phận kiểm tra bắt buộc phải trình kèm văn bản nào?",
+    "options": [
+      "A.Dự thảo Quyết định giám sát hoạt động của Đoàn kiểm tra thuế",
+      "B.Lệnh bắt tạm giam",
+      "C.Đơn xin nghỉ phép",
+      "D.Bản cam kết không tham nhũng"
+    ],
+    "answer": "A.Dự thảo Quyết định giám sát hoạt động của Đoàn kiểm tra thuế"
+  },
+  {
+    "question": "Câu 91Câu 91: Việc ghi Nhật ký kiểm tra thuế hiện nay được thực hiện trên ứng dụng công nghệ thông tin nào theo Quyết định 1296/QĐ-TCT?",
+    "options": [
+      "A.Ứng dụng Nhật ký thanh tra, kiểm tra thuế tập trung của ngành thuế",
+      "B.Sổ sổ tay cá nhân",
+      "C.Phần mềm Zalo",
+      "D.Không cần ghi nhật ký"
+    ],
+    "answer": "A.Ứng dụng Nhật ký thanh tra, kiểm tra thuế tập trung của ngành thuế"
+  },
+  {
+    "question": "Câu 92Câu 92: Trưởng đoàn và các thành viên Đoàn kiểm tra có trách nhiệm cập nhật nhật ký kiểm tra khi nào?",
+    "options": [
+      "A.Thường xuyên hàng ngày hoặc theo tiến độ công việc phát sinh trong quá trình kiểm tra",
+      "B.Chờ xong cuộc kiểm tra mới viết 1 thể",
+      "C.Viết trước khi kiểm tra",
+      "D.Khi bị khiếu nại mới viết"
+    ],
+    "answer": "A.Thường xuyên hàng ngày hoặc theo tiến độ công việc phát sinh trong quá trình kiểm tra"
+  },
+  {
+    "question": "Câu 93Câu 93: Mẫu biểu nào dùng để lập Bàn giao hồ sơ, tài liệu lưu trữ cuộc kiểm tra theo Quy trình 1161?",
+    "options": [
+      "A.Mẫu số 06/QTKT-MC",
+      "B.Mẫu số 01/QTKT-MC",
+      "C.Mẫu số 11/QTKT-TC",
+      "D.Mẫu số 14/KTT"
+    ],
+    "answer": "A.Mẫu số 06/QTKT-MC"
+  },
+  {
+    "question": "Câu 94Câu 94: Thời hạn Trưởng đoàn kiểm tra phải hoàn thành việc bàn giao hồ sơ cuộc kiểm tra cho bộ phận lưu trữ là bao lâu?",
+    "options": [
+      "A.Trong thời hạn 01 năm kể từ ngày ký Quyết định xử phạt hoặc Kết luận kiểm tra",
+      "B.30 ngày",
+      "C.60 ngày",
+      "D.5 năm"
+    ],
+    "answer": "A.Trong thời hạn 01 năm kể từ ngày ký Quyết định xử phạt hoặc Kết luận kiểm tra"
+  },
+  {
+    "question": "Câu 95Câu 95: Hồ sơ kiểm tra thuế bắt buộc phải bao gồm những tài liệu cơ bản nào?",
+    "options": [
+      "A.Quyết định kiểm tra, Biên bản kiểm tra, Báo cáo kết quả kiểm tra, Quyết định xử phạt/Kết luận và các tài liệu xác minh liên quan",
+      "B.Chỉ cần Biên bản kiểm tra",
+      "C.Chỉ cần Quyết định xử phạt",
+      "D.Giấy tờ cá nhân của cán bộ thuế"
+    ],
+    "answer": "A.Quyết định kiểm tra, Biên bản kiểm tra, Báo cáo kết quả kiểm tra, Quyết định xử phạt/Kết luận và các tài liệu xác minh liên quan"
+  },
+  {
+    "question": "Câu 96Câu 96: Bộ phận nào trong cơ quan thuế chịu trách nhiệm giám sát trực tiếp hoạt động của Đoàn kiểm tra?",
+    "options": [
+      "A.Bộ phận làm công tác kiểm tra nội bộ / Tổ giám sát do Thủ trưởng cơ quan thuế thành lập",
+      "B.Bộ phận Kê khai thuế",
+      "C.Bộ phận Tin học",
+      "D.Doanh nghiệp tự giám sát"
+    ],
+    "answer": "A.Bộ phận làm công tác kiểm tra nội bộ / Tổ giám sát do Thủ trưởng cơ quan thuế thành lập"
+  },
+  {
+    "question": "Câu 97Câu 97: Nội dung giám sát Đoàn kiểm tra bao gồm những gì?",
+    "options": [
+      "A.Giám sát việc tuân thủ pháp luật, kỷ luật công vụ, tiến độ và nội dung kiểm tra của Trưởng đoàn và thành viên Đoàn",
+      "B.Giám sát việc ăn uống của đoàn",
+      "C.Giám sát hoạt động kinh doanh của doanh nghiệp",
+      "D.Giám sát việc đi lại"
+    ],
+    "answer": "A.Giám sát việc tuân thủ pháp luật, kỷ luật công vụ, tiến độ và nội dung kiểm tra của Trưởng đoàn và thành viên Đoàn"
+  },
+  {
+    "question": "Câu 98Câu 98: Trường hợp phát hiện thành viên Đoàn kiểm tra có hành vi nhũng nhiễu, tiêu cực thì Tổ giám sát xử lý thế nào?",
+    "options": [
+      "A.Báo cáo ngay với Thủ trưởng cơ quan thuế để tạm dừng nhiệm vụ, thay thế thành viên và xử lý kỷ luật theo quy định",
+      "B.Phạt tiền thành viên",
+      "C.Lờ đi không nói",
+      "D.Báo cho báo chí"
+    ],
+    "answer": "A.Báo cáo ngay với Thủ trưởng cơ quan thuế để tạm dừng nhiệm vụ, thay thế thành viên và xử lý kỷ luật theo quy định"
+  },
+  {
+    "question": "Câu 99Câu 99: Quy định chuyển tiếp đối với quyết định kiểm tra ban hành từ ngày 01/07/2026 đến trước ngày 14/08/2026 được thực hiện ra sao?",
+    "options": [
+      "A.Áp dụng quy định Luật 108/2025/QH15, các bước công việc chưa thực hiện từ ngày 14/08/2026 áp dụng theo Quy trình 1161",
+      "B.Áp dụng Luật cũ 38",
+      "C.Hủy bỏ quyết định",
+      "D.Làm lại từ đầu"
+    ],
+    "answer": "A.Áp dụng quy định Luật 108/2025/QH15, các bước công việc chưa thực hiện từ ngày 14/08/2026 áp dụng theo Quy trình 1161"
+  },
+  {
+    "question": "Câu 100Câu 100: Ý nghĩa quan trọng nhất của việc ban hành Quy trình kiểm tra thuế 1161/QĐ-CT trong giai đoạn hiện nay là gì?",
+    "options": [
+      "A.Chuẩn hóa, hiện đại hóa công tác kiểm tra thuế, đẩy mạnh chuyển đổi số, tăng cường tính công khai minh bạch và nâng cao hiệu quả quản lý nhà nước về thuế",
+      "B.Tăng thu ngân sách gấp 2 lần",
+      "C.Giảm số lượng công chức thuế",
+      "D.Bãi bỏ việc nộp thuế"
+    ],
+    "answer": "A.Chuẩn hóa, hiện đại hóa công tác kiểm tra thuế, đẩy mạnh chuyển đổi số, tăng cường tính công khai minh bạch và nâng cao hiệu quả quản lý nhà nước về thuế"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Câu 1Câu 1: Theo Nghị định 132/2020/NĐ-CP, đối tượng nào sau đây thuộc phạm vi điều chỉnh chính của Nghị định?",
+    "options": [
+      "A.Doanh nghiệp chỉ phát sinh các giao dịch độc lập với bên thứ ba.",
+      "B.Tổ chức sản xuất, kinh doanh hàng hóa, dịch vụ có phát sinh giao dịch với các bên có quan hệ liên kết.",
+      "C.Mọi cá nhân kinh doanh có phát sinh thu nhập từ tiền lương, tiền công.",
+      "D.Các cơ quan quản lý nhà nước không phát sinh hoạt động kinh doanh."
+    ],
+    "answer": "B.Tổ chức sản xuất, kinh doanh hàng hóa, dịch vụ có phát sinh giao dịch với các bên có quan hệ liên kết."
+  },
+  {
+    "question": "Câu 2Câu 2: Trong quản lý thuế đối với giao dịch liên kết, nguyên tắc nào sau đây là nguyên tắc cốt lõi được áp dụng để phân tích, so sánh?",
+    "options": [
+      "A.Hình thức pháp lý của hợp đồng luôn quyết định nghĩa vụ thuế.",
+      "B.Bản chất hoạt động, giao dịch quyết định nghĩa vụ thuế.",
+      "C.Giá giao dịch liên kết luôn phải bằng giá vốn hàng bán cộng thêm 10%.",
+      "D.Cơ quan thuế phải công nhận mọi mức giá do các bên liên kết tự thỏa thuận."
+    ],
+    "answer": "B.Bản chất hoạt động, giao dịch quyết định nghĩa vụ thuế."
+  },
+  {
+    "question": "Câu 3Câu 3: Hai doanh nghiệp được coi là các bên có quan hệ liên kết khi một doanh nghiệp nắm giữ trực tiếp hoặc gián tiếp ít nhất bao nhiêu % vốn góp của chủ sở hữu của doanh nghiệp kia?",
+    "options": [
+      "A.0.1",
+      "B.0.15",
+      "C.0.25",
+      "D.0.5"
+    ],
+    "answer": "C.0.25"
+  },
+  {
+    "question": "Câu 4Câu 4: Một doanh nghiệp là cổ đông lớn nhất về vốn góp của chủ sở hữu và nắm giữ trực tiếp hoặc gián tiếp ít nhất bao nhiêu phần trăm tổng số cổ phần của doanh nghiệp kia thì bị coi là có quan hệ liên kết?",
+    "options": [
+      "A.0.1",
+      "B.0.2",
+      "C.0.25",
+      "D.0.51"
+    ],
+    "answer": "A.0.1"
+  },
+  {
+    "question": "Câu 5Câu 5: Theo quy định chung (chưa tính các ngoại lệ của NĐ 20/2025/NĐ-CP), một doanh nghiệp vay vốn từ một bên khác sẽ bị coi là có quan hệ liên kết nếu tổng dư nợ các khoản vay vốn đáp ứng điều kiện ĐỒNG THỜI nào sau đây?",
+    "options": [
+      "A.Ít nhất bằng 20% vốn chủ sở hữu của bên đi vay.",
+      "B.Ít nhất bằng 25% vốn chủ sở hữu và chiếm trên 50% tổng dư nợ tất cả các khoản nợ trung và dài hạn của bên đi vay.",
+      "C.Ít nhất bằng 25% vốn chủ sở hữu và chiếm trên 30% tổng nợ ngắn hạn.",
+      "D.Chỉ cần giá trị khoản vay lớn hơn 50 tỷ đồng."
+    ],
+    "answer": "B.Ít nhất bằng 25% vốn chủ sở hữu và chiếm trên 50% tổng dư nợ tất cả các khoản nợ trung và dài hạn của bên đi vay."
+  },
+  {
+    "question": "Câu 6Câu 6: Theo điểm mới của Nghị định 20/2025/NĐ-CP, doanh nghiệp đi vay vốn từ Ngân hàng (Tổ chức tín dụng) sẽ KHÔNG bị coi là có quan hệ liên kết trong trường hợp nào sau đây?",
+    "options": [
+      "A.Ngân hàng có tham gia điều hành trực tiếp doanh nghiệp đi vay.",
+      "B.Ngân hàng có cử người vào Ban giám đốc của doanh nghiệp đi vay.",
+      "C.Ngân hàng không tham gia trực tiếp, gián tiếp điều hành, kiểm soát, góp vốn, đầu tư vào doanh nghiệp đi vay.",
+      "D.Ngân hàng và doanh nghiệp đi vay cùng chịu sự điều hành, kiểm soát của một bên thứ ba."
+    ],
+    "answer": "C.Ngân hàng không tham gia trực tiếp, gián tiếp điều hành, kiểm soát, góp vốn, đầu tư vào doanh nghiệp đi vay."
+  },
+  {
+    "question": "Câu 7Câu 7: Điểm mới của Nghị định 20/2025/NĐ-CP khi quy định về \"doanh nghiệp chịu sự điều hành, kiểm soát, quyết định trên thực tế đối với doanh nghiệp kia\" đã làm rõ thêm đối tượng nào?",
+    "options": [
+      "A.Công ty mẹ ở nước ngoài không có hiện diện tại Việt Nam.",
+      "B.Chi nhánh hạch toán độc lập thực hiện kê khai, nộp thuế thu nhập doanh nghiệp.",
+      "C.Văn phòng đại diện không có chức năng kinh doanh.",
+      "D.Cổ đông cá nhân sở hữu dưới 5% vốn."
+    ],
+    "answer": "B.Chi nhánh hạch toán độc lập thực hiện kê khai, nộp thuế thu nhập doanh nghiệp."
+  },
+  {
+    "question": "Câu 8Câu 8: Tổng chi phí lãi vay thuần được trừ khi xác định thu nhập chịu thuế TNDN đối với doanh nghiệp có giao dịch liên kết bị khống chế ở mức tối đa là bao nhiêu % của EBITDA?",
+    "options": [
+      "A.0.2",
+      "B.0.25",
+      "C.0.3",
+      "D.0.5"
+    ],
+    "answer": "C.0.3"
+  },
+  {
+    "question": "Câu 9Câu 9: Phần chi phí lãi vay không được trừ do vượt mức khống chế trần EBITDA sẽ được xử lý như thế nào?",
+    "options": [
+      "A.Bị loại bỏ hoàn toàn, không bao giờ được tính vào chi phí được trừ.",
+      "B.Được hoàn lại bằng tiền mặt vào cuối năm tài chính.",
+      "C.Được chuyển sang kỳ tính thuế tiếp theo với thời gian chuyển liên tục không quá 03 năm.",
+      "D.Được chuyển sang kỳ tính thuế tiếp theo với thời gian chuyển liên tục không quá 05 năm."
+    ],
+    "answer": "D.Được chuyển sang kỳ tính thuế tiếp theo với thời gian chuyển liên tục không quá 05 năm."
+  },
+  {
+    "question": "Câu 10Câu 10: Người nộp thuế được MIỄN lập Hồ sơ xác định giá giao dịch liên kết (chỉ cần kê khai Phụ lục I) trong trường hợp nào sau đây?",
+    "options": [
+      "A.Tổng doanh thu kỳ tính thuế dưới 50 tỷ đồng và tổng giá trị tất cả các giao dịch liên kết dưới 30 tỷ đồng.",
+      "B.Tổng doanh thu kỳ tính thuế dưới 100 tỷ đồng và tổng giá trị giao dịch liên kết dưới 50 tỷ đồng.",
+      "C.Doanh nghiệp có tổng doanh thu dưới 50 tỷ đồng nhưng có giao dịch liên kết trị giá 40 tỷ đồng.",
+      "D.Mọi doanh nghiệp bị lỗ trong kỳ tính thuế đều được miễn lập hồ sơ."
+    ],
+    "answer": "A.Tổng doanh thu kỳ tính thuế dưới 50 tỷ đồng và tổng giá trị tất cả các giao dịch liên kết dưới 30 tỷ đồng."
+  },
+  {
+    "question": "Câu 11Câu 11: Một doanh nghiệp chỉ định thành viên ban lãnh đạo của một doanh nghiệp khác thì hai doanh nghiệp bị coi là liên kết khi số lượng thành viên được chỉ định chiếm tỷ lệ bao nhiêu?",
+    "options": [
+      "A.Trên 20% tổng số thành viên ban lãnh đạo.",
+      "B.Trên 30% tổng số thành viên ban lãnh đạo.",
+      "C.Trên 50% tổng số thành viên ban lãnh đạo.",
+      "D.100% tổng số thành viên ban lãnh đạo."
+    ],
+    "answer": "C.Trên 50% tổng số thành viên ban lãnh đạo."
+  },
+  {
+    "question": "Câu 12Câu 12: Trường hợp hai doanh nghiệp được điều hành hoặc chịu sự kiểm soát bởi các cá nhân có mối quan hệ gia đình nào sau đây thì được xác định là có quan hệ liên kết?",
+    "options": [
+      "A.Vợ, chồng; cha mẹ đẻ; con đẻ.",
+      "B.Anh, chị, em cùng cha mẹ; ông bà nội, ngoại.",
+      "C.Cô, dì, chú, cậu, bác ruột và cháu ruột.",
+      "D.Tất cả các trường hợp trên."
+    ],
+    "answer": "D.Tất cả các trường hợp trên."
+  },
+  {
+    "question": "Câu 13Câu 13: Giao dịch giữa Trụ sở chính và Cơ sở thường trú của tổ chức, cá nhân nước ngoài tại Việt Nam có được coi là giao dịch liên kết không?",
+    "options": [
+      "A.Không, vì cùng một pháp nhân.",
+      "B.Có, đây là một trong các trường hợp các bên có quan hệ liên kết.",
+      "C.Chỉ khi có phát sinh chuyển tiền.",
+      "D.Chỉ khi cơ sở thường trú có chức năng sản xuất."
+    ],
+    "answer": "D.Chỉ khi cơ sở thường trú có chức năng sản xuất."
+  },
+  {
+    "question": "Câu 14Câu 14: Theo Nghị định 20/2025/NĐ-CP, việc bổ sung điểm m khoản 2 Điều 5 nhằm mục đích đưa đối tượng nào vào diện có quan hệ liên kết?",
+    "options": [
+      "A.Doanh nghiệp và người lao động.",
+      "B.Tổ chức tín dụng với Công ty con, Công ty kiểm soát, Công ty liên kết của tổ chức tín dụng đó.",
+      "C.Doanh nghiệp tư nhân và chủ doanh nghiệp.",
+      "D.Các hợp tác xã với nhau."
+    ],
+    "answer": "B.Tổ chức tín dụng với Công ty con, Công ty kiểm soát, Công ty liên kết của tổ chức tín dụng đó."
+  },
+  {
+    "question": "Câu 15Câu 15: Khoảng giá trị giao dịch độc lập chuẩn được xác định từ bách phân vị thứ bao nhiêu theo hàm xác suất thống kê?",
+    "options": [
+      "A.Từ bách phân vị thứ 25 đến 75.",
+      "B.Từ bách phân vị thứ 35 đến 75.",
+      "C.Từ bách phân vị thứ 50 đến 100.",
+      "D.Từ bách phân vị thứ 10 đến 90."
+    ],
+    "answer": "B.Từ bách phân vị thứ 35 đến 75."
+  },
+  {
+    "question": "Câu 16Câu 16: \"Trung vị\" của khoảng giá trị giao dịch độc lập chuẩn là giá trị thuộc bách phân vị thứ mấy?",
+    "options": [
+      "A.Bách phân vị thứ 35.",
+      "B.Bách phân vị thứ 50.",
+      "C.Bách phân vị thứ 75.",
+      "D.Bách phân vị thứ 100."
+    ],
+    "answer": "B.Bách phân vị thứ 50."
+  },
+  {
+    "question": "Câu 17Câu 17: Khi phân tích so sánh để tìm kiếm đối tượng độc lập, nếu có khác biệt nhưng có đủ thông tin, dữ liệu làm cơ sở để loại trừ TẤT CẢ các khác biệt trọng yếu thì cần lựa chọn tối thiểu bao nhiêu đối tượng so sánh?",
+    "options": [
+      "A.1 đối tượng.",
+      "B.3 đối tượng.",
+      "C.5 đối tượng.",
+      "D.7 đối tượng."
+    ],
+    "answer": "B.3 đối tượng."
+  },
+  {
+    "question": "Câu 18Câu 18: Khi phân tích so sánh, nếu chỉ có thông tin, dữ liệu làm cơ sở để loại trừ HẦU HẾT các khác biệt trọng yếu, người nộp thuế phải chọn tối thiểu bao nhiêu đối tượng so sánh độc lập?",
+    "options": [
+      "A.1 đối tượng.",
+      "B.3 đối tượng.",
+      "C.5 đối tượng.",
+      "D.10 đối tượng."
+    ],
+    "answer": "C.5 đối tượng."
+  },
+  {
+    "question": "Câu 19Câu 19: Trong trường hợp cơ quan thuế thực hiện ấn định hoặc điều chỉnh mức giá, tỷ suất lợi nhuận của người nộp thuế, giá trị được sử dụng để điều chỉnh là giá trị nào trong khoảng giao dịch độc lập chuẩn?",
+    "options": [
+      "A.Giá trị thấp nhất (Bách phân vị 35).",
+      "B.Giá trị trung vị (Bách phân vị 50).",
+      "C.Giá trị cao nhất (Bách phân vị 75).",
+      "D.Giá trị trung bình cộng của toàn bộ khoảng."
+    ],
+    "answer": "B.Giá trị trung vị (Bách phân vị 50)."
+  },
+  {
+    "question": "Câu 20Câu 20: Phương pháp so sánh giá giao dịch độc lập (CUP) thường được ưu tiên áp dụng đối với loại giao dịch nào?",
+    "options": [
+      "A.Giao dịch chia sẻ chi phí chung của tập đoàn.",
+      "B.Giao dịch mua bán hàng hóa có giá công bố trên sàn giao dịch, thanh toán phí bản quyền, lãi vay.",
+      "C.Giao dịch nhượng quyền thương mại phức tạp.",
+      "D.Giao dịch phân bổ lợi nhuận từ nghiên cứu và phát triển."
+    ],
+    "answer": "B.Giao dịch mua bán hàng hóa có giá công bố trên sàn giao dịch, thanh toán phí bản quyền, lãi vay."
+  },
+  {
+    "question": "Câu 21Câu 21: Phương pháp \"Giá bán lại\" (Tỷ suất lợi nhuận gộp trên doanh thu) thường KHÔNG áp dụng cho đối tượng nào?",
+    "options": [
+      "A.Doanh nghiệp thương mại mua đi bán lại đơn giản.",
+      "B.Nhà phân phối sở hữu tài sản vô hình có giá trị cao (thương hiệu, danh sách khách hàng).",
+      "C.Doanh nghiệp phân phối bán lẻ thông thường.",
+      "D.Doanh nghiệp phân phối bán buôn."
+    ],
+    "answer": "B.Nhà phân phối sở hữu tài sản vô hình có giá trị cao (thương hiệu, danh sách khách hàng)."
+  },
+  {
+    "question": "Câu 22Câu 22: Phương pháp \"Giá vốn cộng lãi\" thường áp dụng cho loại hình doanh nghiệp nào?",
+    "options": [
+      "A.Doanh nghiệp thương mại bán lẻ.",
+      "B.Doanh nghiệp sản xuất tự chủ, sở hữu thương hiệu độc quyền.",
+      "C.Doanh nghiệp thực hiện gia công, lắp ráp, sản xuất theo hợp đồng (không sở hữu tài sản vô hình).",
+      "D.Doanh nghiệp kinh doanh bất động sản."
+    ],
+    "answer": "C.Doanh nghiệp thực hiện gia công, lắp ráp, sản xuất theo hợp đồng (không sở hữu tài sản vô hình)."
+  },
+  {
+    "question": "Câu 23Câu 23: Phương pháp \"Phân bổ lợi nhuận\" thường được áp dụng trong trường hợp nào?",
+    "options": [
+      "A.Khi mua bán một sản phẩm tiêu dùng thông thường.",
+      "B.Khi doanh nghiệp thực hiện chức năng gia công đơn giản.",
+      "C.Các giao dịch đặc thù, tích hợp khép kín trong tập đoàn, giao dịch kinh tế số, sử dụng tài sản vô hình độc quyền.",
+      "D.Khi vay vốn ngắn hạn từ ngân hàng."
+    ],
+    "answer": "C.Các giao dịch đặc thù, tích hợp khép kín trong tập đoàn, giao dịch kinh tế số, sử dụng tài sản vô hình độc quyền."
+  },
+  {
+    "question": "Câu 24Câu 24: Khi xác định chi phí được trừ đối với giao dịch liên kết, khoản chi phí dịch vụ nào sau đây KHÔNG ĐƯỢC trừ?",
+    "options": [
+      "A.Dịch vụ tư vấn luật trực tiếp cho hoạt động kinh doanh.",
+      "B.Dịch vụ kế toán tài chính có chứng từ hợp lệ.",
+      "C.Dịch vụ tính phí trùng lắp do nhiều bên liên kết cung cấp, không xác định được giá trị gia tăng.",
+      "D.Dịch vụ công nghệ thông tin phục vụ quản lý sản xuất."
+    ],
+    "answer": "C.Dịch vụ tính phí trùng lắp do nhiều bên liên kết cung cấp, không xác định được giá trị gia tăng."
+  },
+  {
+    "question": "Câu 25Câu 25: Doanh nghiệp được MIỄN kê khai mục III, IV Phụ lục I và MIỄN lập Hồ sơ xác định giá GDLK trong trường hợp phát sinh giao dịch với bên liên kết như thế nào?",
+    "options": [
+      "A.Bên liên kết ở nước ngoài có hiệp định tránh đánh thuế hai lần.",
+      "B.Bên liên kết là đối tượng nộp thuế TNDN tại Việt Nam, áp dụng cùng mức thuế suất, không bên nào được hưởng ưu đãi thuế TNDN.",
+      "C.Bên liên kết tại Việt Nam nhưng đang được hưởng ưu đãi miễn thuế TNDN.",
+      "D.Chỉ cần cả 2 bên cùng nằm trên lãnh thổ Việt Nam là được miễn."
+    ],
+    "answer": "B.Bên liên kết là đối tượng nộp thuế TNDN tại Việt Nam, áp dụng cùng mức thuế suất, không bên nào được hưởng ưu đãi thuế TNDN."
+  },
+  {
+    "question": "Câu 26Câu 26: Người nộp thuế thực hiện chức năng kinh doanh đơn giản, doanh thu dưới 200 tỷ, sẽ được miễn lập Hồ sơ xác định giá GDLK nếu tỷ suất lợi nhuận thuần (EBIT) trên doanh thu thuần đạt mức nào?",
+    "options": [
+      "A.Phân phối ≥ 5%; Sản xuất ≥ 10%; Gia công ≥ 15%.",
+      "B.Phân phối ≥ 10%; Sản xuất ≥ 15%; Gia công ≥ 20%.",
+      "C.Phân phối ≥ 2%; Sản xuất ≥ 5%; Gia công ≥ 10%.",
+      "D.Mọi lĩnh vực đều phải ≥ 10%."
+    ],
+    "answer": "A.Phân phối ≥ 5%; Sản xuất ≥ 10%; Gia công ≥ 15%."
+  },
+  {
+    "question": "Câu 27Câu 27: Trường hợp doanh nghiệp kinh doanh nhiều lĩnh vực nhưng KHÔNG theo dõi, hạch toán riêng được doanh thu và chi phí của từng lĩnh vực, mức tỷ suất lợi nhuận thuần để được xét miễn lập hồ sơ GDLK được xác định như thế nào?",
+    "options": [
+      "A.Tính bình quân các mức tỷ suất.",
+      "B.Áp dụng tỷ suất lợi nhuận thuần của lĩnh vực có tỷ suất cao nhất.",
+      "C.Áp dụng tỷ suất lợi nhuận thuần của lĩnh vực có tỷ suất thấp nhất.",
+      "D.Không được xét miễn trừ trong trường hợp này."
+    ],
+    "answer": "B.Áp dụng tỷ suất lợi nhuận thuần của lĩnh vực có tỷ suất cao nhất."
+  },
+  {
+    "question": "Câu 28Câu 28: Đối tượng nào sau đây KHÔNG bị áp dụng mức trần khống chế 30% tổng chi phí lãi vay thuần?",
+    "options": [
+      "A.Công ty sản xuất và kinh doanh bất động sản.",
+      "B.Công ty thương mại xuất nhập khẩu.",
+      "C.Tổ chức tín dụng, Tổ chức kinh doanh bảo hiểm, các khoản vay ODA.",
+      "D.Công ty cổ phần đại chúng."
+    ],
+    "answer": "C.Tổ chức tín dụng, Tổ chức kinh doanh bảo hiểm, các khoản vay ODA."
+  },
+  {
+    "question": "Câu 29Câu 29: Nếu hết thời hạn 5 năm liên tục mà doanh nghiệp vẫn chưa chuyển hết phần chi phí lãi vay bị khống chế của các năm trước thì xử lý như thế nào?",
+    "options": [
+      "A.Được tiếp tục chuyển sang năm thứ 6.",
+      "B.Được hoàn lại tiền thuế.",
+      "C.Phần chi phí lãi vay còn lại không được chuyển sang các kỳ tính thuế tiếp theo (bị loại bỏ).",
+      "D.Bắt buộc vốn hóa vào nguyên giá tài sản."
+    ],
+    "answer": "C.Phần chi phí lãi vay còn lại không được chuyển sang các kỳ tính thuế tiếp theo (bị loại bỏ)."
+  },
+  {
+    "question": "Câu 30Câu 30: Hồ sơ quốc gia (Local File) về giao dịch liên kết được lập nhằm mục đích gì?",
+    "options": [
+      "A.Cung cấp thông tin tổng quan về tập đoàn toàn cầu.",
+      "B.Báo cáo lợi nhuận tại tất cả các quốc gia.",
+      "C.Cung cấp thông tin chi tiết về các giao dịch liên kết của chính người nộp thuế tại Việt Nam.",
+      "D.Cung cấp danh sách các cổ đông của công ty."
+    ],
+    "answer": "C.Cung cấp thông tin chi tiết về các giao dịch liên kết của chính người nộp thuế tại Việt Nam."
+  },
+  {
+    "question": "Câu 31Câu 31: Hồ sơ toàn cầu (Master File) chứa đựng thông tin gì?",
+    "options": [
+      "A.Chỉ liệt kê tài sản cố định của doanh nghiệp tại Việt Nam.",
+      "B.Thông tin về hoạt động kinh doanh của tập đoàn đa quốc gia, chính sách phân bổ thu nhập, chuỗi giá trị toàn cầu.",
+      "C.Hóa đơn chứng từ mua bán hàng tháng của doanh nghiệp.",
+      "D.Tờ khai thuế giá trị gia tăng của các công ty con."
+    ],
+    "answer": "B.Thông tin về hoạt động kinh doanh của tập đoàn đa quốc gia, chính sách phân bổ thu nhập, chuỗi giá trị toàn cầu."
+  },
+  {
+    "question": "Câu 32Câu 32: Báo cáo lợi nhuận liên quốc gia (CbCR) áp dụng đối với Công ty mẹ tối cao tại Việt Nam khi có tổng doanh thu hợp nhất toàn cầu trong kỳ tính thuế từ mức nào trở lên?",
+    "options": [
+      "A.10.000 tỷ đồng.",
+      "B.18.000 tỷ đồng.",
+      "C.20.000 tỷ đồng.",
+      "D.50.000 tỷ đồng."
+    ],
+    "answer": "B.18.000 tỷ đồng."
+  },
+  {
+    "question": "Câu 33Câu 33: Thời hạn nộp Báo cáo lợi nhuận liên quốc gia (CbCR) cho Cơ quan thuế chậm nhất là bao lâu?",
+    "options": [
+      "A.3 tháng sau ngày kết thúc năm tài chính.",
+      "B.6 tháng sau ngày kết thúc năm tài chính.",
+      "C.9 tháng sau ngày kết thúc năm tài chính.",
+      "D.12 tháng sau ngày kết thúc năm tài chính."
+    ],
+    "answer": "D.12 tháng sau ngày kết thúc năm tài chính."
+  },
+  {
+    "question": "Câu 34Câu 34: Khi cơ quan thuế yêu cầu cung cấp Hồ sơ xác định giá giao dịch liên kết trong quá trình tham vấn trước khi thanh tra, thời hạn người nộp thuế phải cung cấp tối đa là bao lâu?",
+    "options": [
+      "A.Không quá 10 ngày làm việc.",
+      "B.Không quá 15 ngày làm việc.",
+      "C.Không quá 30 ngày làm việc.",
+      "D.Không quá 60 ngày làm việc."
+    ],
+    "answer": "C.Không quá 30 ngày làm việc."
+  },
+  {
+    "question": "Câu 35Câu 35: Khi có lý do chính đáng, thời hạn cung cấp Hồ sơ xác định giá giao dịch liên kết có thể được cơ quan thuế gia hạn 01 lần với thời gian không quá bao lâu?",
+    "options": [
+      "A.5 ngày làm việc.",
+      "B.10 ngày làm việc.",
+      "C.15 ngày làm việc.",
+      "D.30 ngày làm việc."
+    ],
+    "answer": "C.15 ngày làm việc."
+  },
+  {
+    "question": "Câu 36Câu 36: Khi phân tích so sánh, thứ tự ưu tiên lựa chọn dữ liệu đối tượng độc lập được quy định như thế nào?",
+    "options": [
+      "A.Đối tượng nội bộ -> Đối tượng trong nước -> Đối tượng khu vực.",
+      "B.Đối tượng trong nước -> Đối tượng khu vực -> Đối tượng toàn cầu.",
+      "C.Đối tượng khu vực -> Đối tượng nội bộ -> Đối tượng trong nước.",
+      "D.Không có quy định về thứ tự ưu tiên."
+    ],
+    "answer": "A.Đối tượng nội bộ -> Đối tượng trong nước -> Đối tượng khu vực."
+  },
+  {
+    "question": "Câu 37Câu 37: Điều khoản chuyển tiếp (Điều 3) của Nghị định 20/2025/NĐ-CP được ban hành chủ yếu để xử lý vấn đề gì?",
+    "options": [
+      "A.Gia hạn thời gian nộp thuế cho doanh nghiệp.",
+      "B.Xử lý phần chi phí lãi vay bị loại trừ của các năm 2020-2023 đối với doanh nghiệp vướng quy định liên kết vay vốn ngân hàng.",
+      "C.Miễn phạt chậm nộp hồ sơ GDLK.",
+      "D.Xóa bỏ hoàn toàn nghĩa vụ kê khai GDLK."
+    ],
+    "answer": "B.Xử lý phần chi phí lãi vay bị loại trừ của các năm 2020-2023 đối với doanh nghiệp vướng quy định liên kết vay vốn ngân hàng."
+  },
+  {
+    "question": "Câu 38Câu 38: Theo Điều 3 Nghị định 20/2025/NĐ-CP, đối với DN trước đây chỉ có GDLK với ngân hàng, từ năm 2024 nếu DN KHÔNG CÒN quan hệ liên kết nào khác, phần chi phí lãi vay bị treo tính đến cuối 2023 sẽ được xử lý ra sao?",
+    "options": [
+      "A.Phân bổ đều chuyển sang các kỳ tính thuế tiếp theo cho thời gian còn lại (tối đa 5 năm).",
+      "B.Loại bỏ toàn bộ.",
+      "C.Gộp một lần để trừ hết vào kỳ tính thuế năm 2024.",
+      "D.Trừ dần vào thu nhập của các năm sau không giới hạn thời gian."
+    ],
+    "answer": "A.Phân bổ đều chuyển sang các kỳ tính thuế tiếp theo cho thời gian còn lại (tối đa 5 năm)."
+  },
+  {
+    "question": "Câu 39Câu 39: Cũng theo Điều 3 Nghị định 20/2025/NĐ-CP, nếu từ năm 2024 doanh nghiệp VẪN CÒN các quan hệ liên kết khác (ngoài ngân hàng), phần chi phí lãi vay bị treo từ 2020-2023 sẽ được xử lý thế nào?",
+    "options": [
+      "A.Phân bổ đều không bị khống chế trần.",
+      "B.Chuyển sang tính như chi phí lãi vay của kỳ hiện tại và tiếp tục bị khống chế mức trần 30% EBITDA.",
+      "C.Không được phép chuyển tiếp.",
+      "D.Được hoàn thuế trực tiếp."
+    ],
+    "answer": "B.Chuyển sang tính như chi phí lãi vay của kỳ hiện tại và tiếp tục bị khống chế mức trần 30% EBITDA."
+  },
+  {
+    "question": "Câu 40Câu 40: Trách nhiệm mới của Ngân hàng Nhà nước theo khoản 2 Điều 21 được bổ sung tại Nghị định 20/2025/NĐ-CP là gì?",
+    "options": [
+      "A.Phạt trực tiếp các doanh nghiệp vi phạm quy định vay vốn.",
+      "B.Cấp giấy chứng nhận không có giao dịch liên kết.",
+      "C.Cung cấp thông tin về người có liên quan của Ban lãnh đạo và cổ đông lớn (≥ 1%) của Tổ chức tín dụng khi cơ quan thuế đề nghị.",
+      "D.Thu hộ thuế thu nhập doanh nghiệp từ các tài khoản ngân hàng."
+    ],
+    "answer": "C.Cung cấp thông tin về người có liên quan của Ban lãnh đạo và cổ đông lớn (≥ 1%) của Tổ chức tín dụng khi cơ quan thuế đề nghị."
+  },
+  {
+    "question": "Câu 41Câu 41: \"Khoản vay từ bên thứ ba được đảm bảo từ nguồn tài chính của bên liên kết\" có được xem là giao dịch liên kết không?",
+    "options": [
+      "A.Không, vì vay của bên độc lập (bên thứ ba).",
+      "B.Có, vì bản chất là giao dịch tài chính có đảm bảo từ nguồn của bên liên kết.",
+      "C.Chỉ tính nếu khoản vay có tài sản thế chấp.",
+      "D.Chỉ tính nếu tiền lãi thanh toán lớn hơn tiền gốc."
+    ],
+    "answer": "B.Có, vì bản chất là giao dịch tài chính có đảm bảo từ nguồn của bên liên kết."
+  },
+  {
+    "question": "Câu 42Câu 42: \"Bản chất giao dịch\" theo Điều 6 Nghị định 132/2020/NĐ-CP được xác định dựa vào đâu nếu thực tế thực hiện của các bên khác với thỏa thuận bằng văn bản?",
+    "options": [
+      "A.Vẫn dựa vào hợp đồng bằng văn bản vì đó là cơ sở pháp lý cao nhất.",
+      "B.Dựa vào sự thỏa thuận miệng giữa hai bên.",
+      "C.Dựa vào thực tiễn thực hiện, rủi ro gánh chịu, chức năng của các bên liên kết.",
+      "D.Dựa vào quyết định chủ quan của giám đốc doanh nghiệp."
+    ],
+    "answer": "C.Dựa vào thực tiễn thực hiện, rủi ro gánh chịu, chức năng của các bên liên kết."
+  },
+  {
+    "question": "Câu 43Câu 43: Việc kê khai thông tin về quan hệ liên kết và giao dịch liên kết phải thực hiện theo Mẫu Phụ lục nào và nộp cùng thời điểm nào?",
+    "options": [
+      "A.Phụ lục V, nộp hàng tháng.",
+      "B.Phụ lục II, nộp khi bắt đầu giao dịch.",
+      "C.Phụ lục I, nộp cùng Tờ khai quyết toán thuế thu nhập doanh nghiệp hàng năm.",
+      "D.Không cần nộp phụ lục, chỉ cần thuyết minh trên Báo cáo tài chính."
+    ],
+    "answer": "C.Phụ lục I, nộp cùng Tờ khai quyết toán thuế thu nhập doanh nghiệp hàng năm."
+  },
+  {
+    "question": "Câu 44Câu 44: Việc phân tích tính tương đồng (để loại trừ khác biệt trọng yếu) cần dựa vào mấy yếu tố so sánh chính?",
+    "options": [
+      "A.1 yếu tố (Giá cả).",
+      "B.2 yếu tố (Hàng hóa và Dịch vụ).",
+      "C.3 yếu tố cơ bản: Đặc tính sản phẩm; Chức năng, tài sản, rủi ro; Điều kiện hợp đồng & điều kiện kinh tế.",
+      "D.Không có quy định về yếu tố so sánh."
+    ],
+    "answer": "C.3 yếu tố cơ bản: Đặc tính sản phẩm; Chức năng, tài sản, rủi ro; Điều kiện hợp đồng & điều kiện kinh tế."
+  },
+  {
+    "question": "Câu 45Câu 45: Nếu một doanh nghiệp vay vốn (dư nợ lớn) của Chủ tịch Hội đồng quản trị (cá nhân điều hành doanh nghiệp) thì có hình thành quan hệ liên kết không?",
+    "options": [
+      "A.Có, nếu khoản vay ít nhất bằng 10% vốn góp của chủ sở hữu tại thời điểm phát sinh.",
+      "B.Có, chỉ khi khoản vay lớn hơn 50% tổng tài sản.",
+      "C.Không, quan hệ liên kết chỉ xảy ra giữa các tổ chức/pháp nhân.",
+      "D.Không, vì Chủ tịch HĐQT là người nội bộ công ty."
+    ],
+    "answer": "A.Có, nếu khoản vay ít nhất bằng 10% vốn góp của chủ sở hữu tại thời điểm phát sinh."
+  },
+  {
+    "question": "Câu 46Câu 46: Cơ quan thuế có quyền ấn định mức giá, tỷ suất lợi nhuận trong trường hợp nào?",
+    "options": [
+      "A.Người nộp thuế nộp hồ sơ GDLK sớm hơn quy định.",
+      "B.Người nộp thuế không kê khai, kê khai không đầy đủ hoặc cung cấp thông tin GDLK không đúng thực tế.",
+      "C.Lợi nhuận của doanh nghiệp cao hơn các năm trước.",
+      "D.Doanh nghiệp thay đổi Giám đốc tài chính."
+    ],
+    "answer": "B.Người nộp thuế không kê khai, kê khai không đầy đủ hoặc cung cấp thông tin GDLK không đúng thực tế."
+  },
+  {
+    "question": "Câu 47Câu 47: Báo cáo lợi nhuận liên quốc gia (CbCR) do đối tượng nào cung cấp là chủ yếu?",
+    "options": [
+      "A.Bất kỳ công ty con nào trong tập đoàn.",
+      "B.Công ty liên kết nắm 10% vốn.",
+      "C.Công ty mẹ tối cao của Tập đoàn đa quốc gia.",
+      "D.Đơn vị kiểm toán độc lập của Tập đoàn."
+    ],
+    "answer": "C.Công ty mẹ tối cao của Tập đoàn đa quốc gia."
+  },
+  {
+    "question": "Câu 48Câu 48: Phương pháp \"So sánh tỷ suất lợi nhuận thuần\" thường áp dụng cho loại giao dịch/doanh nghiệp nào?",
+    "options": [
+      "A.Doanh nghiệp sở hữu toàn bộ các tài sản vô hình và tự chủ trong chuỗi giá trị.",
+      "B.Doanh nghiệp không đủ thông tin áp dụng CUP, giá bán lại, giá vốn cộng lãi; thực hiện chức năng phân phối/sản xuất không sở hữu tài sản vô hình độc quyền.",
+      "C.Giao dịch mua bán hàng hóa công khai trên sàn thương mại.",
+      "D.Giao dịch chia sẻ chi phí khép kín."
+    ],
+    "answer": "B.Doanh nghiệp không đủ thông tin áp dụng CUP, giá bán lại, giá vốn cộng lãi; thực hiện chức năng phân phối/sản xuất không sở hữu tài sản vô hình độc quyền."
+  },
+  {
+    "question": "Câu 49Câu 49: EBITDA trong công thức tính trần lãi vay (30%) của Nghị định 132 được hiểu là gì?",
+    "options": [
+      "A.Lợi nhuận sau thuế.",
+      "B.Tổng lợi nhuận thuần từ HĐKD cộng chi phí lãi vay (sau khi trừ lãi tiền gửi/cho vay) cộng chi phí khấu hao.",
+      "C.Lợi nhuận gộp cộng doanh thu tài chính.",
+      "D.Lợi nhuận trước thuế trừ đi chi phí bán hàng."
+    ],
+    "answer": "B.Tổng lợi nhuận thuần từ HĐKD cộng chi phí lãi vay (sau khi trừ lãi tiền gửi/cho vay) cộng chi phí khấu hao."
+  },
+  {
+    "question": "Câu 50Câu 50: Theo nguyên tắc chung của quản lý GDLK, việc điều chỉnh giá giao dịch liên kết của Cơ quan thuế phải tuân thủ điều kiện gì đối với ngân sách nhà nước?",
+    "options": [
+      "A.Có thể làm giảm thu nhập chịu thuế nếu doanh nghiệp giải trình hợp lý.",
+      "B.Không làm giảm thu nhập chịu thuế, không làm giảm nghĩa vụ thuế phải nộp ngân sách nhà nước của người nộp thuế.",
+      "C.Phải chia đều lợi nhuận cho cả hai quốc gia nơi có doanh nghiệp liên kết.",
+      "D.Phải áp dụng mức thuế suất thấp nhất để hỗ trợ doanh nghiệp."
+    ],
+    "answer": "B.Không làm giảm thu nhập chịu thuế, không làm giảm nghĩa vụ thuế phải nộp ngân sách nhà nước của người nộp thuế."
+  }
+]

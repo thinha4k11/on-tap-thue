@@ -1,0 +1,612 @@
+[
+  {
+    "question": "Câu 1Doanh nghiệp thanh lý TSCĐ được 10 tỷ, số tiền thanh lý trên sẽ được phản ánh vào khoản mục nào trên báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp?",
+    "options": [
+      "A.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác.",
+      "B.Lợi nhuận trước thuế.",
+      "C.Lãi lỗ từ hoạt động đầu tư.",
+      "D.Tất cả các đáp án đều đúng."
+    ],
+    "answer": "A.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác."
+  },
+  {
+    "question": "Câu 2Các khoản doanh thu, thu nhập, chi phí của các kỳ trước có sai sót làm ảnh hưởng đến kết quả kinh doanh và lưu chuyển tiền tệ phải thực hiện:",
+    "options": [
+      "A.Điều chỉnh vào kỳ phát hiện sai sót.",
+      "B.Điều chỉnh vào kỳ báo cáo.",
+      "C.Điều chỉnh hồi tố.",
+      "D.Tất cả các đáp án đều đúng."
+    ],
+    "answer": "C.Điều chỉnh hồi tố."
+  },
+  {
+    "question": "Câu 3Khoản tiền trả nợ cho nhà thầu liên quan đến hoạt động đầu tư XDCB phản ánh:",
+    "options": [
+      "A.Lưu chuyển tiền từ hoạt động đầu tư.",
+      "B.Lưu chuyển tiền từ hoạt động kinh doanh.",
+      "C.Tùy từng trường hợp.",
+      "D.Lưu chuyển tiền từ hoạt động tài chính."
+    ],
+    "answer": "A.Lưu chuyển tiền từ hoạt động đầu tư."
+  },
+  {
+    "question": "Câu 4Trong báo cáo lưu chuyển tiền tệ theo phương pháp trực tiếp, khấu hao TSCĐ được trình bày ở:",
+    "options": [
+      "A.Không có đáp án nào đúng.",
+      "B.Lưu chuyển tiền từ hoạt động kinh doanh.",
+      "C.Lưu chuyển tiền từ hoạt động đầu tư.",
+      "D.Lưu chuyển tiền từ hoạt động tài chính."
+    ],
+    "answer": "A.Không có đáp án nào đúng."
+  },
+  {
+    "question": "Câu 5Trong báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp, đối với hoạt động bán hàng, cung cấp dịch vụ, khoản thu từ khoản tiền được bồi thường, phạt do khách hàng vi phạm hợp đồng trong sẽ thuộc khoản mục:",
+    "options": [
+      "A.Không có đáp án nào đúng.",
+      "B.Tiền chi trả cho người cung cấp hàng hóa dịch vụ.",
+      "C.Tiền chi khác từ hoạt động kinh doanh.",
+      "D.Tiền thu từ bán hàng, cung cấp dịch vụ."
+    ],
+    "answer": "A.Không có đáp án nào đúng."
+  },
+  {
+    "question": "Câu 6Năm 2023, doanh nghiệp mua TSCĐ 200 triệu đồng, chi phí đầu tư xây dựng cơ bản 100 triệu đồng. Khi lập chỉ tiêu “Tiền chi mua sắm, xây dựng TSCĐ và tài sản dài hạn khác” trên báo cáo lưu chuyển tiền tệ sẽ ghi:",
+    "options": [
+      "A.300 triệu đồng.",
+      "B.100 triệu đồng.",
+      "C.200 triệu đồng.",
+      "D.Không phản ánh."
+    ],
+    "answer": "A.300 triệu đồng."
+  },
+  {
+    "question": "Câu 7Chỉ tiêu nào sau đây thuộc lưu chuyển tiền từ hoạt động kinh doanh?",
+    "options": [
+      "A.Không có đáp án nào đúng.",
+      "B.Tiền chi trả gốc vay.",
+      "C.Tiền vay ngắn hạn, dài hạn nhận được.",
+      "D.Tiền chi mua sắm xây dựng TSCĐ và tài sản dài hạn khác."
+    ],
+    "answer": "A.Không có đáp án nào đúng."
+  },
+  {
+    "question": "Câu 8Năm 2025, công ty mua 1 TSCĐ chưa thanh toán tiền cho người bán. Trong báo cáo lưu chuyển tiền tệ theo phương pháp trực tiếp năm 2025 của công ty, nguyên giá của TSCĐ sẽ được ghi nhận vào chỉ tiêu nào?",
+    "options": [
+      "A.Không có đáp án nào đúng.",
+      "B.Tiền chi trả cho người cung cấp hàng hóa và dịch vụ.",
+      "C.Tiền chi để mua sắm, xây dựng TSCĐ và các TSDH khác.",
+      "D.Tiền chi khác từ hoạt động kinh doanh."
+    ],
+    "answer": "A.Không có đáp án nào đúng."
+  },
+  {
+    "question": "Câu 9Năm 2025, doanh nghiệp thuê tài chính 1 TSCĐ phục vụ cho hoạt động SXKD. Trong báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp, nguyên giá TSCĐ này được phản ánh vào khoản mục nào?",
+    "options": [
+      "A.Không có đáp án nào đúng.",
+      "B.Lưu chuyển tiền từ hoạt động kinh doanh.",
+      "C.Lưu chuyển tiền từ hoạt động đầu tư.",
+      "D.Lưu chuyển tiền từ hoạt động tài chính."
+    ],
+    "answer": "A.Không có đáp án nào đúng."
+  },
+  {
+    "question": "Câu 10Lãi vay phải trả phản ánh vào:",
+    "options": [
+      "A.Chi phí tài chính.",
+      "B.Chi phí quản lý doanh nghiệp.",
+      "C.Chi phí bán hàng.",
+      "D.Chi phí khác."
+    ],
+    "answer": "A.Chi phí tài chính."
+  },
+  {
+    "question": "Câu 11Trên bảng cân đối kế toán, chênh lệch đánh giá lại tài sản được phản ánh vào chỉ tiêu:",
+    "options": [
+      "A.Vốn chủ sở hữu.",
+      "B.Nợ dài hạn.",
+      "C.Nợ ngắn hạn.",
+      "D.Tài sản ngắn hạn."
+    ],
+    "answer": "A.Vốn chủ sở hữu."
+  },
+  {
+    "question": "Câu 12Chỉ tiêu “Doanh thu thuần” được xác định bằng cách nào?",
+    "options": [
+      "A.Là doanh thu từ hoạt động đầu tư tài chính.",
+      "B.Doanh thu thuần là tổng lợi nhuận trước thuế.",
+      "C.Là phần doanh thu chưa trừ chi phí sản xuất.",
+      "D.Doanh thu thuần được tính bằng doanh thu bán hàng và cung cấp dịch vụ trừ đi các khoản giảm trừ doanh thu như chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại."
+    ],
+    "answer": "D.Doanh thu thuần được tính bằng doanh thu bán hàng và cung cấp dịch vụ trừ đi các khoản giảm trừ doanh thu như chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại."
+  },
+  {
+    "question": "Câu 13Nguyên tắc thận trọng trong kế toán yêu cầu:",
+    "options": [
+      "A.Không đánh giá thấp hơn khoản nợ.",
+      "B.Trích lập dự phòng.",
+      "C.Không đánh giá cao hơn giá ghi sổ.",
+      "D.Tất cả các đáp án đều đúng."
+    ],
+    "answer": "D.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 14Lợi nhuận gộp về bán hàng và cung cấp dịch vụ phản ánh điều gì?",
+    "options": [
+      "A.Phản ánh chênh lệch giữa doanh thu thuần và giá vốn hàng bán, từ đó đánh giá hiệu quả hoạt động sản xuất, kinh doanh cốt lõi của doanh nghiệp trong kỳ tài chính.",
+      "B.Là toàn bộ thu nhập trước thuế.",
+      "C.Là khoản tiền còn lại sau khi trừ chi phí tài chính.",
+      "D.Là phần lợi nhuận chưa phân phối."
+    ],
+    "answer": "A.Phản ánh chênh lệch giữa doanh thu thuần và giá vốn hàng bán, từ đó đánh giá hiệu quả hoạt động sản xuất, kinh doanh cốt lõi của doanh nghiệp trong kỳ tài chính."
+  },
+  {
+    "question": "Câu 15Số dư Bên Có Tài khoản 131 – Phải thu khách hàng phản ánh:",
+    "options": [
+      "A.Khách hàng ứng tiền trước.",
+      "B.Chi tiền ăn ca cho nhân viên.",
+      "C.Chi từ thiện.",
+      "D.Khoản phải thu khách hàng."
+    ],
+    "answer": "A.Khách hàng ứng tiền trước."
+  },
+  {
+    "question": "Câu 16Chỉ tiêu người mua trả tiền trước được phản ánh:",
+    "options": [
+      "A.Số dư Bên Có tài khoản 131 xác định khách hàng ứng trước tiền.",
+      "B.Số dư Bên Có tài khoản 131 xác định khách hàng chưa thanh toán.",
+      "C.Số tiền khách hàng trả thừa.",
+      "D.Số tiền phải thu của khách hàng."
+    ],
+    "answer": "A.Số dư Bên Có tài khoản 131 xác định khách hàng ứng trước tiền."
+  },
+  {
+    "question": "Câu 17Chỉ tiêu Phải thu ngắn hạn khách hàng phản ánh:",
+    "options": [
+      "A.Số dư Bên Nợ tài khoản 131 (Chi tiết theo từng đối tượng khách hàng).",
+      "B.Số dư Bên Có của các tài khoản 131 và 331.",
+      "C.Số dư Bên Có tài khoản 131.",
+      "D.Số dư Bên Có tài khoản 331"
+    ],
+    "answer": "A.Số dư Bên Nợ tài khoản 131 (Chi tiết theo từng đối tượng khách hàng)."
+  },
+  {
+    "question": "Câu 18Chỉ tiêu Phải trả người bán ngắn hạn căn cứ vào:",
+    "options": [
+      "A.Tổng dư Bên Có của tài khoản 331 trên Bảng cân đối kế toán.",
+      "B.Số dư Bên Nợ của tài khoản 331.",
+      "C.Số dư Bên Nợ của tài khoản 331 và tài khoản 131.",
+      "D.Tổng giá trị kinh tế phát sinh của các nhà cung cấp."
+    ],
+    "answer": "A.Tổng dư Bên Có của tài khoản 331 trên Bảng cân đối kế toán."
+  },
+  {
+    "question": "Câu 19Tài khoản 138 (Phải thu khác) dùng để phản ánh các khoản phải thu nào?",
+    "options": [
+      "A.Các khoản phải thu không phát sinh từ hoạt động bán hàng.",
+      "B.Các khoản phải thu từ khách hàng chính thức.",
+      "C.Các khoản phải thu từ nhân viên trong công ty.",
+      "D.Các khoản phải thu từ các nhà cung cấp hàng hóa."
+    ],
+    "answer": "A.Các khoản phải thu không phát sinh từ hoạt động bán hàng."
+  },
+  {
+    "question": "Câu 20Doanh nghiệp cung cấp dịch vụ và nhận thanh toán từ khách hàng, doanh thu sẽ được ghi nhận như thế nào:",
+    "options": [
+      "A.Tài khoản 511.",
+      "B.Tài khoản 632.",
+      "C.Tài khoản 641.",
+      "D.Tài khoản 711."
+    ],
+    "answer": "A.Tài khoản 511."
+  },
+  {
+    "question": "Câu 21Trường hợp tăng/giảm Tài sản cố định - TK211, cần:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Kiểm tra việc tăng/giảm TSCĐ trên thuyết minh BCTC và trao đổi trực tiếp với NNT.",
+      "C.Kiểm tra việc tăng/giảm TSCĐ thông qua việc xác định lại nguyên gá TSCĐ.",
+      "D.Xem xét việc tăng/giảm TSCĐ thông qua các hoạt động đầu tư để hình thành TSCĐ."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 22Căn cứ xác định chỉ tiêu Nợ phải thu khó đòi (TK139) là:",
+    "options": [
+      "A.NNT theo dõi đầy đủ các khoản nợ theo từng độ tuổi, hợp đồng kinh tế, kèm theo hồ sơ khế ước, xác nhận nợ, bằng chứng NNT lâm vào tình trạng phá sản, đang làm thủ tục giải thể,…",
+      "B.NNT phát sinh số dư tài khoản Nợ phải thu khó đòi TK139 cần kiểm tra.",
+      "C.NNT trích lập dự phòng không phù hợp, đã hoàn nhập.",
+      "D.Không có đáp án nào đúng."
+    ],
+    "answer": "A.NNT theo dõi đầy đủ các khoản nợ theo từng độ tuổi, hợp đồng kinh tế, kèm theo hồ sơ khế ước, xác nhận nợ, bằng chứng NNT lâm vào tình trạng phá sản, đang làm thủ tục giải thể,…"
+  },
+  {
+    "question": "Câu 23Khi xác định Chi phí hao mòn tài sản cố định - TK214, phương án nào đúng:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.NNT áp dụng phương pháp khấu hao đường thẳng cần căn cứ vào thuyết minh BCTC để xác định thời gian khấu hao bình quân cho từng loại TSCĐ; đồng thời so sánh thời gian khấu hao tối thiểu theo quy định để ước tính mức khấu hao NNT trích có phù hợp hay không.",
+      "C.NNT không áp dụng phương pháp khấu hao đường thẳng thì tùy trường hợp cụ thể căn cứ vào thuyết minh BCTC để xác định từng loại TSCĐ, đồng thời so sánh với quy định có liên quan để ước lượng mức khấu hao NNT trích có phù hợp không.",
+      "D.Trường hợp TSCĐ vô hình là quyền sử dụng đất lâu dài; công trình, nhà xây dựng trên đất không thuộc quyền sở hữu của NNT; xe ô tô chở người từ 9 chỗ ngồi trở xuống, tàu bay dân dụng và du thuyền không sử dụng cho mục đc kinh doanh có nguyên giá vượt trên 1,6 tỷ đồng thì cần xem xét việc trích khấu hao có phù hợp với quy định pháp luật thuế TNDN hay không."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 24Doanh nghiệp không ghi nhận khoản phải thu từ khách hàng khi:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng",
+      "B.Doanh nghiệp đã ký hợp đồng, chưa giao hàng;",
+      "C.Doanh nghiệp đã ký hợp đồng, khách hàng đặt cọc tiền trước;",
+      "D.Doanh nghiệp đã giao hàng, khách hàng đã thanh toán qua ngân hàng;"
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng"
+  },
+  {
+    "question": "Câu 25Phương án nào sau đây là không đúng khi xác định rủi ro chỉ tiêu hao mòn tài sản cố định (TK214):",
+    "options": [
+      "A.NNT áp dụng phương pháp khấu hao đường thẳng cần căn cứ vào thời gian khấu hao bình quân cho từng loại TSCĐ;",
+      "B.NNT không áp dụng phương pháp khấu hao đường thẳng thì tùy trường hợp cụ thể căn cứ vào thuyết minh BCTC để xác định từng loại TSCĐ, đồng thời so sánh với quy định có liên quan để ước lượng mức khấu hao NNT trích có phù hợp không.",
+      "C.Trường hợp TSCĐ là xe ô tô chở người từ 16 chỗ ngồi trở xuống, tàu bay dân dụng và du thuyền không sử dụng cho mục đc kinh doanh có nguyên giá vượt trên 1,6 tỷ đồng thì cần xem xét việc trích khấu hao có phù hợp với quy định pháp luật thuế TNDN hay không.",
+      "D.NNT áp dụng phương pháp khấu hao đường thẳng cần căn cứ vào thời gian khấu hao bình quân cho từng loại TSCĐ; đồng thời so sánh thời gian khấu hao tối thiểu theo quy định để ước tính mức khấu hao NNT trích có phù hợp hay không."
+    ],
+    "answer": "A.NNT áp dụng phương pháp khấu hao đường thẳng cần căn cứ vào thời gian khấu hao bình quân cho từng loại TSCĐ;"
+  },
+  {
+    "question": "Câu 26Các phương án dưới đây đều đúng khi doanh nghiệp thực hiện trích lập dự phòng phải thu khó đòi, ngoại trừ:",
+    "options": [
+      "A.Doanh nghiệp ghi nhận khoản dự phòng phải thu khó đòi vào chi phí tài chính.",
+      "B.Doanh nghiệp trích lập dự phòng phải thu khó đòi vào tài khoản 229.",
+      "C.Doanh nghiệp ghi giảm số dư tài khoản 131 khi khoản nợ khó đòi không thể thu hồi.",
+      "D.Doanh nghiệp điều chỉnh lại dự phòng phải thu khó đòi khi thu hồi được nợ xấu."
+    ],
+    "answer": "A.Doanh nghiệp ghi nhận khoản dự phòng phải thu khó đòi vào chi phí tài chính."
+  },
+  {
+    "question": "Câu 27Các phương án dưới đây đều đúng khi xử lý các khoản phải thu khó đòi của khách hàng, ngoại trừ:",
+    "options": [
+      "A.Doanh nghiệp có thể giảm số dư tài khoản 131 khi xử lý khoản phải thu khó đòi bằng cách ghi nhận vào tài khoản nợ xấu.",
+      "B.Doanh nghiệp cần đánh giá từng khoản phải thu để quyết định trích lập dự phòng.",
+      "C.Doanh nghiệp ghi nhận khoản phải thu khó đòi vào chi phí dự phòng khi số dư tài khoản 131 lớn hơn số tiền thực tế có thể thu hồi.",
+      "D.Doanh nghiệp có thể ghi giảm tài khoản 131 và phản ánh vào tài khoản thu nhập khác."
+    ],
+    "answer": "D.Doanh nghiệp có thể ghi giảm tài khoản 131 và phản ánh vào tài khoản thu nhập khác."
+  },
+  {
+    "question": "Câu 28Khi doanh nghiệp mua hàng hóa theo hình thức trả góp (đã nhận hàng nhưng chưa trả tiền). Doanh nghiệp cần ghi nhận:",
+    "options": [
+      "A.Nợ TK 156, Nợ TK 133, Có TK 111/112 và có TK 331",
+      "B.Nợ tài khoản 331, có tài khoản 111 và tài khoản thuế GTGT.",
+      "C.Nợ tài khoản 111, có tài khoản 331 và các tài khoản chi phí.",
+      "D.Nợ tài khoản 156 và tài khoản 133, Có tài khoản 331;"
+    ],
+    "answer": "D.Nợ tài khoản 156 và tài khoản 133, Có tài khoản 331;"
+  },
+  {
+    "question": "Câu 29Khi xác định rủi ro chỉ tiêu Chi phí trả trước (TK335), phương án nào sau đây là đúng:",
+    "options": [
+      "A.Nội dung trích trước; Căn cứ trích trước; Hồ sơ chứng từ kèm theo (nếu có).",
+      "B.Chi phí trích trước theo kỳ hạn mà đến hạn đã chi.",
+      "C.Chi phí trích trước phù hợp với doanh thu.",
+      "D.Chi phí trích theo kỳ hạn mà đến hạn đã chi."
+    ],
+    "answer": "A.Nội dung trích trước; Căn cứ trích trước; Hồ sơ chứng từ kèm theo (nếu có)."
+  },
+  {
+    "question": "Câu 30Khi xác định rủi ro từ các khoản trích kinh phí công đoàn, quỹ bảo hiểm xã hội, quỹ bảo hiểm thất nghiệp, phương án nào sau đây là đúng:",
+    "options": [
+      "A.Khoản trích có phù hợp với các quy định hay không.",
+      "B.Người nộp thuế còn nợ Cơ quan thuế.",
+      "C.Người nộp thuế còn nợ Cơ quan giám sát bảo hiểm.",
+      "D.Người nộp thuế còn nợ Công ty bảo hiểm."
+    ],
+    "answer": "A.Khoản trích có phù hợp với các quy định hay không."
+  },
+  {
+    "question": "Câu 31Doanh nghiệp kinh doanh bất động sản có thể phát sinh rủi ro ghi nhận doanh thu tính thuế GTGT như nào?",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Không ghi nhận doanh thu tính thuế GTGT khi thu tiền theo tiến độ.",
+      "C.Không ghi nhận doanh thu tính thuế GTGT khi thu tiền trước của khách hàng.",
+      "D.Chỉ ghi nhận doanh thu tính thuế GTGT khi đã bàn giao bất động sản cho khách hàng."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 32Khi xác định rủi ro đối với khoản trích lập dự phòng tổn thất các khoản đầu tư, cần lưu ý những nội dung nào",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Thời điểm trích lập dự phòng tổn thất các khoản đầu tư.",
+      "C.Mức trích lập dự phòng tổn thất các khoản đầu tư.",
+      "D.Đối tượng trích lập dự phòng tổn thất các khoản đầu tư."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 33Mức trích lập dự phòng đối với nợ phải thu quá hạn thanh toán:",
+    "options": [
+      "A.30% giá trị đối với khoản nợ phải thu quá hạn từ 6 tháng đến dưới 1 năm.",
+      "B.50% giá trị đối với khoản nợ phải thu quá hạn từ 6 tháng đến dưới 1 năm.",
+      "C.70% giá trị đối với khoản nợ phải thu quá hạn từ 6 tháng đến dưới 1 năm.",
+      "D.100% giá trị đối với khoản nợ phải thu từ 6 tháng đến dưới 1 năm."
+    ],
+    "answer": "A.30% giá trị đối với khoản nợ phải thu quá hạn từ 6 tháng đến dưới 1 năm."
+  },
+  {
+    "question": "Câu 34Khi xác định rủi ro các khoản phải trả khác (TK3388), phương án nào sau đây là đúng:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Yêu cầu người nộp thuế giải thích, làm rõ số dư Có tài khoản 3388.",
+      "C.Tài khoản 3388 liên quan đến doanh thu tính thuế.",
+      "D.Tài khoản 3388 liên quan đến chi phí được trừ trong kỳ tính thuế."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 35Khi xác định rủi ro từ chi phí khấu hao tài sản cố định trong kỳ, phương án nào sau đây đúng:",
+    "options": [
+      "A.Việc xác định thời gian trích khấu hao tài sản cố định của doanh nghiệp",
+      "B.Việc phân loại tài sản cố định của doanh nghiệp.",
+      "C.Việc lựa chọn phương pháp khấu hao tài sản cố định của doanh nghiệp.",
+      "D.Tất cả các đáp án đều đúng."
+    ],
+    "answer": "D.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 36Khi phân tích tài khoản chi phí trả trước dài hạn (TK242), trường hợp nào sau đây ghi nhận chi phí trả trước dài hạn không đúng:",
+    "options": [
+      "A.Chi phí xây lắp, cải tạo để nâng cao công suất của tài sản cố định.",
+      "B.Chi phí công cụ, dụng cụ sử dụng trong nhiều kỳ.",
+      "C.Chi phí mua bảo hiểm trả trước cho nhiều năm.",
+      "D.Chi phí sửa chữa tài sản cố định."
+    ],
+    "answer": "A.Chi phí xây lắp, cải tạo để nâng cao công suất của tài sản cố định."
+  },
+  {
+    "question": "Câu 37Khi xem xét tài khoản giá vốn hàng bán (TK 632) trường hợp nào sau đây ghi nhận giá vốn hàng bán không đúng:",
+    "options": [
+      "A.Tất cả các phương án đều đúng.",
+      "B.Ghi nhận giá vốn hàng bán không tương ứng với doanh thu bán hàng hóa trong kỳ.",
+      "C.Ghi nhận các khoản tổn thất không rõ nguyên nhân vào giá vốn hàng bán trong kỳ.",
+      "D.Ghi nhận chi phí nguyên vật liệu không có đầy đủ hóa đơn, chứng từ vào giá vốn hàng bán trong kỳ."
+    ],
+    "answer": "A.Tất cả các phương án đều đúng."
+  },
+  {
+    "question": "Câu 38Khi xác định rủi ro chỉ tiêu Dự phòng bảo hành sản phẩm hàng hóa, công trình xây lắp (TK352), phương án nào sau đây là đúng:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Chi tiết sản phẩm, hàng hóa công trình xây lắp do người nộp thuế thực hiện và đã bán, hoặc bàn giao trong niên độ có cam kết bảo hành.",
+      "C.Mức trích dự phòng do từng sản phẩm, hàng hóa, công trình xây lắp.",
+      "D.Thời hạn bảo hành cho từng sản phẩm, hàng hóa, công trình xây lắp đã trích ở các niên độ trước, số thực chi, số dư còn lại."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 39Khi xác định rủi ro chỉ tiêu trích quỹ phát triển khoa học và công nghệ (TK356), phương án nào sau đây là đúng:",
+    "options": [
+      "A.Việc trích lập và thủ tục thông báo có phù hợp với quy định của Luật thuế TNDN và các văn bản có liên quan không (mọi trường hợp NNT có dấu hiệu khai quyết toán thuế TNDN không phù hợp đều dẫn đến có dấu hiệu xác định sai việc trích lập quỹ phát triển khoa học & công nghệ.",
+      "B.Việc lập đảm bảo đúng với quy định của Luật Khoa học công nghệ.",
+      "C.Điều kiện trích lập có phù hợp với quy định của Luật Thuế TNDN",
+      "D.Điều kiện trích lập phù hợp với quy định của Luật Khoa học công nghệ."
+    ],
+    "answer": "A.Việc trích lập và thủ tục thông báo có phù hợp với quy định của Luật thuế TNDN và các văn bản có liên quan không (mọi trường hợp NNT có dấu hiệu khai quyết toán thuế TNDN không phù hợp đều dẫn đến có dấu hiệu xác định sai việc trích lập quỹ phát triển khoa học & công nghệ."
+  },
+  {
+    "question": "Câu 40Khi kiểm tra rủi ro chỉ tiêu chênh lệch tỷ giá (TK413), phương án nào sau đây là đúng:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Kiểm tra chi tiết các khoản đánh giá lại các khoản mục tiền có gốc ngoại tệ.",
+      "C.Đối chiếu với pháp luật về kế toán để xác định sự phù hợp theo quy về của Thuế TNDN.",
+      "D.Chênh lệch đánh giá lại các khoản mục tiền tệ cuối kỳ đã hạch toán vào chi phí đúng quy định không."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 41Khi kiểm tra rủi ro tài khoản 331, phương án nào sau đây là đúng:",
+    "options": [
+      "A.Sổ chi tiết theo từng khách hàng và hợp đồng kinh tế để xác định thời hạn trả chậm.",
+      "B.Chi tiết tài khoản 331 theo nhóm khách hàng.",
+      "C.Chi tiết tài khoản 331 đối với các khách hàng lớn.",
+      "D.Hợp đồng kinh tế xác định thời gian trả trước tiền hàng."
+    ],
+    "answer": "A.Sổ chi tiết theo từng khách hàng và hợp đồng kinh tế để xác định thời hạn trả chậm."
+  },
+  {
+    "question": "Câu 42Khi kiểm tra rủi ro trường hợp chênh lệch phát sinh Có tài khoản 511 so với doanh thu kê khai thuế GTGT, phương án nào sau đây là đúng:",
+    "options": [
+      "A.Xem xét các khoản giảm trừ doanh thu, các khoản doanh thu chi nhánh hạch toán phụ thuộc, các khoản liên quan đến doanh thu thuộc trường hợp lập hóa đơn khai thuế GTGT nhưng hạch toán vào TK khác",
+      "B.Các khoản doanh thu của chính nhánh độc lập.",
+      "C.Các khoản doanh thu khác",
+      "D.Các khoản xuất dùng nội bộ"
+    ],
+    "answer": "A.Xem xét các khoản giảm trừ doanh thu, các khoản doanh thu chi nhánh hạch toán phụ thuộc, các khoản liên quan đến doanh thu thuộc trường hợp lập hóa đơn khai thuế GTGT nhưng hạch toán vào TK khác"
+  },
+  {
+    "question": "Câu 43Rủi ro trường hợp chênh lệch phát sinh Có tài khoản 511 so với doanh thu tính thuế GTGT trên tờ khai, phương án nào sau đây là đúng:",
+    "options": [
+      "A.Xem xét các khoản liên quan đến doanh thu thuộc trường hợp lập hóa đơn khai thuế GTGT nhưng hạch toán vào các tài khoản 711, 515, 3387,…",
+      "B.Xem xét các khoản không liên quan đến doanh thu.",
+      "C.Các khoản doanh thu hàng khuyến mại đúng quy định của pháp luật.",
+      "D.Các khoản xuất tiêu dùng nội bộ."
+    ],
+    "answer": "A.Xem xét các khoản liên quan đến doanh thu thuộc trường hợp lập hóa đơn khai thuế GTGT nhưng hạch toán vào các tài khoản 711, 515, 3387,…"
+  },
+  {
+    "question": "Câu 44Rủi ro khi số phát sinh Có tài khoàn 112 lớn hơn tài khoản 331, phương án nào sau đây là đúng:",
+    "options": [
+      "A.Xem xét các khoản thanh toán bằng tiền mặt đối với hóa đơn từ 05 triệu đồng trở lên. Các hợp đồng kinh tế và các hồ sơ đối chiếu công nợ đối với trường hợp thanh toán bù trừ.",
+      "B.Xem xét các khoản thanh toán qua tổ chức trung gian thanh toán.",
+      "C.Xem xét các khoản thanh toán bằng tiền mặt dưới 05 triệu đồng.",
+      "D.Xem xét các khoản thanh toán qua thẻ visa."
+    ],
+    "answer": "A.Xem xét các khoản thanh toán bằng tiền mặt đối với hóa đơn từ 05 triệu đồng trở lên. Các hợp đồng kinh tế và các hồ sơ đối chiếu công nợ đối với trường hợp thanh toán bù trừ."
+  },
+  {
+    "question": "Câu 45Rủi ro khi số phát sinh Có tài khoàn 711 lớn, phương án nào sau đây là đúng:",
+    "options": [
+      "A.Xem xét các khoản thu hỗ trợ có thuộc doanh thu chịu thuế GTGT không, có lập hóa đơn khai thuế GTGT không.",
+      "B.Xem xét các khoản thanh lý sản phẩm, hàng hóa không xuất hóa đơn.",
+      "C.Xem xét các khoản thanh lý tài sản có xuất hóa đơn không tính thuế.",
+      "D.Xem xét các khoản thanh lý phế liệu, phế phẩm không xuất hóa đơn."
+    ],
+    "answer": "A.Xem xét các khoản thu hỗ trợ có thuộc doanh thu chịu thuế GTGT không, có lập hóa đơn khai thuế GTGT không."
+  },
+  {
+    "question": "Câu 46Phân tích nội dung Báo cáo kết quả hoạt động kinh doanh nhằm mục tiêu:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Phân tích chỉ tiêu chi phí tài chính nhằm xem xét biến động chi phí lãi vay và các khoản chênh lệch tỷ giá hối đoái.",
+      "C.Phân tích biến động của chi phí bán hàng và chi phí quản lý doanh nghiệp",
+      "D.Phân tích chi phí thuế thu nhập hoãn lại nếu phát sinh."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 47Mục tiêu phân tích cơ cấu Tài sản/Nguồn vốn, biến động của Vốn chủ sở hữu phản ánh là:",
+    "options": [
+      "A.Sự biến động của Vốn chủ sở hữu bao gồm: Chênh lệch đánh giá lại tài sản, Lợi nhuận sau thuế chưa phân phối, Bổ sung vốn của các chủ sở hữu,…",
+      "B.Sự biến động của Vốn chủ sở hữu không bao gồm vốn đi chiếm dụng trong hoạt động kinh doanh.",
+      "C.Sự biến động nợ phải trả không bao gồm vốn đi chiếm dụng.",
+      "D.Sự biến động của Vốn chủ sở hữu không làm tăng chi phí vốn."
+    ],
+    "answer": "A.Sự biến động của Vốn chủ sở hữu bao gồm: Chênh lệch đánh giá lại tài sản, Lợi nhuận sau thuế chưa phân phối, Bổ sung vốn của các chủ sở hữu,…"
+  },
+  {
+    "question": "Câu 48Ngoài bộ BCTC, Bảng cân đối số phát sinh do NNT cung cấp phản ánh",
+    "options": [
+      "A.Bảng cân đối số phát sinh là tổng hợp chung tình hình các nghiệp vụ kinh tế phát sinh trong một kỳ của doanh nghiệp.",
+      "B.Số liệu trên Bảng cân đối số phát sinh là số liệu chi tiết từng giao dịch kinh tế.",
+      "C.Số liệu trên Bảng cân đối số phát sinh không sử dụng để so sánh cùng kỳ kế toán.",
+      "D.Sự biến động của số liệu trên Bảng cân đối số phát sinh không phản ánh tình hình kinh doanh của doanh nghiệp."
+    ],
+    "answer": "A.Bảng cân đối số phát sinh là tổng hợp chung tình hình các nghiệp vụ kinh tế phát sinh trong một kỳ của doanh nghiệp."
+  },
+  {
+    "question": "Câu 49Nguyên tắc lập BCTC là:",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Hoạt động liên tục, lập trên cơ sở dồn tích.",
+      "C.Nhất quán giữa kỳ này với kỳ khác, doanh nghiệp này với doanh nghiệp khác.",
+      "D.Trọng yếu và tập hợp, bù trừ, có thể so sánh."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 50Đối với doanh nghiệp nhà nước, đơn vị kế toán phải nộp Báo cáo tài chính năm chậm nhất là:",
+    "options": [
+      "A.30 ngày, kể từ ngày kết thúc ký kế toán năm; Đối với công ty me, Tổng công ty chậm nhất là 90 ngày.",
+      "B.35 ngày, kể từ ngày kết thúc ký kế toán năm; Đối với công ty me, Tổng công ty chậm nhất là 90 ngày.",
+      "C.45 ngày, kể từ ngày kết thúc ký kế toán năm; Đối với công ty me, Tổng công ty chậm nhất là 90 ngày.",
+      "D.45 ngày, kể từ ngày kết thúc ký kế toán năm; Đối với công ty me, Tổng công ty chậm nhất là 90 ngày."
+    ],
+    "answer": "A.30 ngày, kể từ ngày kết thúc ký kế toán năm; Đối với công ty me, Tổng công ty chậm nhất là 90 ngày."
+  },
+  {
+    "question": "Câu 51Kể từ ngày kết thúc kỳ kế toán, Báo cáo tài chính hợp nhất giữa niên độ phải nộp cho các chủ sở hữu và các cơ quan quản lý Nhà nước có thẩm quyền chậm nhất là:",
+    "options": [
+      "A.45 ngày.",
+      "B.50 ngày.",
+      "C.60 ngày.",
+      "D.90 ngày."
+    ],
+    "answer": "A.45 ngày."
+  },
+  {
+    "question": "Câu 52Kỳ báo cáo của Báo cáo tài chính:",
+    "options": [
+      "A.Tất cả các đáp án trên.",
+      "B.Dài hơn 1 năm dương lịch.",
+      "C.Ngắn hơn 1 năm dương lịch.",
+      "D.Kỳ kế toán năm."
+    ],
+    "answer": "A.Tất cả các đáp án trên."
+  },
+  {
+    "question": "Câu 53Bảng CĐKT là báo cáo tài chính tổng hợp:",
+    "options": [
+      "A.Phản ánh toàn bộ giá trị tài sản của doanh nghiệp hiện có và nguồn hình thành tài sản đó tại thời điểm nhất định.",
+      "B.Phản ánh tình hình và kết quả hoạt động kinh doanh của doanh nghiệp.",
+      "C.Cung cấp thông tin đánh giá các thay đổi trong tài sản thuầntrong quá trình hoạt động",
+      "D.Mô tả mang tính giải thích, tường trình hoặc phân tích chi tiết các số liệu."
+    ],
+    "answer": "A.Phản ánh toàn bộ giá trị tài sản của doanh nghiệp hiện có và nguồn hình thành tài sản đó tại thời điểm nhất định."
+  },
+  {
+    "question": "Câu 54Khi xác định rủi ro chỉ tiêu trích và sử dụng quỹ phát triển khoa học và công nghệ (TK356), phương án nào sau đây là đúng",
+    "options": [
+      "A.Việc sử dụng phải phù hợp với quy định của Luật thuế TNDN và Thông tư số 15/2011/TT-BTC (áp dụng từ năm 2011).",
+      "B.Việc sử dụng phải phù hợp với quy định của Luật Khoa học công nghệ",
+      "C.Việc sử dụng phải phù hợp với quy định của Luật Quản lý thuế",
+      "D.Việc sử dụng phải phù hợp với quy định của Bộ Tài chính"
+    ],
+    "answer": "A.Việc sử dụng phải phù hợp với quy định của Luật thuế TNDN và Thông tư số 15/2011/TT-BTC (áp dụng từ năm 2011)."
+  },
+  {
+    "question": "Câu 55Khi phân tích rủi ro trích lập dự phòng giảm giá hàng tồn kho, nội dung nào sau đây cần được xem xét",
+    "options": [
+      "A.Tất cả các đáp án đều đúng.",
+      "B.Việc trích lập có căn cứ theo giá gốc và giá trị thuần có thể thực hiện được.",
+      "C.Doanh nghiệp có trích lập đúng theo quy định của pháp luật.",
+      "D.Hồ sơ, tài liệu để xác định giá trị thuần có thể thực hiện được."
+    ],
+    "answer": "A.Tất cả các đáp án đều đúng."
+  },
+  {
+    "question": "Câu 56Khi phân tích rủi ro về chi phí tài chính, chi phí tài chính nào được ghi nhận là chi phí được trừ khi xác định thuế TNDN.",
+    "options": [
+      "A.Không có đáp án nào đúng.",
+      "B.Tất cả các khoản chi phí lãi vay phát sinh thực tế trong kỳ.",
+      "C.Các khoản chi phí lãi vay trong giai đoạn đầu tư, chưa phát sinh doanh thu.",
+      "D.Lỗ chênh lệch tỷ giá đối với các khoản nợ phải thu và khoản cho vay có gốc ngoại tế phát sinh trong kỳ."
+    ],
+    "answer": "A.Không có đáp án nào đúng."
+  },
+  {
+    "question": "Câu 57Khi nhà cung cấp giảm giá hàng hóa sau khi phát hành hóa đơn, doanh nghiệp cần điều chỉnh tài khoản 331 như thế nào?",
+    "options": [
+      "A.Ghi giảm tài khoản 331 theo số tiền giảm giá.",
+      "B.Ghi tăng tài khoản 331 và ghi nhận vào chi phí bán hàng.",
+      "C.Ghi giảm tài khoản 156 (Hàng hóa).",
+      "D.Ghi nhận vào tài khoản thuế GTGT"
+    ],
+    "answer": "A.Ghi giảm tài khoản 331 theo số tiền giảm giá."
+  },
+  {
+    "question": "Câu 58Doanh nghiệp thanh toán tiền cho nhà cung cấp sau khi đã được giảm giá. Phương án nào dưới đây là đúng?",
+    "options": [
+      "A.Ghi giảm số dư tài khoản 331 và ghi nhận vào tài khoản giảm giá hàng bán. (giảm giá hàng mua)",
+      "B.Ghi tăng số dư tài khoản 331 và ghi nhận vào tài khoản thuế GTGT phải nộp.",
+      "C.Ghi giảm tài khoản 331 và ghi nhận vào tài khoản chi phí bán hàng.",
+      "D.Ghi tăng tài khoản 331 và ghi nhận vào tài khoản nợ phải trả"
+    ],
+    "answer": "A.Ghi giảm số dư tài khoản 331 và ghi nhận vào tài khoản giảm giá hàng bán. (giảm giá hàng mua)"
+  },
+  {
+    "question": "Câu 59Khi doanh nghiệp mua nguyên vật liệu về nhập kho và chưa thanh toán, ghi nhận bút toán nào?",
+    "options": [
+      "A.Nợ tài khoản 152 (Nguyên liệu, vật liệu); nợ TK 133 (thuế GTGT đầu vào được khấu trừ), có tài khoản 331 (Phải trả cho người bán).",
+      "B.Nợ tài khoản 155 (Hàng hóa), có tài khoản 331 (Phải trả cho người bán).",
+      "C.Nợ tài khoản 154 (Chi phí trả trước dài hạn), có tài khoản 331.",
+      "D.Nợ tài khoản 138 (Phải thu khác), có tài khoản 331"
+    ],
+    "answer": "A.Nợ tài khoản 152 (Nguyên liệu, vật liệu); nợ TK 133 (thuế GTGT đầu vào được khấu trừ), có tài khoản 331 (Phải trả cho người bán)."
+  },
+  {
+    "question": "Câu 60Doanh nghiệp được trích lập dự phòng giảm giá hàng tồn kho trong trường hợp nào?",
+    "options": [
+      "A.Khi giá trị thuần có thể thực hiện được của hàng tồn kho thấp hơn giá gốc ghi sổ kế toán, doanh nghiệp phải trích lập dự phòng phần chênh lệch để phản ánh đúng giá trị thực tế có thể thu hồi của hàng tồn kho tại thời điểm lập báo cáo tài chính.",
+      "B.Khi doanh nghiệp muốn giảm lợi nhuận chịu thuế.",
+      "C.Khi hàng tồn kho được bán chậm hơn kế hoạch.",
+      "D.Khi có quyết định thanh lý hàng tồn kho."
+    ],
+    "answer": "A.Khi giá trị thuần có thể thực hiện được của hàng tồn kho thấp hơn giá gốc ghi sổ kế toán, doanh nghiệp phải trích lập dự phòng phần chênh lệch để phản ánh đúng giá trị thực tế có thể thu hồi của hàng tồn kho tại thời điểm lập báo cáo tài chính."
+  },
+  {
+    "question": "Câu 61Khoản dự phòng phải thu khó đòi được ghi nhận như thế nào trên báo cáo tài chính?",
+    "options": [
+      "A.Dự phòng phải thu khó đòi được ghi nhận vào chi phí quản lý doanh nghiệp trên Báo cáo kết quả hoạt động kinh doanh và được phản ánh giảm giá trị khoản phải thu trên Bảng cân đối kế toán theo đúng quy định của Thông tư 200/2014/TT-BTC.",
+      "B.Ghi tăng doanh thu hoạt động tài chính.",
+      "C.Ghi giảm vốn chủ sở hữu.",
+      "D.Ghi nhận như một khoản vay nợ mới. Phương án A là phương án đúng"
+    ],
+    "answer": "A.Dự phòng phải thu khó đòi được ghi nhận vào chi phí quản lý doanh nghiệp trên Báo cáo kết quả hoạt động kinh doanh và được phản ánh giảm giá trị khoản phải thu trên Bảng cân đối kế toán theo đúng quy định của Thông tư 200/2014/TT-BTC."
+  }
+]

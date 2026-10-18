@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ôn Tập Trắc Nghiệm Thuế</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="app-header">
+            <h1>Hệ Thống Ôn Tập Trắc Nghiệm</h1>
+            <p class="subtitle">Kiến thức chuyên môn & quy trình nghiệp vụ</p>
+        </header>
+
+        <!-- Màn hình trang chủ / Chọn chủ đề -->
+        <section id="home-screen" class="card">
+            <h2>Chọn chủ đề ôn tập</h2>
+            <div class="control-row">
+                <select id="topic-select">
+                    <option value="">-- Đang tải danh sách chủ đề... --</option>
+                </select>
+                <!-- 2 Nút lựa chọn chế độ làm bài -->
+                <button id="btn-start-30" class="btn btn-primary" disabled>Làm 30 câu</button>
+                <button id="btn-start-all" class="btn btn-success" disabled>Làm toàn bộ</button>
+            </div>
+            <div id="topic-info" class="topic-meta"></div>
+        </section>
+
+        <!-- Màn hình làm bài -->
+        <section id="quiz-screen" class="hidden">
+            <div class="quiz-status-bar">
+                <div class="badge-topic" id="current-topic-name">Chủ đề</div>
+                <div class="score-tracker">
+                    Đúng: <span id="correct-count">0</span> / <span id="answered-count">0</span>
+                    (<span id="percent">0%</span>)
+                </div>
+            </div>
+
+            <!-- Danh sách câu hỏi sẽ hiển thị ở đây -->
+            <div id="questions-container"></div>
+
+            <!-- Nút điều hướng cuối bài -->
+            <div class="footer-actions">
+                <button id="btn-next-set" class="btn btn-primary">30 câu tiếp theo ↻</button>
+                <button id="btn-back-home" class="btn btn-secondary">Quay về chọn chủ đề ⌂</button>
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

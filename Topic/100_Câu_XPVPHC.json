@@ -1,0 +1,999 @@
+[
+  {
+    "question": "Câu 1Công ty A bán hàng hóa vào ngày 02/02/2026 nhưng đến ngày 15/02/2026 mới lập hóa đơn điện tử, dù hàng đã giao xong vào ngày 02/02/2026, số lượng hóa đơn xuất là 20 hóa đơn. Theo Nghị định 310/2025/NĐ-CP, hành vi này bị xử phạt như thế nào?",
+    "options": [
+      "A.Phạt tiền 3.500.000 đồng;",
+      "B.Phạt tiền 10.000.000 đồng;",
+      "C.Phạt tiền 22.500.000 đồng;",
+      "D.Phạt tiền 25.000.000 đồng."
+    ],
+    "answer": "C.Phạt tiền 22.500.000 đồng;"
+  },
+  {
+    "question": "Câu 2Theo Nghị định số 310/2025/NĐ-CP ngày 02/12/2025, đối với hành vi vi phạm hành chính về thuế, hóa đơn đã bị xử phạt trước ngày Nghị định số 310/2025/NĐ-CP ngày 02/12/2025 có hiệu lực mà cá nhân, tổ chức còn khiếu nại hoặc khởi kiện thì được giải quyết được thực hiện như thế nào?",
+    "options": [
+      "A.Áp dụng theo văn bản đang có hiệu lực tại thời điểm giải quyết khiếu nại, khởi kiện;",
+      "B.Giải quyết theo quy định của pháp luật xử phạt vi phạm hành chính về thuế và hóa đơn và các quy định pháp luật liên quan có hiệu lực tại thời điểm thực hiện hành vi vi phạm;",
+      "C.Giải quyết theo quy định có lợi nhất cho cá nhân, tổ chức vi phạm;",
+      "D.Áp dụng theo Nghị định số 310/2025/NĐ-CP ngày 02/12/2025."
+    ],
+    "answer": "B.Giải quyết theo quy định của pháp luật xử phạt vi phạm hành chính về thuế và hóa đơn và các quy định pháp luật liên quan có hiệu lực tại thời điểm thực hiện hành vi vi phạm;"
+  },
+  {
+    "question": "Câu 3Theo Nghị định 310/2025/NĐ-CP ngày 02 tháng 12 năm 2025, khi phạt tiền, mức phạt tiền cụ thể đối với một hành vi vi phạm thủ tục thuế, hóa đơn là mức trung bình của khung phạt tiền được quy định đối với hành vi đó. Nếu có một tình tiết giảm nhẹ thì được giảm 10% mức tiền phạt trung bình của khung tiền phạt; nếu có một tình tiết tăng nặng thì được tính tăng 10% mức tiền phạt trung bình của khung tiền phạt. Trong trường hợp có từ 02 tình tiết giảm nhẹ trở lên thì?",
+    "options": [
+      "A.Giảm 20% mức tiền phạt trung bình của khung tiền phạt;",
+      "B.Giảm 10% mức tiền phạt trung bình của khung tiền phạt đối với mỗi tình tiết giảm nhẹ;",
+      "C.Áp dụng mức tối thiểu của khung tiền phạt;",
+      "D.Tùy tính chất vụ việc, áp dụng từ mức tối thiểu của khung tiền phạt đến mức trung bình của khung tiền phạt."
+    ],
+    "answer": "C.Áp dụng mức tối thiểu của khung tiền phạt;"
+  },
+  {
+    "question": "Câu 4Theo Nghị định 125/2020/NĐ -CP ngày 19 tháng 10 năm 2020 và các các văn bản sửa đổi, bổ sung, thời hiệu thi hành quyết định xử phạt vi phạm hành chính về thuế, hóa đơn:",
+    "options": [
+      "A.01 năm, kể từ ngày ra quyết định xử phạt;",
+      "B.02 năm, kể từ ngày ra quyết định xử phạt;",
+      "C.03 năm, kể từ ngày ra quyết định xử phạt;",
+      "D.05 năm, kể từ ngày ra quyết định xử phạt."
+    ],
+    "answer": "A.01 năm, kể từ ngày ra quyết định xử phạt;"
+  },
+  {
+    "question": "Câu 5Theo Nghị định 310/2025/NĐ-CP ngày 02 tháng 12 năm 2025, nguyên tắc xử phạt nào là đúng nhất?",
+    "options": [
+      "A.Trường hợp cùng một thời điểm người nộp thuế khai sai một hoặc nhiều chỉ tiêu trên các hồ sơ thuế của cùng một sắc thuế thì hành vi khai sai thuộc trường hợp xử phạt về thủ tục thuế chỉ bị xử phạt về một hành vi khai sai chỉ tiêu trên hồ sơ thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện theo quy định tại Nghị định này và áp dụng tình tiết tăng nặng vi phạm nhiều lần;",
+      "B.Trường hợp cùng một thời điểm người nộp thuế khai sai một hoặc nhiều chỉ tiêu trên các hồ sơ thuế của cùng một sắc thuế thì hành vi khai sai thuộc trường hợp xử phạt về thủ tục thuế chỉ bị xử phạt về một hành vi khai sai chỉ tiêu trên hồ sơ thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện theo quy định tại Nghị định này;",
+      "C.Trường hợp cùng một ngày người nộp thuế khai sai một hoặc nhiều chỉ tiêu trên các hồ sơ thuế thì hành vi khai sai thuộc trường hợp xử phạt về thủ tục thuế chỉ bị xử phạt về một hành vi khai sai chỉ tiêu trên hồ sơ thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện theo quy định tại Nghị định này và áp dụng tình tiết tăng nặng vi phạm nhiều lần;",
+      "D.Trường hợp cùng một ngày người nộp thuế khai sai một hoặc nhiều chỉ tiêu trên các hồ sơ thuế thì hành vi khai sai thuộc trường hợp xử phạt về thủ tục thuế chỉ bị xử phạt về một hành vi khai sai chỉ tiêu trên hồ sơ thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện theo quy định tại Nghị định này."
+    ],
+    "answer": "D.Trường hợp cùng một ngày người nộp thuế khai sai một hoặc nhiều chỉ tiêu trên các hồ sơ thuế thì hành vi khai sai thuộc trường hợp xử phạt về thủ tục thuế chỉ bị xử phạt về một hành vi khai sai chỉ tiêu trên hồ sơ thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện theo quy định tại Nghị định này."
+  },
+  {
+    "question": "Câu 6Thời hiệu xử phạt đối với hành vi vi phạm thủ tục thuế là bao lâu?",
+    "options": [
+      "A.02 năm, kể từ ngày phát hiện hành vi vi phạm;",
+      "B.02 năm, kể từ ngày thực hiện hành vi vi phạm;",
+      "C.05 năm, kể từ ngày phát hiện hành vi vi phạm;",
+      "D.05 năm, kể từ ngày thực hiện hành vi vi phạm;"
+    ],
+    "answer": "B.02 năm, kể từ ngày thực hiện hành vi vi phạm;"
+  },
+  {
+    "question": "Câu 7Theo Nghị định 310/2025/NĐ-CP ngày 02 tháng 12 năm 2025, mức xử phạt đối với hành vi không lập hóa đơn đối với hàng biếu, tặng theo quy định, số lượng 30 hóa đơn, không có tình tiết tăng nặng, giảm nhẹ là bao nhiêu?",
+    "options": [
+      "A.Phạt tiền 1.500.000 đồng;",
+      "B.Phạt tiền 6.000.000 đồng;",
+      "C.Phạt tiền 10.000.000 đồng;",
+      "D.Phạt tiền 15.000.000 đồng;"
+    ],
+    "answer": "B.Phạt tiền 6.000.000 đồng;"
+  },
+  {
+    "question": "Câu 8Thời hạn được coi là chưa bị xử phạt vi phạm hành chính về thuế, hóa đơn đối với tổ chức, cá nhân bị xử phạt vi phạm hành chính về thuế, hóa đơn là bao lâu?",
+    "options": [
+      "A.Trong thời hạn 06 tháng, kể từ ngày chấp hành xong quyết định xử phạt cảnh cáo hoặc 02 năm kể từ ngày chấp hành xong quyết định xử phạt hành chính khác hoặc kể từ ngày hết thời hiệu thi hành quyết định xử phạt mà không tái phạm thì được coi là chưa bị xử phạt vi phạm hành chính về hành vi đó.",
+      "B.Trong thời hạn 01 năm kể từ ngày chấp hành xong quyết định xử phạt hành chính khác hoặc kể từ ngày hết thời hiệu thi hành quyết định xử phạt mà không tái phạm thì được coi là chưa bị xử phạt vi phạm hành chính về hành vi đó.",
+      "C.Trong thời hạn 06 tháng, kể từ ngày chấp hành xong quyết định xử phạt cảnh cáo hoặc 01 năm kể từ ngày chấp hành xong quyết định xử phạt hành chính khác hoặc kể từ ngày hết thời hiệu thi hành quyết định xử phạt mà không tái phạm thì được coi là chưa bị xử phạt vi phạm hành chính về hành vi đó.",
+      "D.Trong thời hạn 01 tháng, kể từ ngày chấp hành xong quyết định xử phạt cảnh cáo hoặc 01 năm kể từ ngày chấp hành xong quyết định xử phạt hành chính khác hoặc kể từ ngày hết thời hiệu thi hành quyết định xử phạt mà không tái phạm thì được coi là chưa bị xử phạt vi phạm hành chính về hành vi đó."
+    ],
+    "answer": "C.Trong thời hạn 06 tháng, kể từ ngày chấp hành xong quyết định xử phạt cảnh cáo hoặc 01 năm kể từ ngày chấp hành xong quyết định xử phạt hành chính khác hoặc kể từ ngày hết thời hiệu thi hành quyết định xử phạt mà không tái phạm thì được coi là chưa bị xử phạt vi phạm hành chính về hành vi đó."
+  },
+  {
+    "question": "Câu 9Theo Nghị định 310/2025/NĐ-CP ngày 02 tháng 12 năm 2025, Biên bản vi phạm hành chính điện tử phải có các nội dung nào sau đây?",
+    "options": [
+      "A.Ghi rõ thời gian, địa điểm lập biên bản;",
+      "B.Thông tin về người lập biên bản; thông tin về cá nhân, tổ chức vi phạm; chữ ký số của người lập biên bản;",
+      "C.Thời gian, địa điểm thực hiện vi phạm; hành vi vi phạm hành chính; quyền và thời hạn giải trình về vi phạm hành chính của người vi phạm; cơ quan tiếp nhận giải trình;",
+      "D.Tất cả các nội dung trên"
+    ],
+    "answer": "D.Tất cả các nội dung trên"
+  },
+  {
+    "question": "Câu 10Sử dụng hóa đơn, chứng từ trong các trường hợp sau đây là hành vi sử dụng không hợp pháp hóa đơn, chứng từ:",
+    "options": [
+      "A.Hóa đơn, chứng từ không ghi đầy đủ các nội dung bắt buộc theo quy định; hóa đơn tẩy xóa, sửa chữa không đúng quy định",
+      "B.Hóa đơn, chứng từ khống (hóa đơn, chứng từ đã ghi các chỉ tiêu, nội dung nghiệp vụ kinh tế nhưng việc mua bán hàng hóa, dịch vụ không có thật một phần hoặc toàn bộ); hóa đơn phản ánh không đúng giá trị thực tế phát sinh hoặc lập hóa đơn khống, lập hóa đơn giả",
+      "C.Hóa đơn, chứng từ của tổ chức, cá nhân khác (trừ hóa đơn của cơ quan thuế và trường hợp được ủy nhiệm lập hóa đơn) để hợp thức hóa hàng hóa, dịch vụ mua vào hoặc hàng hóa, dịch vụ bán ra;",
+      "D.Tất cả các đáp án trên đều đúng"
+    ],
+    "answer": "D.Tất cả các đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 11Đến 28/02/2026, Nghị định số 125/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định xử phạt vi phạm hành chính về thuế, hóa đơn đã được sửa đổi, bổ sung bởi",
+    "options": [
+      "A.Nghị định số 118/2021/NĐ-CP ngày 23/12/2021",
+      "B.Nghị định 102/2021/NĐ-CP ngày 16/ 11/ 2021",
+      "C.Nghị định 310/2025/NĐ-CP ngày 02/ 12/ 2025",
+      "D.Nghị định 102/2021/NĐ-CP ngày 16/1/2021 và Nghị định 310/2025/NĐ-CP ngày 02/12/2025"
+    ],
+    "answer": "D.Nghị định 102/2021/NĐ-CP ngày 16/1/2021 và Nghị định 310/2025/NĐ-CP ngày 02/12/2025"
+  },
+  {
+    "question": "Câu 12Hành vi cung cấp hồ sơ, tài liệu, hóa đơn, chứng từ, sổ kế toán liên quan đến nghĩa vụ thuế quá thời hạn 06 giờ làm việc, kể từ khi nhận được yêu cầu của cơ quan có thẩm quyền trong thời gian kiểm tra tại trụ sở người nộp thuế, bị xử phạt bao nhiêu?",
+    "options": [
+      "A.Phạt cảnh cáo",
+      "B.Phạt tiền 3.000.000 đồng",
+      "C.Phạt tiền 3.500.000 đồng",
+      "D.Phạt tiền 7.500.000 đồng"
+    ],
+    "answer": "C.Phạt tiền 3.500.000 đồng"
+  },
+  {
+    "question": "Câu 13Theo Nghị định 310/2025/NĐ-CP, trường hợp bất khả kháng trong xử phạt vi phạm hành chính về thuế bao gồm trường hợp nào?",
+    "options": [
+      "A.Thiên tai, thảm họa, dịch bệnh, hỏa hoạn, tai nạn bất ngờ;",
+      "B.Chiến tranh, bạo loạn, đình công;",
+      "C.Sự kiện xảy ra một cách khách quan không thể lường trước được và người nộp thuế không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép;",
+      "D.Tất cả các đáp án trên đều đúng."
+    ],
+    "answer": "D.Tất cả các đáp án trên đều đúng."
+  },
+  {
+    "question": "Câu 14Theo Luật Xử lý vi phạm hành chính, trong trường hợp thông thường, thời hạn ra quyết định xử phạt vi phạm hành chính kể từ ngày lập biên bản là bao lâu?",
+    "options": [
+      "A.5 ngày",
+      "B.5 ngày làm việc",
+      "C.7 ngày",
+      "D.7 ngày làm việc"
+    ],
+    "answer": "D.7 ngày làm việc"
+  },
+  {
+    "question": "Câu 15Đối với người nộp thuế không đăng ký thuế, khi phát hiện hành vi vi phạm thì thời hạn truy thu toàn bộ số tiền thuế thiếu, thuế trốn và tiền chậm nộp được xác định như thế nào?",
+    "options": [
+      "A.Toàn bộ thời gian trở về trước, kể từ ngày phát hiện hành vi vi phạm;",
+      "B.Tối đa 10 năm trở về trước, kể từ ngày phát hiện hành vi vi phạm;",
+      "C.Tối đa 5 năm trở về trước, kể từ ngày phát hiện hành vi vi phạm;",
+      "D.Truy thu theo thời hiệu xử phạt vi phạm hành chính."
+    ],
+    "answer": "A.Toàn bộ thời gian trở về trước, kể từ ngày phát hiện hành vi vi phạm;"
+  },
+  {
+    "question": "Câu 16Theo quy định, ngày chấp hành xong quyết định xử phạt cảnh cáo được xác định là ngày nào?",
+    "options": [
+      "A.Ngày quyết định xử phạt có hiệu lực pháp luật;",
+      "B.Ngày tổ chức, cá nhân ký vào biên bản vi phạm hành chính;",
+      "C.Ngày hết thời hạn khiếu nại quyết định xử phạt;",
+      "D.Ngày quyết định xử phạt vi phạm hành chính được giao hoặc gửi cho tổ chức, cá nhân bị xử phạt."
+    ],
+    "answer": "D.Ngày quyết định xử phạt vi phạm hành chính được giao hoặc gửi cho tổ chức, cá nhân bị xử phạt."
+  },
+  {
+    "question": "Câu 17Theo quy định tại Nghị định 68/2025/NĐ-CP, cá nhân, tổ chức tiếp tục thực hiện hành vi vi phạm hành chính mà trước đó đã bị xử phạt hoặc chưa bị xử phạt đối với hành vi vi phạm được quy định tại các điểm trong cùng một khoản hoặc các khoản trong cùng một điều, dù mức độ vi phạm hoặc hậu quả gắn với mức phạt khác nhau, thì được xác định như thế nào?",
+    "options": [
+      "A.Được coi là vi phạm cùng một hành vi để xác định tái phạm hoặc vi phạm hành chính nhiều lần",
+      "B.Chỉ được coi là tái phạm khi đã bị xử phạt trước đó;",
+      "C.Chỉ coi là vi phạm nhiều lần nếu xảy ra trong cùng một năm.",
+      "D.Là các hành vi vi phạm khác nhau, xử phạt độc lập."
+    ],
+    "answer": "A.Được coi là vi phạm cùng một hành vi để xác định tái phạm hoặc vi phạm hành chính nhiều lần"
+  },
+  {
+    "question": "Câu 18Theo Luật xử lý vi phạm hành chính, việc hoãn thi hành quyết định phạt tiền được áp dụng khi có điều kiện nào?",
+    "options": [
+      "A.Cá nhân bị phạt tiền từ 2.000.000 đồng trở lên, tổ chức bị phạt tiền từ 100.000.000 đồng trở lên;",
+      "B.Cá nhân đang gặp khó khăn về kinh tế do thiên tai, thảm họa, hỏa hoạn, dịch bệnh, mắc bệnh hiểm nghèo, tai nạn; tổ chức đang gặp khó khăn đặc biệt hoặc đột xuất về kinh tế do thiên tai, thảm họa, hỏa hoạn, dịch bệnh.",
+      "C.Cả A và B",
+      "D.Cả A và B đều sai"
+    ],
+    "answer": "C.Cả A và B"
+  },
+  {
+    "question": "Câu 19Theo quy định về gửi quyết định xử phạt vi phạm hành chính để thi hành, trong thời hạn bao lâu kể từ ngày ra quyết định xử phạt người đã ra quyết định xử phạt phải gửi quyết định cho cá nhân, tổ chức bị xử phạt?",
+    "options": [
+      "A.Trong thời hạn 02 ngày;",
+      "B.Trong thời hạn 02 ngày làm việc",
+      "C.Trong thời hạn 03 ngày;",
+      "D.Trong thời hạn 03 ngày làm việc."
+    ],
+    "answer": "D.Trong thời hạn 03 ngày làm việc."
+  },
+  {
+    "question": "Câu 20Theo quy định tại Nghị định 310/2025/NĐ-CP, hành vi nào sau đây thuộc trường hợp bị xử phạt từ 20.000.000 đồng đến 50.000.000 đồng theo quy định về xử phạt vi phạm hành chính về hóa đơn?",
+    "options": [
+      "A.Cho, bán hóa đơn;",
+      "B.Không lập hóa đơn khi bán hàng hóa, cung cấp dịch vụ",
+      "C.Lập hóa đơn sai thời điểm",
+      "D.Lập hóa đơn không đủ chỉ tieu bắt buộc."
+    ],
+    "answer": "A.Cho, bán hóa đơn;"
+  },
+  {
+    "question": "Câu 21Ngày thực hiện hành vi không nộp các phụ lục theo quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết kèm theo hồ sơ quyết toán thuế thu nhập doanh nghiệp để tính thời hiệu xử phạt được xác định là ngày nào?",
+    "options": [
+      "A.Là ngày kế tiếp ngày kết thúc thời hạn phải thực hiện thủ tục về thuế theo quy định của pháp luật về quản lý thuế;",
+      "B.Là ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm;",
+      "C.Là ngày người nộp thuế thực hiện đăng ký thuế hoặc thông báo với cơ quan thuế hoặc nộp hồ sơ khai thuế;",
+      "D.Là ngày chấm dứt hành vi vi phạm."
+    ],
+    "answer": "A.Là ngày kế tiếp ngày kết thúc thời hạn phải thực hiện thủ tục về thuế theo quy định của pháp luật về quản lý thuế;"
+  },
+  {
+    "question": "Câu 22Hành vi khai sai, khai không đầy đủ các chỉ tiêu trên tờ khai thuế, các phụ lục kèm theo tờ khai thuế nhưng không liên quan đến xác định nghĩa vụ thuế, không có tình tiết tăng nặng, giảm nhẹ bị xử phạt ở mức bao nhiêu?",
+    "options": [
+      "A.Phạt tiền 1.000.000 đồng;",
+      "B.Phạt tiền 2.000.000 đồng;",
+      "C.Phạt tiền 2.500.000 đồng;",
+      "D.Phạt tiền 6.500.000 đồng."
+    ],
+    "answer": "B.Phạt tiền 2.000.000 đồng;"
+  },
+  {
+    "question": "Câu 23Theo Luật Xử lý vi phạm hành chính, trường hợp một hành vi vi phạm hành chính do nhiều người cùng thực hiện thì xử lý như thế nào?",
+    "options": [
+      "A.Chỉ xử phạt người trực tiếp thực hiện;",
+      "B.Chỉ xử phạt người chủ mưu;",
+      "C.Chỉ xử phạt người có chức vụ cao nhất;",
+      "D.Mỗi người vi phạm đều bị xử phạt."
+    ],
+    "answer": "D.Mỗi người vi phạm đều bị xử phạt."
+  },
+  {
+    "question": "Câu 24Tổ chức, cá nhân đã bị xử phạt vi phạm hành chính về thuế, hóa đơn bằng hình thức phạt tiền. Sau bao lâu kể từ ngày chấp hành xong quyết định xử phạt, nếu không tái phạm thì được coi là chưa bị xử phạt vi phạm hành chính về hành vi đó?",
+    "options": [
+      "A.06 tháng, kể từ ngày chấp hành xong quyết định xử phạt;",
+      "B.01 năm, kể từ ngày chấp hành xong quyết định xử phạt;",
+      "C.06 tháng, kể từ ngày quyết định xử phạt có hiệu lực pháp luật;",
+      "D.01 năm, kể từ ngày quyết định xử phạt có hiệu lực pháp luật;"
+    ],
+    "answer": "B.01 năm, kể từ ngày chấp hành xong quyết định xử phạt;"
+  },
+  {
+    "question": "Câu 25Ngày 15/10/2024, Công ty A nộp tờ khai QTT TNDN năm 2023 và Tờ khai QTT TNCN năm 2023. Các tờ khai quyết toán TNDN và TNCN nêu trên không phát sinh số thuế phải nộp. Công ty A bị xử phạt VPHC với số tiền phạt là bao nhiêu?",
+    "options": [
+      "A.Phạt cảnh cáo;",
+      "B.Phạt tiền 11.500.000 đồng;",
+      "C.Phạt tiền 23.000.000 đồng",
+      "D.Phạt tiền 25.300.000 đồng"
+    ],
+    "answer": "C.Phạt tiền 23.000.000 đồng"
+  },
+  {
+    "question": "Câu 26Ngày 18/9/2024, Công ty B nộp tờ khai GTGT mẫu 05/GTGT cho kỳ tính thuế tháng 1/2024, phát sinh số thuế phải nộp 200.000.000 đồng. NNT đã nộp đủ số tiền thuế, tiền chậm nộp vào ngân sách nhà nước trước thời điểm cơ quan thuế lập biên bản về hành vi chậm nộp hồ sơ khai thuế, không có tình tiết tăng nặng, giảm nhẹ thì bị xử phạt VPHC với số tiền phạt là bao nhiêu?",
+    "options": [
+      "A.Phạt tiền 200.000.000 đồng",
+      "B.Phạt tiền 300.000.000 đồng",
+      "C.Phạt tiền 20.000.000 đồng",
+      "D.Phạt tiền 11.500.000 đồng"
+    ],
+    "answer": "C.Phạt tiền 20.000.000 đồng"
+  },
+  {
+    "question": "Câu 27Ngày 20/6/2025, Công ty C nộp tờ khai QT TNDN năm 2023, phát sinh số thuế phải nộp 5.000.000 đồng. NNT đã nộp đủ số tiền thuế, tiền chậm nộp vào ngân sách nhà nước trước thời điểm cơ quan thuế lập biên bản về hành vi chậm nộp hồ sơ khai thuế, không có tình tiết tăng nặng, giảm nhẹ thì bị xử phạt VPHC với số tiền phạt là bao nhiêu?",
+    "options": [
+      "A.Phạt tiền 5.000.000 đồng",
+      "B.Phạt tiền 7.500.000 đồng",
+      "C.Phạt tiền 20.000.000 đồng",
+      "D.Phạt tiền 11.500.000 đồng"
+    ],
+    "answer": "D.Phạt tiền 11.500.000 đồng"
+  },
+  {
+    "question": "Câu 28Ngày 25/03/2026, Đoàn kiểm tra thuế X lập biên bản kiểm tra có xác định hành vi kê khai sai không dẫn đến thiếu số thuế TNDN phải nộp, chỉ giảm lỗ phát sinh kỳ tính thuế năm dương lịch 2022 với số tiền là 1.500.000.000 đồng đối với Công ty Y. Theo quy định, Công ty Y bị xử phạt như thế nào?",
+    "options": [
+      "A.Không ban hành Quyết định xử phạt;",
+      "B.Phạt tiền 20%, số tiền phạt là 1.500.000.000 đồng;",
+      "C.Phạt tiền 10%, số tiền phạt là 1.500.000.000 đồng;",
+      "D.Phạt tiền 6.500.000 đồng."
+    ],
+    "answer": "A.Không ban hành Quyết định xử phạt;"
+  },
+  {
+    "question": "Câu 29Công ty F kê khai thiếu doanh thu năm 2023, dẫn đến thiếu số thuế TNDN phải nộp là 350 triệu đồng (nhưng có phản ánh đầy đủ sổ sách kế toán, hóa đơn chứng từ). Tháng 12/2025, Đoàn Kiểm tra thuế phát hiện khi kiểm tra tại trụ sở Công ty; theo quy định Công ty E xử phạt như thế nào?",
+    "options": [
+      "A.Phạt cảnh cáo;",
+      "B.Phạt 10% số thuế thiếu",
+      "C.Phạt 20% số thuế thiếu",
+      "D.Phạt 1,5 lần thuế trốn"
+    ],
+    "answer": "C.Phạt 20% số thuế thiếu"
+  },
+  {
+    "question": "Câu 30Theo quy định tại Nghị định số 125/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định xử phạt vi phạm hành chính về thuế, hóa đơn, quá thời hiệu xử phạt vi phạm hành chính về thuế thì người nộp thuế không bị xử phạt nhưng vẫn phải nộp đủ tiền thuế truy thu (số tiền thuế thiếu, số tiền thuế trốn, số tiền thuế được miễn, giảm, hoàn cao hơn quy định, tiền chậm nộp tiền thuế) vào ngân sách nhà nước trong thời hạn mười năm trở về trước, kể từ ngày phát hiện hành vi vi phạm nhưng không bao gồm trường hợp nào?",
+    "options": [
+      "A.Người nộp thuế đã giải thể đang chờ làm thủ tục chấm dứt hiệu lực mã số thuế;",
+      "B.Người nộp thuế không đăng ký thuế;",
+      "C.Người nộp thuế có số thuế nộp thừa;",
+      "D.Người nộp thuế là cá nhân."
+    ],
+    "answer": "B.Người nộp thuế không đăng ký thuế;"
+  },
+  {
+    "question": "Câu 31Tháng 05/2025, Công ty C bị xử phạt vi phạm hành chính về thuế theo Quyết định số 589/QĐ-NAN của cơ quan Thuế A, thời hạn chấp hành quyết định xử phạt là 10 ngày kể từ ngày nhận được Quyết định. Theo quy định tại Nghị định số 125/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định xử phạt vi phạm hành chính về thuế, hóa đơn, quá thời hạn này, nếu Công ty A không tự nguyện chấp hành sẽ bị cưỡng chế thi hành và cứ mỗi ngày chậm nộp tiền phạt thì Công ty A phải nộp tiền chậm nộp tiền phạt vi phạm hành chính về thuế bao nhiêu % tính trên tổng số tiền phạt chưa nộp:",
+    "options": [
+      "A.0.0003",
+      "B.0.0005",
+      "C.0.0007",
+      "D.0.0009"
+    ],
+    "answer": "B.0.0005"
+  },
+  {
+    "question": "Câu 32Theo Nghị định 310/2025/NĐ-CP ngày 02 tháng 12 năm 2025, trường hợp người nộp thuế thực hiện nhiều hành vi lập hóa đơn không đúng thời điểm, các hành vi vi phạm còn trong thời hiệu xử phạt và bị xử phạt trong một vụ việc vi phạm hành chính thì:",
+    "options": [
+      "A.Chỉ bị xử phạt về một hành vi lập hóa đơn không đúng thời điểm có khung tiền phạt tương ứng với số lượng hóa đơn đã lập không đúng thời điểm;",
+      "B.Bị xử phạt về từng số hóa đơn lập không đúng thời điểm, không áp dụng tình tiết tăng nặng;",
+      "C.Bị xử phạt về từng số hóa đơn lập không đúng thời điểm, áp dụng tình tiết tăng nặng từ tờ thứ hai trở đi;",
+      "D.Bị xử phạt về một hành vi lập hóa đơn không đúng thời điểm áp dụng tình tiết tăng nặng do vi phạm nhiều lần."
+    ],
+    "answer": "A.Chỉ bị xử phạt về một hành vi lập hóa đơn không đúng thời điểm có khung tiền phạt tương ứng với số lượng hóa đơn đã lập không đúng thời điểm;"
+  },
+  {
+    "question": "Câu 33Theo Nghị định 125/2020/NĐ -CP ngày 19 tháng 10 năm 2020 và các các văn bản sửa đổi, bổ sung, Cơ quan thuế không tính tiền chậm nộp tiền phạt trong các trường hợp nào sau đây:",
+    "options": [
+      "A.Số tiền phạt chưa đến hạn nộp trong trường hợp được nộp tiền phạt nhiều lần;",
+      "B.Trong thời gian xem xét, quyết định giảm, miễn tiền phạt;",
+      "C.Trong thời gian được hoãn thi hành quyết định phạt tiền;",
+      "D.Tất cả các đáp án trên đều đúng"
+    ],
+    "answer": "D.Tất cả các đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 34Theo quy định tại Nghị định số 310/2025/NĐ-CP ngày 02/12/2025, căn cứ xác định cá nhân chết, mất tích là",
+    "options": [
+      "A.Giấy chứng tử hoặc giấy báo tử hoặc các giấy tờ thay cho giấy báo tử theo quy định của pháp luật về hộ tịch hoặc quyết định của tòa án tuyên bố một người là đã chết, mất tích (bản chính hoặc bản sao theo quy định) đối với trường hợp cá nhân chết, mất tích;",
+      "B.Cơ sở dữ liệu hộ tịch điện tử hoặc quyết định của tòa án tuyên bố một người là đã chết, mất tích (bản chính hoặc bản sao của văn bản giấy hoặc của văn bản điện tử theo quy định) đối với trường hợp cá nhân chết, mất tích;",
+      "C.Quyết định của tòa án tuyên bố một người là đã chết, mất tích (bản chính hoặc bản sao theo quy định) đối với trường hợp cá nhân chết, mất tích;",
+      "D.Giấy chứng tử hoặc giấy báo tử."
+    ],
+    "answer": "B.Cơ sở dữ liệu hộ tịch điện tử hoặc quyết định của tòa án tuyên bố một người là đã chết, mất tích (bản chính hoặc bản sao của văn bản giấy hoặc của văn bản điện tử theo quy định) đối với trường hợp cá nhân chết, mất tích;"
+  },
+  {
+    "question": "Câu 35Theo Nghị định 125/2020/NĐ -CP ngày 19 tháng 10 năm 2020 và các các văn bản sửa đổi, bổ sung, căn cứ xác định tổ chức bị giải thể, phá sản là:",
+    "options": [
+      "A.Thông báo về việc doanh nghiệp, hợp tác xã giải thể của cơ quan đăng ký kinh doanh, cơ quan đăng ký hợp tác xã đối với trường hợp doanh nghiệp, hợp tác xã bị giải thể;",
+      "B.Thông báo chấm dứt mã số thuế của cơ quan thuế đối với trường hợp tổ chức bị giải thể không phải là doanh nghiệp, hợp tác xã (bản chính hoặc bản sao theo quy định);",
+      "C.Quyết định tuyên bố phá sản đối với doanh nghiệp, hợp tác xã bị phá sản (bản chính hoặc bản sao theo quy định).",
+      "D.Cả 3 đáp án đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án đều đúng"
+  },
+  {
+    "question": "Câu 36Trường hợp vi phạm hành chính được phát hiện bằng phương tiện, thiết bị kỹ thuật nghiệp vụ và phải giám định, xác định giá trị tang vật. Theo quy định tại Nghị định số 68/2025/NĐ-CP ngày 18/03/2025, thời hạn lập biên bản vi phạm hành chính được tính như thế nào?",
+    "options": [
+      "A.03 ngày làm việc, kể từ ngày kết thúc thanh tra, kiểm tra",
+      "B.03 ngày làm việc, kể từ ngày xác định được đối tượng vi phạm hoặc nhận được kết quả giám định, xác định giá trị tang vật",
+      "C.05 ngày làm việc, kể từ ngày kết thúc thanh tra, kiểm tra",
+      "D.05 ngày làm việc, kể từ ngày xác định được đối tượng vi phạm hoặc nhận được kết quả giám định, xác định giá trị tang vật"
+    ],
+    "answer": "D.05 ngày làm việc, kể từ ngày xác định được đối tượng vi phạm hoặc nhận được kết quả giám định, xác định giá trị tang vật"
+  },
+  {
+    "question": "Câu 37Theo Luật Xử lý vi phạm hành chính, Quyết định xử phạt vi phạm hành chính về thuế có hiệu lực kể từ khi nào?",
+    "options": [
+      "A.Sau 10 ngày kể từ ngày ký",
+      "B.Kể từ ngày ký, trừ trường hợp trong quyết định có quy định ngày có hiệu lực khác.",
+      "C.Khi người nộp thuế đã nộp tiền vào kho bạc",
+      "D.Khi cơ quan thuế đăng lên website."
+    ],
+    "answer": "B.Kể từ ngày ký, trừ trường hợp trong quyết định có quy định ngày có hiệu lực khác."
+  },
+  {
+    "question": "Câu 38Kể từ ngày phải chấp hành quyết định kiểm tra thuế, người nộp thuế bị xử phạt vi phạm hành chính về thuế trong trường hợp:",
+    "options": [
+      "A.Quá thời hạn 03 ngày trở lên, kể từ ngày phải chấp hành quyết định của cơ quan có thẩm quyền, người nộp thuế không chấp hành",
+      "B.Quá thời hạn 03 ngày làm việc trở lên, kể từ ngày phải chấp hành quyết định của cơ quan có thẩm quyền, người nộp thuế không chấp hành",
+      "C.Quá thời hạn 05 ngày trở lên, kể từ ngày phải chấp hành quyết định của cơ quan có thẩm quyền, người nộp thuế không chấp hành",
+      "D.Quá thời hạn 05 ngày làm việc trở lên, kể từ ngày phải chấp hành quyết định của cơ quan có thẩm quyền, người nộp thuế không chấp hành"
+    ],
+    "answer": "B.Quá thời hạn 03 ngày làm việc trở lên, kể từ ngày phải chấp hành quyết định của cơ quan có thẩm quyền, người nộp thuế không chấp hành"
+  },
+  {
+    "question": "Câu 39Hành vi không nhận quyết định kiểm tra thuế, quyết định cưỡng chế thi hành quyết định hành chính thuế khi được cơ quan thuế giao, gửi theo quy định của pháp luật thì bj xử phạt như thế nào?",
+    "options": [
+      "A.Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng;",
+      "B.Phạt tiền từ 2.000.000 đồng đến 6.000.000 đồng;",
+      "C.Phạt tiền từ 3.000.000 đồng đến 6.000.000 đồng;",
+      "D.Phạt tiền từ 3.000.000 đồng đến 7.000.000 đồng."
+    ],
+    "answer": "A.Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng;"
+  },
+  {
+    "question": "Câu 40Theo Nghị định 125/2020/NĐ -CP ngày 19/10/2020 và các các văn bản sửa đổi, bổ sung, ngân hàng thương mại không thực hiện trách nhiệm trích chuyển tiền từ tài khoản của người nộp thuế vào tài khoản của ngân sách nhà nước theo yêu cầu của cơ quan thuế, trừ trường hợp các tài khoản của người nộp thuế tại ngân hàng thương mại đó không còn số dư hoặc đã trích chuyển toàn bộ số dư tài khoản của người nộp thuế vào tài khoản của ngân sách nhà nước nhưng vẫn không đủ số tiền mà người nộp thuế phải nộp thì bị xử phạt mức phạt tiền thì bị xử phạt như thế nào?",
+    "options": [
+      "A.Phạt 20% số tiền không trích vào tài khoản của ngân sách nhà nước;",
+      "B.Phạt từ 01 đến 03 lần số tiền không trích vào tài khoản của ngân sách nhà nước;",
+      "C.Phạt tiền tương ứng với số tiền thuế, tiền chậm nộp, tiền phạt không trích chuyển vào tài khoản của ngân sách nhà nước (trừ số dư tối thiểu trên tài khoản thanh toán theo quy định của ngân hàng thương mại cung ứng dịch vụ thanh toán cho người nộp thuế)",
+      "D.Tất cả đáp án đều đúng"
+    ],
+    "answer": "C.Phạt tiền tương ứng với số tiền thuế, tiền chậm nộp, tiền phạt không trích chuyển vào tài khoản của ngân sách nhà nước (trừ số dư tối thiểu trên tài khoản thanh toán theo quy định của ngân hàng thương mại cung ứng dịch vụ thanh toán cho người nộp thuế)"
+  },
+  {
+    "question": "Câu 41Kể từ ngày ra quyết định xử phạt vi phạm hành chính, người có thẩm quyền đã ra quyết định xử phạt phải gửi hoặc giao quyết định xử phạt cho cá nhân, tổ chức bị xử phạt, cơ quan thu tiền phạt và cơ quan liên quan khác (nếu có) để thi hành trong thời hạn bao lâu?",
+    "options": [
+      "A.02 ngày",
+      "B.02 ngày làm việc",
+      "C.03 ngày",
+      "D.03 ngày làm việc"
+    ],
+    "answer": "D.03 ngày làm việc"
+  },
+  {
+    "question": "Câu 42Theo quy định tại Nghị định số 310/2025/NĐ-CP ngày 02/12/2025, hành vi nào là hành vi vi phạm hành chính về thuế đối với tổ chức, cá nhân liên quan",
+    "options": [
+      "A.Không cung cấp thông tin liên quan đến tài sản, quyền, nghĩa vụ về tài sản của người nộp thuế do mình nắm giữ; thông tin, tài liệu liên quan đến xác định nghĩa vụ thuế của người nộp thuế theo quy định của pháp luật hoặc theo yêu cầu của cơ quan thuế;",
+      "B.Không cung cấp thông tin liên quan đến tiền lương, tiền công hoặc thu nhập của người nộp thuế do mình nắm giữ theo quy định của pháp luật hoặc theo yêu cầu của cơ quan thuế;",
+      "C.Thông đồng, bao che người nộp thuế trốn thuế, không thực hiện quyết định cưỡng chế hành chính thuế, trừ hành vi không trích chuyển tiền từ tài khoản của người nộp thuế quy định tại Điều 18 Nghị định này.",
+      "D.Cả 3 đáp án đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án đều đúng"
+  },
+  {
+    "question": "Câu 43Trường hợp hành vi vi phạm hành chính về thuế, hóa đơn đang được thực hiện trước ngày Nghị định 310/2025/NĐ-CP ngày 02/12/2025 có hiệu lực và hành vi vi phạm hành chính đó được phát hiện sau ngày Nghị định này có hiệu lực thì áp dụng quy định nào để xử phạt",
+    "options": [
+      "A.Giải quyết theo quy định có lợi nhất cho cá nhân, tổ chức vi phạm;",
+      "B.Áp dụng theo văn bản quy phạm pháp luật có hiệu lực tại thời điểm bắt đầu hành vi vi phạm",
+      "C.Áp dụng theo quy định tại Nghị định số 310/2025/NĐ-CP ngày 02/12/2025",
+      "D.Áp dụng theo văn bản quy phạm pháp luật có hiệu lực tại thời điểm kết thúc hành vi vi phạm"
+    ],
+    "answer": "C.Áp dụng theo quy định tại Nghị định số 310/2025/NĐ-CP ngày 02/12/2025"
+  },
+  {
+    "question": "Câu 44Sử dụng hóa đơn, chứng từ trong các trường hợp sau đây là hành vi sử dụng hóa đơn, chứng từ không hợp pháp:",
+    "options": [
+      "A.Hóa đơn, chứng từ chưa có giá trị sử dụng, hết giá trị sử dụng;",
+      "B.Hóa đơn mua hàng hóa, dịch vụ có ngày lập trên hóa đơn từ ngày cơ quan thuế xác định bên bán không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm quyền;",
+      "C.Hóa đơn điện tử chưa có mã của cơ quan thuế đối với trường hợp sử dụng hóa đơn điện tử có mã của cơ quan thuế;",
+      "D.Tất cả các đáp án trên đều đúng"
+    ],
+    "answer": "D.Tất cả các đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 45Theo quy định của Nghị định số 125/2020/NĐ-CP, mức xử phạt đối với hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn là:",
+    "options": [
+      "A.Phạt 30% số tiền thuế khai thiếu hoặc số tiền thuế đã được miễn, giảm, hoàn cao hơn so với quy định.",
+      "B.Phạt 1 lần số tiền thuế khai thiếu hoặc số tiền thuế đã được miễn, giảm, hoàn cao hơn so với quy định.",
+      "C.Phạt 20% số tiền thuế khai thiếu hoặc số tiền thuế đã được miễn, giảm, hoàn cao hơn so với quy định;",
+      "D.Phạt từ 1 đến 3 lần số tiền thuế khai thiếu hoặc số tiền thuế đã được miễn, giảm, hoàn cao hơn so với quy định."
+    ],
+    "answer": "C.Phạt 20% số tiền thuế khai thiếu hoặc số tiền thuế đã được miễn, giảm, hoàn cao hơn so với quy định;"
+  },
+  {
+    "question": "Câu 46Theo quy định của Nghị định số 125/2020/NĐ-CP, quá thời hiệu xử phạt vi phạm hành chính về thuế thì NNT không bị xử phạt nhưng vẫn phải nộp đủ số tiền thuế truy thu vào NSNN trong thời hạn bao lâu kể từ ngày phát hiện hành vi vi phạm:",
+    "options": [
+      "A.10 năm trở về trước.",
+      "B.15 năm trở về trước",
+      "C.20 năm trở về trước",
+      "D.5 năm trở về trước"
+    ],
+    "answer": "A.10 năm trở về trước."
+  },
+  {
+    "question": "Câu 47Theo quy định, thời hiệu xử phạt đối với hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn là bao lâu kể từ ngày thực hiện hành vi vi phạm:",
+    "options": [
+      "A.1 năm",
+      "B.2 năm",
+      "C.5 năm.",
+      "D.10 năm"
+    ],
+    "answer": "C.5 năm."
+  },
+  {
+    "question": "Câu 48Thời hiệu xử phạt đối với hành vi trốn thuế chưa đến mức truy cứu trách nhiệm hình sự là bao lâu kể từ ngày thực hiện hành vi vi phạm:",
+    "options": [
+      "A.1 năm kể từ ngày thực hiện hành vi vi phạm;",
+      "B.5 năm kể từ ngày thực hiện hành vi vi phạm;",
+      "C.10 năm kể từ ngày thực hiện hành vi vi phạm;",
+      "D.2 năm kể từ ngày thực hiện hành vi vi phạm;"
+    ],
+    "answer": "B.5 năm kể từ ngày thực hiện hành vi vi phạm;"
+  },
+  {
+    "question": "Câu 49Theo Nghị định 125/2020/NĐ -CP ngày 19 tháng 10 năm 2020 và các các văn bản sửa đổi, bổ sung, hành vi nào sau đây vi phạm quy định về chấp hành quyết định kiểm tra thuế, cưỡng chế thi hành quyết định hành chính thuế",
+    "options": [
+      "A.Không thực hiện hoặc thực hiện không đúng quyết định niêm phong hồ sơ tài liệu, kết quỹ, kho hàng hóa, vật tư, nguyên liệu, máy móc, thiết bị, nhà xưởng;",
+      "B.Tự ý tháo bỏ, thay đổi dấu hiệu niêm phong do cơ quan có thẩm quyền đã tạo lập hợp pháp.",
+      "C.Không cung cấp số liệu, tài liệu, sổ kế toán liên quan đến việc xác định nghĩa vụ thuế khi được cơ quan có thẩm quyền yêu cầu trong thời gian kiểm tra, thanh tra thuế tại trụ sở người nộp thuế;",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 50Theo quy định của Nghị định số 125/2020/NĐ-CP, biện pháp khắc phục hậu quả đối với hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn là:",
+    "options": [
+      "A.Trường hợp người nộp thuế có hành vi khai sai nhưng không dẫn đến thiếu số thuế phải nộp, tăng số thuế được miễn, giảm hoặc chưa được hoàn thuế thì không bị xử phạt.",
+      "B.Trường hợp đã quá thời hiệu xử phạt thì người nộp thuế bị xử phạt theo quy định tại khoản 1 Điều 16 Nghị định số 125/2020/NĐ-CP ngày 19/10/2020 của Chính phủ đồng thời phải nộp đủ số tiền thuế thiếu, số tiền thuế được hoàn, miễn, giảm cao hơn quy định và tiền chậm nộp tiền thuế vào ngân sách nhà nước theo thời hạn quy định.",
+      "C.Buộc nộp đủ số tiền thuế thiếu, số tiền thuế được hoàn, miễn, giảm cao hơn quy định và tiền chậm nộp tiền thuế vào ngân sách nhà nước;",
+      "D.Tất cả các phương án đều đúng."
+    ],
+    "answer": "C.Buộc nộp đủ số tiền thuế thiếu, số tiền thuế được hoàn, miễn, giảm cao hơn quy định và tiền chậm nộp tiền thuế vào ngân sách nhà nước;"
+  },
+  {
+    "question": "Câu 51Theo Nghị định 125/2020/NĐ -CP ngày 19 tháng 10 năm 2020 và các các văn bản sửa đổi, bổ sung, hành vi sử dụng hóa đơn trong thời gian bị cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn và không được phép sử dụng theo thông báo của cơ quan thuế thuộc hành vi:",
+    "options": [
+      "A.Sử dụng hóa đơn không hợp pháp",
+      "B.Sử dụng không hợp pháp hóa đơn",
+      "C.Không thuộc hành vi A và B"
+    ],
+    "answer": "A.Sử dụng hóa đơn không hợp pháp"
+  },
+  {
+    "question": "Câu 52Theo Nghị định 125/2020/NĐ -CP ngày 19 tháng 10 năm 2020 và các các văn bản sửa đổi, bổ sung, hành vi không lập hóa đơn khi bán hàng hóa, dịch vụ, trừ trường hợp người nộp thuế đã khai thuế đối với giá trị hàng hóa, dịch vụ đã bán, đã cung ứng vào kỳ tính thuế tương ứng; lập hóa đơn bán hàng hóa, dịch vụ sai về số lượng, giá trị hàng hóa, dịch vụ để khai thuế thấp hơn thực tế và bị phát hiện sau thời hạn nộp hồ sơ khai thuế được xử phạt theo",
+    "options": [
+      "A.Hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn",
+      "B.Hành vi trốn thuế",
+      "C.Hành vi vi phạm thủ tục thuế"
+    ],
+    "answer": "B.Hành vi trốn thuế"
+  },
+  {
+    "question": "Câu 53Theo quy định, hành vi trốn thuế có 2 tình tiết tăng nặng thì xử phạt như thế nào?",
+    "options": [
+      "A.Phạt tiền 3 lần số thuế trốn;",
+      "B.Phạt tiền 1,5 lần số thuế trốn;",
+      "C.Phạt tiền 2 lần số thuế trốn;",
+      "D.Phạt tiền 2,5 lần số thuế trốn;"
+    ],
+    "answer": "D.Phạt tiền 2,5 lần số thuế trốn;"
+  },
+  {
+    "question": "Câu 54Đối với hành vi không nộp các phụ lục theo quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết kèm theo hồ sơ quyết toán thuế thu nhập doanh nghiệp, ngày thực hiện hành vi vi phạm để tính thời hiệu xử phạt được xác định là ngày nào?",
+    "options": [
+      "A.Ngày liền kề sau ngày phát sinh nghĩa vụ thuế;",
+      "B.Ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm;",
+      "C.Ngày kế tiếp ngày kết thúc thời hạn nộp tờ khai thuế;",
+      "D.Ngày người nộp thuế nộp hồ sơ khai thuế"
+    ],
+    "answer": "C.Ngày kế tiếp ngày kết thúc thời hạn nộp tờ khai thuế;"
+  },
+  {
+    "question": "Câu 55Theo Nghị định 310/2025/NĐ-CP, hành vi tiêu hủy hóa đơn không đúng trình tự, thủ tục bị xử phạt như thế nào?",
+    "options": [
+      "A.Phạt cảnh cáo",
+      "B.Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng",
+      "C.Phạt tiền từ 4.000.000 đồng đến 8.000.000 đồng",
+      "D.Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng"
+    ],
+    "answer": "C.Phạt tiền từ 4.000.000 đồng đến 8.000.000 đồng"
+  },
+  {
+    "question": "Câu 56Theo Luật Xử lý vi phạm hành chính, đối với trường hợp giải trình bằng văn bản thời hạn giải trình của cá nhân, tổ chức vi phạm hành chính gửi văn bản giải trình là bao lâu?",
+    "options": [
+      "A.02 ngày làm việc, kể từ ngày lập biên bản vi phạm hành chính.",
+      "B.03 ngày làm việc, kể từ ngày lập biên bản vi phạm hành chính.",
+      "C.05 ngày làm việc, kể từ ngày lập biên bản vi phạm hành chính.",
+      "D.07 ngày làm việc, kể từ ngày lập biên bản vi phạm hành chính."
+    ],
+    "answer": "C.05 ngày làm việc, kể từ ngày lập biên bản vi phạm hành chính."
+  },
+  {
+    "question": "Câu 57Theo Luật Xử lý vi phạm hành chính, trong trường hợp thông thường, thời hạn ra quyết định xử phạt vi phạm hành chính kể từ ngày lập biên bản vi phạm hành chính là bao lâu?",
+    "options": [
+      "A.05 ngày",
+      "B.05 ngày làm việc",
+      "C.07 ngày",
+      "D.07 ngày làm việc"
+    ],
+    "answer": "D.07 ngày làm việc"
+  },
+  {
+    "question": "Câu 58Theo Luật Xử lý vi phạm hành chính, việc hoãn thi hành quyết định phạt tiền được áp dụng khi có điều kiện nào?",
+    "options": [
+      "A.Cá nhân bị phạt tiền từ 2.000.000 đồng trở lên, tổ chức bị phạt tiền từ 100.000.000 đồng trở lên;",
+      "B.Cá nhân đang gặp khó khăn về kinh tế do thiên tai, thảm họa, hỏa hoạn, dịch bệnh, mắc bệnh hiểm nghèo, tai nạn; tổ chức đang gặp khó khăn đặc biệt hoặc đột xuất về kinh tế do thiên tai, thảm họa, hỏa hoạn, dịch bệnh.",
+      "C.Cả A và B",
+      "D.Cả A và B đều sai"
+    ],
+    "answer": "C.Cả A và B"
+  },
+  {
+    "question": "Câu 59Theo Luật Xử lý vi phạm hành chính, việc giảm một phần tiền phạt ghi trong quyết định xử phạt đối với cá nhân, tổ chức đã được hoãn thi hành quyết định phạt tiền theo quy định tại Điều 76 của Luật xử phạt vi phạm hành chính năm 2012 được quy định như thế nào?",
+    "options": [
+      "A.Cá nhân tiếp tục gặp khó khăn về kinh tế do thiên tai, thảm họa, hỏa hoạn, dịch bệnh, mắc bệnh hiểm nghèo, tai nạn và có xác nhận của Ủy ban nhân dân cấp xã nơi người đó cư trú hoặc cơ quan, tổ chức nơi người đó học tập, làm việc;",
+      "B.Tổ chức tiếp tục gặp khó khăn đặc biệt hoặc đột xuất về kinh tế do thiên tai, thảm họa, hỏa hoạn, dịch bệnh và có xác nhận của Ủy ban nhân dân cấp xã, Ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế, cơ quan Thuế quản lý trực tiếp hoặc cơ quan cấp trên trực tiếp.",
+      "C.Cả A và B đều đúng",
+      "D.Cả A và B đều sai"
+    ],
+    "answer": "C.Cả A và B đều đúng"
+  },
+  {
+    "question": "Câu 60Theo Luật Xử lý vi phạm hành chính, tổ chức được miễn toàn bộ tiền phạt ghi trong quyết định xử phạt khi đáp ứng đủ điều kiện sau đây?",
+    "options": [
+      "A.Đã được hoãn thi hành quyết định phạt tiền theo quy định tại Điều 76 của Luật xử phạt vi phạm hành chính năm 2012 này;",
+      "B.Đã thi hành xong hình thức xử phạt bổ sung, biện pháp khắc phục hậu quả được ghi trong quyết định xử phạt;",
+      "C.Tiếp tục gặp khó khăn đặc biệt hoặc đột xuất về kinh tế do thiên tai, thảm họa, hỏa hoạn, dịch bệnh và có xác nhận của Ủy ban nhân dân cấp xã, Ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế, cơ quan Thuế quản lý trực tiếp hoặc cơ quan cấp trên trực tiếp.",
+      "D.Đáp ứng cả 3 điều kiện trên"
+    ],
+    "answer": "D.Đáp ứng cả 3 điều kiện trên"
+  },
+  {
+    "question": "Câu 61Đâu là những hành vi bị nghiêm cấm theo Luật Xử lý vi phạm hành chính?",
+    "options": [
+      "A.Giữ lại vụ vi phạm có dấu hiệu tội phạm để xử lý vi phạm hành chính;",
+      "B.Ban hành trái thẩm quyền văn bản quy định về hành vi vi phạm hành chính, thẩm quyền, hình thức xử phạt, biện pháp khắc phục hậu quả đối với từng hành vi vi phạm hành chính trong lĩnh vực quản lý nhà nước và biện pháp xử lý hành chính;",
+      "C.Không xử phạt vi phạm hành chính, không áp dụng biện pháp khắc phục hậu quả hoặc không áp dụng biện pháp xử lý hành chính;",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 62Trường hợp người nộp thuế nộp hồ sơ khai thuế quá hạn trên 90 ngày, có phát sinh số thuế phải nộp, nhưng số tiền phạt theo khung từ 15.000.000 đồng đến 25.000.000 đồng lớn hơn số tiền thuế phát sinh trên hồ sơ khai thuế thì mức phạt tiền tối đa được xác định như thế nào?",
+    "options": [
+      "A.Bằng mức tối thiểu của khung phạt",
+      "B.Bằng số tiền thuế phát sinh phải nộp trên hồ sơ khai thuế hoặc tổng số tiền thuế phát sinh phải nộp trên các hồ sơ khai thuế thuộc trường hợp quy định tại điểm b khoản 3 Điều 5 Nghị định 125/2020/NĐ-CP ngày 19/10/2020 nhưng không thấp hơn mức trung bình của khung phạt tiền quy định tại khoản 4 Điều 13 Nghị định này.",
+      "C.Bằng mức trung bình của khung phạt",
+      "D.Bằng số tiền thuế phát sinh phải nộp trên hồ sơ khai thuế"
+    ],
+    "answer": "B.Bằng số tiền thuế phát sinh phải nộp trên hồ sơ khai thuế hoặc tổng số tiền thuế phát sinh phải nộp trên các hồ sơ khai thuế thuộc trường hợp quy định tại điểm b khoản 3 Điều 5 Nghị định 125/2020/NĐ-CP ngày 19/10/2020 nhưng không thấp hơn mức trung bình của khung phạt tiền quy định tại khoản 4 Điều 13 Nghị định này."
+  },
+  {
+    "question": "Câu 63Theo quy định tại Nghị định 68/2025/NĐ-CP, cá nhân, tổ chức tiếp tục thực hiện hành vi vi phạm hành chính mà trước đó đã bị xử phạt hoặc chưa bị xử phạt đối với hành vi vi phạm được quy định ở các điểm trong cùng một khoản hoặc các khoản trong cùng một điều với mức độ vi phạm hoặc hậu quả gắn với mức phạt khác nhau, thì được xác định như thế nào?",
+    "options": [
+      "A.Được coi là vi phạm cùng một hành vi để xác định tái phạm hoặc vi phạm hành chính nhiều lần;",
+      "B.Là các hành vi vi phạm khác nhau, xử phạt độc lập;",
+      "C.Được coi là vi phạm cùng một hành vi để xác định tái phạm;",
+      "D.Chỉ coi là vi phạm nhiều lần nếu xảy ra trong cùng một năm"
+    ],
+    "answer": "A.Được coi là vi phạm cùng một hành vi để xác định tái phạm hoặc vi phạm hành chính nhiều lần;"
+  },
+  {
+    "question": "Câu 64Người nộp thuế có hành vi khai sai, khai không đầy đủ các chỉ tiêu trong hồ sơ thuế nhưng không liên quan đến xác định nghĩa vụ thuế. Biện pháp khắc phục hậu quả áp dụng là:",
+    "options": [
+      "A.Buộc điều chỉnh lại số lỗ, số thuế giá trị gia tăng đầu vào được khấu trừ chuyển kỳ sau (nếu có)",
+      "B.Không áp dụng biện pháp khắc phục hậu quả",
+      "C.Buộc khai lại và nộp bổ sung các tài liệu trong hồ sơ thuế",
+      "D.Cả A và B đều đúng"
+    ],
+    "answer": "C.Buộc khai lại và nộp bổ sung các tài liệu trong hồ sơ thuế"
+  },
+  {
+    "question": "Câu 65Theo Luật Xử lý vi phạm hành chính, một người thực hiện nhiều hành vi vi phạm hành chính khác nhau thì bị xử lý như thế nào?",
+    "options": [
+      "A.Xử phạt về từng hành vi vi phạm",
+      "B.Chỉ xử phạt hành vi vi phạm nghiêm trọng nhất",
+      "C.Do người có thẩm quyền quyết định",
+      "D.Gộp các hành vi để xử phạt một lần"
+    ],
+    "answer": "A.Xử phạt về từng hành vi vi phạm"
+  },
+  {
+    "question": "Câu 66Theo Luật Xử lý vi phạm hành chính, hình thức xử phạt vi phạm hành chính bao gồm những hình thức nào sau đây?",
+    "options": [
+      "A.Cảnh cáo",
+      "B.Phạt tiền",
+      "C.Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn",
+      "D.A, B và C đều đúng"
+    ],
+    "answer": "D.A, B và C đều đúng"
+  },
+  {
+    "question": "Câu 67Nội dung nào sau đây ĐÚNG khi nói về tái phạm trong xử lý vi phạm hành chính?",
+    "options": [
+      "A.Là việc cá nhân, tổ chức đã bị ra quyết định xử phạt vi phạm hành chính nhưng chưa hết thời hạn được coi là chưa bị xử phạt vi phạm hành chính mà lại thực hiện hành vi vi phạm hành chính đã bị xử phạt;",
+      "B.Chỉ áp dụng đối với cá nhân, không áp dụng với tổ chức.",
+      "C.Phải là hành vi vi phạm hành chính mới hoàn toàn.",
+      "D.Đã hết thời hạn 01 năm kể từ ngày chấp hành xong quyết định xử phạt."
+    ],
+    "answer": "A.Là việc cá nhân, tổ chức đã bị ra quyết định xử phạt vi phạm hành chính nhưng chưa hết thời hạn được coi là chưa bị xử phạt vi phạm hành chính mà lại thực hiện hành vi vi phạm hành chính đã bị xử phạt;"
+  },
+  {
+    "question": "Câu 68Nội dung nào sau đây về tính tiền chậm nộp tiền phạt vi phạm hành chính về thuế, hóa đơn là đúng?",
+    "options": [
+      "A.Tổ chức, cá nhân chậm nộp tiền phạt vi phạm hành chính về thuế, hóa đơn thì bị tính tiền chậm nộp tiền phạt theo mức 0,05%/ngày tính trên số tiền phạt chậm nộp.",
+      "B.Số ngày chậm nộp tiền phạt bao gồm cả ngày lễ, ngày nghỉ theo chế độ quy định và được tính từ ngày kế tiếp ngày hết thời hạn nộp tiền phạt đến ngày liền kề trước ngày tổ chức, cá nhân nộp tiền phạt vào ngân sách nhà nước.",
+      "C.Cả A và B đều đúng",
+      "D.Cả A và B đều sai"
+    ],
+    "answer": "C.Cả A và B đều đúng"
+  },
+  {
+    "question": "Câu 69Doanh nghiệp lập hóa đơn không đúng thời điểm đối với hàng hóa dùng để khuyến mại, quảng cáo, với 01 số hóa đơn. Hình thức xử phạt áp dụng là:",
+    "options": [
+      "A.Phạt cảnh cáo;",
+      "B.Phạt tiền từ 500.000 đồng đến 1.500.000 đồng;",
+      "C.Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng",
+      "D.Phạt tiền từ 5.000.000 đồng đến 15.000.000 đồng"
+    ],
+    "answer": "A.Phạt cảnh cáo;"
+  },
+  {
+    "question": "Câu 70Theo Luật Xử lý vi phạm hành chính, trường hợp nào sau đây không ra quyết định xử phạt vi phạm hành chính?",
+    "options": [
+      "A.Không xác định được đối tượng vi phạm hành chính;",
+      "B.Cá nhân vi phạm hành chính chết, mất tích, tổ chức vi phạm hành chính đã giải thể, phá sản trong thời gian xem xét ra quyết định xử phạt;",
+      "C.Hết thời hiệu xử phạt vi phạm hành chính;",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 71Theo Luật Xử lý vi phạm hành chính, câu nào sau đây là đúng?",
+    "options": [
+      "A.Trường hợp một cá nhân, tổ chức thực hiện nhiều hành vi vi phạm hành chính mà bị xử phạt trong cùng một lần thì chỉ ra 01 quyết định xử phạt, trong đó quyết định hình thức, mức xử phạt đối với từng hành vi vi phạm hành chính.",
+      "B.Trường hợp nhiều cá nhân, tổ chức cùng thực hiện một hành vi vi phạm hành chính thì có thể ra 01 hoặc nhiều quyết định xử phạt để quyết định hình thức, mức xử phạt đối với từng cá nhân, tổ chức.",
+      "C.Quyết định xử phạt có hiệu lực kể từ ngày ký, trừ trường hợp trong quyết định quy định ngày có hiệu lực khác.",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 72Theo Luật Xử lý vi phạm hành chính, câu nào sau đây về thời hạn thi hành quyết định xử phạt vi phạm hành chính là đúng?",
+    "options": [
+      "A.Thời hạn thi hành quyết định là 10 ngày, kể từ ngày nhận quyết định xử phạt; Trường hợp quyết định xử phạt có ghi thời hạn thi hành nhiều hơn 10 ngày thì thực hiện theo thời hạn đó.",
+      "B.Thời hạn thi hành quyết định là 10 ngày làm việc, kể từ ngày nhận quyết định xử phạt; Trường hợp quyết định xử phạt có ghi thời hạn thi hành nhiều hơn 10 ngày làm việc thì thực hiện theo thời hạn đó.",
+      "C.Thời hạn thi hành quyết định là 7 ngày, kể từ ngày nhận quyết định xử phạt; Trường hợp quyết định xử phạt có ghi thời hạn thi hành nhiều hơn 7 ngày thì thực hiện theo thời hạn đó.",
+      "D.Thời hạn thi hành quyết định là 7 ngày làm việc, kể từ ngày nhận quyết định xử phạt; Trường hợp quyết định xử phạt có ghi thời hạn thi hành nhiều hơn 7 ngày làm việc thì thực hiện theo thời hạn đó."
+    ],
+    "answer": "A.Thời hạn thi hành quyết định là 10 ngày, kể từ ngày nhận quyết định xử phạt; Trường hợp quyết định xử phạt có ghi thời hạn thi hành nhiều hơn 10 ngày thì thực hiện theo thời hạn đó."
+  },
+  {
+    "question": "Câu 73Theo Luật Xử lý vi phạm hành chính, tình tiết nào sau đây là tình tiết tăng nặng?",
+    "options": [
+      "A.Người vi phạm là phụ nữ mang thai",
+      "B.Vi phạm hành chính nhiều lần; tái phạm",
+      "C.Vi phạm lần đầu",
+      "D.Thành khẩn khai báo"
+    ],
+    "answer": "B.Vi phạm hành chính nhiều lần; tái phạm"
+  },
+  {
+    "question": "Câu 74Theo Luật Xử lý vi phạm hành chính, tình tiết nào sau đây là tình tiết giảm nhẹ?",
+    "options": [
+      "A.Tự nguyện khắc phục hậu quả, bồi thường thiệt hại",
+      "B.Lợi dụng chức vụ, quyền hạn",
+      "C.Vi phạm có tổ chức",
+      "D.Vi phạm nhiều lần"
+    ],
+    "answer": "A.Tự nguyện khắc phục hậu quả, bồi thường thiệt hại"
+  },
+  {
+    "question": "Câu 75Theo Luật Xử lý vi phạm hành chính, trường hợp nào sau đây không xử phạt vi phạm hành chính?",
+    "options": [
+      "A.Thực hiện hành vi vi phạm hành chính do sự kiện bất ngờ;",
+      "B.Thực hiện hành vi vi phạm hành chính lần đầu",
+      "C.Có tình tiết giảm nhẹ",
+      "D.Thực hiện hành vi vi phạm hành chính do lỗi vô ý"
+    ],
+    "answer": "A.Thực hiện hành vi vi phạm hành chính do sự kiện bất ngờ;"
+  },
+  {
+    "question": "Câu 76Theo Luật Xử lý vi phạm hành chính, đối với cùng một hành vi vi phạm, mức phạt tiền đối với tổ chức được xác định như thế nào?",
+    "options": [
+      "A.Bằng mức phạt của cá nhân",
+      "B.Bằng 02 lần mức phạt của cá nhân",
+      "C.Thấp hơn mức phạt của cá nhân",
+      "D.Do nghị định chuyên ngành quy định"
+    ],
+    "answer": "B.Bằng 02 lần mức phạt của cá nhân"
+  },
+  {
+    "question": "Câu 77Theo Luật Xử lý vi phạm hành chính, một hành vi vi phạm hành chính bị xử phạt như thế nào?",
+    "options": [
+      "A.Bị xử phạt theo số lần phát hiện",
+      "B.Có thể bị xử phạt nhiều lần",
+      "C.Chỉ bị xử phạt một lần",
+      "D.Do người có thẩm quyền quyết định"
+    ],
+    "answer": "C.Chỉ bị xử phạt một lần"
+  },
+  {
+    "question": "Câu 78Theo Luật Xử lý vi phạm hành chính, vi phạm hành chính nhiều lần được hiểu là?",
+    "options": [
+      "A.Thực hiện hành vi vi phạm hành chính mà trước đó đã thực hiện hành vi vi phạm hành chính này nhưng đã bị xử lý và chưa hết thời hiệu xử lý.",
+      "B.Thực hiện hành vi vi phạm hành chính mà trước đó đã thực hiện hành vi vi phạm hành chính này nhưng đã bị xử lý.",
+      "C.Thực hiện hành vi vi phạm hành chính mà trước đó đã thực hiện hành vi vi phạm hành chính này nhưng chưa bị xử lý.",
+      "D.Thực hiện hành vi vi phạm hành chính mà trước đó đã thực hiện hành vi vi phạm hành chính này nhưng chưa bị xử lý và chưa hết thời hiệu xử lý."
+    ],
+    "answer": "D.Thực hiện hành vi vi phạm hành chính mà trước đó đã thực hiện hành vi vi phạm hành chính này nhưng chưa bị xử lý và chưa hết thời hiệu xử lý."
+  },
+  {
+    "question": "Câu 79Theo Luật Xử lý vi phạm hành chính, Xử phạt vi phạm hành chính được hiểu là?",
+    "options": [
+      "A.Là việc người có thẩm quyền xử phạt áp dụng hình thức xử phạt đối với cá nhân, tổ chức thực hiện hành vi vi phạm hành chính theo quy định của pháp luật về xử phạt vi phạm hành chính.",
+      "B.Là việc người có thẩm quyền xử phạt áp dụng hình thức xử phạt, biện pháp khắc phục hậu quả đối với cá nhân, tổ chức thực hiện hành vi vi phạm hành chính theo quy định của pháp luật về xử phạt vi phạm hành chính.",
+      "C.Là việc người có thẩm quyền xử phạt áp dụng hình thức xử phạt, biện pháp khắc phục hậu quả đối với tổ chức thực hiện hành vi vi phạm hành chính theo quy định của pháp luật về xử phạt vi phạm hành chính.",
+      "D.Cả 3 đáp án trên đều sai"
+    ],
+    "answer": "B.Là việc người có thẩm quyền xử phạt áp dụng hình thức xử phạt, biện pháp khắc phục hậu quả đối với cá nhân, tổ chức thực hiện hành vi vi phạm hành chính theo quy định của pháp luật về xử phạt vi phạm hành chính."
+  },
+  {
+    "question": "Câu 80Theo Luật Xử lý vi phạm hành chính, vi phạm hành chính được hiểu là?",
+    "options": [
+      "A.Hành vi nguy hiểm cho xã hội do cá nhân, tổ chức thực hiện",
+      "B.Hành vi vi phạm pháp luật bị xử lý hình sự",
+      "C.Là hành vi có lỗi do cá nhân, tổ chức thực hiện, vi phạm quy định của pháp luật về quản lý nhà nước mà không phải là tội phạm và theo quy định của pháp luật phải bị xử phạt vi phạm hành chính.",
+      "D.Hành vi vi phạm pháp luật nhưng chưa gây hậu quả"
+    ],
+    "answer": "C.Là hành vi có lỗi do cá nhân, tổ chức thực hiện, vi phạm quy định của pháp luật về quản lý nhà nước mà không phải là tội phạm và theo quy định của pháp luật phải bị xử phạt vi phạm hành chính."
+  },
+  {
+    "question": "Câu 81Theo Nghị định 125/2020/NĐ -CP ngày 19 tháng 10 năm 2020 và các các văn bản sửa đổi, bổ sung, thời hiệu xử phạt vi phạm hành chính về hóa đơn là:",
+    "options": [
+      "A.01 năm",
+      "B.02 năm",
+      "C.03 năm",
+      "D.05 năm"
+    ],
+    "answer": "B.02 năm"
+  },
+  {
+    "question": "Câu 82Theo Luật Xử lý vi phạm hành chính, ai có trách nhiệm chứng minh vi phạm hành chính?",
+    "options": [
+      "A.Người có thẩm quyền xử phạt",
+      "B.Người lập biên bản",
+      "C.Cá nhân, tổ chức vi phạm",
+      "D.Cơ quan quản lý cấp trên"
+    ],
+    "answer": "A.Người có thẩm quyền xử phạt"
+  },
+  {
+    "question": "Câu 83Theo Luật Xử lý vi phạm hành chính, những hành vi nào bị nghiêm cấm?",
+    "options": [
+      "A.Ban hành trái thẩm quyền văn bản quy định về hành vi vi phạm hành chính, thẩm quyền, hình thức xử phạt, biện pháp khắc phục hậu quả đối với từng hành vi vi phạm hành chính trong lĩnh vực quản lý nhà nước và biện pháp xử lý hành chính.",
+      "B.Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả hoặc áp dụng các biện pháp xử lý hành chính không kịp thời, không nghiêm minh, không đúng thẩm quyền, thủ tục, đối tượng quy định tại Luật này.",
+      "C.Can thiệp trái pháp luật vào việc xử lý vi phạm hành chính.",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 84Theo Luật Xử lý vi phạm hành chính, câu nào sau đây đúng?",
+    "options": [
+      "A.Người vi phạm hành chính nếu gây ra thiệt hại thì phải bồi thường.",
+      "B.Người có thẩm quyền xử lý vi phạm hành chính, cơ quan, tổ chức, cá nhân có liên quan trong việc xử lý vi phạm hành chính gây thiệt hại thì không phải bồi thường theo quy định của pháp luật.",
+      "C.Cả 2 câu đều đúng",
+      "D.Cả 2 câu đều sai"
+    ],
+    "answer": "A.Người vi phạm hành chính nếu gây ra thiệt hại thì phải bồi thường."
+  },
+  {
+    "question": "Câu 85Theo Luật Xử lý vi phạm hành chính, câu nào sau đây đúng?",
+    "options": [
+      "A.Cá nhân, tổ chức bị xử lý vi phạm hành chính có quyền khiếu nại, khởi kiện đối với quyết định xử lý vi phạm hành chính theo quy định của pháp luật.",
+      "B.Cá nhân có quyền tố cáo đối với hành vi vi phạm pháp luật trong việc xử lý vi phạm hành chính theo quy định của pháp luật.",
+      "C.Trong quá trình giải quyết khiếu nại, khởi kiện nếu xét thấy việc thi hành quyết định xử lý vi phạm hành chính bị khiếu nại, khởi kiện sẽ gây hậu quả khó khắc phục thì người giải quyết khiếu nại, khởi kiện phải ra quyết định tạm đình chỉ việc thi hành quyết định đó theo quy định của pháp luật.",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 86Theo Luật Xử lý vi phạm hành chính, Trách nhiệm của thủ trưởng cơ quan, đơn vị trong công tác xử lý vi phạm hành chính là?",
+    "options": [
+      "A.Thường xuyên kiểm tra, thanh tra và kịp thời xử lý đối với vi phạm của người có thẩm quyền xử lý vi phạm hành chính thuộc phạm vi quản lý của mình; giải quyết khiếu nại, tố cáo trong xử lý vi phạm hành chính theo quy định của pháp luật;",
+      "B.Không được để xảy ra hành vi tham nhũng của người có thẩm quyền xử lý vi phạm hành chính do mình quản lý, phụ trách;",
+      "C.Không được can thiệp trái pháp luật vào việc xử lý vi phạm hành chính và phải chịu trách nhiệm liên đới về hành vi vi phạm của người có thẩm quyền xử lý vi phạm hành chính thuộc quyền quản lý trực tiếp của mình theo quy định của pháp luật;",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 87Theo Luật Xử lý vi phạm hành chính, Các biện pháp khắc phục hậu quả bao gồm",
+    "options": [
+      "A.Buộc khôi phục lại tình trạng ban đầu;",
+      "B.Buộc tiêu hủy hàng hóa, vật phẩm gây hại cho sức khỏe con người, vật nuôi, cây trồng và môi trường, văn hóa phẩm có nội dung độc hại;",
+      "C.Buộc nộp lại số lợi bất hợp pháp có được do thực hiện vi phạm hành chính hoặc buộc nộp lại số tiền bằng trị giá tang vật, phương tiện vi phạm hành chính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy định của pháp luật;",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 88Theo Luật Xử lý vi phạm hành chính, Cơ quan nào sau đây có thẩm quyền xử phạt vi phạm hành chính",
+    "options": [
+      "A.Cơ quan Hải quan.",
+      "B.Chủ tịch Ủy ban nhân dân các cấp.",
+      "C.Cơ quan Thuế.",
+      "D.Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": "D.Cả 3 đáp án trên đều đúng"
+  },
+  {
+    "question": "Câu 89Theo Luật Xử lý vi phạm hành chính, Biên bản vi phạm hành chính phải được lập thành ít nhất bao nhiêu bản?",
+    "options": [
+      "A.02 bản",
+      "B.03 bản",
+      "C.04 bản",
+      "D.01 bản"
+    ],
+    "answer": "A.02 bản"
+  },
+  {
+    "question": "Câu 90Theo Luật Xử lý vi phạm hành chính, Việc nộp tiền phạt nhiều lần được áp dụng khi có các điều kiện nào sau đây?",
+    "options": [
+      "A.Bị phạt tiền từ 15.000.000 đồng trở lên đối với cá nhân và từ 150.000.000 đồng trở lên đối với tổ chức;",
+      "B.Đang gặp khó khăn đặc biệt về kinh tế và có đơn đề nghị nộp tiền phạt nhiều lần. Đơn đề nghị của cá nhân phải được Ủy ban nhân dân cấp xã nơi người đó cư trú hoặc cơ quan, tổ chức nơi người đó học tập, làm việc xác nhận hoàn cảnh khó khăn đặc biệt về kinh tế. Đơn đề nghị của tổ chức phải được Ủy ban nhân dân cấp xã, Ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế, cơ quan Thuế quản lý trực tiếp hoặc cơ quan cấp trên trực tiếp xác nhận hoàn cảnh khó khăn đặc biệt về kinh tế",
+      "C.Đáp ứng cả A và B",
+      "D.Đáp ứng A hoặc B"
+    ],
+    "answer": "C.Đáp ứng cả A và B"
+  },
+  {
+    "question": "Câu 91Theo Luật Xử lý vi phạm hành chính, Vi phạm hành chính có tổ chức là?",
+    "options": [
+      "A.Trường hợp cá nhân, tổ chức tự thực hiện hành vi vi phạm hành chính.",
+      "B.Trường hợp cá nhân, tổ chức câu kết với cá nhân, tổ chức khác để cùng thực hiện hành vi vi phạm hành chính.",
+      "C.Cả 2 đáp án đều đúng",
+      "D.Cả 2 đáp án đều sai"
+    ],
+    "answer": "B.Trường hợp cá nhân, tổ chức câu kết với cá nhân, tổ chức khác để cùng thực hiện hành vi vi phạm hành chính."
+  },
+  {
+    "question": "Câu 92Theo Luật Xử lý vi phạm hành chính, Người đại diện hợp pháp là?",
+    "options": [
+      "A.Cha mẹ hoặc người giám hộ",
+      "B.Luật sư",
+      "C.trợ giúp viên pháp lý.",
+      "D.Tất cả đáp án đều đúng"
+    ],
+    "answer": "D.Tất cả đáp án đều đúng"
+  },
+  {
+    "question": "Câu 93Theo Luật Xử lý vi phạm hành chính, Nguyên tắc xử phạt vi phạm hành chính nào sau đây đúng?",
+    "options": [
+      "A.Việc xử phạt vi phạm hành chính được tiến hành nhanh chóng, công khai, khách quan, đúng thẩm quyền, bảo đảm công bằng, đúng quy định của pháp luật;",
+      "B.Việc xử phạt vi phạm hành chính phải căn cứ vào tính chất, mức độ, hậu quả vi phạm, đối tượng vi phạm và tình tiết giảm nhẹ, tình tiết tăng nặng;",
+      "C.Mọi vi phạm hành chính phải được phát hiện, ngăn chặn kịp thời và phải bị xử lý nghiêm minh, mọi hậu quả do vi phạm hành chính gây ra phải được khắc phục theo đúng quy định của pháp luật;",
+      "D.Tất cả đáp án đều đúng"
+    ],
+    "answer": "D.Tất cả đáp án đều đúng"
+  },
+  {
+    "question": "Câu 94Theo quy định về cách tính thời gian, thời hạn, thời hiệu trong xử lý vi phạm hành chính, thời gian ban đêm được tính như thế nào?",
+    "options": [
+      "A.Từ 21 giờ ngày hôm trước đến 05 giờ ngày hôm sau",
+      "B.Từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau",
+      "C.Từ 22 giờ ngày hôm trước đến 06 giờ ngày hôm sau",
+      "D.Từ 21 giờ ngày hôm trước đến 06 giờ ngày hôm sau"
+    ],
+    "answer": "C.Từ 22 giờ ngày hôm trước đến 06 giờ ngày hôm sau"
+  },
+  {
+    "question": "Câu 95Theo Luật Xử lý vi phạm hành chính, hành vi nào là hành vi giảm nhẹ",
+    "options": [
+      "A.Vi phạm hành chính do bị ép buộc hoặc bị lệ thuộc về vật chất hoặc tinh thần;",
+      "B.Vi phạm hành chính đối với nhiều người, trẻ em, người già, người khuyết tật, phụ nữ mang thai.",
+      "C.Vi phạm hành chính do trình độ lạc hậu;",
+      "D.Đáp án A và C đều đúng"
+    ],
+    "answer": "D.Đáp án A và C đều đúng"
+  },
+  {
+    "question": "Câu 96Theo Luật Xử lý vi phạm hành chính, những hành vi nào bị nghiêm cấm?",
+    "options": [
+      "A.Giả mạo, làm sai lệch hồ sơ xử phạt vi phạm hành chính, hồ sơ áp dụng biện pháp xử lý hành chính",
+      "B.Không theo dõi, đôn đốc, kiểm tra, tổ chức cưỡng chế thi hành quyết định xử phạt, biện pháp khắc phục hậu quả.",
+      "C.Sử dụng tiền thu được từ tiền nộp phạt vi phạm hành chính, tiền nộp do chậm thi hành quyết định xử phạt tiền, tiền bán, thanh lý tang vật, phương tiện vi phạm hành chính bị tịch thu và các khoản tiền khác thu được từ xử phạt vi phạm hành chính trái quy định của pháp luật về ngân sách nhà nước.",
+      "D.Tất cả đáp án đều đúng"
+    ],
+    "answer": "D.Tất cả đáp án đều đúng"
+  },
+  {
+    "question": "Câu 97Theo quy định tại Nghị định số 125/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, câu nào sau đây đúng",
+    "options": [
+      "A.Trường hợp người bị xử phạt đã chết, mất tích; tổ chức bị xử phạt giải thể, phá sản thì không thi hành nội dung phạt tiền tại quyết định xử phạt nhưng vẫn áp dụng biện pháp khắc phục hậu quả được ghi trong quyết định.",
+      "B.Người đã ra quyết định xử phạt phải ra quyết định thi hành một phần quyết định xử phạt vi phạm hành chính trong thời hạn 60 ngày, kể từ ngày nhận được thông báo người bị xử phạt chết, mất tích; tổ chức bị xử phạt giải thể, phá sản.",
+      "C.Trường hợp quyết định xử phạt không có nội dung áp dụng biện pháp khắc phục hậu quả thì người có thẩm quyền xử phạt ra quyết định đình chỉ thi hành quyết định xử phạt.",
+      "D.Tất cả đáp án đều đúng"
+    ],
+    "answer": "D.Tất cả đáp án đều đúng"
+  },
+  {
+    "question": "Câu 98Theo quy định tại Nghị định số 125/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, câu nào sau đây đúng",
+    "options": [
+      "A.Trường hợp tổ chức, cá nhân không tự giác nộp tiền phạt, tiền chậm nộp tiền phạt vào ngân sách nhà nước thì cơ quan thuế quản lý trực tiếp tổ chức, cá nhân đó có trách nhiệm thông báo, đôn đốc tổ chức, cá nhân nộp tiền phạt, tiền chậm nộp tiền phạt theo quy định.",
+      "B.Số ngày chậm nộp tiền phạt bao gồm cả ngày lễ, ngày nghỉ theo chế độ quy định và được tính từ ngày kế tiếp ngày hết thời hạn nộp tiền phạt đến ngày liền kề trước ngày tổ chức, cá nhân nộp tiền phạt vào ngân sách nhà nước.",
+      "C.Cả A và B đều đúng",
+      "D.Cả A và B đều sai"
+    ],
+    "answer": "C.Cả A và B đều đúng"
+  },
+  {
+    "question": "Câu 99Nghị định số 310/2025/NĐ-CP ngày 02/12/2025 của Chính phủ có hiệu lực thi hành từ thời điểm nào?",
+    "options": [
+      "A.2026-01-01 00:00:00",
+      "B.2026-01-16 00:00:00",
+      "C.2026-01-07 00:00:00",
+      "D.2025-02-12 00:00:00"
+    ],
+    "answer": "B.2026-01-16 00:00:00"
+  },
+  {
+    "question": "Câu 100Theo Nghị định số 310/2025/NĐ-CP ngày 02/12/2025 của Chính phủ, trường hợp hành vi vi phạm hành chính về thuế, hóa đơn đã kết thúc trước ngày Nghị định này có hiệu lực thì áp dụng theo quy định nào?",
+    "options": [
+      "A.Nghị định số 310/2025/NĐ-CP ngày 02/12/2025;",
+      "B.Quy định tại văn bản quy phạm pháp luật về xử phạt vi phạm hành chính về thuế, hóa đơn có hiệu lực tại thời điểm phát hiện hành vi vi phạm;",
+      "C.Quy định tại văn bản quy phạm pháp luật về xử phạt vi phạm hành chính về thuế, hóa đơn có hiệu lực tại thời điểm thực hiện hành vi vi phạm."
+    ],
+    "answer": "C.Quy định tại văn bản quy phạm pháp luật về xử phạt vi phạm hành chính về thuế, hóa đơn có hiệu lực tại thời điểm thực hiện hành vi vi phạm."
+  }
+]

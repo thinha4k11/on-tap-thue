@@ -1,0 +1,189 @@
+[
+  {
+    "question": "Câu 1Có mấy hành vi bị nghiêm cấm khi tiếp công dân?",
+    "options": [
+      "A.9",
+      "B.6",
+      "C.7",
+      "D.8"
+    ],
+    "answer": "D.8"
+  },
+  {
+    "question": "Câu 2Có mấy trường hợp nào được từ chối tiếp công dân?",
+    "options": [
+      "A.6",
+      "B.5",
+      "C.4",
+      "D.7"
+    ],
+    "answer": "C.4"
+  },
+  {
+    "question": "Câu 3Thời hạn thông báo kết quả xử lý khiếu nại, tố cáo, kiến nghị, phản ánh?",
+    "options": [
+      "A.10 ngày làm việc",
+      "B.7 ngày làm việc",
+      "C.7 ngày",
+      "D.20 ngày làm việc"
+    ],
+    "answer": "A.10 ngày làm việc"
+  },
+  {
+    "question": "Câu 4Trụ sở tiếp công dân được quy định trong Luật tiếp công dân như thế nào?",
+    "options": [
+      "A.Trụ sở tiếp công dân là nơi để công dân trực tiếp đến khiếu nại, tố cáo, kiến nghị, phản ánh với lãnh đạo Đảng, Nhà nước ở trung ương hoặc lãnh đạo Đảng, chính quyền ở địa phương; có đại diện của một số cơ quan, tổ chức tại trung ương hoặc địa phương tham gia tiếp công dân thường xuyên và là nơi để lãnh đạo Đảng, Nhà nước ở trung ương hoặc địa phương trực tiếp tiếp công dân trong những trường hợp cần thiết",
+      "B.Trụ sở tiếp công dân là nơi để công dân trực tiếp đến khiếu nại, tố cáo, kiến nghị, phản ánh với lãnh đạo Đảng, Nhà nước ở trung ương hoặc lãnh đạo Đảng, chính quyền ở địa phương và là nơi để lãnh đạo Đảng, Nhà nước ở trung ương hoặc địa phương trực tiếp tiếp công dân trong những trường hợp cần thiết",
+      "C.Trụ sở tiếp công dân là nơi để công dân trực tiếp đến khiếu nại, tố cáo, kiến nghị, phản ánh với lãnh đạo Đảng, Nhà nước ở trung ương; có đại diện của một số cơ quan, tổ chức tại trung ương hoặc địa phương tham gia tiếp công dân thường xuyên và là nơi để lãnh đạo Đảng, Nhà nước ở trung ương hoặc địa phương trực tiếp tiếp công dân trong những trường hợp cần thiết",
+      "D.Trụ sở tiếp công dân là nơi để công dân trực tiếp đến khiếu nại, tố cáo, kiến nghị, phản ánh với lãnh đạo Đảng, Nhà nước ở trung ương hoặc lãnh đạo Đảng, chính quyền ở địa phương; có đại diện của một số cơ quan, tổ chức tại trung ương hoặc địa phương tham gia tiếp công dân thường xuyên."
+    ],
+    "answer": "A.Trụ sở tiếp công dân là nơi để công dân trực tiếp đến khiếu nại, tố cáo, kiến nghị, phản ánh với lãnh đạo Đảng, Nhà nước ở trung ương hoặc lãnh đạo Đảng, chính quyền ở địa phương; có đại diện của một số cơ quan, tổ chức tại trung ương hoặc địa phương tham gia tiếp công dân thường xuyên và là nơi để lãnh đạo Đảng, Nhà nước ở trung ương hoặc địa phương trực tiếp tiếp công dân trong những trường hợp cần thiết"
+  },
+  {
+    "question": "Câu 5Tiếp công dân là gì?",
+    "options": [
+      "A.Là việc công dân tiếp nhận thông tin từ cơ quan nhà nước",
+      "B.Là quá trình giải quyết tranh chấp giữa các công dân",
+      "C.Là việc các cơ quan nhà nước tiếp nhận và giải quyết các yêu cầu của công dân"
+    ],
+    "answer": "C.Là việc các cơ quan nhà nước tiếp nhận và giải quyết các yêu cầu của công dân"
+  },
+  {
+    "question": "Câu 6Cơ quan nào chịu trách nhiệm tổ chức tiếp công dân trong lĩnh vực thuế?",
+    "options": [
+      "A.Tất cả các đáp án trên",
+      "B.Cục Thuế",
+      "C.Thuế Thuế tỉnh, thành phố",
+      "D.Thuế cơ sở"
+    ],
+    "answer": "A.Tất cả các đáp án trên"
+  },
+  {
+    "question": "Câu 7Địa điểm tiếp công dân tại cơ quan thuế cần đảm bảo các yêu cầu nào?",
+    "options": [
+      "A.Tất cả các phương án trên",
+      "B.Thuận tiện, Cơ bản tiếp cận",
+      "C.Có bảng nội quy tiếp công dân",
+      "D.Có cán bộ thường trực"
+    ],
+    "answer": "A.Tất cả các phương án trên"
+  },
+  {
+    "question": "Câu 8Người đứng đầu cơ quan thuế không tiếp công dân trong trường hợp nào?",
+    "options": [
+      "A.Tất cả các đáp án trên",
+      "B.Người dân không cung cấp giấy tờ tùy thân",
+      "C.Người dân gây rối hoặc vi phạm trật tự nơi tiếp công dân",
+      "D.Người dân có thái độ không hợp tác"
+    ],
+    "answer": "A.Tất cả các đáp án trên"
+  },
+  {
+    "question": "Câu 9Người tiếp công dân cần thực hiện bước nào đầu tiên?",
+    "options": [
+      "A.Kiểm tra giấy tờ tùy thân của công dân",
+      "B.Lắng nghe nội dung khiếu nại, tố cáo",
+      "C.Ghi thông tin vào sổ tiếp công dân",
+      "D.Yêu cầu công dân trình bày đầy đủ nội dung sự việc"
+    ],
+    "answer": "A.Kiểm tra giấy tờ tùy thân của công dân"
+  },
+  {
+    "question": "Câu 10Nội dung tiếp công dân trong lĩnh vực thuế bao gồm những gì?",
+    "options": [
+      "A.Tất cả các đáp án trên",
+      "B.Tiếp nhận và giải quyết khiếu nại, tố cáo",
+      "C.Giải đáp vướng mắc liên quan đến chính sách thuế",
+      "D.Hướng dẫn thực hiện thủ tục hành chính thuế"
+    ],
+    "answer": "A.Tất cả các đáp án trên"
+  },
+  {
+    "question": "Câu 11Công dân có quyền yêu cầu cung cấp thông tin gì trong buổi tiếp công dân?",
+    "options": [
+      "A.Cung cấp thông tin về các quyết định hành chính liên quan đến quyền lợi của họ",
+      "B.Cung cấp thông tin về tài sản của cơ quan nhà nước",
+      "C.Cung cấp danh sách cán bộ công chức của cơ quan nhà nước"
+    ],
+    "answer": "A.Cung cấp thông tin về các quyết định hành chính liên quan đến quyền lợi của họ"
+  },
+  {
+    "question": "Câu 12Công dân có quyền ghi âm, ghi hình khi làm việc tại nơi tiếp công dân không?",
+    "options": [
+      "A.Có, nhưng không cần thông báo",
+      "B.Không, tuyệt đối cấm",
+      "C.Có, nếu được sự đồng ý của cán bộ tiếp công dân",
+      "D.Phụ thuộc vào yêu cầu của cơ quan"
+    ],
+    "answer": "C.Có, nếu được sự đồng ý của cán bộ tiếp công dân"
+  },
+  {
+    "question": "Câu 13Trong trường hợp nào công dân không được tiếp?",
+    "options": [
+      "A.Tất cả các phương án trên",
+      "B.Công dân đã nhận được trả lời bằng văn bản nhưng vẫn yêu cầu giải quyết lại",
+      "C.Công dân say rượu, sử dụng chất kích thích",
+      "D.Công dân có hành vi lăng mạ cán bộ"
+    ],
+    "answer": "A.Tất cả các phương án trên"
+  },
+  {
+    "question": "Câu 14Công dân khiếu nại về quyết định xử phạt vi phạm hành chính liên quan đến thuế nhưng không mang theo giấy tờ liên quan. Cán bộ tiếp công dân nên xử lý thế nào?",
+    "options": [
+      "A.Từ chối tiếp nhận vì thiếu giấy tờ",
+      "B.Hướng dẫn công dân bổ sung giấy tờ cần thiết",
+      "C.Tiếp nhận khiếu nại và yêu cầu bổ sung sau",
+      "D.Gửi công dân đến cơ quan cấp trên để giải quyết"
+    ],
+    "answer": "C.Tiếp nhận khiếu nại và yêu cầu bổ sung sau"
+  },
+  {
+    "question": "Câu 15Chị M đến Chi cục Thuế A trực tiếp trình bày nội dung khiếu nại về thuế và đề nghị cán bộ trực tiếp công dân ghi chép lại để giải quyết cho chị, cán bộ tiếp công dân phải làm gì?",
+    "options": [
+      "A.Hướng dẫn công dân đến bộ phận có liên quan để được giải quyết.",
+      "B.Yêu cầu công dân phải tự viết đơn khiếu nại gửi vào bộ phận Văn thư để có căn cứ xử lý.",
+      "C.Hướng dẫn công dân viết Đơn khiếu nại hoặc ghi chép đầy đủ, trung thực, chính xác, nội dung trình bày của công dân, đọc lại cho họ nghe và đề nghị họ ký tên xác nhận vào văn bản."
+    ],
+    "answer": "C.Hướng dẫn công dân viết Đơn khiếu nại hoặc ghi chép đầy đủ, trung thực, chính xác, nội dung trình bày của công dân, đọc lại cho họ nghe và đề nghị họ ký tên xác nhận vào văn bản."
+  },
+  {
+    "question": "Câu 16Ai là người chịu trách nhiệm tổ chức việc tiếp công dân tại cơ quan thuế?",
+    "options": [
+      "A.Tổ trưởng hành chính",
+      "B.Cán bộ chuyên trách",
+      "C.Thủ trưởng cơ quan thuế",
+      "D.Đại diện pháp lý"
+    ],
+    "answer": "C.Thủ trưởng cơ quan thuế"
+  },
+  {
+    "question": "Câu 17Bước đầu tiên trong quy trình tiếp công dân là gì?",
+    "options": [
+      "A.Đưa ra hướng xử lý",
+      "B.Lập biên bản làm việc",
+      "C.Xác định thẩm quyền giải quyết",
+      "D.Tiếp nhận thông tin"
+    ],
+    "answer": "D.Tiếp nhận thông tin"
+  },
+  {
+    "question": "Câu 18Cán bộ tiếp công dân nên làm gì khi công dân bức xúc, lớn tiếng?",
+    "options": [
+      "A.Phản ứng lại ngay lập tức",
+      "B.Giữ bình tĩnh và thuyết phục công dân trình bày rõ ràng",
+      "C.Yêu cầu công dân rời khỏi cơ quan",
+      "D.Gọi bảo vệ xử lý ngay"
+    ],
+    "answer": "B.Giữ bình tĩnh và thuyết phục công dân trình bày rõ ràng"
+  },
+  {
+    "question": "Câu 19Một trong những nguyên tắc quan trọng nhất khi tiếp công dân là gì?",
+    "options": [
+      "A.Đảm bảo công bằng, khách quan",
+      "B.Nhanh chóng giải quyết dù chưa đủ điều kiện",
+      "C.Chỉ tiếp những công dân quen biết",
+      "D.Giải quyết mọi yêu cầu của công dân ngay lập tức"
+    ],
+    "answer": "A.Đảm bảo công bằng, khách quan"
+  }
+]

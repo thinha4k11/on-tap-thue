@@ -1,0 +1,230 @@
+:root {
+    --primary: #2563eb;
+    --primary-hover: #1d4ed8;
+    --success-bg: #dcfce7;
+    --success-border: #16a34a;
+    --success-text: #14532d;
+    --danger-bg: #fee2e2;
+    --danger-border: #dc2626;
+    --danger-text: #7f1d1d;
+    --neutral-bg: #f8fafc;
+    --card-bg: #ffffff;
+    --border-color: #e2e8f0;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+    background-color: var(--neutral-bg);
+    color: var(--text-main);
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.container {
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.app-header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.app-header h1 {
+    font-size: 1.8rem;
+    color: var(--primary);
+}
+
+.subtitle {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border-color);
+}
+
+.control-row {
+    display: flex;
+    gap: 12px;
+    margin-top: 15px;
+    flex-wrap: wrap;
+}
+
+select {
+    flex: 1;
+    min-width: 260px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    font-size: 1rem;
+    background: #fff;
+    outline: none;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-primary {
+    background-color: var(--primary);
+    color: #fff;
+}
+
+.btn-primary:hover:not(:disabled) {
+    background-color: var(--primary-hover);
+}
+
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.btn-secondary {
+    background-color: #e2e8f0;
+    color: #334155;
+}
+
+.btn-secondary:hover {
+    background-color: #cbd5e1;
+}
+
+.topic-meta {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.quiz-status-bar {
+    position: sticky;
+    top: 10px;
+    background: #fff;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 18px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    margin-bottom: 20px;
+    border: 1px solid var(--border-color);
+}
+
+.badge-topic {
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.score-tracker {
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.question-box {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 18px;
+    margin-bottom: 18px;
+    transition: transform 0.15s;
+}
+
+.question-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 14px;
+    line-height: 1.5;
+}
+
+.options-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.option-btn {
+    text-align: left;
+    background: #f8fafc;
+    border: 1.5px solid var(--border-color);
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+    line-height: 1.4;
+}
+
+.option-btn:hover:not(:disabled) {
+    background: #eef2f6;
+    border-color: #cbd5e1;
+}
+
+.option-btn:disabled {
+    cursor: default;
+}
+
+/* Đáp án đúng (Xanh lá) */
+.option-btn.correct {
+    background-color: var(--success-bg) !important;
+    border-color: var(--success-border) !important;
+    color: var(--success-text) !important;
+    font-weight: 600;
+}
+
+/* Đáp án bấm sai (Đỏ) */
+.option-btn.wrong {
+    background-color: var(--danger-bg) !important;
+    border-color: var(--danger-border) !important;
+    color: var(--danger-text) !important;
+    font-weight: 600;
+}
+
+.footer-actions {
+    display: flex;
+    gap: 14px;
+    justify-content: center;
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+
+.hidden {
+    display: none !important;
+}
+/* Thêm ký hiệu dấu tích xanh cho ô đúng */
+.option-btn.correct::before {
+    content: "✓ ";
+    font-weight: 800;
+    margin-right: 6px;
+}
+
+/* Thêm ký hiệu gạch chéo đỏ cho ô bạn chọn sai */
+.option-btn.wrong::before {
+    content: "✕ ";
+    font-weight: 800;
+    margin-right: 6px;
+}
+.btn-success {
+    background-color: #059669;
+    color: #fff;
+}
+.btn-success:hover:not(:disabled) {
+    background-color: #047857;
+}

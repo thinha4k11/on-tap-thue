@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Câu 1Câu 1. Theo Nghị định 320/2025/NĐ-CP, thu nhập từ chênh lệch tỷ giá hối đoái phát sinh trong kỳ liên quan trực tiếp đến doanh thu, chi phí của hoạt động sản xuất, kinh doanh chính của doanh nghiệp được xử lý như thế nào để xác định thu nhập chịu thuế?",
+    "options": [
+      "A.Tính vào chi phí tài chính hoặc thu nhập tài chính.",
+      "B.Tính vào chi phí hoặc thu nhập của hoạt động sản xuất, kinh doanh chính của doanh nghiệp.",
+      "C.Phân bổ dần vào thu nhập khác trong thời gian tối đa 5 năm.",
+      "D.Không được tính vào thu nhập chịu thuế."
+    ],
+    "answer": "B.Tính vào chi phí hoặc thu nhập của hoạt động sản xuất, kinh doanh chính của doanh nghiệp."
+  },
+  {
+    "question": "Câu 2Câu 2. Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, chuyển đổi số được miễn thuế TNDN trong thời gian tối đa là bao lâu?",
+    "options": [
+      "A.Không quá 01 năm kể từ khi bắt đầu thực hiện hợp đồng.",
+      "B.Không quá 03 năm kể từ khi có thu nhập từ thực hiện hợp đồng.",
+      "C.Không quá 05 năm kể từ khi ký kết hợp đồng.",
+      "D.Miễn thuế toàn bộ thời gian thực hiện hợp đồng không giới hạn số năm."
+    ],
+    "answer": "B.Không quá 03 năm kể từ khi có thu nhập từ thực hiện hợp đồng."
+  },
+  {
+    "question": "Câu 3Câu 3. Trong kỳ tính thuế, nếu doanh nghiệp có hoạt động chuyển nhượng dự án đầu tư bị lỗ thì khoản lỗ này được bù trừ như thế nào?",
+    "options": [
+      "A.Được bù trừ tự do với thu nhập chịu thuế của tất cả các hoạt động sản xuất, kinh doanh khác.",
+      "B.Không được bù trừ với thu nhập chịu thuế của hoạt động sản xuất, kinh doanh đang được hưởng ưu đãi thuế có thu nhập.",
+      "C.Được bù trừ với thu nhập của hoạt động sản xuất kinh doanh đang được hưởng ưu đãi thuế nhưng tối đa không quá 50% số lỗ.",
+      "D.Bắt buộc phải kết chuyển sang kỳ sau để bù trừ với chính hoạt động chuyển nhượng dự án đó."
+    ],
+    "answer": "B.Không được bù trừ với thu nhập chịu thuế của hoạt động sản xuất, kinh doanh đang được hưởng ưu đãi thuế có thu nhập."
+  },
+  {
+    "question": "Câu 4Câu 4. Một trong những thay đổi quan trọng của Nghị định 320/2025/NĐ-CP là quy định về chứng từ thanh toán không dùng tiền mặt. Theo đó, doanh nghiệp mua hàng hóa, dịch vụ từng lần có giá trị từ bao nhiêu tiền trở lên thì BẮT BUỘC phải có chứng từ thanh toán không dùng tiền mặt để được tính vào chi phí được trừ?",
+    "options": [
+      "A.Từ 02 triệu đồng trở lên.",
+      "B.Từ 05 triệu đồng trở lên.",
+      "C.Từ 10 triệu đồng trở lên.",
+      "D.Từ 20 triệu đồng trở lên."
+    ],
+    "answer": "B.Từ 05 triệu đồng trở lên."
+  },
+  {
+    "question": "Câu 5Câu 5. Doanh nghiệp chi tiền mua bảo hiểm nhân thọ cho người lao động. Phần chi vượt mức bao nhiêu tiền/tháng/người sẽ KHÔNG được tính vào chi phí được trừ khi xác định thu nhập chịu thuế?",
+    "options": [
+      "A.Vượt mức 01 triệu đồng/tháng/người.",
+      "B.Vượt mức 03 triệu đồng/tháng/người.",
+      "C.Vượt mức 05 triệu đồng/tháng/người.",
+      "D.Không bị khống chế mức chi tối đa nếu có ghi rõ trong Hợp đồng lao động."
+    ],
+    "answer": "C.Vượt mức 05 triệu đồng/tháng/người."
+  },
+  {
+    "question": "Câu 6Câu 6. Theo Nghị định 320/2025/NĐ-CP, doanh nghiệp có tổng doanh thu năm từ trên 03 tỷ đồng đến không quá 50 tỷ đồng sẽ được áp dụng mức thuế suất thuế thu nhập doanh nghiệp là bao nhiêu?",
+    "options": [
+      "A.0.15",
+      "B.0.17",
+      "C.0.2",
+      "D.0.22"
+    ],
+    "answer": "B.0.17"
+  },
+  {
+    "question": "Câu 7Câu 7. Doanh nghiệp có hoạt động chuyển nhượng vốn cho tổ chức, cá nhân. Phần giá trị vốn chuyển nhượng theo hợp đồng từ mức nào trở lên thì bắt buộc phải có chứng từ thanh toán không dùng tiền mặt (nếu không cơ quan thuế sẽ có quyền ấn định giá chuyển nhượng)?",
+    "options": [
+      "A.Từ 05 triệu đồng trở lên.",
+      "B.Từ 10 triệu đồng trở lên.",
+      "C.Từ 20 triệu đồng trở lên.",
+      "D.Bất kỳ giá trị nào cũng phải thanh toán không dùng tiền mặt."
+    ],
+    "answer": "A.Từ 05 triệu đồng trở lên."
+  },
+  {
+    "question": "Câu 8Câu 8. Doanh nghiệp thực hiện dự án đầu tư nhà để chuyển nhượng, có thu tiền ứng trước của khách hàng theo tiến độ nhưng CHƯA xác định được chi phí tương ứng với doanh thu. Doanh nghiệp phải kê khai tạm nộp thuế TNDN theo tỷ lệ bao nhiêu trên doanh thu thu được tiền?",
+    "options": [
+      "A.0.01",
+      "B.0.02",
+      "C.0.03",
+      "D.0.05"
+    ],
+    "answer": "A.0.01"
+  },
+  {
+    "question": "Câu 9Câu 9. Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại khu công nghệ cao, khu công nghệ số tập trung được áp dụng mức thuế suất ưu đãi nào dưới đây?",
+    "options": [
+      "A.Thuế suất 10% trong 10 năm.",
+      "B.Thuế suất 10% trong 15 năm.",
+      "C.Thuế suất 15% trong suốt thời gian hoạt động.",
+      "D.Thuế suất 17% trong 10 năm."
+    ],
+    "answer": "B.Thuế suất 10% trong 15 năm."
+  },
+  {
+    "question": "Câu 10Câu 10. Trong trường hợp doanh nghiệp trích lập Quỹ phát triển khoa học và công nghệ nhưng không sử dụng hết theo quy định, số thuế thu hồi tính trên phần Quỹ không sử dụng hết sẽ bị tính lãi. Lãi suất tính lãi này được xác định như thế nào?",
+    "options": [
+      "A.Lãi suất cho vay cơ bản của Ngân hàng Nhà nước tại thời điểm thu hồi.",
+      "B.Lãi suất phạt chậm nộp thuế theo quy định của Luật Quản lý thuế.",
+      "C.Lãi suất trái phiếu kho bạc loại kỳ hạn 05 năm (hoặc 10 năm nếu không có loại 05 năm) được phát hành gần thời điểm thu hồi nhất và thời gian tính lãi là 02 năm.",
+      "D.Lãi suất huy động vốn kỳ hạn 12 tháng của các ngân hàng thương mại nhà nước."
+    ],
+    "answer": "C.Lãi suất trái phiếu kho bạc loại kỳ hạn 05 năm (hoặc 10 năm nếu không có loại 05 năm) được phát hành gần thời điểm thu hồi nhất và thời gian tính lãi là 02 năm."
+  },
+  {
+    "question": "Câu 11Câu 11. Theo Nghị định 320/2025/NĐ-CP, chênh lệch tăng do đánh giá lại giá trị quyền sử dụng đất để góp vốn vào doanh nghiệp (hình thành tài sản cố định không được trích khấu hao) được tính vào thu nhập khác của doanh nghiệp đi góp vốn trong thời gian tối đa là bao lâu?",
+    "options": [
+      "A.Tính toàn bộ 100% vào kỳ tính thuế năm góp vốn.",
+      "B.Phân bổ dần trong thời gian tối đa không quá 05 năm.",
+      "C.Phân bổ dần trong thời gian tối đa không quá 10 năm bắt đầu từ năm đem góp vốn.",
+      "D.Không được tính vào thu nhập khác."
+    ],
+    "answer": "C.Phân bổ dần trong thời gian tối đa không quá 10 năm bắt đầu từ năm đem góp vốn."
+  },
+  {
+    "question": "Câu 12Câu 12. Thu nhập từ bán sản phẩm làm ra từ công nghệ mới lần đầu tiên áp dụng ở Việt Nam được miễn thuế thu nhập doanh nghiệp trong thời gian bao lâu?",
+    "options": [
+      "A.Miễn thuế 02 năm kể từ khi có thu nhập từ bán sản phẩm.",
+      "B.Miễn thuế 03 năm kể từ khi có thu nhập từ bán sản phẩm.",
+      "C.Miễn thuế 04 năm kể từ khi có thu nhập từ bán sản phẩm.",
+      "D.Không được miễn thuế mà chỉ được áp dụng thuế suất ưu đãi 10%."
+    ],
+    "answer": "B.Miễn thuế 03 năm kể từ khi có thu nhập từ bán sản phẩm."
+  },
+  {
+    "question": "Câu 13Câu 13. Cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo, y tế để lại phần thu nhập không chia để đầu tư phát triển. Để phần thu nhập không chia này được miễn thuế thì phải đáp ứng tỷ lệ (trên thu nhập tính thuế) tối thiểu là bao nhiêu?",
+    "options": [
+      "A.Tối thiểu là 10%.",
+      "B.Tối thiểu là 15%.",
+      "C.Tối thiểu là 20%.",
+      "D.Tối thiểu là 25%."
+    ],
+    "answer": "D.Tối thiểu là 25%."
+  },
+  {
+    "question": "Câu 14Câu 14. Doanh nghiệp sau khi quyết toán thuế TNDN mà bị lỗ thì được chuyển toàn bộ và liên tục số lỗ vào thu nhập chịu thuế của những năm tiếp theo trong thời gian tối đa là bao nhiêu năm?",
+    "options": [
+      "A.Không quá 03 năm kể từ năm tiếp theo năm phát sinh lỗ.",
+      "B.Không quá 05 năm kể từ năm tiếp theo năm phát sinh lỗ.",
+      "C.Không quá 10 năm kể từ năm tiếp theo năm phát sinh lỗ.",
+      "D.Được chuyển vô thời hạn cho đến khi hết lỗ."
+    ],
+    "answer": "B.Không quá 05 năm kể từ năm tiếp theo năm phát sinh lỗ."
+  },
+  {
+    "question": "Câu 15Câu 15. Đối với hoạt động cho thuê tài sản mà bên thuê trả tiền trước cho nhiều năm, doanh nghiệp CÓ THỂ lựa chọn phương pháp xác định doanh thu tính thuế như thế nào?",
+    "options": [
+      "A.Bắt buộc phải chia đều doanh thu cho số năm trả tiền trước.",
+      "B.Bắt buộc phải ghi nhận toàn bộ doanh thu vào năm thu tiền.",
+      "C.Được lựa chọn phân bổ đều cho số năm hoặc ghi nhận toàn bộ số tiền của số năm trả tiền trước vào một lần.",
+      "D.Không được ghi nhận doanh thu cho đến khi hết thời hạn hợp đồng."
+    ],
+    "answer": "C.Được lựa chọn phân bổ đều cho số năm hoặc ghi nhận toàn bộ số tiền của số năm trả tiền trước vào một lần."
+  },
+  {
+    "question": "Câu 16Câu 16. Nhằm khuyến khích nghiên cứu và phát triển (R&D), khoản chi phí phát sinh trong kỳ tính thuế liên quan đến hoạt động R&D của doanh nghiệp được tính vào chi phí được trừ TỐI ĐA không quá bao nhiêu % tính trên chi phí thực tế?",
+    "options": [
+      "A.Không quá 100%.",
+      "B.Không quá 150%.",
+      "C.Không quá 200%.",
+      "D.Không quá 300%."
+    ],
+    "answer": "C.Không quá 200%."
+  },
+  {
+    "question": "Câu 17Câu 17. Doanh nghiệp ủy quyền cho người lao động mua hàng hóa phục vụ SXKD có giá trị từ 05 triệu đồng trở lên. Khoản chi này ĐƯỢC TÍNH vào chi phí được trừ nếu người lao động thanh toán bằng hình thức nào?",
+    "options": [
+      "A.Thanh toán bằng tiền mặt cá nhân sau đó mang hóa đơn về thanh toán lại với quỹ.",
+      "B.Thanh toán không dùng tiền mặt (thẻ cá nhân của người lao động) và phải có quy chế ủy quyền của doanh nghiệp.",
+      "C.Chỉ được tính chi phí nếu thanh toán trực tiếp từ tài khoản của doanh nghiệp sang tài khoản người bán.",
+      "D.Không được tính vào chi phí được trừ trong mọi trường hợp."
+    ],
+    "answer": "B.Thanh toán không dùng tiền mặt (thẻ cá nhân của người lao động) và phải có quy chế ủy quyền của doanh nghiệp."
+  },
+  {
+    "question": "Câu 18Câu 18. Phần chi cho các khoản có tính chất phúc lợi trực tiếp cho người lao động (như hiếu hỉ, nghỉ mát, khen thưởng con em...) VƯỢT QUÁ mức nào sau đây sẽ KHÔNG được tính vào chi phí được trừ?",
+    "options": [
+      "A.Vượt quá 01 tháng lương tối thiểu vùng.",
+      "B.Vượt quá 01 tháng lương cơ sở.",
+      "C.Vượt quá 01 tháng lương bình quân thực tế thực hiện trong năm tính thuế của doanh nghiệp.",
+      "D.Vượt quá 10% tổng quỹ lương thực hiện."
+    ],
+    "answer": "C.Vượt quá 01 tháng lương bình quân thực tế thực hiện trong năm tính thuế của doanh nghiệp."
+  },
+  {
+    "question": "Câu 19Câu 19. Doanh nghiệp mua một chiếc ô tô 05 chỗ ngồi với giá 2,5 tỷ đồng (không dùng để kinh doanh vận tải, du lịch hay làm mẫu). Phần trích khấu hao tương ứng với nguyên giá vượt trên mức nào sẽ KHÔNG được tính vào chi phí được trừ?",
+    "options": [
+      "A.Vượt trên 1,0 tỷ đồng.",
+      "B.Vượt trên 1,5 tỷ đồng.",
+      "C.Vượt trên 1,6 tỷ đồng.",
+      "D.Vượt trên 2,0 tỷ đồng."
+    ],
+    "answer": "C.Vượt trên 1,6 tỷ đồng."
+  },
+  {
+    "question": "Câu 20Câu 20. Doanh nghiệp chi trang phục cho người lao động bằng TIỀN MẶT vượt quá mức nào sau đây sẽ không được tính vào chi phí được trừ?",
+    "options": [
+      "A.Vượt quá 03 triệu đồng/người/năm.",
+      "B.Vượt quá 04 triệu đồng/người/năm.",
+      "C.Vượt quá 05 triệu đồng/người/năm.",
+      "D.Không khống chế mức chi nếu có quy chế tài chính rõ ràng."
+    ],
+    "answer": "C.Vượt quá 05 triệu đồng/người/năm."
+  },
+  {
+    "question": "Câu 21Câu 21. Trường hợp doanh nghiệp trích lập quỹ lương dự phòng (để trả lương cho năm sau) thì mức trích lập tối đa là bao nhiêu?",
+    "options": [
+      "A.Không quá 10% quỹ tiền lương thực hiện.",
+      "B.Không quá 15% quỹ tiền lương thực hiện.",
+      "C.Không quá 17% quỹ tiền lương thực hiện, với điều kiện sau khi trích lập doanh nghiệp không bị lỗ.",
+      "D.Không quá 20% quỹ tiền lương thực hiện."
+    ],
+    "answer": "C.Không quá 17% quỹ tiền lương thực hiện, với điều kiện sau khi trích lập doanh nghiệp không bị lỗ."
+  },
+  {
+    "question": "Câu 22Câu 22. Khoản tiền phạt nào sau đây ĐƯỢC tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN?",
+    "options": [
+      "A.Tiền phạt vi phạm luật giao thông.",
+      "B.Tiền phạt chậm nộp thuế theo quy định của Luật Quản lý thuế.",
+      "C.Tiền phạt vi phạm quy định kế toán.",
+      "D.Tiền bồi thường, phạt do vi phạm hợp đồng kinh tế."
+    ],
+    "answer": "D.Tiền bồi thường, phạt do vi phạm hợp đồng kinh tế."
+  },
+  {
+    "question": "Câu 23Câu 23. Quyền sử dụng đất lâu dài của doanh nghiệp được trích khấu hao và phân bổ vào chi phí được trừ như thế nào?",
+    "options": [
+      "A.Trích khấu hao theo thời gian tối đa 50 năm.",
+      "B.Quyền sử dụng đất lâu dài KHÔNG được trích khấu hao và phân bổ vào chi phí được trừ.",
+      "C.Phân bổ vào chi phí được trừ trong 10 năm.",
+      "D.Do doanh nghiệp tự xác định thời gian khấu hao."
+    ],
+    "answer": "B.Quyền sử dụng đất lâu dài KHÔNG được trích khấu hao và phân bổ vào chi phí được trừ."
+  },
+  {
+    "question": "Câu 24Câu 24. Doanh nghiệp siêu nhỏ có tổng doanh thu năm không quá 03 tỷ đồng sẽ được áp dụng mức thuế suất thuế thu nhập doanh nghiệp là bao nhiêu?",
+    "options": [
+      "A.0.1",
+      "B.0.15",
+      "C.0.17",
+      "D.0.2"
+    ],
+    "answer": "B.0.15"
+  },
+  {
+    "question": "Câu 25Câu 25. Đối với nhà thầu nước ngoài (không có cơ sở thường trú tại Việt Nam), số thuế TNDN tính theo tỷ lệ % trên doanh thu dịch vụ quản lý nhà hàng, khách sạn, casino là bao nhiêu?",
+    "options": [
+      "A.0.02",
+      "B.0.05",
+      "C.0.1",
+      "D.0.15"
+    ],
+    "answer": "C.0.1"
+  },
+  {
+    "question": "Câu 26Câu 26. Thời điểm xác định doanh thu tính thuế từ hoạt động chuyển nhượng bất động sản là khi nào?",
+    "options": [
+      "A.Là thời điểm hai bên ký hợp đồng công chứng.",
+      "B.Là thời điểm bên mua thanh toán đủ 100% tiền.",
+      "C.Là thời điểm bên bán bàn giao bất động sản cho bên mua, không phụ thuộc việc bên mua đã đăng ký quyền sở hữu.",
+      "D.Là thời điểm cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất cho bên mua."
+    ],
+    "answer": "C.Là thời điểm bên bán bàn giao bất động sản cho bên mua, không phụ thuộc việc bên mua đã đăng ký quyền sở hữu."
+  },
+  {
+    "question": "Câu 27Câu 27. Dự án đầu tư mới tại khu công nghệ số tập trung được áp dụng mức thuế suất ưu đãi cao nhất là bao nhiêu?",
+    "options": [
+      "A.Áp dụng thuế suất 10% trong 10 năm.",
+      "B.Áp dụng thuế suất 10% trong 15 năm.",
+      "C.Áp dụng thuế suất 15% trong suốt thời gian hoạt động.",
+      "D.Áp dụng thuế suất 17% trong 10 năm."
+    ],
+    "answer": "B.Áp dụng thuế suất 10% trong 15 năm."
+  },
+  {
+    "question": "Câu 28Câu 28. Doanh nghiệp thực hiện dự án đầu tư mở rộng (nâng cao công suất, đổi mới công nghệ). Ưu đãi thuế TNDN KHÔNG ÁP DỤNG đối với trường hợp đầu tư mở rộng nào sau đây?",
+    "options": [
+      "A.Đầu tư mở rộng bằng cách tự mua sắm thêm máy móc thiết bị mới.",
+      "B.Đầu tư mở rộng xây thêm nhà xưởng mới trên cùng khu đất.",
+      "C.Đầu tư mở rộng do sáp nhập, mua lại doanh nghiệp hoặc dự án đầu tư đang hoạt động.",
+      "D.Cải tạo nâng cấp dây chuyền để giảm ô nhiễm môi trường."
+    ],
+    "answer": "C.Đầu tư mở rộng do sáp nhập, mua lại doanh nghiệp hoặc dự án đầu tư đang hoạt động."
+  },
+  {
+    "question": "Câu 29Câu 29. Doanh nghiệp (không thuộc diện ưu đãi ngành nghề, địa bàn) nếu thành lập mới từ hộ kinh doanh cá thể thì được hưởng mức ưu đãi miễn thuế TNDN như thế nào?",
+    "options": [
+      "A.Miễn thuế TNDN trong 01 năm liên tục.",
+      "B.Miễn thuế TNDN trong 02 năm liên tục kể từ khi có thu nhập chịu thuế.",
+      "C.Miễn thuế TNDN trong 04 năm.",
+      "D.Không được miễn thuế."
+    ],
+    "answer": "B.Miễn thuế TNDN trong 02 năm liên tục kể từ khi có thu nhập chịu thuế."
+  },
+  {
+    "question": "Câu 30Câu 30. Trong thời gian được ưu đãi thuế TNDN, nếu trong kỳ tính thuế mà doanh nghiệp KHÔNG đáp ứng được điều kiện ưu đãi thuế (về số lao động, doanh thu, hoặc quy mô) thì sẽ bị xử lý như thế nào?",
+    "options": [
+      "A.Vẫn được hưởng ưu đãi nhưng mức ưu đãi giảm đi một nửa.",
+      "B.Bị truy thu toàn bộ số thuế đã được ưu đãi từ các năm trước.",
+      "C.Kỳ tính thuế đó không được hưởng ưu đãi thuế mà phải nộp thuế theo mức thuế suất 20%.",
+      "D.Được bảo lưu điều kiện ưu đãi sang năm tài chính tiếp theo."
+    ],
+    "answer": "C.Kỳ tính thuế đó không được hưởng ưu đãi thuế mà phải nộp thuế theo mức thuế suất 20%."
+  },
+  {
+    "question": "Câu 31Câu 31. Theo Nghị định 320/2025/NĐ-CP, thu nhập từ việc chia cổ tức, lợi nhuận sau khi bên nhận đầu tư (công ty con, công ty liên kết) đã nộp thuế thu nhập doanh nghiệp theo quy định sẽ được xử lý như thế nào đối với bên nhận góp vốn?",
+    "options": [
+      "A.Phải chịu thuế thu nhập doanh nghiệp với mức thuế suất 5%.",
+      "B.Được miễn thuế thu nhập doanh nghiệp.",
+      "C.Chỉ được miễn thuế nếu tỷ lệ góp vốn trên 50%.",
+      "D.Phải gộp chung vào thu nhập chịu thuế từ hoạt động sản xuất kinh doanh để tính thuế."
+    ],
+    "answer": "B.Được miễn thuế thu nhập doanh nghiệp."
+  },
+  {
+    "question": "Câu 32Câu 32. Doanh nghiệp A vay vốn của cá nhân B (không phải là tổ chức tín dụng) để phục vụ sản xuất kinh doanh. Chi phí trả lãi tiền vay này sẽ KHÔNG được tính vào chi phí được trừ nếu mức lãi suất vay vượt quá giới hạn nào?",
+    "options": [
+      "A.Vượt quá 100% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay.",
+      "B.Vượt quá 120% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay.",
+      "C.Vượt quá 150% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay.",
+      "D.Vượt quá 200% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay."
+    ],
+    "answer": "C.Vượt quá 150% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay."
+  },
+  {
+    "question": "Câu 33Câu 33. Khi doanh nghiệp có thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư bị LỖ thì khoản lỗ này được xử lý như thế nào trong kỳ tính thuế?",
+    "options": [
+      "A.Chỉ được kết chuyển sang trừ vào thu nhập từ chuyển nhượng bất động sản của các năm sau.",
+      "B.Được bù trừ vô điều kiện vào tất cả các loại thu nhập khác của doanh nghiệp.",
+      "C.Được bù trừ với thu nhập từ hoạt động sản xuất, kinh doanh (trừ thu nhập đang được hưởng ưu đãi thuế).",
+      "D.Không được bù trừ, phải ghi nhận giảm vốn chủ sở hữu."
+    ],
+    "answer": "C.Được bù trừ với thu nhập từ hoạt động sản xuất, kinh doanh (trừ thu nhập đang được hưởng ưu đãi thuế)."
+  },
+  {
+    "question": "Câu 34Câu 34. Mức thuế suất thuế TNDN áp dụng đối với hoạt động tìm kiếm, thăm dò, khai thác dầu khí và tài nguyên quý hiếm khác tại Việt Nam là bao nhiêu?",
+    "options": [
+      "A.Cố định 20%",
+      "B.Cố định 32%",
+      "C.Từ 32% đến 50% tùy theo từng dự án, từng cơ sở kinh doanh.",
+      "D.Từ 20% đến 32% tùy theo từng dự án."
+    ],
+    "answer": "C.Từ 32% đến 50% tùy theo từng dự án, từng cơ sở kinh doanh."
+  },
+  {
+    "question": "Câu 35Câu 35. Doanh nghiệp chi trang phục cho người lao động bằng HIỆN VẬT sẽ được tính vào chi phí được trừ với hạn mức tối đa là bao nhiêu?",
+    "options": [
+      "A.Không vượt quá 05 triệu đồng/người/năm giống như chi bằng tiền.",
+      "B.Không bị khống chế mức chi nếu có hóa đơn, chứng từ hợp pháp và được quy định cụ thể trong quy chế tài chính/hợp đồng lao động.",
+      "C.Không vượt quá 01 tháng lương bình quân.",
+      "D.Không vượt quá 10 triệu đồng/người/năm."
+    ],
+    "answer": "B.Không bị khống chế mức chi nếu có hóa đơn, chứng từ hợp pháp và được quy định cụ thể trong quy chế tài chính/hợp đồng lao động."
+  },
+  {
+    "question": "Câu 36Câu 36. Doanh nghiệp mới thành lập từ dự án đầu tư mới được hưởng ưu đãi miễn, giảm thuế TNDN. Nếu dự án KHÔNG phát sinh thu nhập chịu thuế trong những năm đầu thì thời gian miễn thuế, giảm thuế được tính bắt đầu từ năm nào?",
+    "options": [
+      "A.Tính từ năm đầu tiên phát sinh doanh thu từ dự án đầu tư mới.",
+      "B.Tính từ năm thứ ba kể từ khi dự án đầu tư phát sinh doanh thu.",
+      "C.Tính từ năm thứ tư kể từ năm đầu tiên dự án đầu tư phát sinh doanh thu.",
+      "D.Chỉ được tính khi nào có thu nhập chịu thuế, không khống chế số năm."
+    ],
+    "answer": "C.Tính từ năm thứ tư kể từ năm đầu tiên dự án đầu tư phát sinh doanh thu."
+  },
+  {
+    "question": "Câu 37Câu 37. Doanh nghiệp mua một xe ô tô 07 chỗ ngồi với giá 2,5 tỷ đồng ĐỂ SỬ DỤNG CHO KINH DOANH VẬN TẢI HÀNH KHÁCH. Mức trích khấu hao được tính vào chi phí được trừ đối với chiếc xe này là bao nhiêu?",
+    "options": [
+      "A.Chỉ được tính chi phí khấu hao tương ứng với phần nguyên giá 1,6 tỷ đồng.",
+      "B.Được tính chi phí khấu hao trên toàn bộ nguyên giá 2,5 tỷ đồng.",
+      "C.Khấu hao tương ứng nguyên giá 1,6 tỷ đồng, phần còn lại phân bổ dần vào chi phí khác trong 5 năm.",
+      "D.Không được trích khấu hao tính vào chi phí được trừ đối với ô tô dưới 9 chỗ ngồi."
+    ],
+    "answer": "B.Được tính chi phí khấu hao trên toàn bộ nguyên giá 2,5 tỷ đồng."
+  },
+  {
+    "question": "Câu 38Câu 38. Doanh nghiệp (không phải là doanh nghiệp nhà nước) được quyền trích lập Quỹ phát triển khoa học và công nghệ hằng năm với tỷ lệ tối đa là bao nhiêu phần trăm (%) thu nhập tính thuế?",
+    "options": [
+      "A.Tối đa 5% thu nhập tính thuế.",
+      "B.Tối đa 10% thu nhập tính thuế.",
+      "C.Tối đa 15% thu nhập tính thuế.",
+      "D.Tối đa 20% thu nhập tính thuế."
+    ],
+    "answer": "B.Tối đa 10% thu nhập tính thuế."
+  },
+  {
+    "question": "Câu 39Câu 39. Sau bao lâu kể từ khi trích lập, nếu Quỹ phát triển khoa học và công nghệ không được sử dụng, hoặc sử dụng không hết 70%, thì doanh nghiệp phải nộp lại số thuế TNDN đã được miễn và phần tiền lãi phát sinh?",
+    "options": [
+      "A.Trong thời hạn 03 năm kể từ khi trích lập.",
+      "B.Trong thời hạn 04 năm kể từ khi trích lập.",
+      "C.Trong thời hạn 05 năm kể từ khi trích lập.",
+      "D.Trong thời hạn 07 năm kể từ khi trích lập."
+    ],
+    "answer": "C.Trong thời hạn 05 năm kể từ khi trích lập."
+  },
+  {
+    "question": "Câu 40Câu 40. Trong công thức xác định thuế TNDN phải nộp, \"Thu nhập tính thuế\" được xác định bằng công thức nào?",
+    "options": [
+      "A.Thu nhập tính thuế",
+      "B.Thu nhập tính thuế",
+      "C.Thu nhập tính thuế",
+      "D.Thu nhập tính thuế"
+    ],
+    "answer": "B.Thu nhập tính thuế"
+  },
+  {
+    "question": "Câu 41Câu 41. Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực \"Sản xuất phần mềm\" được áp dụng mức thuế suất ưu đãi là bao nhiêu?",
+    "options": [
+      "A.Thuế suất 10% trong 15 năm.",
+      "B.Thuế suất 15% trong 10 năm.",
+      "C.Thuế suất 17% trong 10 năm.",
+      "D.Không được ưu đãi thuế suất, chỉ được miễn giảm thuế."
+    ],
+    "answer": "A.Thuế suất 10% trong 15 năm."
+  },
+  {
+    "question": "Câu 42Câu 42. Khoản chi trả tiền lương, tiền công cho người lao động sẽ KHÔNG được tính vào chi phí được trừ nếu vi phạm điều kiện nào sau đây?",
+    "options": [
+      "A.Không có hóa đơn giá trị gia tăng kèm theo.",
+      "B.Đã hạch toán vào chi phí nhưng thực tế không chi trả hoặc không có chứng từ thanh toán theo quy định của pháp luật.",
+      "C.Trả bằng tiền mặt thay vì chuyển khoản đối với mức lương trên 5 triệu đồng.",
+      "D.Trả cao hơn mức lương trung bình của ngành."
+    ],
+    "answer": "B.Đã hạch toán vào chi phí nhưng thực tế không chi trả hoặc không có chứng từ thanh toán theo quy định của pháp luật."
+  },
+  {
+    "question": "Câu 43Câu 43. Khoản chi nào sau đây ĐƯỢC tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN?",
+    "options": [
+      "A.Tiền phạt vi phạm chế độ kê khai thuế.",
+      "B.Tiền chậm nộp thuế giá trị gia tăng.",
+      "C.Chi phí trích trước để sửa chữa lớn tài sản cố định theo dự toán.",
+      "D.Chi trả tiền điện, nước có hóa đơn mang tên chủ nhà đang cho doanh nghiệp thuê địa điểm (doanh nghiệp trực tiếp thanh toán và có quy định trong hợp đồng thuê)."
+    ],
+    "answer": "D.Chi trả tiền điện, nước có hóa đơn mang tên chủ nhà đang cho doanh nghiệp thuê địa điểm (doanh nghiệp trực tiếp thanh toán và có quy định trong hợp đồng thuê)."
+  },
+  {
+    "question": "Câu 44Câu 44. Thu nhập của doanh nghiệp từ hoạt động kinh doanh bảo hiểm nhân thọ sẽ áp dụng thuế suất là bao nhiêu?",
+    "options": [
+      "A.0.1",
+      "B.0.15",
+      "C.0.17",
+      "D.0.2"
+    ],
+    "answer": "D.0.2"
+  },
+  {
+    "question": "Câu 45Câu 45. Doanh nghiệp A thiếu vốn điều lệ 10 tỷ đồng theo tiến độ góp vốn. Trong năm, doanh nghiệp phát sinh chi phí trả lãi tiền vay là 2 tỷ đồng (cho khoản vay 15 tỷ đồng từ ngân hàng). Cơ quan thuế sẽ xử lý chi phí lãi vay này như thế nào?",
+    "options": [
+      "A.Chấp nhận toàn bộ 2 tỷ đồng là chi phí được trừ vì vay của ngân hàng hợp pháp.",
+      "B.Loại trừ phần chi phí lãi vay tương ứng với phần vốn điều lệ còn thiếu (10 tỷ đồng) ra khỏi chi phí được trừ.",
+      "C.Loại trừ toàn bộ 2 tỷ đồng do doanh nghiệp vi phạm tiến độ góp vốn.",
+      "D.Phạt vi phạm hành chính và cho phép đưa toàn bộ 2 tỷ vào chi phí."
+    ],
+    "answer": "B.Loại trừ phần chi phí lãi vay tương ứng với phần vốn điều lệ còn thiếu (10 tỷ đồng) ra khỏi chi phí được trừ."
+  },
+  {
+    "question": "Câu 46Câu 46. Để được hưởng ưu đãi thuế TNDN đối với phần thu nhập từ thực hiện hoạt động xã hội hóa (y tế, giáo dục...), doanh nghiệp bắt buộc phải đáp ứng điều kiện nào sau đây?",
+    "options": [
+      "A.Phải có vốn đầu tư nước ngoài chiếm trên 51%.",
+      "B.Phải được thành lập tại các địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+      "C.Phải đáp ứng danh mục loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa do Thủ tướng Chính phủ quy định.",
+      "D.Phải không phân chia lợi nhuận trong suốt thời gian hoạt động."
+    ],
+    "answer": "C.Phải đáp ứng danh mục loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa do Thủ tướng Chính phủ quy định."
+  },
+  {
+    "question": "Câu 47Câu 47. Doanh nghiệp mua hàng hóa của nông dân trực tiếp sản xuất bán ra. Để khoản chi mua hàng này được tính vào chi phí được trừ, doanh nghiệp bắt buộc phải có chứng từ gì?",
+    "options": [
+      "A.Hóa đơn giá trị gia tăng do cơ quan thuế cấp lẻ.",
+      "B.Bảng kê thu mua hàng hóa do người đại diện theo pháp luật hoặc người được ủy quyền của doanh nghiệp ký, kèm theo chứng từ thanh toán.",
+      "C.Phải có xác nhận của Ủy ban nhân dân cấp xã nơi người nông dân cư trú.",
+      "D.Không cần chứng từ gì vì đây là hàng nông sản không chịu thuế."
+    ],
+    "answer": "B.Bảng kê thu mua hàng hóa do người đại diện theo pháp luật hoặc người được ủy quyền của doanh nghiệp ký, kèm theo chứng từ thanh toán."
+  },
+  {
+    "question": "Câu 48Câu 48. Đối với cơ sở sản xuất kinh doanh hạch toán phụ thuộc nằm tại tỉnh, thành phố khác với nơi đóng trụ sở chính, doanh nghiệp thực hiện nộp thuế TNDN như thế nào?",
+    "options": [
+      "A.Nộp toàn bộ số thuế TNDN tại kho bạc nhà nước nơi đóng trụ sở chính.",
+      "B.Nộp riêng phần thuế phát sinh của cơ sở phụ thuộc tại cơ quan thuế địa phương đó.",
+      "C.Khai thuế tập trung tại trụ sở chính, thực hiện phân bổ số thuế phải nộp cho các địa phương nơi có cơ sở sản xuất hạch toán phụ thuộc theo quy định của pháp luật về quản lý thuế.",
+      "D.Giao cho cơ sở hạch toán phụ thuộc tự quyết toán và nộp tại địa phương."
+    ],
+    "answer": "C.Khai thuế tập trung tại trụ sở chính, thực hiện phân bổ số thuế phải nộp cho các địa phương nơi có cơ sở sản xuất hạch toán phụ thuộc theo quy định của pháp luật về quản lý thuế."
+  },
+  {
+    "question": "Câu 49Câu 49. Mức thuế suất 15% (ưu đãi thuế) được áp dụng trong thời gian 10 năm đối với thu nhập của doanh nghiệp từ hoạt động nào sau đây?",
+    "options": [
+      "A.Hoạt động tìm kiếm, thăm dò tài nguyên.",
+      "B.Sản xuất phần mềm.",
+      "C.Thực hiện dự án đầu tư mới trong lĩnh vực bảo vệ môi trường, sản xuất năng lượng tái tạo (không thuộc địa bàn kinh tế - xã hội đặc biệt khó khăn).",
+      "D.Thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi tại địa bàn có điều kiện kinh tế - xã hội khó khăn."
+    ],
+    "answer": "D.Thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi tại địa bàn có điều kiện kinh tế - xã hội khó khăn."
+  },
+  {
+    "question": "Câu 50Câu 50. Thuế thu nhập doanh nghiệp được xác định trong kỳ tính thuế (năm tài chính) bằng công thức nào dưới đây?",
+    "options": [
+      "A.Thuế TNDN phải nộp",
+      "B.Thuế TNDN phải nộp",
+      "C.Thuế TNDN phải nộp",
+      "D.Thuế TNDN phải nộp"
+    ],
+    "answer": "C.Thuế TNDN phải nộp"
+  },
+  {
+    "question": "Câu 51Câu 51. Theo Nghị định 320/2025/NĐ-CP, thời điểm xác định doanh thu để tính thu nhập chịu thuế đối với hoạt động cung ứng dịch vụ là thời điểm nào?",
+    "options": [
+      "A.Là thời điểm bên mua thanh toán đủ tiền dịch vụ cho bên bán.",
+      "B.Là thời điểm xuất hóa đơn giá trị gia tăng giao cho người mua.",
+      "C.Là thời điểm ký kết hợp đồng cung ứng dịch vụ.",
+      "D.Là thời điểm hoàn thành việc cung ứng dịch vụ hoặc hoàn thành từng phần việc cung ứng dịch vụ cho người mua."
+    ],
+    "answer": "D.Là thời điểm hoàn thành việc cung ứng dịch vụ hoặc hoàn thành từng phần việc cung ứng dịch vụ cho người mua."
+  },
+  {
+    "question": "Câu 52Câu 52. Doanh nghiệp bán hàng hóa theo phương thức trả góp, trả chậm. Doanh thu để tính thu nhập chịu thuế TNDN được xác định như thế nào?",
+    "options": [
+      "A.Là tổng số tiền thu được theo hợp đồng bao gồm cả tiền lãi trả góp, trả chậm.",
+      "B.Là tiền bán hàng hóa trả tiền một lần, không bao gồm tiền lãi trả góp, trả chậm.",
+      "C.Là số tiền thực thu được của khách hàng trong năm tính thuế.",
+      "D.Là số tiền gốc cộng với 50% tiền lãi trả góp thu được trong năm."
+    ],
+    "answer": "B.Là tiền bán hàng hóa trả tiền một lần, không bao gồm tiền lãi trả góp, trả chậm."
+  },
+  {
+    "question": "Câu 53Câu 53. Khoản chi tiền lương, tiền công và các khoản phụ cấp cho đối tượng nào dưới đây KHÔNG ĐƯỢC tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN?",
+    "options": [
+      "A.Tiền lương trả cho người lao động nước ngoài làm việc tại doanh nghiệp.",
+      "B.Tiền lương trả cho Giám đốc là người được thuê để điều hành Công ty TNHH một thành viên.",
+      "C.Tiền lương của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên (do một cá nhân làm chủ).",
+      "D.Tiền lương trả cho lao động thử việc có hợp đồng thử việc."
+    ],
+    "answer": "C.Tiền lương của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên (do một cá nhân làm chủ)."
+  },
+  {
+    "question": "Câu 54Câu 54. Doanh nghiệp thực hiện chi tài trợ cho các mục đích nào sau đây ĐƯỢC tính vào chi phí được trừ?",
+    "options": [
+      "A.Tài trợ cho Hội phụ nữ địa phương tổ chức đi tham quan, du lịch.",
+      "B.Tài trợ cho Đại hội thể dục thể thao của một Phường.",
+      "C.Tài trợ cho y tế, giáo dục, nghiên cứu khoa học, khắc phục hậu quả thiên tai, làm nhà tình nghĩa có hồ sơ xác nhận theo quy định.",
+      "D.Tài trợ cho chi phí đi lại, ăn ở của một tổ chức xã hội nghề nghiệp."
+    ],
+    "answer": "C.Tài trợ cho y tế, giáo dục, nghiên cứu khoa học, khắc phục hậu quả thiên tai, làm nhà tình nghĩa có hồ sơ xác nhận theo quy định."
+  },
+  {
+    "question": "Câu 55Câu 55. Doanh nghiệp A phát sinh khoản chi phí bảo hiểm nhân thọ cho người lao động là 4 triệu đồng/người/tháng (dưới mức khống chế 5 triệu đồng). Tuy nhiên, khoản chi này vẫn BỊ LOẠI khỏi chi phí được trừ. Nguyên nhân hợp lý nhất theo quy định của pháp luật là gì?",
+    "options": [
+      "A.Do người lao động chưa làm đủ 12 tháng tại doanh nghiệp.",
+      "B.Do khoản chi này không được ghi cụ thể điều kiện hưởng và mức hưởng tại một trong các hồ sơ: Hợp đồng lao động, Thỏa ước lao động tập thể hoặc Quy chế tài chính.",
+      "C.Do doanh nghiệp thanh toán khoản bảo hiểm này bằng tiền mặt.",
+      "D.Do doanh nghiệp chưa đóng đủ bảo hiểm thất nghiệp cho người lao động."
+    ],
+    "answer": "B.Do khoản chi này không được ghi cụ thể điều kiện hưởng và mức hưởng tại một trong các hồ sơ: Hợp đồng lao động, Thỏa ước lao động tập thể hoặc Quy chế tài chính."
+  },
+  {
+    "question": "Câu 56Câu 56. Doanh nghiệp có một dây chuyền máy móc (thuộc TSCĐ) phải tạm dừng hoạt động do sản xuất theo mùa vụ trong thời gian 06 tháng. Chi phí khấu hao của dây chuyền này trong 06 tháng tạm dừng được xử lý thế nào?",
+    "options": [
+      "A.Không được tính vào chi phí được trừ.",
+      "B.Được tính vào chi phí được trừ vì thời gian tạm dừng dưới 09 tháng.",
+      "C.Chỉ được tính 50% mức khấu hao vào chi phí được trừ.",
+      "D.Phải xin phép cơ quan thuế, nếu được chấp thuận mới được trừ."
+    ],
+    "answer": "B.Được tính vào chi phí được trừ vì thời gian tạm dừng dưới 09 tháng."
+  },
+  {
+    "question": "Câu 57Câu 57. Hàng hóa của doanh nghiệp bị hư hỏng do thay đổi quá trình sinh hóa tự nhiên, hết hạn sử dụng. Để giá trị tổn thất của số hàng hóa này được tính vào chi phí được trừ, điều kiện bắt buộc là gì?",
+    "options": [
+      "A.Doanh nghiệp tự lập biên bản hủy hàng là đủ căn cứ.",
+      "B.Phần giá trị tổn thất này không được cơ quan bảo hiểm hoặc tổ chức, cá nhân khác bồi thường và có đầy đủ hồ sơ xác định tổn thất theo quy định.",
+      "C.Phải có xác nhận của cơ quan Công an và cơ quan Y tế dự phòng.",
+      "D.Phải nộp thuế tiêu thụ đặc biệt trước khi tiêu hủy."
+    ],
+    "answer": "B.Phần giá trị tổn thất này không được cơ quan bảo hiểm hoặc tổ chức, cá nhân khác bồi thường và có đầy đủ hồ sơ xác định tổn thất theo quy định."
+  },
+  {
+    "question": "Câu 58Câu 58. Khi xác định chi phí được trừ của doanh nghiệp, mức khống chế (trần chi phí) đối với chi phí quảng cáo, tiếp thị, khuyến mại, hoa hồng môi giới hiện nay theo quy định là bao nhiêu?",
+    "options": [
+      "A.Khống chế tối đa 10% tổng số chi phí được trừ.",
+      "B.Khống chế tối đa 15% tổng số chi phí được trừ.",
+      "C.Khống chế tối đa 15% tổng doanh thu tính thuế.",
+      "D.Không bị khống chế tỷ lệ, chỉ cần có đầy đủ hóa đơn, chứng từ hợp pháp và phục vụ sản xuất kinh doanh."
+    ],
+    "answer": "D.Không bị khống chế tỷ lệ, chỉ cần có đầy đủ hóa đơn, chứng từ hợp pháp và phục vụ sản xuất kinh doanh."
+  },
+  {
+    "question": "Câu 59Câu 59. Doanh nghiệp phát hành thêm cổ phiếu để huy động vốn, phát sinh khoản chi phí tư vấn phát hành và in ấn cổ phiếu. Khoản chi phí này được xử lý như thế nào khi tính thuế TNDN?",
+    "options": [
+      "A.Được tính toàn bộ vào chi phí kinh doanh trong kỳ.",
+      "B.Phân bổ vào chi phí được trừ trong tối đa 03 năm.",
+      "C.Không được tính vào chi phí được trừ vì nó liên quan trực tiếp đến việc tăng vốn chủ sở hữu (giảm trừ thặng dư vốn cổ phần).",
+      "D.Tính vào chi phí tài chính được trừ."
+    ],
+    "answer": "C.Không được tính vào chi phí được trừ vì nó liên quan trực tiếp đến việc tăng vốn chủ sở hữu (giảm trừ thặng dư vốn cổ phần)."
+  },
+  {
+    "question": "Câu 60Câu 60. Thu nhập từ chuyển nhượng chứng khoán được xác định bằng công thức nào dưới đây?",
+    "options": [
+      "A.Thu nhập",
+      "B.Thu nhập",
+      "C.Thu nhập",
+      "D.Thu nhập"
+    ],
+    "answer": "B.Thu nhập"
+  },
+  {
+    "question": "Câu 61Câu 61. Doanh nghiệp B có khoản nợ phải thu khó đòi đã quá hạn thanh toán 2 năm. Để khoản dự phòng nợ phải thu khó đòi này ĐƯỢC tính vào chi phí được trừ, doanh nghiệp phải thỏa mãn điều kiện gì?",
+    "options": [
+      "A.Tự doanh nghiệp đánh giá khả năng mất vốn và trích lập.",
+      "B.Phải khởi kiện con nợ ra tòa án mới được trích lập.",
+      "C.Phải được trích lập dự phòng theo đúng hướng dẫn của Bộ Tài chính về trích lập các khoản dự phòng rủi ro.",
+      "D.Được trừ ngay lập tức mà không cần trích lập dự phòng."
+    ],
+    "answer": "C.Phải được trích lập dự phòng theo đúng hướng dẫn của Bộ Tài chính về trích lập các khoản dự phòng rủi ro."
+  },
+  {
+    "question": "Câu 62Câu 62. Doanh nghiệp Việt Nam có thu nhập từ dự án đầu tư tại nước ngoài (nước chưa ký Hiệp định tránh đánh thuế hai lần với Việt Nam). Khoản thu nhập này đã nộp thuế TNDN ở nước ngoài với mức thuế suất 15%. Khi chuyển thu nhập về Việt Nam, doanh nghiệp phải xử lý nghĩa vụ thuế như thế nào (biết thuế suất tại Việt Nam là 20%)?",
+    "options": [
+      "A.Được miễn hoàn toàn thuế tại Việt Nam do đã nộp ở nước ngoài.",
+      "B.Phải nộp thêm số thuế chênh lệch tương ứng với mức 5% (20% - 15%) tại Việt Nam.",
+      "C.Phải nộp lại toàn bộ 20% tại Việt Nam.",
+      "D.Trừ số thuế 15% đã nộp ở nước ngoài vào chi phí được trừ, phần còn lại tính thuế 20%."
+    ],
+    "answer": "B.Phải nộp thêm số thuế chênh lệch tương ứng với mức 5% (20% - 15%) tại Việt Nam."
+  },
+  {
+    "question": "Câu 63Câu 63. Đối với doanh nghiệp thành lập mới từ dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, mức ưu đãi về thuế suất và thời gian miễn, giảm thuế quy định như thế nào?",
+    "options": [
+      "A.Thuế suất 10% trong 15 năm, miễn thuế 4 năm, giảm 50% số thuế phải nộp trong 9 năm tiếp theo.",
+      "B.Thuế suất 10% trong 10 năm, miễn thuế 2 năm, giảm 50% số thuế phải nộp trong 4 năm tiếp theo.",
+      "C.Thuế suất 15% trong 15 năm, miễn thuế 2 năm, giảm 50% số thuế phải nộp trong 4 năm tiếp theo.",
+      "D.Miễn thuế trọn đời đối với dự án."
+    ],
+    "answer": "A.Thuế suất 10% trong 15 năm, miễn thuế 4 năm, giảm 50% số thuế phải nộp trong 9 năm tiếp theo."
+  },
+  {
+    "question": "Câu 64Câu 64. Trường hợp cơ quan thuế trong quá trình thanh tra, kiểm tra phát hiện doanh nghiệp có giao dịch liên kết nhưng cố tình không kê khai phụ lục giao dịch liên kết. Hậu quả pháp lý đối với việc không kê khai này là gì?",
+    "options": [
+      "A.Bị phạt hành chính 2 triệu đồng và cho phép kê khai bổ sung.",
+      "B.Cơ quan thuế có quyền ấn định thu nhập chịu thuế hoặc ấn định số thuế phải nộp theo quy định của pháp luật về quản lý thuế.",
+      "C.Doanh nghiệp bị đình chỉ mã số thuế ngay lập tức.",
+      "D.Không có chế tài phạt, cơ quan thuế tự lấy số liệu nội bộ doanh nghiệp để tính."
+    ],
+    "answer": "B.Cơ quan thuế có quyền ấn định thu nhập chịu thuế hoặc ấn định số thuế phải nộp theo quy định của pháp luật về quản lý thuế."
+  },
+  {
+    "question": "Câu 65Câu 65. Tiền phạt vi phạm hợp đồng kinh tế (hợp đồng mua bán hàng hóa, cung cấp dịch vụ) mà doanh nghiệp A bị phạt và phải trả cho đối tác. Khoản tiền phạt này được hạch toán như thế nào khi tính thuế TNDN?",
+    "options": [
+      "A.Không được tính vào chi phí được trừ vì đây là khoản tiền phạt.",
+      "B.Bắt buộc trừ vào thu nhập khác của doanh nghiệp.",
+      "C.Nếu có thu tiền bồi thường từ hợp đồng khác thì bù trừ; nếu chi phạt lớn hơn thu bồi thường thì phần chênh lệch được tính vào chi phí được trừ.",
+      "D.Phải trừ vào quỹ phúc lợi của doanh nghiệp."
+    ],
+    "answer": "C.Nếu có thu tiền bồi thường từ hợp đồng khác thì bù trừ; nếu chi phạt lớn hơn thu bồi thường thì phần chênh lệch được tính vào chi phí được trừ."
+  },
+  {
+    "question": "Câu 66Câu 66. Lỗ phát sinh do đánh giá lại số dư nợ vay có gốc ngoại tệ tại thời điểm cuối kỳ tính thuế (cuối năm tài chính) đối với khoản nợ vay phục vụ cho hoạt động sản xuất kinh doanh (giai đoạn doanh nghiệp đã đi vào hoạt động) được xử lý như thế nào?",
+    "options": [
+      "A.Không được tính vào chi phí được trừ.",
+      "B.Được hạch toán toàn bộ vào chi phí tài chính (chi phí được trừ) trong kỳ tính thuế.",
+      "C.Phân bổ dần vào chi phí tối đa không quá 5 năm.",
+      "D.Treo trên bảng cân đối kế toán chờ khi nào trả nợ mới được tính."
+    ],
+    "answer": "B.Được hạch toán toàn bộ vào chi phí tài chính (chi phí được trừ) trong kỳ tính thuế."
+  },
+  {
+    "question": "Câu 67Câu 67. Quỹ phát triển khoa học và công nghệ của doanh nghiệp sau khi được trích lập KHÔNG ĐƯỢC sử dụng cho mục đích nào sau đây?",
+    "options": [
+      "A.Cử cán bộ đi đào tạo, nghiên cứu công nghệ mới phục vụ trực tiếp cho hoạt động của doanh nghiệp.",
+      "B.Mua máy móc, trang thiết bị để trực tiếp phục vụ cho việc nghiên cứu công nghệ của doanh nghiệp.",
+      "C.Đầu tư mua sắm xe ô tô chở ban giám đốc đi làm hằng ngày.",
+      "D.Trang bị phần mềm phục vụ đổi mới sáng tạo, chuyển đổi số của doanh nghiệp."
+    ],
+    "answer": "C.Đầu tư mua sắm xe ô tô chở ban giám đốc đi làm hằng ngày."
+  },
+  {
+    "question": "Câu 68Câu 68. Khi một doanh nghiệp đang hoạt động, có thực hiện sáp nhập với một doanh nghiệp khác. Khoản lỗ của doanh nghiệp bị sáp nhập (trước khi sáp nhập) được xử lý như thế nào đối với doanh nghiệp sau sáp nhập?",
+    "options": [
+      "A.Không được chuyển lỗ sang doanh nghiệp sau sáp nhập.",
+      "B.Được chuyển lỗ toàn bộ sang doanh nghiệp sau sáp nhập nhưng tối đa không quá 05 năm kể từ năm phát sinh lỗ.",
+      "C.Chỉ được chuyển lỗ 50% sang doanh nghiệp sau sáp nhập.",
+      "D.Được chuyển lỗ với điều kiện phải được Bộ Tài chính phê duyệt."
+    ],
+    "answer": "B.Được chuyển lỗ toàn bộ sang doanh nghiệp sau sáp nhập nhưng tối đa không quá 05 năm kể từ năm phát sinh lỗ."
+  },
+  {
+    "question": "Câu 69Câu 69. Phần chi phí trả tiền điện, tiền nước đối với những hợp đồng điện nước do chủ sở hữu cho thuê địa điểm sản xuất, kinh doanh đứng tên. Doanh nghiệp sẽ được tính vào chi phí được trừ NẾU đáp ứng điều kiện nào?",
+    "options": [
+      "A.Bắt buộc phải làm thủ tục sang tên đồng hồ điện nước cho doanh nghiệp.",
+      "B.Có hóa đơn thanh toán tiền điện, nước mang tên chủ nhà và chứng từ thanh toán của doanh nghiệp kèm theo hợp đồng thuê địa điểm.",
+      "C.Chỉ cần có sổ ghi chép nội bộ của doanh nghiệp.",
+      "D.Không được tính vào chi phí được trừ trong mọi trường hợp."
+    ],
+    "answer": "B.Có hóa đơn thanh toán tiền điện, nước mang tên chủ nhà và chứng từ thanh toán của doanh nghiệp kèm theo hợp đồng thuê địa điểm."
+  },
+  {
+    "question": "Câu 70Câu 70. Khoản thu nhập nào sau đây thu được từ hoạt động nông nghiệp ĐƯỢC miễn thuế thu nhập doanh nghiệp?",
+    "options": [
+      "A.Thu nhập từ bán phân bón hóa học của một công ty thương mại.",
+      "B.Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản của Hợp tác xã (đáp ứng đủ điều kiện theo quy định của Luật Hợp tác xã).",
+      "C.Thu nhập từ việc kinh doanh máy cày, máy gặt đập liên hợp nhập khẩu.",
+      "D.Thu nhập từ cho thuê đất nông nghiệp của doanh nghiệp cổ phần."
+    ],
+    "answer": "B.Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản của Hợp tác xã (đáp ứng đủ điều kiện theo quy định của Luật Hợp tác xã)."
+  },
+  {
+    "question": "Câu 71Câu 71. Doanh nghiệp đầu tư xây dựng nhà ở cho người lao động làm việc tại các khu công nghiệp, khu kinh tế, hoặc xây dựng trạm y tế, nhà trẻ phục vụ trực tiếp cho người lao động. Chi phí khấu hao của các tài sản này được xử lý như thế nào khi tính thuế TNDN?",
+    "options": [
+      "A.Không được trích khấu hao tính vào chi phí được trừ vì đây là công trình phúc lợi, không trực tiếp tạo ra doanh thu.",
+      "B.Chỉ được trích khấu hao 50% tính vào chi phí được trừ.",
+      "C.Được trích khấu hao và tính vào chi phí được trừ khi xác định thu nhập chịu thuế nếu có đầy đủ hồ sơ, chứng từ theo quy định.",
+      "D.Bắt buộc phải bù đắp từ Quỹ phúc lợi của doanh nghiệp, không được đưa vào chi phí kinh doanh."
+    ],
+    "answer": "C.Được trích khấu hao và tính vào chi phí được trừ khi xác định thu nhập chịu thuế nếu có đầy đủ hồ sơ, chứng từ theo quy định."
+  },
+  {
+    "question": "Câu 72Câu 72. Doanh nghiệp phát sinh chi phí mua vé máy bay qua các trang thương mại điện tử (trị giá trên 05 triệu đồng) cho người lao động đi công tác. Khoản chi này được thanh toán bằng thẻ ngân hàng mang tên cá nhân của người lao động. Điều kiện để khoản chi này ĐƯỢC tính vào chi phí được trừ là gì?",
+    "options": [
+      "A.Phải chuyển tên thẻ ngân hàng sang tên doanh nghiệp.",
+      "B.Bắt buộc phải thanh toán bằng thẻ tín dụng doanh nghiệp (Corporate Card).",
+      "C.Phải có vé máy bay điện tử, thẻ lên máy bay (boarding pass) và quy chế của doanh nghiệp quy định việc ủy quyền cho người lao động thanh toán hộ, sau đó doanh nghiệp thanh toán lại.",
+      "D.Không được chấp nhận vì trên 05 triệu đồng bắt buộc tài khoản công ty phải chuyển thẳng cho hãng hàng không."
+    ],
+    "answer": "C.Phải có vé máy bay điện tử, thẻ lên máy bay (boarding pass) và quy chế của doanh nghiệp quy định việc ủy quyền cho người lao động thanh toán hộ, sau đó doanh nghiệp thanh toán lại."
+  },
+  {
+    "question": "Câu 73Câu 73. Lỗ phát sinh từ hoạt động chuyển nhượng chứng khoán của doanh nghiệp (không phải là công ty chứng khoán) trong kỳ tính thuế được xử lý như thế nào?",
+    "options": [
+      "A.Không được bù trừ, phải kết chuyển sang năm sau để bù trừ với lãi chuyển nhượng chứng khoán.",
+      "B.Được bù trừ trực tiếp vào thu nhập chịu thuế của hoạt động sản xuất, kinh doanh chính trong cùng kỳ tính thuế.",
+      "C.Bị loại bỏ hoàn toàn, không được chuyển lỗ.",
+      "D.Chỉ được bù trừ tối đa 50% vào thu nhập sản xuất kinh doanh."
+    ],
+    "answer": "B.Được bù trừ trực tiếp vào thu nhập chịu thuế của hoạt động sản xuất, kinh doanh chính trong cùng kỳ tính thuế."
+  },
+  {
+    "question": "Câu 74Câu 74. Giám đốc doanh nghiệp mua một thẻ hội viên sân golf trị giá 500 triệu đồng đứng tên cá nhân Giám đốc (doanh nghiệp chi trả tiền). Doanh nghiệp giải trình đây là chi phí tiếp khách, mở rộng quan hệ kinh doanh. Khoản chi này có được tính vào chi phí được trừ không?",
+    "options": [
+      "A.Được trừ nếu doanh nghiệp chứng minh được các hợp đồng kinh tế ký kết từ các đối tác trên sân golf.",
+      "B.Được trừ nhưng bị khống chế ở mức không quá 01 tháng lương bình quân của Giám đốc.",
+      "C.Không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế.",
+      "D.Được trừ 100% vì pháp luật đã bỏ mức khống chế chi phí quảng cáo, tiếp thị."
+    ],
+    "answer": "C.Không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế."
+  },
+  {
+    "question": "Câu 75Câu 75. Doanh nghiệp có trụ sở chính tại Hà Nội nhưng có hoạt động chuyển nhượng một mảnh đất tại tỉnh Hưng Yên. Doanh nghiệp phải thực hiện nghĩa vụ khai, nộp thuế TNDN đối với hoạt động chuyển nhượng bất động sản này như thế nào?",
+    "options": [
+      "A.Khai và nộp toàn bộ thuế TNDN phát sinh tại Cục Thuế TP. Hà Nội.",
+      "B.Nộp toàn bộ thuế tại cơ quan thuế tỉnh Hưng Yên và không phải khai lại ở Hà Nội.",
+      "C.Khai, nộp tiền thuế tạm tính theo tỷ lệ 1% trên doanh thu thu được tiền tại cơ quan thuế tỉnh Hưng Yên, sau đó tổng hợp quyết toán tại cơ quan thuế TP. Hà Nội.",
+      "D.Giao dịch diễn ra ở đâu thì nộp thuế toàn bộ ở đó."
+    ],
+    "answer": "C.Khai, nộp tiền thuế tạm tính theo tỷ lệ 1% trên doanh thu thu được tiền tại cơ quan thuế tỉnh Hưng Yên, sau đó tổng hợp quyết toán tại cơ quan thuế TP. Hà Nội."
+  },
+  {
+    "question": "Câu 76Câu 76. Trong kỳ tính thuế, doanh nghiệp nhận được một khoản tiền do cơ quan Bảo hiểm Y tế thanh toán lại (để chi trả cho người lao động ốm đau) nhưng doanh nghiệp giữ lại không chi trả cho người lao động. Khoản tiền này được hạch toán vào đâu khi tính thuế TNDN?",
+    "options": [
+      "A.Được miễn thuế.",
+      "B.Tính vào thu nhập khác của doanh nghiệp.",
+      "C.Phải trả lại cho cơ quan Bảo hiểm Y tế.",
+      "D.Tính vào doanh thu sản xuất kinh doanh chính."
+    ],
+    "answer": "B.Tính vào thu nhập khác của doanh nghiệp."
+  },
+  {
+    "question": "Câu 77Câu 77. Khi nhận được thu nhập từ hoạt động sản xuất kinh doanh tại nước ngoài, doanh nghiệp Việt Nam được trừ số thuế TNDN đã nộp ở nước ngoài. Mức thuế được trừ này quy định thế nào?",
+    "options": [
+      "A.Được trừ toàn bộ số thuế đã nộp ở nước ngoài, dù mức thuế suất ở nước ngoài cao hơn Việt Nam.",
+      "B.Số thuế được trừ tối đa bằng số thuế TNDN tính theo mức thuế suất của Việt Nam (hiện hành là 20%).",
+      "C.Không được khấu trừ, chỉ được đưa số thuế đã nộp ở nước ngoài vào chi phí kinh doanh.",
+      "D.Chỉ được khấu trừ nếu nước đó đã ký Hiệp định tránh đánh thuế hai lần với Việt Nam."
+    ],
+    "answer": "B.Số thuế được trừ tối đa bằng số thuế TNDN tính theo mức thuế suất của Việt Nam (hiện hành là 20%)."
+  },
+  {
+    "question": "Câu 78Câu 78. Doanh nghiệp A thanh toán bù trừ công nợ với doanh nghiệp B (A mua hàng của B và B cũng mua hàng của A, hai bên lập biên bản bù trừ công nợ, số chênh lệch thanh toán qua ngân hàng). Việc thanh toán bù trừ này có được coi là thanh toán không dùng tiền mặt đối với phần giá trị từ 05 triệu đồng trở lên không?",
+    "options": [
+      "A.Không, bắt buộc phải chuyển tiền qua lại tài khoản ngân hàng để làm bằng chứng.",
+      "B.Chỉ được công nhận nếu có xác nhận của cơ quan thuế hoặc cơ quan công chứng.",
+      "C.Có, thanh toán bù trừ công nợ giữa hai pháp nhân (có biên bản, chứng từ hợp lệ) được coi là thanh toán không dùng tiền mặt.",
+      "D.Chỉ được công nhận đối với phần chênh lệch chuyển qua ngân hàng."
+    ],
+    "answer": "C.Có, thanh toán bù trừ công nợ giữa hai pháp nhân (có biên bản, chứng từ hợp lệ) được coi là thanh toán không dùng tiền mặt."
+  },
+  {
+    "question": "Câu 79Câu 79. Doanh nghiệp phát sinh chi phí đào tạo, quảng cáo và chi phí mua sắm vật tư trước khi chính thức được cấp Giấy chứng nhận đăng ký doanh nghiệp (chi phí thành lập). Khoản chi phí này được phân bổ vào chi phí được trừ tối đa trong thời gian bao lâu kể từ khi bắt đầu hoạt động?",
+    "options": [
+      "A.Phân bổ toàn bộ vào năm đầu tiên.",
+      "B.Phân bổ dần tối đa không quá 02 năm.",
+      "C.Phân bổ dần tối đa không quá 03 năm.",
+      "D.Phân bổ dần tối đa không quá 05 năm."
+    ],
+    "answer": "C.Phân bổ dần tối đa không quá 03 năm."
+  },
+  {
+    "question": "Câu 80Câu 80. Khi trích lập dự phòng nợ phải thu khó đòi, điều kiện quan trọng nhất để khoản dự phòng này ĐƯỢC tính vào chi phí được trừ là gì?",
+    "options": [
+      "A.Doanh nghiệp tự đánh giá con nợ không có khả năng trả.",
+      "B.Phải lập đúng tỷ lệ, thời gian quá hạn và có đầy đủ hồ sơ đối chiếu công nợ theo hướng dẫn của Bộ Tài chính.",
+      "C.Con nợ phải là một doanh nghiệp đã phá sản hoặc giải thể.",
+      "D.Nợ phải quá hạn thanh toán từ 03 năm trở lên."
+    ],
+    "answer": "B.Phải lập đúng tỷ lệ, thời gian quá hạn và có đầy đủ hồ sơ đối chiếu công nợ theo hướng dẫn của Bộ Tài chính."
+  },
+  {
+    "question": "Câu 81Câu 81. Hàng hóa do doanh nghiệp tự sản xuất ra và dùng để tiêu dùng nội bộ (phục vụ trực tiếp cho quá trình sản xuất kinh doanh) được ghi nhận doanh thu tính thuế TNDN như thế nào?",
+    "options": [
+      "A.Ghi nhận doanh thu tính thuế bằng giá bán của sản phẩm cùng loại trên thị trường.",
+      "B.Ghi nhận doanh thu tính thuế bằng chi phí sản xuất của sản phẩm đó.",
+      "C.Không phải tính doanh thu tính thuế TNDN đối với hàng hóa tiêu dùng nội bộ.",
+      "D.Ghi nhận doanh thu bằng 50% giá bán thị trường."
+    ],
+    "answer": "C.Không phải tính doanh thu tính thuế TNDN đối với hàng hóa tiêu dùng nội bộ."
+  },
+  {
+    "question": "Câu 82Câu 82. Một doanh nghiệp Việt Nam ký hợp đồng thuê một Công ty phần mềm ở Mỹ (nhà thầu nước ngoài) cung cấp bản quyền phần mềm. Hợp đồng thỏa thuận số tiền nhà thầu nhận được là số tiền TỊNH (Net - không bao gồm thuế tại Việt Nam). Doanh nghiệp Việt Nam nộp thay thuế TNDN cho nhà thầu nước ngoài. Khoản thuế nộp thay này có được tính vào chi phí được trừ không?",
+    "options": [
+      "A.Không được tính vào chi phí được trừ.",
+      "B.Chỉ được trừ 50%.",
+      "C.Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN của doanh nghiệp Việt Nam.",
+      "D.Phải khấu trừ vào lương của Ban Giám đốc."
+    ],
+    "answer": "C.Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN của doanh nghiệp Việt Nam."
+  },
+  {
+    "question": "Câu 83Câu 83. Doanh nghiệp A nợ tiền Bảo hiểm xã hội bắt buộc của người lao động trong năm 2025. Tuy nhiên, doanh nghiệp A lại chi tiền mua bảo hiểm nhân thọ cho Ban Giám đốc (dưới 5 triệu/người/tháng). Khoản chi mua bảo hiểm nhân thọ này có được tính vào chi phí được trừ không?",
+    "options": [
+      "A.Có, vì mức chi dưới 5 triệu đồng/người/tháng.",
+      "B.Có, nếu Ban Giám đốc đã ký hợp đồng lao động dài hạn.",
+      "C.Không được tính vào chi phí được trừ do doanh nghiệp chưa hoàn thành nghĩa vụ đóng Bảo hiểm xã hội bắt buộc.",
+      "D.Được trừ nhưng phạt hành chính về Bảo hiểm xã hội."
+    ],
+    "answer": "C.Không được tính vào chi phí được trừ do doanh nghiệp chưa hoàn thành nghĩa vụ đóng Bảo hiểm xã hội bắt buộc."
+  },
+  {
+    "question": "Câu 84Câu 84. Khi lập hồ sơ quyết toán thuế TNDN năm, doanh nghiệp phát hiện có một khoản tiền lương đã hạch toán vào chi phí trong năm nhưng thực tế ĐẾN THỜI ĐIỂM NỘP HỒ SƠ QUYẾT TOÁN THUẾ doanh nghiệp vẫn chưa chi trả cho người lao động (và doanh nghiệp cũng không trích lập quỹ dự phòng tiền lương). Khoản tiền lương này bị xử lý thế nào?",
+    "options": [
+      "A.Vẫn được tính vào chi phí được trừ của năm quyết toán vì đã phát sinh nghĩa vụ nợ.",
+      "B.Bị loại hoàn toàn khỏi chi phí được trừ của năm đó.",
+      "C.Được tính 50% vào chi phí được trừ.",
+      "D.Được cho phép nợ lương thêm 6 tháng nữa mà không bị loại chi phí."
+    ],
+    "answer": "B.Bị loại hoàn toàn khỏi chi phí được trừ của năm đó."
+  },
+  {
+    "question": "Câu 85Câu 85. Tiền thuê đất mà doanh nghiệp trả tiền thuê một lần cho nhiều năm được phân bổ vào chi phí được trừ như thế nào?",
+    "options": [
+      "A.Tính toàn bộ vào chi phí của năm trả tiền.",
+      "B.Phân bổ dần vào chi phí kinh doanh theo số năm thuê đất thực tế.",
+      "C.Trích khấu hao như tài sản cố định vô hình với thời gian tối đa 20 năm.",
+      "D.Không được đưa vào chi phí."
+    ],
+    "answer": "B.Phân bổ dần vào chi phí kinh doanh theo số năm thuê đất thực tế."
+  },
+  {
+    "question": "Câu 86Câu 86. Trong kỳ tính thuế, doanh nghiệp phát sinh tiền lãi tiền gửi ngân hàng là 500 triệu đồng và chi phí lãi vay ngân hàng là 300 triệu đồng. Kế toán sẽ hạch toán bù trừ khoản này như thế nào để tính thuế TNDN?",
+    "options": [
+      "A.Đưa 500 triệu vào doanh thu tài chính, đưa 300 triệu vào chi phí tài chính độc lập.",
+      "B.Bù trừ hai khoản, phần chênh lệch dương (200 triệu) được tính vào doanh thu hoạt động sản xuất, kinh doanh chính.",
+      "C.Bù trừ hai khoản, phần chênh lệch dương (200 triệu đồng) được tính vào Thu nhập khác.",
+      "D.Bù trừ hai khoản, phần chênh lệch dương (200 triệu) bị đánh thuế suất đặc biệt 22%."
+    ],
+    "answer": "C.Bù trừ hai khoản, phần chênh lệch dương (200 triệu đồng) được tính vào Thu nhập khác."
+  },
+  {
+    "question": "Câu 87Câu 87. Doanh nghiệp thuê một chuyên gia nước ngoài sang làm việc. Trong hợp đồng lao động có ghi rõ ngoài tiền lương, doanh nghiệp còn chịu trách nhiệm chi trả tiền thuê nhà ở và phụ cấp tiền học cho con của chuyên gia (học phổ thông tại Việt Nam). Các khoản phụ cấp này có được tính vào chi phí được trừ không?",
+    "options": [
+      "A.Được tính toàn bộ vào chi phí được trừ vì mang tính chất tiền lương, tiền công có ghi rõ trong hợp đồng lao động.",
+      "B.Không được trừ khoản học phí cho con chuyên gia vì không phục vụ sản xuất kinh doanh.",
+      "C.Không được trừ cả hai khoản vì đây là lợi ích cá nhân.",
+      "D.Chỉ được trừ phần tiền thuê nhà nhưng khống chế tối đa 15% tổng quỹ lương."
+    ],
+    "answer": "A.Được tính toàn bộ vào chi phí được trừ vì mang tính chất tiền lương, tiền công có ghi rõ trong hợp đồng lao động."
+  },
+  {
+    "question": "Câu 88Câu 88. Doanh nghiệp tài trợ 50 triệu đồng tiền mặt trực tiếp cho UBND một Phường để địa phương này rải nhựa một con đường hẻm khu dân cư. Khoản chi này có được tính vào chi phí được trừ không?",
+    "options": [
+      "A.Được trừ vì đây là hoạt động đóng góp cho cộng đồng xã hội.",
+      "B.Được trừ vì nộp trực tiếp cho cơ quan quản lý nhà nước (UBND Phường).",
+      "C.Không được trừ do thanh toán bằng tiền mặt.",
+      "D.Không được trừ vì khoản chi này không thuộc danh mục các khoản tài trợ cho giáo dục, y tế, khắc phục hậu quả thiên tai, làm nhà tình nghĩa, nhà cho người nghèo theo quy định của pháp luật."
+    ],
+    "answer": "D.Không được trừ vì khoản chi này không thuộc danh mục các khoản tài trợ cho giáo dục, y tế, khắc phục hậu quả thiên tai, làm nhà tình nghĩa, nhà cho người nghèo theo quy định của pháp luật."
+  },
+  {
+    "question": "Câu 89Câu 89. Phần chi phí để mua các tài sản cố định như: Ô tô chở Giám đốc từ nhà đến công ty, thẻ thành viên câu lạc bộ thể thao phục vụ riêng cho Ban Giám đốc có được khấu hao và đưa vào chi phí được trừ không?",
+    "options": [
+      "A.Được trừ 100%.",
+      "B.Không được tính vào chi phí được trừ vì không phục vụ trực tiếp cho hoạt động sản xuất, kinh doanh chung của doanh nghiệp.",
+      "C.Chỉ được trừ chi phí mua ô tô, loại chi phí thẻ câu lạc bộ.",
+      "D.Được trừ nhưng phải chia đều trong 10 năm."
+    ],
+    "answer": "B.Không được tính vào chi phí được trừ vì không phục vụ trực tiếp cho hoạt động sản xuất, kinh doanh chung của doanh nghiệp."
+  },
+  {
+    "question": "Câu 90Câu 90. Doanh nghiệp thực hiện hoạt động bán hàng hóa, nếu khách hàng thanh toán bằng phiếu mua hàng (voucher) hoặc điểm tích lũy của chính doanh nghiệp phát hành thì doanh thu tính thuế được xác định như thế nào?",
+    "options": [
+      "A.Bằng 0, vì doanh nghiệp không thu được tiền thật tại thời điểm đó.",
+      "B.Căn cứ vào giá bán thực tế thu được bằng tiền của hàng hóa, dịch vụ đó (số tiền khách hàng phải trả thêm cộng với phần phân bổ doanh thu từ việc bán voucher/tích điểm trước đó).",
+      "C.Do cơ quan thuế tự ấn định.",
+      "D.Ghi nhận doanh thu bằng giá niêm yết cộng thêm 10%."
+    ],
+    "answer": "B.Căn cứ vào giá bán thực tế thu được bằng tiền của hàng hóa, dịch vụ đó (số tiền khách hàng phải trả thêm cộng với phần phân bổ doanh thu từ việc bán voucher/tích điểm trước đó)."
+  },
+  {
+    "question": "Câu 91Câu 91. Quà biếu, quà tặng bằng hiện vật mà doanh nghiệp nhận được từ các đối tác được xử lý như thế nào khi tính thuế TNDN?",
+    "options": [
+      "A.Không phải chịu thuế TNDN.",
+      "B.Phải được quy đổi ra tiền theo giá trị thị trường tại thời điểm nhận và ghi nhận vào Thu nhập khác để tính thuế.",
+      "C.Chỉ ghi nhận khi nào doanh nghiệp đem bán hiện vật đó lấy tiền.",
+      "D.Ghi nhận vào doanh thu hoạt động sản xuất kinh doanh chính."
+    ],
+    "answer": "B.Phải được quy đổi ra tiền theo giá trị thị trường tại thời điểm nhận và ghi nhận vào Thu nhập khác để tính thuế."
+  },
+  {
+    "question": "Câu 92Câu 92. Một doanh nghiệp có hoạt động kinh doanh trò chơi có thưởng (được cấp phép hợp pháp). Doanh nghiệp này nằm tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn. Mức ưu đãi thuế TNDN áp dụng cho hoạt động kinh doanh trò chơi có thưởng này là gì?",
+    "options": [
+      "A.Áp dụng thuế suất 10% trong 15 năm, miễn thuế 4 năm.",
+      "B.Áp dụng thuế suất 15% trong suốt thời gian hoạt động.",
+      "C.Không được áp dụng ưu đãi thuế suất và ưu đãi miễn, giảm thuế TNDN. Nộp thuế theo thuế suất 20%.",
+      "D.Được miễn thuế 02 năm đầu tiên."
+    ],
+    "answer": "C.Không được áp dụng ưu đãi thuế suất và ưu đãi miễn, giảm thuế TNDN. Nộp thuế theo thuế suất 20%."
+  },
+  {
+    "question": "Câu 93Câu 93. Khoản tiền bồi thường do doanh nghiệp đơn phương chấm dứt hợp đồng lao động trái pháp luật đối với người lao động (theo phán quyết của Tòa án). Khoản chi này có được tính vào chi phí được trừ không?",
+    "options": [
+      "A.Không được tính vào chi phí được trừ vì đây là khoản tiền phạt vi phạm pháp luật lao động.",
+      "B.Được tính toàn bộ vào chi phí được trừ vì liên quan đến người lao động.",
+      "C.Chỉ được trừ tối đa bằng 10 tháng lương tối thiểu vùng.",
+      "D.Được tính vào chi phí phúc lợi."
+    ],
+    "answer": "A.Không được tính vào chi phí được trừ vì đây là khoản tiền phạt vi phạm pháp luật lao động."
+  },
+  {
+    "question": "Câu 94Câu 94. Trường hợp doanh nghiệp nộp thuế TNDN theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ (đối với đơn vị sự nghiệp, tổ chức không phải là doanh nghiệp). Tỷ lệ % để tính thuế TNDN đối với dịch vụ giáo dục, y tế, biểu diễn nghệ thuật là bao nhiêu?",
+    "options": [
+      "A.0.01",
+      "B.0.02",
+      "C.0.05",
+      "D.0.1"
+    ],
+    "answer": "B.0.02"
+  },
+  {
+    "question": "Câu 95Câu 95. Doanh nghiệp thực hiện nâng cấp tài sản cố định hiện có làm tăng năng lực sản xuất (Đầu tư mở rộng). Thu nhập tăng thêm từ dự án đầu tư mở rộng này ĐƯỢC CHỌN áp dụng ưu đãi thuế như thế nào?",
+    "options": [
+      "A.Chỉ được áp dụng mức thuế suất phổ thông 20%.",
+      "B.Bắt buộc phải áp dụng ưu đãi theo diện đầu tư mở rộng độc lập.",
+      "C.Được lựa chọn hưởng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có) hoặc được áp dụng ưu đãi thuế theo diện dự án đầu tư mở rộng.",
+      "D.Được nhân đôi thời gian miễn giảm thuế của dự án đang hoạt động."
+    ],
+    "answer": "C.Được lựa chọn hưởng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có) hoặc được áp dụng ưu đãi thuế theo diện dự án đầu tư mở rộng."
+  },
+  {
+    "question": "Câu 96Câu 96. Doanh nghiệp chi trả chi phí khám sức khỏe định kỳ cho toàn bộ người lao động theo quy định của Bộ Y tế. Khoản chi này được hạch toán vào đâu khi tính thuế TNDN?",
+    "options": [
+      "A.Được tính vào chi phí phúc lợi (khống chế 01 tháng lương bình quân).",
+      "B.Được tính vào chi phí sản xuất, kinh doanh trong kỳ và không bị khống chế mức 01 tháng lương bình quân.",
+      "C.Không được tính vào chi phí được trừ vì đây là chi phí chăm sóc y tế cá nhân.",
+      "D.Chỉ được tính nếu người lao động làm việc trong môi trường độc hại."
+    ],
+    "answer": "B.Được tính vào chi phí sản xuất, kinh doanh trong kỳ và không bị khống chế mức 01 tháng lương bình quân."
+  },
+  {
+    "question": "Câu 97Câu 97. Doanh nghiệp A phát hiện có sai sót trong tờ khai quyết toán thuế TNDN của năm 2024 làm giảm số thuế phải nộp. Hiện tại là tháng 04/2026, cơ quan thuế CHƯA công bố quyết định thanh tra, kiểm tra tại trụ sở doanh nghiệp A. Doanh nghiệp A có được phép nộp hồ sơ khai bổ sung không?",
+    "options": [
+      "A.Không được phép vì đã qua năm dương lịch.",
+      "B.Được phép khai bổ sung và phải tự tính, nộp thêm tiền thuế thiếu, tiền chậm nộp vào ngân sách nhà nước.",
+      "C.Chỉ được khai bổ sung nếu sai sót làm tăng số thuế phải nộp.",
+      "D.Bắt buộc phải làm công văn xin phép Cục Thuế mới được khai bổ sung."
+    ],
+    "answer": "B.Được phép khai bổ sung và phải tự tính, nộp thêm tiền thuế thiếu, tiền chậm nộp vào ngân sách nhà nước."
+  },
+  {
+    "question": "Câu 98Câu 98. Lỗ của doanh nghiệp (âm thu nhập tính thuế) sau khi được quyết toán thuế với cơ quan thuế có thời hạn chuyển lỗ liên tục tối đa là 05 năm. Mốc thời gian để bắt đầu tính 05 năm này là từ khi nào?",
+    "options": [
+      "A.Tính từ năm phát sinh khoản lỗ đó.",
+      "B.Tính từ năm tiếp theo năm phát sinh khoản lỗ đó.",
+      "C.Tính từ năm đầu tiên doanh nghiệp bắt đầu có lãi trở lại.",
+      "D.Tính từ thời điểm có biên bản thanh tra của cơ quan thuế."
+    ],
+    "answer": "B.Tính từ năm tiếp theo năm phát sinh khoản lỗ đó."
+  },
+  {
+    "question": "Câu 99Câu 99. Một công ty tư nhân mua một bức tranh nghệ thuật trị giá 2 tỷ đồng về treo tại sảnh tiếp khách của trụ sở làm việc. Công ty tiến hành trích khấu hao bức tranh này vào chi phí kinh doanh. Xử lý của cơ quan thuế trong trường hợp này như thế nào?",
+    "options": [
+      "A.Chấp nhận toàn bộ vì có đầy đủ hóa đơn mua bức tranh.",
+      "B.Chấp nhận 50% giá trị.",
+      "C.Loại toàn bộ chi phí khấu hao vì đây là tài sản không hao mòn theo thời gian và không thỏa mãn điều kiện là tài sản cố định phục vụ sản xuất kinh doanh theo quy định.",
+      "D.Cho phép phân bổ chi phí này trong 10 năm."
+    ],
+    "answer": "C.Loại toàn bộ chi phí khấu hao vì đây là tài sản không hao mòn theo thời gian và không thỏa mãn điều kiện là tài sản cố định phục vụ sản xuất kinh doanh theo quy định."
+  },
+  {
+    "question": "Câu 100Câu 100. Thời hạn nộp hồ sơ quyết toán thuế Thu nhập doanh nghiệp năm theo quy định hiện hành chậm nhất là ngày nào?",
+    "options": [
+      "A.Ngày cuối cùng của tháng thứ 1 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính.",
+      "B.Ngày cuối cùng của tháng thứ 2 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính.",
+      "C.Ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính.",
+      "D.Ngày cuối cùng của tháng thứ 4 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính."
+    ],
+    "answer": "C.Ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính."
+  }
+]

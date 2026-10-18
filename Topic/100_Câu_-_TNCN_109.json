@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Câu 1Câu 1: Luật Thuế Thu nhập cá nhân số 109/2025/QH15 chính thức có hiệu lực thi hành từ ngày nào?",
+    "options": [
+      "A.2025-01-01 00:00:00",
+      "B.2025-01-07 00:00:00",
+      "C.2026-01-01 00:00:00",
+      "D.2026-01-07 00:00:00"
+    ],
+    "answer": "D.2026-01-07 00:00:00"
+  },
+  {
+    "question": "Câu 2Câu 2: Theo Điều 2, tiêu chí thời gian nào sau đây để xác định một cá nhân là 'Cá nhân cư trú' tại Việt Nam?",
+    "options": [
+      "A.Có mặt tại Việt Nam từ 90 ngày trở lên trong năm",
+      "B.Có mặt tại Việt Nam từ 183 ngày trở lên tính trong một năm dương lịch hoặc 12 tháng liên tục",
+      "C.Có mặt tại Việt Nam đủ 365 ngày",
+      "D.Chỉ cần có mặt tại Việt Nam là được tính"
+    ],
+    "answer": "B.Có mặt tại Việt Nam từ 183 ngày trở lên tính trong một năm dương lịch hoặc 12 tháng liên tục"
+  },
+  {
+    "question": "Câu 3Câu 3: Đối với Cá nhân cư trú, phạm vi thu nhập chịu thuế được xác định như thế nào?",
+    "options": [
+      "A.Chỉ nộp thuế cho thu nhập phát sinh tại Việt Nam",
+      "B.Chỉ nộp thuế cho thu nhập phát sinh ngoài Việt Nam",
+      "C.Nộp thuế cho thu nhập phát sinh trong và ngoài lãnh thổ Việt Nam, không phân biệt nơi chi trả",
+      "D.Được tự do lựa chọn nộp thuế ở Việt Nam hoặc nước ngoài"
+    ],
+    "answer": "C.Nộp thuế cho thu nhập phát sinh trong và ngoài lãnh thổ Việt Nam, không phân biệt nơi chi trả"
+  },
+  {
+    "question": "Câu 4Câu 4: Đối với Cá nhân KHÔNG cư trú, phạm vi thu nhập chịu thuế là khoản thu nhập nào?",
+    "options": [
+      "A.Thu nhập phát sinh trong và ngoài lãnh thổ Việt Nam",
+      "B.Thu nhập phát sinh tại Việt Nam, không phân biệt nơi trả và nhận thu nhập",
+      "C.Thu nhập phát sinh ở nước ngoài chuyển về Việt Nam",
+      "D.Được miễn thuế hoàn toàn"
+    ],
+    "answer": "B.Thu nhập phát sinh tại Việt Nam, không phân biệt nơi trả và nhận thu nhập"
+  },
+  {
+    "question": "Câu 5Câu 5: Trường hợp người nước ngoài đến Việt Nam công tác, ký hợp đồng thuê nhà để ở với thời hạn 2 năm. Cá nhân này thuộc diện nào?",
+    "options": [
+      "A.Cá nhân cư trú",
+      "B.Cá nhân không cư trú",
+      "C.Miễn thuế do là người nước ngoài",
+      "D.Cá nhân vãng lai"
+    ],
+    "answer": "A.Cá nhân cư trú"
+  },
+  {
+    "question": "Câu 6Câu 6: Luật Thuế TNCN 109/2025/QH15 quy định bao nhiêu khoản thu nhập chịu thuế?",
+    "options": [
+      "A.7 khoản",
+      "B.9 khoản",
+      "C.10 khoản",
+      "D.12 khoản"
+    ],
+    "answer": "C.10 khoản"
+  },
+  {
+    "question": "Câu 7Câu 7: Khoản thu nhập nào sau đây LẦN ĐẦU TIÊN được đưa vào diện chịu thuế TNCN (nhóm Thu nhập khác) theo Luật 109?",
+    "options": [
+      "A.Thu nhập từ trúng thưởng xổ số",
+      "B.Thu nhập từ chuyển nhượng Vàng miếng, Tài sản số (Crypto)",
+      "C.Thu nhập từ chuyển nhượng chứng khoán",
+      "D.Thu nhập từ bản quyền"
+    ],
+    "answer": "B.Thu nhập từ chuyển nhượng Vàng miếng, Tài sản số (Crypto)"
+  },
+  {
+    "question": "Câu 8Câu 8: Biển số xe ô tô trúng đấu giá có thuộc đối tượng phải đóng thuế TNCN khi bán lại không?",
+    "options": [
+      "A.Không, vì đây là tài sản công",
+      "B.Có, đây là một trong các khoản thu nhập khác chịu thuế khi chuyển nhượng theo quy định mới",
+      "C.Chỉ đóng lệ phí trước bạ",
+      "D.Không, vì đã đóng tiền đấu giá cho nhà nước"
+    ],
+    "answer": "B.Có, đây là một trong các khoản thu nhập khác chịu thuế khi chuyển nhượng theo quy định mới"
+  },
+  {
+    "question": "Câu 9Câu 9: Trong các nhóm thu nhập sau, thu nhập nào thuộc diện áp dụng kỳ tính thuế THEO NĂM đối với cá nhân cư trú?",
+    "options": [
+      "A.Thu nhập từ trúng thưởng và thừa kế",
+      "B.Thu nhập từ chuyển nhượng bất động sản",
+      "C.Thu nhập từ tiền lương, tiền công và thu nhập từ kinh doanh",
+      "D.Thu nhập từ đầu tư vốn"
+    ],
+    "answer": "C.Thu nhập từ tiền lương, tiền công và thu nhập từ kinh doanh"
+  },
+  {
+    "question": "Câu 10Câu 10: Đối với cá nhân KHÔNG cư trú, kỳ tính thuế được áp dụng theo hình thức nào?",
+    "options": [
+      "A.Tính theo năm cho mọi loại thu nhập",
+      "B.Tính theo quý",
+      "C.Tính theo từng lần phát sinh thu nhập đối với MỌI khoản thu nhập",
+      "D.Tính theo tháng"
+    ],
+    "answer": "C.Tính theo từng lần phát sinh thu nhập đối với MỌI khoản thu nhập"
+  },
+  {
+    "question": "Câu 11Câu 11: Theo Điều 4, thu nhập từ chuyển nhượng Bất động sản trong trường hợp nào sau đây được MIỄN THUẾ?",
+    "options": [
+      "A.Bán căn nhà thứ hai",
+      "B.Chuyển nhượng giữa anh, chị, em ruột với nhau",
+      "C.Bán nhà cho đối tác kinh doanh",
+      "D.Cho tặng BĐS cho bạn bè"
+    ],
+    "answer": "B.Chuyển nhượng giữa anh, chị, em ruột với nhau"
+  },
+  {
+    "question": "Câu 12Câu 12: Chính sách miễn thuế Bất động sản DUY NHẤT có áp dụng cho người đang sở hữu 2 căn nhà nhưng chỉ bán 1 căn không?",
+    "options": [
+      "A.Có, vì mỗi căn tính riêng",
+      "B.Không, chỉ áp dụng cho người chỉ có duy nhất 01 nhà ở, đất ở tại VN tại thời điểm chuyển nhượng",
+      "C.Có, nếu căn nhà đó mua trên 5 năm",
+      "D.Có, nếu bán lỗ"
+    ],
+    "answer": "B.Không, chỉ áp dụng cho người chỉ có duy nhất 01 nhà ở, đất ở tại VN tại thời điểm chuyển nhượng"
+  },
+  {
+    "question": "Câu 13Câu 13: Luật mới quy định thế nào về thu nhập từ Tiền lương làm việc ban đêm, làm thêm giờ?",
+    "options": [
+      "A.Miễn thuế toàn bộ tiền lương làm thêm giờ",
+      "B.Miễn thuế phần tiền lương trả CAO HƠN so với tiền lương làm việc ban ngày, làm trong giờ",
+      "C.Phải đóng thuế 100%",
+      "D.Chỉ miễn thuế cho công nhân nhà máy"
+    ],
+    "answer": "B.Miễn thuế phần tiền lương trả CAO HƠN so với tiền lương làm việc ban ngày, làm trong giờ"
+  },
+  {
+    "question": "Câu 14Câu 14: Thu nhập từ Kiều hối (người thân ở nước ngoài gửi tiền về) chịu thuế TNCN bao nhiêu?",
+    "options": [
+      "A.0.05",
+      "B.0.1",
+      "C.Miễn thuế hoàn toàn",
+      "D.0.2"
+    ],
+    "answer": "C.Miễn thuế hoàn toàn"
+  },
+  {
+    "question": "Câu 15Câu 15: Đối với Start-up, thu nhập của nhà đầu tư và sáng lập viên từ dự án Khởi nghiệp sáng tạo được hưởng ưu đãi gì?",
+    "options": [
+      "A.Giảm 50% thuế",
+      "B.Được MIỄN THUẾ TNCN",
+      "C.Chịu thuế 10%",
+      "D.Gia hạn nộp 5 năm"
+    ],
+    "answer": "B.Được MIỄN THUẾ TNCN"
+  },
+  {
+    "question": "Câu 16Câu 16: Chuyển nhượng Tín chỉ Carbon LẦN ĐẦU được áp dụng chính sách thuế nào?",
+    "options": [
+      "A.Thuế 0.1%",
+      "B.Thuế 5%",
+      "C.MIỄN THUẾ",
+      "D.Thuế 20%"
+    ],
+    "answer": "C.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 17Câu 17: Lợi nhuận của Chủ Doanh nghiệp tư nhân (sau khi đã nộp thuế TNDN) khi rút ra để tiêu dùng cá nhân có bị đánh thuế TNCN không?",
+    "options": [
+      "A.Có, tính thuế đầu tư vốn 5%",
+      "B.Có, tính thuế thu nhập khác 10%",
+      "C.Được MIỄN THUẾ TNCN",
+      "D.Tính lũy tiến"
+    ],
+    "answer": "C.Được MIỄN THUẾ TNCN"
+  },
+  {
+    "question": "Câu 18Câu 18: Tiền lương hưu do cơ quan Bảo hiểm xã hội chi trả có phải đóng thuế TNCN không?",
+    "options": [
+      "A.Có, tính thuế bậc 1",
+      "B.Có, nếu trên 15,5 triệu",
+      "C.Được MIỄN THUẾ hoàn toàn",
+      "D.Chịu 5%"
+    ],
+    "answer": "C.Được MIỄN THUẾ hoàn toàn"
+  },
+  {
+    "question": "Câu 19Câu 19: Lãi tiền gửi tiết kiệm ngân hàng (TCTD) của cá nhân được xử lý thuế thế nào?",
+    "options": [
+      "A.Chịu thuế 5% đầu tư vốn",
+      "B.Được MIỄN THUẾ",
+      "C.Chịu thuế 10%",
+      "D.Tùy số tiền"
+    ],
+    "answer": "B.Được MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 20Câu 20: Người nộp thuế gặp thiên tai, hỏa hoạn, tai nạn bất ngờ gây thiệt hại lớn thì được xét GIẢM THUẾ (Điều 5) theo nguyên tắc nào?",
+    "options": [
+      "A.Giảm 100% thuế",
+      "B.Giảm 50% thuế",
+      "C.Được xét giảm tương ứng mức độ thiệt hại, nhưng mức giảm KHÔNG VƯỢT QUÁ số thuế phải nộp",
+      "D.Chỉ được gia hạn"
+    ],
+    "answer": "C.Được xét giảm tương ứng mức độ thiệt hại, nhưng mức giảm KHÔNG VƯỢT QUÁ số thuế phải nộp"
+  },
+  {
+    "question": "Câu 21Câu 21: Cá nhân nhận học bổng từ Ngân sách nhà nước có bị tính thuế TNCN không?",
+    "options": [
+      "A.Có, thuế 10%",
+      "B.MIỄN THUẾ",
+      "C.Chỉ miễn phần dưới 20tr",
+      "D.Thuế 5%"
+    ],
+    "answer": "B.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 22Câu 22: Tiền bồi thường hợp đồng bảo hiểm nhân thọ chi trả cho người thụ hưởng có chịu thuế TNCN không?",
+    "options": [
+      "A.Có, tính thuế thừa kế",
+      "B.MIỄN THUẾ",
+      "C.Thuế 10%",
+      "D.Thuế 5%"
+    ],
+    "answer": "B.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 23Câu 23: Thu nhập từ nhận viện trợ nước ngoài vì mục đích nhân đạo có chịu thuế không?",
+    "options": [
+      "A.Có, thuế 10%",
+      "B.MIỄN THUẾ",
+      "C.Thuế 5%",
+      "D.Chịu thuế doanh nghiệp"
+    ],
+    "answer": "B.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 24Câu 24: Lợi tức cổ phần của xã viên Hợp tác xã nông nghiệp tham gia 'Cánh đồng lớn' được xử lý thuế thế nào?",
+    "options": [
+      "A.Thuế 5%",
+      "B.MIỄN THUẾ",
+      "C.Thuế 10%",
+      "D.Khấu trừ 10%"
+    ],
+    "answer": "B.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 25Câu 25: Lương của thuyền viên là người VN làm việc cho hãng tàu nước ngoài (vận tải quốc tế) chịu thuế bao nhiêu?",
+    "options": [
+      "A.Thuế lũy tiến",
+      "B.MIỄN THUẾ",
+      "C.Thuế 20%",
+      "D.Thuế 5%"
+    ],
+    "answer": "B.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 26Câu 26: Mức doanh thu MIỄN THUẾ mới nhất đối với Hộ kinh doanh, Cá nhân kinh doanh (Bao gồm bán hàng Online) theo Điều 7 là bao nhiêu?",
+    "options": [
+      "A.Dưới 100 triệu đồng/năm",
+      "B.Dưới 150 triệu đồng/năm",
+      "C.Từ 500 triệu đồng/năm trở xuống",
+      "D.Dưới 1 tỷ đồng/năm"
+    ],
+    "answer": "C.Từ 500 triệu đồng/năm trở xuống"
+  },
+  {
+    "question": "Câu 27Câu 27: Cá nhân kinh doanh có doanh thu trên 500 triệu/năm được nộp thuế theo phương pháp Tỷ lệ % trên doanh thu. Tỷ lệ này được quy định ở đâu?",
+    "options": [
+      "A.Do cơ quan thuế tự ấn định",
+      "B.Do Quốc hội quyết định cho từng người",
+      "C.Cụ thể theo từng ngành nghề do Chính phủ quy định (Ví dụ: Phân phối 0.5%, Dịch vụ 2%...)",
+      "D.Mặc định 10% cho mọi ngành"
+    ],
+    "answer": "C.Cụ thể theo từng ngành nghề do Chính phủ quy định (Ví dụ: Phân phối 0.5%, Dịch vụ 2%...)"
+  },
+  {
+    "question": "Câu 28Câu 28: Cá nhân kinh doanh thực hiện đầy đủ sổ sách kế toán, hóa đơn chứng từ thì nộp thuế theo phương pháp nào?",
+    "options": [
+      "A.Vẫn nộp theo tỷ lệ khoán",
+      "B.Phương pháp Lợi nhuận [(Doanh thu - Chi phí) x Thuế suất]",
+      "C.Không phải nộp",
+      "D.Nộp theo diện doanh nghiệp"
+    ],
+    "answer": "B.Phương pháp Lợi nhuận [(Doanh thu - Chi phí) x Thuế suất]"
+  },
+  {
+    "question": "Câu 29Câu 29: Cá nhân cho thuê Bất động sản (ví dụ: cho thuê nhà trọ) có doanh thu 800 triệu/năm. Thuế TNCN tính như thế nào?",
+    "options": [
+      "A.Lấy 800 triệu x 5%",
+      "B.Lấy (800 triệu - 500 triệu) x 5%",
+      "C.Lấy 800 triệu x 10%",
+      "D.Lấy 300 triệu x 10%"
+    ],
+    "answer": "B.Lấy (800 triệu - 500 triệu) x 5%"
+  },
+  {
+    "question": "Câu 30Câu 30: Thuế suất TNCN áp dụng cho hoạt động CHUYỂN NHƯỢNG BẤT ĐỘNG SẢN là bao nhiêu?",
+    "options": [
+      "A.10% trên lợi nhuận",
+      "B.2% tính trên Giá chuyển nhượng (Doanh thu)",
+      "C.5% tính trên Giá chuyển nhượng",
+      "D.0.1% tính trên Giá chuyển nhượng"
+    ],
+    "answer": "B.2% tính trên Giá chuyển nhượng (Doanh thu)"
+  },
+  {
+    "question": "Câu 31Câu 31: Khi bán nhà, nếu giá ghi trên hợp đồng công chứng THẤP HƠN Bảng giá đất/giá nhà do UBND cấp tỉnh quy định thì tính thuế theo giá nào?",
+    "options": [
+      "A.Giá trên hợp đồng",
+      "B.Giá do UBND cấp tỉnh quy định (Bảng giá nhà nước)",
+      "C.Giá trung bình cộng",
+      "D.Cơ quan thuế tự thẩm định"
+    ],
+    "answer": "B.Giá do UBND cấp tỉnh quy định (Bảng giá nhà nước)"
+  },
+  {
+    "question": "Câu 32Câu 32: Ông A bán một mảnh đất bị lỗ so với lúc mua. Ông A có phải nộp thuế TNCN 2% không?",
+    "options": [
+      "A.Không, vì không có thu nhập",
+      "B.Có, vẫn phải nộp 2% trên Giá chuyển nhượng hiện tại",
+      "C.Chỉ nộp 1%",
+      "D.Đợi khi nào có lãi mới nộp"
+    ],
+    "answer": "B.Có, vẫn phải nộp 2% trên Giá chuyển nhượng hiện tại"
+  },
+  {
+    "question": "Câu 33Câu 33: Kỳ tính thuế đối với hoạt động Chuyển nhượng Bất động sản là:",
+    "options": [
+      "A.Theo năm",
+      "B.Theo quý",
+      "C.Theo từng lần phát sinh giao dịch",
+      "D.Theo tháng"
+    ],
+    "answer": "C.Theo từng lần phát sinh giao dịch"
+  },
+  {
+    "question": "Câu 34Câu 34: Đối với Bất động sản hình thành trong tương lai (Chung cư chưa bàn giao), giá tính thuế khi chuyển nhượng hợp đồng là giá nào?",
+    "options": [
+      "A.Giá bán của chủ đầu tư ban đầu",
+      "B.Giá trị hợp đồng nhượng lại (không thấp hơn giá quy định của pháp luật)",
+      "C.Miễn thuế đến khi nhận nhà",
+      "D.Khoán 10 triệu/lần"
+    ],
+    "answer": "B.Giá trị hợp đồng nhượng lại (không thấp hơn giá quy định của pháp luật)"
+  },
+  {
+    "question": "Câu 35Câu 35: Tài sản nào thuộc diện Chuyển nhượng Bất động sản chịu thuế?",
+    "options": [
+      "A.Quyền sử dụng đất",
+      "B.Quyền sở hữu nhà ở",
+      "C.Quyền thuê đất, thuê mặt nước",
+      "D.Tất cả các phương án trên"
+    ],
+    "answer": "D.Tất cả các phương án trên"
+  },
+  {
+    "question": "Câu 36Câu 36: Một cá nhân kinh doanh trên sàn Shopee có doanh thu 400 triệu đồng trong năm 2026. Cá nhân này phải nộp mức thuế TNCN là bao nhiêu?",
+    "options": [
+      "A.1.5% x 400tr",
+      "B.0 đồng",
+      "C.5% x 400tr",
+      "D.10% x 400tr"
+    ],
+    "answer": "B.0 đồng"
+  },
+  {
+    "question": "Câu 37Câu 37: Trường hợp cá nhân kinh doanh trên sàn TMĐT đạt doanh thu 600 triệu, ai có trách nhiệm KHẤU TRỪ thuế?",
+    "options": [
+      "A.Cá nhân tự kê khai nộp",
+      "B.Sàn TMĐT có chức năng thanh toán bắt buộc phải khấu trừ và nộp thay",
+      "C.Ngân hàng",
+      "D.Cơ quan thuế"
+    ],
+    "answer": "B.Sàn TMĐT có chức năng thanh toán bắt buộc phải khấu trừ và nộp thay"
+  },
+  {
+    "question": "Câu 38Câu 38: Một người vừa mở cửa hàng bán phở (offline), vừa bán áo quần trên Tiktok. Thuế TNCN tính thế nào?",
+    "options": [
+      "A.Tính riêng từng nơi, mỗi nơi được miễn 500tr",
+      "B.Được chọn áp dụng mức giảm trừ 500 triệu cho 1 nơi, phần chưa trừ hết (nếu có) được trừ tiếp ở nơi khác. Tổng trừ không quá 500tr/năm",
+      "C.Phải cộng gộp nộp thuế từ đồng đầu tiên",
+      "D.Mất quyền miễn thuế"
+    ],
+    "answer": "B.Được chọn áp dụng mức giảm trừ 500 triệu cho 1 nơi, phần chưa trừ hết (nếu có) được trừ tiếp ở nơi khác. Tổng trừ không quá 500tr/năm"
+  },
+  {
+    "question": "Câu 39Câu 39: Chuyển nhượng quyền thuê mặt nước để nuôi trồng thủy sản có bị tính thuế 2% không?",
+    "options": [
+      "A.Không, vì là mặt nước",
+      "B.Có, vì đây được xem là thu nhập từ chuyển nhượng Bất động sản",
+      "C.Chịu thuế 10%",
+      "D.Thuế 5%"
+    ],
+    "answer": "B.Có, vì đây được xem là thu nhập từ chuyển nhượng Bất động sản"
+  },
+  {
+    "question": "Câu 40Câu 40: Vợ chồng ly hôn, chia tài sản là căn nhà chung. Việc sang tên này có chịu thuế 2% không?",
+    "options": [
+      "A.Có",
+      "B.Không, thuộc diện miễn thuế (giữa vợ với chồng)",
+      "C.Đóng 1%",
+      "D.Đóng lệ phí"
+    ],
+    "answer": "B.Không, thuộc diện miễn thuế (giữa vợ với chồng)"
+  },
+  {
+    "question": "Câu 41Câu 41: Theo Luật 109/2025, mức giảm trừ gia cảnh cho BẢN THÂN người nộp thuế là bao nhiêu?",
+    "options": [
+      "A.11 triệu đồng/tháng",
+      "B.15,5 triệu đồng/tháng (186 triệu/năm)",
+      "C.18 triệu đồng/tháng",
+      "D.20 triệu đồng/tháng"
+    ],
+    "answer": "B.15,5 triệu đồng/tháng (186 triệu/năm)"
+  },
+  {
+    "question": "Câu 42Câu 42: Mức giảm trừ gia cảnh cho MỖI NGƯỜI PHỤ THUỘC là bao nhiêu?",
+    "options": [
+      "A.4,4 triệu đồng/tháng",
+      "B.5,5 triệu đồng/tháng",
+      "C.6,2 triệu đồng/tháng (74,4 triệu/năm)",
+      "D.7,5 triệu đồng/tháng"
+    ],
+    "answer": "C.6,2 triệu đồng/tháng (74,4 triệu/năm)"
+  },
+  {
+    "question": "Câu 43Câu 43: Khoản thu nhập nào sau đây KHÔNG bị tính vào thu nhập chịu thuế từ Tiền lương, tiền công?",
+    "options": [
+      "A.Tiền thưởng Tết",
+      "B.Trợ cấp thôi việc, trợ cấp mất việc làm theo Bộ luật Lao động",
+      "C.Tiền công ty trả thay phí tập Gym, Golf",
+      "D.Thù lao tư vấn"
+    ],
+    "answer": "B.Trợ cấp thôi việc, trợ cấp mất việc làm theo Bộ luật Lao động"
+  },
+  {
+    "question": "Câu 44Câu 44: Điểm mới đột phá tại Điều 11 cho phép người lao động được giảm trừ thêm khoản chi phí nào trước khi tính thuế?",
+    "options": [
+      "A.Chi phí mua xe máy đi làm",
+      "B.Chi phí du lịch",
+      "C.Chi phí Y tế, Giáo dục của bản thân và người phụ thuộc (theo mức trần quy định)",
+      "D.Chi phí ăn nhậu"
+    ],
+    "answer": "C.Chi phí Y tế, Giáo dục của bản thân và người phụ thuộc (theo mức trần quy định)"
+  },
+  {
+    "question": "Câu 45Câu 45: Biểu thuế suất lũy tiến từng phần áp dụng cho Tiền lương (Điều 9) được rút gọn còn bao nhiêu bậc?",
+    "options": [
+      "A.3 bậc",
+      "B.4 bậc",
+      "C.5 bậc",
+      "D.7 bậc"
+    ],
+    "answer": "C.5 bậc"
+  },
+  {
+    "question": "Câu 46Câu 46: Thuế suất của Bậc 1 trong biểu thuế lũy tiến mới (áp dụng cho phần thu nhập tính thuế ĐẾN 10 TRIỆU ĐỒNG) là bao nhiêu?",
+    "options": [
+      "A.0.05",
+      "B.0.1",
+      "C.0.15",
+      "D.0"
+    ],
+    "answer": "A.0.05"
+  },
+  {
+    "question": "Câu 47Câu 47: Thuế suất cao nhất (Bậc 5) trong biểu thuế lũy tiến mới áp dụng cho phần thu nhập tính thuế TRÊN 100 TRIỆU ĐỒNG là bao nhiêu?",
+    "options": [
+      "A.0.25",
+      "B.0.3",
+      "C.0.35",
+      "D.0.4"
+    ],
+    "answer": "C.0.35"
+  },
+  {
+    "question": "Câu 48Câu 48: Tiền phụ cấp độc hại, nguy hiểm đối với những ngành nghề đặc thù có tính vào thu nhập chịu thuế không?",
+    "options": [
+      "A.Có, tính toàn bộ",
+      "B.Không tính vào thu nhập chịu thuế",
+      "C.Tính 50%",
+      "D.Tùy công ty"
+    ],
+    "answer": "B.Không tính vào thu nhập chịu thuế"
+  },
+  {
+    "question": "Câu 49Câu 49: Nguyên tắc tính giảm trừ gia cảnh cho bản thân đối với người có thu nhập từ nhiều nơi là gì?",
+    "options": [
+      "A.Được trừ 15.5tr ở tất cả các nơi",
+      "B.Chỉ được chọn tính giảm trừ bản thân tại MỘT (01) nơi trả thu nhập",
+      "C.Không được trừ",
+      "D.Chia đều cho các nơi"
+    ],
+    "answer": "B.Chỉ được chọn tính giảm trừ bản thân tại MỘT (01) nơi trả thu nhập"
+  },
+  {
+    "question": "Câu 50Câu 50: Người lao động bắt buộc phải có thông tin gì để được tính giảm trừ gia cảnh?",
+    "options": [
+      "A.Sổ hộ khẩu",
+      "B.Hợp đồng lao động dài hạn",
+      "C.Mã số thuế (hoặc Mã định danh cá nhân/CCCD)",
+      "D.Bằng cấp"
+    ],
+    "answer": "C.Mã số thuế (hoặc Mã định danh cá nhân/CCCD)"
+  },
+  {
+    "question": "Câu 51Câu 51: Tiền công ty mua Bảo hiểm nhân thọ cho nhân viên có tính vào thu nhập chịu thuế của nhân viên không?",
+    "options": [
+      "A.Không, vì là phúc lợi",
+      "B.Có, đây là lợi ích bằng tiền/không bằng tiền người lao động được hưởng",
+      "C.Chỉ tính 50%",
+      "D.Công ty đóng thuế thay"
+    ],
+    "answer": "B.Có, đây là lợi ích bằng tiền/không bằng tiền người lao động được hưởng"
+  },
+  {
+    "question": "Câu 52Câu 52: Khoản đóng góp nào sau đây ĐƯỢC TRỪ vào thu nhập trước khi tính thuế TNCN (Điều 11)?",
+    "options": [
+      "A.Đóng quỹ công đoàn",
+      "B.Đóng tiền Đảng phí",
+      "C.Đóng góp Quỹ từ thiện, nhân đạo, quỹ khuyến học hợp pháp",
+      "D.Đóng tiền quỹ lớp cho con"
+    ],
+    "answer": "C.Đóng góp Quỹ từ thiện, nhân đạo, quỹ khuyến học hợp pháp"
+  },
+  {
+    "question": "Câu 53Câu 53: Mức giảm trừ gia cảnh mới (15.5tr và 6.2tr) được áp dụng bắt đầu từ kỳ tính thuế nào?",
+    "options": [
+      "A.Kỳ tính thuế 2025",
+      "B.Kỳ tính thuế 2026 (sau khi luật có hiệu lực 01/07/2026)",
+      "C.Ngay sau khi thông qua",
+      "D.Kỳ tính thuế 2027"
+    ],
+    "answer": "B.Kỳ tính thuế 2026 (sau khi luật có hiệu lực 01/07/2026)"
+  },
+  {
+    "question": "Câu 54Câu 54: Trợ cấp tử tuất, tai nạn lao động do quỹ BHXH chi trả có chịu thuế TNCN không?",
+    "options": [
+      "A.Có, 5%",
+      "B.Không tính vào thu nhập chịu thuế",
+      "C.Có, 10%",
+      "D.Tính gộp vào lương"
+    ],
+    "answer": "B.Không tính vào thu nhập chịu thuế"
+  },
+  {
+    "question": "Câu 55Câu 55: Con cái đi làm có thu nhập 10 triệu/tháng thì bố mẹ có được đăng ký con làm 'Người phụ thuộc' để giảm trừ 6.2tr không?",
+    "options": [
+      "A.Được, vì là con ruột",
+      "B.Không, vì con đã có thu nhập độc lập vượt mức quy định",
+      "C.Được giảm 50%",
+      "D.Tùy cục thuế"
+    ],
+    "answer": "B.Không, vì con đã có thu nhập độc lập vượt mức quy định"
+  },
+  {
+    "question": "Câu 56Câu 56: Thuế suất TNCN đối với thu nhập từ Đầu tư vốn (Lãi cho vay, cổ tức) là bao nhiêu?",
+    "options": [
+      "A.0.02",
+      "B.0.05",
+      "C.0.1",
+      "D.0.2"
+    ],
+    "answer": "B.0.05"
+  },
+  {
+    "question": "Câu 57Câu 57: Khoản thu nhập nào sau đây ĐƯỢC MIỄN THUẾ đầu tư vốn (không bị thu 5%)?",
+    "options": [
+      "A.Lãi cho cá nhân vay",
+      "B.Cổ tức từ công ty cổ phần",
+      "C.Lãi tiền gửi tiết kiệm tại Ngân hàng, tổ chức tín dụng",
+      "D.Lãi cho công ty vay"
+    ],
+    "answer": "C.Lãi tiền gửi tiết kiệm tại Ngân hàng, tổ chức tín dụng"
+  },
+  {
+    "question": "Câu 58Câu 58: Thuế suất TNCN đối với Chuyển nhượng Phần vốn góp (Công ty TNHH) được tính như thế nào?",
+    "options": [
+      "A.5% trên Doanh thu",
+      "B.10% trên Doanh thu",
+      "C.20% tính trên LỢI NHUẬN (Giá bán - Giá mua - Chi phí)",
+      "D.0.1% trên Doanh thu"
+    ],
+    "answer": "C.20% tính trên LỢI NHUẬN (Giá bán - Giá mua - Chi phí)"
+  },
+  {
+    "question": "Câu 59Câu 59: Ông B bán phần vốn góp tại công ty TNHH với giá thấp hơn lúc mua (Bán Lỗ). Ông B có phải nộp thuế TNCN không?",
+    "options": [
+      "A.Có, 0.1% doanh thu",
+      "B.Có, 5% doanh thu",
+      "C.Không, vì Lợi nhuận",
+      "D.Đóng lệ phí 1 triệu"
+    ],
+    "answer": "C.Không, vì Lợi nhuận"
+  },
+  {
+    "question": "Câu 60Câu 60: Thuế suất TNCN đối với Chuyển nhượng Chứng khoán (Cổ phiếu trên sàn) được tính như thế nào?",
+    "options": [
+      "A.20% trên Lợi nhuận",
+      "B.5% trên Doanh thu",
+      "C.0,1% tính trực tiếp trên TỔNG DOANH THU bán",
+      "D.Miễn thuế"
+    ],
+    "answer": "C.0,1% tính trực tiếp trên TỔNG DOANH THU bán"
+  },
+  {
+    "question": "Câu 61Câu 61: Nhà đầu tư chứng khoán bán CẮT LỖ cổ phiếu trên sàn thì có bị trừ 0.1% thuế không?",
+    "options": [
+      "A.Không, vì đang lỗ",
+      "B.CÓ, VẪN PHẢI NỘP THUẾ 0.1% trên giá trị khớp lệnh",
+      "C.Chỉ nộp phí sàn",
+      "D.Được hoàn thuế"
+    ],
+    "answer": "B.CÓ, VẪN PHẢI NỘP THUẾ 0.1% trên giá trị khớp lệnh"
+  },
+  {
+    "question": "Câu 62Câu 62: Cá nhân nhận cổ tức bằng Cổ phiếu thì xử lý thuế thế nào?",
+    "options": [
+      "A.Nộp ngay 5% lúc nhận",
+      "B.Chưa phải nộp lúc nhận. Khi nào BÁN số cổ phiếu đó đi mới phải nộp 5% thuế Đầu tư vốn và 0.1% thuế Chuyển nhượng CK",
+      "C.Miễn thuế",
+      "D.Nộp 10% lúc bán"
+    ],
+    "answer": "B.Chưa phải nộp lúc nhận. Khi nào BÁN số cổ phiếu đó đi mới phải nộp 5% thuế Đầu tư vốn và 0.1% thuế Chuyển nhượng CK"
+  },
+  {
+    "question": "Câu 63Câu 63: Kỳ tính thuế đối với thu nhập từ Chuyển nhượng vốn, Chứng khoán là:",
+    "options": [
+      "A.Theo tháng",
+      "B.Theo quý",
+      "C.Theo năm",
+      "D.Theo từng lần phát sinh giao dịch"
+    ],
+    "answer": "D.Theo từng lần phát sinh giao dịch"
+  },
+  {
+    "question": "Câu 64Câu 64: Khoản thu nhập từ lợi tức cổ phần của thành viên Hợp tác xã nông nghiệp được xử lý thế nào?",
+    "options": [
+      "A.Chịu thuế 5%",
+      "B.MIỄN THUẾ",
+      "C.Thuế 10%",
+      "D.Thuế 20%"
+    ],
+    "answer": "B.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 65Câu 65: Ông C cho Công ty D vay 1 tỷ, lãi suất 10%/năm. Tiền lãi ông C nhận được bị tính thuế bao nhiêu?",
+    "options": [
+      "A.Miễn thuế như gửi ngân hàng",
+      "B.Đóng thuế 5% Đầu tư vốn",
+      "C.Đóng thuế 10%",
+      "D.Đóng 20%"
+    ],
+    "answer": "B.Đóng thuế 5% Đầu tư vốn"
+  },
+  {
+    "question": "Câu 66Câu 66: Doanh nghiệp khi trả tiền lãi vay, trả cổ tức cho cá nhân có trách nhiệm gì?",
+    "options": [
+      "A.Chỉ cần chuyển đủ tiền",
+      "B.Khấu trừ ngay 5% tiền thuế để nộp NSNN trước khi chi trả cho cá nhân",
+      "C.Báo cơ quan thuế để cá nhân tự nộp",
+      "D.Khấu trừ 10%"
+    ],
+    "answer": "B.Khấu trừ ngay 5% tiền thuế để nộp NSNN trước khi chi trả cho cá nhân"
+  },
+  {
+    "question": "Câu 67Câu 67: Lãi Trái phiếu doanh nghiệp (Corporate bond) cá nhân nhận được có bị tính thuế không?",
+    "options": [
+      "A.Không, miễn thuế",
+      "B.Có, tính thuế Đầu tư vốn 5%",
+      "C.Có, 10%",
+      "D.Có, 0.1%"
+    ],
+    "answer": "B.Có, tính thuế Đầu tư vốn 5%"
+  },
+  {
+    "question": "Câu 68Câu 68: Cá nhân chuyển nhượng Chứng chỉ quỹ mở đã nắm giữ trên 2 năm thì thuế suất là bao nhiêu?",
+    "options": [
+      "A.0.001",
+      "B.MIỄN THUẾ",
+      "C.0.05",
+      "D.0.2"
+    ],
+    "answer": "B.MIỄN THUẾ"
+  },
+  {
+    "question": "Câu 69Câu 69: Thu nhập từ lợi tức Quỹ đầu tư chứng khoán, Quỹ BĐS được ưu đãi gì theo luật mới?",
+    "options": [
+      "A.Miễn thuế 100%",
+      "B.Giảm 50% số thuế phải nộp (Chỉ nộp 2.5% thay vì 5%)",
+      "C.Thuế 10%",
+      "D.Không ưu đãi"
+    ],
+    "answer": "B.Giảm 50% số thuế phải nộp (Chỉ nộp 2.5% thay vì 5%)"
+  },
+  {
+    "question": "Câu 70Câu 70: Cá nhân ủy quyền cho Công ty chứng khoán quản lý danh mục đầu tư. Khi có lợi nhuận, ai chịu trách nhiệm nộp thuế?",
+    "options": [
+      "A.Cá nhân tự kê khai",
+      "B.Công ty chứng khoán tự động khấu trừ và nộp thay 0.1% khi có giao dịch bán",
+      "C.Sở giao dịch nộp",
+      "D.Miễn thuế"
+    ],
+    "answer": "B.Công ty chứng khoán tự động khấu trừ và nộp thay 0.1% khi có giao dịch bán"
+  },
+  {
+    "question": "Câu 71Câu 71: Theo Luật mới, ngưỡng thu nhập TỐI THIỂU để bắt đầu tính thuế đối với Trúng thưởng, Thừa kế, Quà tặng là bao nhiêu?",
+    "options": [
+      "A.Vượt 5 triệu đồng",
+      "B.Vượt 10 triệu đồng",
+      "C.Vượt 20 triệu đồng cho từng lần phát sinh",
+      "D.Tính từ đồng đầu tiên"
+    ],
+    "answer": "C.Vượt 20 triệu đồng cho từng lần phát sinh"
+  },
+  {
+    "question": "Câu 72Câu 72: Thuế suất áp dụng cho thu nhập từ Trúng thưởng, Thừa kế, Quà tặng là bao nhiêu?",
+    "options": [
+      "A.0.05",
+      "B.10% tính trên phần giá trị vượt 20 triệu đồng",
+      "C.0.2",
+      "D.Lũy tiến"
+    ],
+    "answer": "B.10% tính trên phần giá trị vượt 20 triệu đồng"
+  },
+  {
+    "question": "Câu 73Câu 73: Một người trúng giải Vietlott trị giá 1 tỷ đồng. Số thuế TNCN phải nộp là bao nhiêu?",
+    "options": [
+      "A.100 triệu",
+      "B.(1.000.000.000 - 20.000.000) x 10%",
+      "C.Được miễn thuế",
+      "D.50 triệu"
+    ],
+    "answer": "B.(1.000.000.000 - 20.000.000) x 10%"
+  },
+  {
+    "question": "Câu 74Câu 74: Ông A đánh bài tại Casino hợp pháp trong nước và trúng 500 triệu đồng. Ông A phải nộp thuế TNCN bao nhiêu?",
+    "options": [
+      "A.48 triệu (10%)",
+      "B.0 đồng (Casino không thuộc diện chịu thuế TNCN Trúng thưởng)",
+      "C.100 triệu",
+      "D.25 triệu"
+    ],
+    "answer": "B.0 đồng (Casino không thuộc diện chịu thuế TNCN Trúng thưởng)"
+  },
+  {
+    "question": "Câu 75Câu 75: Bố mẹ chồng tặng cho con dâu một chiếc Ô tô trị giá 1 tỷ đồng. Việc nhận quà tặng này có chịu thuế không?",
+    "options": [
+      "A.Có, 10% (98 triệu)",
+      "B.KHÔNG, vì đây là quà tặng giữa những người có quan hệ gia đình trực hệ (Miễn thuế Điều 4)",
+      "C.Có, 5%",
+      "D.Thuế 2%"
+    ],
+    "answer": "B.KHÔNG, vì đây là quà tặng giữa những người có quan hệ gia đình trực hệ (Miễn thuế Điều 4)"
+  },
+  {
+    "question": "Câu 76Câu 76: Bạn trúng thưởng 1 chiếc iPhone 15 Promax giá 30 triệu từ chương trình bốc thăm của Siêu thị. Thuế phải nộp là bao nhiêu?",
+    "options": [
+      "A.Không nộp vì là hiện vật",
+      "B.(30tr - 20tr) x 10%",
+      "C.3 triệu",
+      "D.1.5 triệu"
+    ],
+    "answer": "B.(30tr - 20tr) x 10%"
+  },
+  {
+    "question": "Câu 77Câu 77: Thuế suất áp dụng cho thu nhập từ Bản quyền (Sở hữu trí tuệ) và Nhượng quyền thương mại là bao nhiêu?",
+    "options": [
+      "A.0.1",
+      "B.5% tính trên phần hợp đồng vượt 20 triệu đồng",
+      "C.0.2",
+      "D.0.001"
+    ],
+    "answer": "B.5% tính trên phần hợp đồng vượt 20 triệu đồng"
+  },
+  {
+    "question": "Câu 78Câu 78: Tác giả nhận nhuận bút xuất bản sách là 100 triệu đồng. Thuế TNCN Bản quyền phải nộp là:",
+    "options": [
+      "A.5 triệu",
+      "B.(100tr - 20tr) x 5%",
+      "C.10 triệu",
+      "D.8 triệu"
+    ],
+    "answer": "B.(100tr - 20tr) x 5%"
+  },
+  {
+    "question": "Câu 79Câu 79: Theo ĐIỀU 19, cá nhân chuyển nhượng VÀNG MIẾNG phải nộp thuế TNCN với mức bao nhiêu?",
+    "options": [
+      "A.10% trên lợi nhuận",
+      "B.0.1% tính trên DOANH THU chuyển nhượng (Tổng số tiền bán được)",
+      "C.5% doanh thu",
+      "D.Không chịu thuế"
+    ],
+    "answer": "B.0.1% tính trên DOANH THU chuyển nhượng (Tổng số tiền bán được)"
+  },
+  {
+    "question": "Câu 80Câu 80: Cá nhân Trade Coin (Tài sản số/Crypto) bị lỗ và rút tiền ra. Có phải nộp thuế không?",
+    "options": [
+      "A.Không, vì lỗ",
+      "B.CÓ, 0.1% tính trên tổng số tiền (Doanh thu) rút ra",
+      "C.Chỉ nộp 5%",
+      "D.Bị cấm giao dịch"
+    ],
+    "answer": "B.CÓ, 0.1% tính trên tổng số tiền (Doanh thu) rút ra"
+  },
+  {
+    "question": "Câu 81Câu 81: Chuyển nhượng Tên miền quốc gia (.vn) chịu mức thuế suất bao nhiêu?",
+    "options": [
+      "A.0.001",
+      "B.5% tính trên Giá chuyển nhượng",
+      "C.0.1",
+      "D.20% lợi nhuận"
+    ],
+    "answer": "B.5% tính trên Giá chuyển nhượng"
+  },
+  {
+    "question": "Câu 82Câu 82: Chuyển nhượng Tín chỉ Carbon TỪ LẦN THỨ 2 TRỞ ĐI chịu thuế suất bao nhiêu?",
+    "options": [
+      "A.Miễn thuế",
+      "B.5% tính trên doanh thu chuyển nhượng",
+      "C.0.1",
+      "D.0.001"
+    ],
+    "answer": "B.5% tính trên doanh thu chuyển nhượng"
+  },
+  {
+    "question": "Câu 83Câu 83: Bác ruột (anh của bố) tặng cho cháu 1 mảnh đất. Có được miễn thuế 10% Quà tặng/Thừa kế không?",
+    "options": [
+      "A.Có, vì là người nhà",
+      "B.KHÔNG, Bác - Cháu không nằm trong danh mục huyết thống trực hệ được miễn thuế tại Điều 4",
+      "C.Chỉ miễn 50%",
+      "D.Tùy giá trị đất"
+    ],
+    "answer": "B.KHÔNG, Bác - Cháu không nằm trong danh mục huyết thống trực hệ được miễn thuế tại Điều 4"
+  },
+  {
+    "question": "Câu 84Câu 84: Người trúng giải thưởng hiện vật (như xe máy) từ chối không nộp tiền thuế 10%. Đơn vị trao thưởng phải làm gì?",
+    "options": [
+      "A.Vẫn trao giải bình thường",
+      "B.Từ chối trao giải vì người trúng không hoàn thành nghĩa vụ thuế",
+      "C.Tổ chức tự bỏ tiền túi nộp thay",
+      "D.Báo công an"
+    ],
+    "answer": "B.Từ chối trao giải vì người trúng không hoàn thành nghĩa vụ thuế"
+  },
+  {
+    "question": "Câu 85Câu 85: Nhượng quyền thương mại (Franchise) một thương hiệu cà phê với giá 15 triệu đồng. Người bán phải đóng thuế bao nhiêu?",
+    "options": [
+      "A.0.05",
+      "B.0 đồng (Do giá trị dưới ngưỡng 20 triệu đồng)",
+      "C.0.1",
+      "D.750k"
+    ],
+    "answer": "B.0 đồng (Do giá trị dưới ngưỡng 20 triệu đồng)"
+  },
+  {
+    "question": "Câu 86Câu 86: Chuyên gia nước ngoài sang VN công tác 2 tháng (Cá nhân không cư trú) có mức lương 100 triệu/tháng. Vị này có được trừ 15.5tr giảm trừ gia cảnh không?",
+    "options": [
+      "A.Có, trừ như người VN",
+      "B.KHÔNG, cá nhân không cư trú không được áp dụng bất kỳ khoản giảm trừ gia cảnh nào (Điều 20)",
+      "C.Được trừ 50%",
+      "D.Chỉ trừ cho bản thân, không trừ phụ thuộc"
+    ],
+    "answer": "B.KHÔNG, cá nhân không cư trú không được áp dụng bất kỳ khoản giảm trừ gia cảnh nào (Điều 20)"
+  },
+  {
+    "question": "Câu 87Câu 87: Thuế suất áp dụng cho Tiền lương, tiền công của Cá nhân không cư trú là bao nhiêu?",
+    "options": [
+      "A.Lũy tiến 5 bậc",
+      "B.10% cố định",
+      "C.20% CỐ ĐỊNH tính trên toàn bộ thu nhập (Flat rate)",
+      "D.35% cao nhất"
+    ],
+    "answer": "C.20% CỐ ĐỊNH tính trên toàn bộ thu nhập (Flat rate)"
+  },
+  {
+    "question": "Câu 88Câu 88: Một người Mỹ đầu tư vốn (mua cổ phần) tại công ty VN. Khi công ty VN chia cổ tức, người Mỹ này phải nộp thuế Đầu tư vốn bao nhiêu?",
+    "options": [
+      "A.0.2",
+      "B.5% (Giống hệt cá nhân cư trú - Điều 22)",
+      "C.0.1",
+      "D.0.001"
+    ],
+    "answer": "B.5% (Giống hệt cá nhân cư trú - Điều 22)"
+  },
+  {
+    "question": "Câu 89Câu 89: Cá nhân không cư trú BÁN CỔ PHẦN tại công ty TNHH Việt Nam. Phương pháp tính thuế là gì?",
+    "options": [
+      "A.20% trên Lợi nhuận",
+      "B.0.1% tính trên TỔNG GIÁ BÁN (Doanh thu chuyển nhượng - Điều 23)",
+      "C.5% Doanh thu",
+      "D.Miễn thuế"
+    ],
+    "answer": "B.0.1% tính trên TỔNG GIÁ BÁN (Doanh thu chuyển nhượng - Điều 23)"
+  },
+  {
+    "question": "Câu 90Câu 90: Tổ chức Việt Nam khi trả tiền nhượng quyền, bản quyền, trúng thưởng cho người nước ngoài (Không cư trú) có trách nhiệm gì?",
+    "options": [
+      "A.Không cần làm gì",
+      "B.Khấu trừ và NỘP THAY thuế trước khi chuyển tiền ra nước ngoài",
+      "C.Báo cơ quan thuế",
+      "D.Trừ 20% mọi trường hợp"
+    ],
+    "answer": "B.Khấu trừ và NỘP THAY thuế trước khi chuyển tiền ra nước ngoài"
+  },
+  {
+    "question": "Câu 91Câu 91: Thuế suất Chuyển nhượng Bất động sản tại VN của Cá nhân không cư trú là bao nhiêu?",
+    "options": [
+      "A.2% trên Giá bán (Giống cá nhân cư trú - Điều 24)",
+      "B.0.05",
+      "C.0.1",
+      "D.0.2"
+    ],
+    "answer": "A.2% trên Giá bán (Giống cá nhân cư trú - Điều 24)"
+  },
+  {
+    "question": "Câu 92Câu 92: Người nước ngoài kinh doanh TMĐT (bán áo thun trên Shopee VN). Shopee phải thu thuế TNCN của họ bao nhiêu?",
+    "options": [
+      "A.Không thu",
+      "B.Lũy tiến",
+      "C.Khấu trừ theo quy định đối với hoạt động kinh doanh (tương tự hộ KD nội địa)",
+      "D.20% flat"
+    ],
+    "answer": "C.Khấu trừ theo quy định đối với hoạt động kinh doanh (tương tự hộ KD nội địa)"
+  },
+  {
+    "question": "Câu 93Câu 93: Kỳ tính thuế của cá nhân không cư trú được áp dụng theo thời gian nào?",
+    "options": [
+      "A.Theo năm",
+      "B.Theo quý",
+      "C.Theo từng lần phát sinh thu nhập",
+      "D.Theo tháng"
+    ],
+    "answer": "C.Theo từng lần phát sinh thu nhập"
+  },
+  {
+    "question": "Câu 94Câu 94: Tác giả người Pháp bán bản quyền tiểu thuyết cho NXB tại VN giá 100 triệu. NXB phải khấu trừ thuế bao nhiêu?",
+    "options": [
+      "A.20 triệu (20%)",
+      "B.4 triệu [(100tr - 20tr) x 5%]",
+      "C.5 triệu (5% trọn vẹn)",
+      "D.10 triệu (10%)"
+    ],
+    "answer": "B.4 triệu [(100tr - 20tr) x 5%]"
+  },
+  {
+    "question": "Câu 95Câu 95: Người nước ngoài làm việc tại VN, nhận lương từ Công ty Mẹ ở Mỹ. Có phải nộp thuế TNCN cho VN không?",
+    "options": [
+      "A.Không, vì nhận tiền ở Mỹ",
+      "B.CÓ, vì thu nhập phát sinh từ công việc LÀM TẠI Việt Nam",
+      "C.Chỉ nộp nếu công ty mẹ có chi nhánh ở VN",
+      "D.Chỉ nộp 50%"
+    ],
+    "answer": "B.CÓ, vì thu nhập phát sinh từ công việc LÀM TẠI Việt Nam"
+  },
+  {
+    "question": "Câu 96Câu 96: Tổ chức chi trả thu nhập VÃNG LAI (không ký HĐLĐ hoặc ký dưới 3 tháng) cho cá nhân từ mức bao nhiêu/lần thì bắt buộc phải khấu trừ 10% tại nguồn?",
+    "options": [
+      "A.Từ 1 triệu đồng/lần",
+      "B.Từ 2.000.000 đồng/lần trở lên",
+      "C.Từ 5 triệu đồng/lần",
+      "D.Từ 10 triệu đồng/lần"
+    ],
+    "answer": "B.Từ 2.000.000 đồng/lần trở lên"
+  },
+  {
+    "question": "Câu 97Câu 97: Cá nhân làm CTV bị khấu trừ 10% nhưng ước tính tổng thu nhập năm CHƯA ĐẾN MỨC PHẢI NỘP THUẾ. Cá nhân này làm cách nào để không bị công ty trừ 10%?",
+    "options": [
+      "A.Làm Bản cam kết (Mẫu 08) gửi công ty để tạm chưa khấu trừ",
+      "B.Xin cơ quan thuế giấy xác nhận nghèo",
+      "C.Khởi kiện công ty",
+      "D.Đành chịu trừ rồi cuối năm xin hoàn"
+    ],
+    "answer": "A.Làm Bản cam kết (Mẫu 08) gửi công ty để tạm chưa khấu trừ"
+  },
+  {
+    "question": "Câu 98Câu 98: Cá nhân CÓ thu nhập từ 2 nơi (ký HĐLĐ > 3 tháng ở cả 2 công ty) thì quy định Quyết toán thuế thế nào?",
+    "options": [
+      "A.Ủy quyền cho công ty lương cao hơn quyết toán",
+      "B.KHÔNG ĐƯỢC ủy quyền, phải tự đi Quyết toán thuế trực tiếp với Cơ quan thuế",
+      "C.Không cần quyết toán",
+      "D.Công ty nào có mã số thuế thì ủy quyền công ty đó"
+    ],
+    "answer": "B.KHÔNG ĐƯỢC ủy quyền, phải tự đi Quyết toán thuế trực tiếp với Cơ quan thuế"
+  },
+  {
+    "question": "Câu 99Câu 99: Hạn chót để CÁ NHÂN TỰ QUYẾT TOÁN thuế TNCN là ngày nào?",
+    "options": [
+      "A.31 Tháng 03",
+      "B.Ngày cuối cùng của Tháng 04 năm sau (Trễ hơn tổ chức 1 tháng)",
+      "C.30 Tháng 06",
+      "D.Cuối năm"
+    ],
+    "answer": "B.Ngày cuối cùng của Tháng 04 năm sau (Trễ hơn tổ chức 1 tháng)"
+  },
+  {
+    "question": "Câu 100Câu 100: Trường hợp nào cá nhân ĐƯỢC MIỄN Quyết toán thuế TNCN cuối năm?",
+    "options": [
+      "A.Nộp thừa nhưng không có nhu cầu nhận lại tiền hoàn",
+      "B.Số thuế phải nộp thêm sau quyết toán <",
+      "C.Cả A và B đều đúng",
+      "D.Làm 2 công ty nhưng không muốn quyết toán"
+    ],
+    "answer": "C.Cả A và B đều đúng"
+  }
+]

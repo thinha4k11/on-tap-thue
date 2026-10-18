@@ -1,0 +1,325 @@
+[
+  {
+    "question": "Câu 1Theo Luật khiếu nại 2011, đối tượng được khiếu nại lại?",
+    "options": [
+      "A.Công dân, cơ quan, tổ chức hoặc cán bộ, công chức",
+      "B.Công dân, cá nhân người nước ngoài, cơ quan, tổ chức hoặc cán bộ, công chức",
+      "C.Công dân, cá nhân người nước ngoài, cơ quan, tổ chức",
+      "D.Cá nhân người nước ngoài, cơ quan, tổ chức hoặc cán bộ, công chức"
+    ],
+    "answer": "A.Công dân, cơ quan, tổ chức hoặc cán bộ, công chức"
+  },
+  {
+    "question": "Câu 2Người khiếu nại có quyền rút đơn khiếu nại không?",
+    "options": [
+      "A.Không được rút",
+      "B.Được rút bất cứ lúc nào",
+      "C.Chỉ được rút trong một số trường hợp"
+    ],
+    "answer": "B.Được rút bất cứ lúc nào"
+  },
+  {
+    "question": "Câu 3Thời hiệu khiếu nại quyết định hành chính, hành vi hành chính là bao nhiêu ngày?",
+    "options": [
+      "A.30 ngày",
+      "B.60 ngày",
+      "C.90 ngày",
+      "D.60 ngày làm việc"
+    ],
+    "answer": "C.90 ngày"
+  },
+  {
+    "question": "Câu 4Giải quyết khiếu nại là gì?",
+    "options": [
+      "A.Là việc thụ lý, xác minh, kết luận và ra quyết định giải quyết khiếu nại",
+      "B.Là việc thụ lý, kiểm tra, kết luận và ra quyết định giải quyết khiếu nại",
+      "C.Là việc xác minh, kết luận và ra quyết định giải quyết khiếu nại",
+      "D.Là việc thụ lý, xác minh và ra quyết định giải quyết khiếu nại"
+    ],
+    "answer": "A.Là việc thụ lý, xác minh, kết luận và ra quyết định giải quyết khiếu nại"
+  },
+  {
+    "question": "Câu 5Trường hợp bố bị ốm, nằm viện và ủy quyền cho con gái ruột thực hiện việc khiếu nại thay thì đơn khiếu nại do?",
+    "options": [
+      "A.Cả bố và con cùng ký tên",
+      "B.Con gái ký tên",
+      "C.Bố ký tên hoặc điểm chỉ",
+      "D.Cả bố, con và có người làm chứng"
+    ],
+    "answer": "B.Con gái ký tên"
+  },
+  {
+    "question": "Câu 6Điều nào sau đây đúng về Đơn khiếu nại đủ điều kiện xử lý?",
+    "options": [
+      "A.Đơn khiếu nại ghi rõ tên, địa chỉ của cơ quan, tổ chức, cá nhân bị khiếu nại; nội dung, lý do khiếu nại, tài liệu liên quan đến nội dung khiếu nại và yêu cầu của người khiếu nại;",
+      "B.Đơn được gửi cho nhiều cơ quan, tổ chức, đơn vị, cá nhân trong đó có cơ quan, tổ chức, đơn vị hoặc người có thẩm quyền giải quyết;",
+      "C.Đơn chỉ được dùng chữ viết là tiếng Việt;",
+      "D.Không có ý nào đúng"
+    ],
+    "answer": "A.Đơn khiếu nại ghi rõ tên, địa chỉ của cơ quan, tổ chức, cá nhân bị khiếu nại; nội dung, lý do khiếu nại, tài liệu liên quan đến nội dung khiếu nại và yêu cầu của người khiếu nại;"
+  },
+  {
+    "question": "Câu 7Công ty A khiếu nại Biên bản kiểm tra thuế của Đoàn kiểm tra Cục Thuế tỉnh X. Nội dung biên bản có đoạn: \"Công ty A có trách nhiệm nộp đầy đủ số tiền thuế truy thu, tiền phạt và tiền chậm nộp sau khi cơ quan thuế ban hành Quyết định xử phạt vi phạm pháp luật về thuế\". Nhận được đơn khiếu nại nêu trên, Cục Thuế tỉnh X đã thụ lý và ban hành Quyết định giải quyết khiếu nại lần đầu với nội dung công nhận đơn. Sau hơn 2 tháng kể từ ngày ban hành QĐ giải quyết khiếu nại lần đầu, Cục Thuế tỉnh X đã ban hành Quyết định xử phạt vi phạm hành chính về thuế đối với Công ty A. Chọn phương án nhận xét đúng trong tình huống trên?",
+    "options": [
+      "A.Cục Thuế tỉnh X thụ lý hoàn toàn đúng quy định",
+      "B.Cục Thuế tỉnh X thụ lý và ban hành Quyết định giải quyết khiếu nại lần đầu là đúng quy định của Luật khiếu nại, tuy nhiên sai quy trình về kiểm tra thuế.",
+      "C.Cục Thuế tỉnh X thụ lý và ban hành Quyết định giải quyết khiếu nại lần đầu là sai với quy định của Luật khiếu nại.",
+      "D.Không có ý nào đúng"
+    ],
+    "answer": "C.Cục Thuế tỉnh X thụ lý và ban hành Quyết định giải quyết khiếu nại lần đầu là sai với quy định của Luật khiếu nại."
+  },
+  {
+    "question": "Câu 8Cục Thuế tỉnh A nhận được đơn khiếu nại của Công ty X khiếu nại Quyết định xử phạt vi phạm hành chính về Thuế của Cục Thuế tỉnh A đối với Công ty X. Sau khi xem xét và xác định đơn khiếu nại của Công ty X đủ điều kiện thụ lý đơn, Cục Thuế tỉnh A đã ban hành Thông báo thụ lý đơn khiếu nại. Trong quá trình thụ lý đơn, Cục Thuế được biết Thanh tra Chính phủ đang tiến hành thanh tra toàn diện tại dự án Nhà máy (trong đó có Công ty X). Cục Thuế tỉnh A thực hiện?",
+    "options": [
+      "A.Tiếp tục giải quyết khiếu nại theo đúng quy định của Luật khiếu nại.",
+      "B.Ban hành Thông báo tạm hoãn giải quyết đơn khiếu nại của Công ty X để chờ kết luận thanh tra của Thanh tra chính phủ.",
+      "C.Ban hành Quyết định tạm đình chỉ việc thi hành quyết định hành chính bị khiếu nại để chờ kết luận của Thanh tra chính phủ."
+    ],
+    "answer": "A.Tiếp tục giải quyết khiếu nại theo đúng quy định của Luật khiếu nại."
+  },
+  {
+    "question": "Câu 9Khiếu nại về thuế là gì?",
+    "options": [
+      "A.Yêu cầu cơ quan thuế giải quyết các vấn đề chưa thỏa đáng về thuế",
+      "B.Đề nghị giảm mức thuế phải nộp.",
+      "C.Xin miễn thuế cho cá nhân hoặc tổ chức.",
+      "D.Để tránh việc nộp thuế"
+    ],
+    "answer": "A.Yêu cầu cơ quan thuế giải quyết các vấn đề chưa thỏa đáng về thuế"
+  },
+  {
+    "question": "Câu 10Khiếu nại nào sau đây không được thụ lý giải quyết?",
+    "options": [
+      "A.Cả 2 đáp án trên",
+      "B.Khiếu nại quyết định hành chính, hành vi hành chính trong nội bộ cơ quan nhà nước để chỉ đạo, tổ chức thực hiện nhiệm vụ, công vụ.",
+      "C.Khiếu nại quyết định hành chính, hành vi hành chính trong chỉ đạo điều hành của cơ quan hành chính cấp trên với cơ quan hành chính cấp dưới"
+    ],
+    "answer": "A.Cả 2 đáp án trên"
+  },
+  {
+    "question": "Câu 11Thời hiệu khiếu nại?",
+    "options": [
+      "A.90 ngày, kể từ ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính, hành vi hành chính.",
+      "B.120 ngày, kể từ ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính, hành vi hành chính",
+      "C.60 ngày, kể từ ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính, hành vi hành chính"
+    ],
+    "answer": "A.90 ngày, kể từ ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính, hành vi hành chính."
+  },
+  {
+    "question": "Câu 12Trường hợp nhiều người cùng khiếu nại về một nội dung thì thủ trưởng Cơ quan Thuế có thẩm quyền giải quyết khiếu nại ban hành Quyết định giải quyết khiếu nại",
+    "options": [
+      "A.Cả 2 phương án C và B",
+      "B.Ban hành Quyết định giải quyết khiếu nại cho từng người",
+      "C.Ban hành Quyết định giải quyết khiếu nại kèm theo danh sách những người khiếu nại.",
+      "D.Ban hành Quyết định giải quyết khiếu nại và tổ chức công bố tại trụ sở"
+    ],
+    "answer": "A.Cả 2 phương án C và B"
+  },
+  {
+    "question": "Câu 13Nếu công dân không đồng ý với quyết định giải quyết khiếu nại lần đầu của cơ quan thuế, công dân có thể khởi kiện ra tòa án không?",
+    "options": [
+      "A.Không được khởi kiện nữa",
+      "B.Chỉ có thể khiếu nại đến cơ quan thuế cấp trên",
+      "C.Có thể khởi kiện ra tòa án nhân dân",
+      "D.Có thể khởi kiện ra tòa án nhân dân nếu cơ quan thuế giải quyết khiếu nại lần đầu đồng ý bằng văn bản"
+    ],
+    "answer": "C.Có thể khởi kiện ra tòa án nhân dân"
+  },
+  {
+    "question": "Câu 14Khi nào cơ quan thuế được phép gia hạn thời gian giải quyết khiếu nại lần đầu",
+    "options": [
+      "A.Khi vụ việc phức tạp cần thêm thời gian xác minh",
+      "B.Khi người khiếu nại yêu cầu gia hạn",
+      "C.Khi có sự thay đổi cán bộ phụ trách giải quyết"
+    ],
+    "answer": "A.Khi vụ việc phức tạp cần thêm thời gian xác minh"
+  },
+  {
+    "question": "Câu 15Khiếu nại là gì?",
+    "options": [
+      "A.Khiếu nại là việc công dân, cơ quan, tổ chức do Luật Khiếu nại quy định, đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước hoặc quyết định kỷ luật cán bộ, công chức khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình.",
+      "B.Khiếu nại là việc công dân, cơ quan, tổ chức hoặc cán bộ, công chức theo thủ tục do Luật Khiếu nại quy định, đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước hoặc quyết định kỷ luật cán bộ, công chức khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình.",
+      "C.Khiếu nại là việc cán bộ, công chức theo thủ tục do Luật Khiếu nại quy định, đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước hoặc quyết định kỷ luật cán bộ, công chức khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình.",
+      "D.Khiếu nại là việc công dân, cơ quan, tổ chức hoặc cán bộ, công chức theo thủ tục do Luật Khiếu nại quy định, đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước khi có căn cứ cho rằng quyết định đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình."
+    ],
+    "answer": "B.Khiếu nại là việc công dân, cơ quan, tổ chức hoặc cán bộ, công chức theo thủ tục do Luật Khiếu nại quy định, đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước hoặc quyết định kỷ luật cán bộ, công chức khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình."
+  },
+  {
+    "question": "Câu 16Việc công khai thông tin giải quyết khiếu nại giúp đảm bảo điều gì?",
+    "options": [
+      "A.Tính minh bạch và hiệu quả",
+      "B.Tất cả các đáp án trên",
+      "C.Tăng cường trách nhiệm của cơ quan thuế",
+      "D.Quyền lợi của người nộp thuế được bảo vệ"
+    ],
+    "answer": "B.Tất cả các đáp án trên"
+  },
+  {
+    "question": "Câu 17Nguyên tắc nào cần tuân thủ khi giải quyết khiếu nại?",
+    "options": [
+      "A.Tất cả các nguyên tắc trên",
+      "B.Đảm bảo quyền và lợi ích hợp pháp của các bên liên quan",
+      "C.Khách quan, đúng pháp luật",
+      "D.Công khai, minh bạch và kịp thời"
+    ],
+    "answer": "A.Tất cả các nguyên tắc trên"
+  },
+  {
+    "question": "Câu 18Trong trường hợp khiếu nại bị bác bỏ, cơ quan thuế phải:",
+    "options": [
+      "A.Gửi thông báo lý do bác bỏ kèm hướng dẫn tiếp theo cho người nộp thuế",
+      "B.Kết thúc vụ việc ngay lập tức",
+      "C.Không cần phản hồi thêm",
+      "D.Chuyển đơn sang cơ quan khác"
+    ],
+    "answer": "A.Gửi thông báo lý do bác bỏ kèm hướng dẫn tiếp theo cho người nộp thuế"
+  },
+  {
+    "question": "Câu 19Tố cáo là gì",
+    "options": [
+      "A.Tố cáo là việc cá nhân theo thủ tục quy định của Luật này báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất kỳ cơ quan, tổ chức, cá nhân nào gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",
+      "B.Tố cáo là việc báo cho cơ quan nhà nước có thẩm quyền hành vi vi phạm pháp luật của cá nhân nào đó mà mình biết",
+      "C.Tố cáo là việc bắt buộc mà bất cứ ai khi biết hành vi vi phạm của người khác phải làm",
+      "D.Tố cáo là việc công dân, cơ quan, tổ chức hoặc cán bộ, công chức theo thủ tục do Luật này quy định, đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước"
+    ],
+    "answer": "A.Tố cáo là việc cá nhân theo thủ tục quy định của Luật này báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất kỳ cơ quan, tổ chức, cá nhân nào gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân"
+  },
+  {
+    "question": "Câu 20Ai là người thực hiện tố cáo",
+    "options": [
+      "A.Cá nhân thực hiện việc tố cáo",
+      "B.Cơ quan, tổ chức, cá nhân",
+      "C.Cơ quan, tổ chức, cá nhân có hành vi bị tố cáo",
+      "D.Cơ quan, tổ chức"
+    ],
+    "answer": "A.Cá nhân thực hiện việc tố cáo"
+  },
+  {
+    "question": "Câu 21Thẩm quyền giải quyết tố cáo",
+    "options": [
+      "A.Cả cá nhân, tổ chức và cơ quan có thẩm quyền giải quyết tố cáo.",
+      "B.Chỉ là cá nhân có thẩm quyền giải quyết tố cáo.",
+      "C.Chỉ là cơ quan có thẩm quyền giải quyết tố cáo.",
+      "D.Chỉ là tổ chức có thẩm quyền giải quyết tố cáo."
+    ],
+    "answer": "A.Cả cá nhân, tổ chức và cơ quan có thẩm quyền giải quyết tố cáo."
+  },
+  {
+    "question": "Câu 22Quyền của người tố cáo là gì",
+    "options": [
+      "A.Được thông báo về nội dung tố cáo, việc gia hạn giải quyết tố cáo, đình chỉ, tạm đình chỉ việc giải quyết tố cáo, tiếp tục giải quyết tố cáo",
+      "B.Được ủy quyền",
+      "C.Được giải trình, đưa ra chứng cứ để chứng minh nội dung tố cáo là không đúng sự thật",
+      "D.Được nhận kết luận nội dung tố cáo"
+    ],
+    "answer": "A.Được thông báo về nội dung tố cáo, việc gia hạn giải quyết tố cáo, đình chỉ, tạm đình chỉ việc giải quyết tố cáo, tiếp tục giải quyết tố cáo"
+  },
+  {
+    "question": "Câu 23Các hình thức tố cáo là gì",
+    "options": [
+      "A.Bằng đơn hoặc được trình bày trực tiếp tại cơ quan, tổ chức có thẩm quyền",
+      "B.Bằng đơn, ghi âm",
+      "C.Gọi điện thoại đến đường dây nóng để báo hoặc băng ghi hình",
+      "D.Gửi email cho người có thẩm quyền hoặc đến trình bay trực tiếp cho cơ quan có thẩm quyền"
+    ],
+    "answer": "A.Bằng đơn hoặc được trình bày trực tiếp tại cơ quan, tổ chức có thẩm quyền"
+  },
+  {
+    "question": "Câu 24Trách nhiệm của người tiếp công dân tố cáo",
+    "options": [
+      "A.Hướng dẫn người tố cáo viết đơn tố cáo",
+      "B.Yêu cầu người tố cáo phải viết đơn tố cáo và ký vào đơn theo quy định",
+      "C.Hướng dẫn người tố cáo viết đơn tố cáo hoặc ghi lại nội dung tố cáo bằng văn bản và yêu cầu người tố cáo ký tên hoặc điểm chỉ xác nhận vào văn bản",
+      "D.Ghi lại chính xác những gì người tố cáo nói và ký xác nhận vào đơn tố cáo theo quy định của pháp luật"
+    ],
+    "answer": "C.Hướng dẫn người tố cáo viết đơn tố cáo hoặc ghi lại nội dung tố cáo bằng văn bản và yêu cầu người tố cáo ký tên hoặc điểm chỉ xác nhận vào văn bản"
+  },
+  {
+    "question": "Câu 25Các hành vi bị nghiêm cấm khi giải quyết tố cáo",
+    "options": [
+      "A.Rút đơn tố cáo",
+      "B.Yêu cầu người tố cáo cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo.",
+      "C.Đưa tin về việc tố cáo và giải quyết tố cáo.",
+      "D.Đe dọa, mua chuộc, trả thù, trù dập, xúc phạm người tố cáo."
+    ],
+    "answer": "D.Đe dọa, mua chuộc, trả thù, trù dập, xúc phạm người tố cáo."
+  },
+  {
+    "question": "Câu 26Nguyên tắc nào sai",
+    "options": [
+      "A.Bảo vệ bạn bè, đồng nghiệp của người tố cáo.",
+      "B.Bảo vệ bí mật thông tin của người tố cáo.",
+      "C.Bảo vệ vị trí công tác, việc làm, tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo.",
+      "D.Bảo vệ vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người tố cáo."
+    ],
+    "answer": "A.Bảo vệ bạn bè, đồng nghiệp của người tố cáo."
+  },
+  {
+    "question": "Câu 27Thời hạn xử lý ban đầu của thông tin tố cáo",
+    "options": [
+      "A.7 ngày làm việc",
+      "B.6 ngày làm việc",
+      "C.5 ngày làm việc",
+      "D.8 ngày làm việc"
+    ],
+    "answer": "A.7 ngày làm việc"
+  },
+  {
+    "question": "Câu 28Quyền của người giải quyết tố cáo",
+    "options": [
+      "A.Rút tố cáo",
+      "B.Được bảo đảm bí mật họ tên, địa chỉ, bút tích và thông tin cá nhân khác.",
+      "C.Yêu cầu, đề nghị cơ quan, tổ chức, cá nhân khác cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo.",
+      "D.Được bồi thường thiệt hại theo quy định của pháp luật."
+    ],
+    "answer": "C.Yêu cầu, đề nghị cơ quan, tổ chức, cá nhân khác cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo."
+  },
+  {
+    "question": "Câu 29Việc kiểm tra xác minh thông tin người tố cáo thực hiện thông qua hình thức nào",
+    "options": [
+      "A.Thực hiên xác minh cả 2 hình thức",
+      "B.Gửi Phiếu xác nhận thông tin qua Bưu điện (có hồi báo) tới người tố cáo.",
+      "C.Làm việc trực tiếp với người tố cáo và lập thành biên bản.",
+      "D.Thực hiện 1 trong 2 hình thức"
+    ],
+    "answer": "D.Thực hiện 1 trong 2 hình thức"
+  },
+  {
+    "question": "Câu 30Đơn tố cáo có nhiều nội dung thì giải quyết như thế nào",
+    "options": [
+      "A.Chỉ giải quyết nội dung tố cáo",
+      "B.Phải tách riêng từng nội dung đơn để xử lý theo trình tự, thủ tục quy định của pháp luật. Đối với nội dung tố cáo thì giải quyết theo trình tự thủ tục quy định tại quy trình",
+      "C.Thông báo không thụ lý giải quyết"
+    ],
+    "answer": "B.Phải tách riêng từng nội dung đơn để xử lý theo trình tự, thủ tục quy định của pháp luật. Đối với nội dung tố cáo thì giải quyết theo trình tự thủ tục quy định tại quy trình"
+  },
+  {
+    "question": "Câu 31Đơn tố cáo không xác định được người tố cáo thì giải quyết thế nào",
+    "options": [
+      "A.Không thụ lý đơn theo quy định của Luật Tố cáo",
+      "B.Tiến hành thụ lý, xác minh đơn theo quy định của Luật Tố cáo",
+      "C.Hướng dẫn người có đơn tiếp tục tố cáo lên cấp trên có thẩm quyền."
+    ],
+    "answer": "A.Không thụ lý đơn theo quy định của Luật Tố cáo"
+  },
+  {
+    "question": "Câu 32Cơ sở phân loại đơn tố cáo",
+    "options": [
+      "A.Các tài liệu, bằng chứng liên quan",
+      "B.Họ tên, địa chỉ, số điện thoại (nếu có) người tố cáo",
+      "C.Xác nhận phân loại đơn là tố cáo, khiếu nại, kiến nghị, phản ánh",
+      "D.Tất cả các nội dung trên"
+    ],
+    "answer": "D.Tất cả các nội dung trên"
+  },
+  {
+    "question": "Câu 33Thời hạn gửi kết luận nội dung tố cáo cho người tố cáo",
+    "options": [
+      "A.Trong thời hạn 07 ngày làm việc, kể từ ngày ban hành kết luận nội dung tố cáo",
+      "B.Trong thời hạn 07 ngày, kể từ ngày ban hành kết luận nội dung tố cáo",
+      "C.Trong thời hạn 05 ngày làm việc, kể từ ngày ban hành kết luận nội dung tố cáo",
+      "D.Trong thời hạn 03 ngày làm việc, kể từ ngày ban hành kết luận nội dung tố cáo"
+    ],
+    "answer": "C.Trong thời hạn 05 ngày làm việc, kể từ ngày ban hành kết luận nội dung tố cáo"
+  }
+]

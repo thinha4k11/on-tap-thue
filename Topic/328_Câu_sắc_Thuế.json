@@ -1,0 +1,3252 @@
+[
+  {
+    "question": "Câu 1Theo quy định, đối tượng chịu thuế tài nguyên bao gồm phạm vi nào?",
+    "options": [
+      "A.Chỉ trong phạm vi đất liền",
+      "B.Chỉ vùng biển",
+      "C.Trong phạm vi đất liền, hải đảo và các vùng biển thuộc chủ quyền, quyền tài phán của Việt Nam",
+      "D.Chỉ nội thủy và lãnh hải"
+    ],
+    "answer": "C.Trong phạm vi đất liền, hải đảo và các vùng biển thuộc chủ quyền, quyền tài phán của Việt Nam"
+  },
+  {
+    "question": "Câu 2Khoáng sản kim loại có thuộc đối tượng chịu thuế tài nguyên không?",
+    "options": [
+      "A.Không",
+      "B.Chỉ trong trường hợp xuất khẩu",
+      "C.Có",
+      "D.Chỉ doanh nghiệp nhà nước mới phải nộp"
+    ],
+    "answer": "C.Có"
+  },
+  {
+    "question": "Câu 3Loại nào sau đây không thuộc sản phẩm của rừng tự nhiên chịu thuế tài nguyên?",
+    "options": [
+      "A.Gỗ tự nhiên",
+      "B.Thực vật rừng tự nhiên",
+      "C.Hồi do người nộp thuế trồng tại khu vực rừng tự nhiên được giao khoanh nuôi",
+      "D.Sản phẩm khác của rừng tự nhiên"
+    ],
+    "answer": "C.Hồi do người nộp thuế trồng tại khu vực rừng tự nhiên được giao khoanh nuôi"
+  },
+  {
+    "question": "Câu 4Hải sản tự nhiên thuộc đối tượng chịu thuế tài nguyên gồm những loại nào?",
+    "options": [
+      "A.Chỉ động vật biển",
+      "B.Chỉ thực vật biển",
+      "C.Động vật và thực vật biển",
+      "D.Chỉ hải sản khai thác xa bờ"
+    ],
+    "answer": "C.Động vật và thực vật biển"
+  },
+  {
+    "question": "Câu 5Loại nước thiên nhiên nào không thuộc đối tượng chịu thuế tài nguyên?",
+    "options": [
+      "A.Nước mặt dùng sản xuất công nghiệp",
+      "B.Nước dưới đất dùng kinh doanh",
+      "C.Nước thiên nhiên dùng cho nông nghiệp",
+      "D.Nước khoáng thiên nhiên"
+    ],
+    "answer": "C.Nước thiên nhiên dùng cho nông nghiệp"
+  },
+  {
+    "question": "Câu 6Nước biển dùng làm mát máy không thuộc đối tượng chịu thuế tài nguyên khi đáp ứng điều kiện nào?",
+    "options": [
+      "A.Được doanh nghiệp tự xác nhận",
+      "B.Đảm bảo yêu cầu môi trường và điều kiện kinh tế kỹ thuật chuyên ngành được cơ quan có thẩm quyền xác nhận",
+      "C.Chỉ cần không bán ra ngoài",
+      "D.Chỉ cần sử dụng tuần hoàn"
+    ],
+    "answer": "B.Đảm bảo yêu cầu môi trường và điều kiện kinh tế kỹ thuật chuyên ngành được cơ quan có thẩm quyền xác nhận"
+  },
+  {
+    "question": "Câu 7Yến sào nào sau đây không thuộc đối tượng chịu thuế tài nguyên?",
+    "options": [
+      "A.Yến sào khai thác ngoài đảo tự nhiên",
+      "B.Yến sào trong hang động tự nhiên",
+      "C.Yến sào thu được từ hoạt động đầu tư xây dựng nhà dẫn dụ chim yến tự nhiên",
+      "D.Yến sào khai thác trong rừng tự nhiên"
+    ],
+    "answer": "C.Yến sào thu được từ hoạt động đầu tư xây dựng nhà dẫn dụ chim yến tự nhiên"
+  },
+  {
+    "question": "Câu 8Cơ quan nào chủ trì phối hợp với các Bộ, ngành liên quan để báo cáo Chính phủ trình Ủy ban Thường vụ Quốc hội xem xét quyết định về tài nguyên thiên nhiên khác thuộc đối tượng chịu thuế?",
+    "options": [
+      "A.Bộ Công thương",
+      "B.Bộ Tài nguyên và Môi trường",
+      "C.Bộ Tài chính",
+      "D.Tổng cục Thuế"
+    ],
+    "answer": "C.Bộ Tài chính"
+  },
+  {
+    "question": "Câu 9Trường hợp sử dụng nước biển làm mát máy nhưng gây ô nhiễm môi trường, không đạt tiêu chuẩn môi trường thì xử lý theo văn bản nào?",
+    "options": [
+      "A.Luật Bảo vệ môi trường 2020",
+      "B.Nghị định số 179/2013/NĐ-CP và văn bản hướng dẫn thi hành hoặc thay thế",
+      "C.Luật Tài nguyên nước",
+      "D.Nghị định số 126/2020/NĐ-CP"
+    ],
+    "answer": "B.Nghị định số 179/2013/NĐ-CP và văn bản hướng dẫn thi hành hoặc thay thế"
+  },
+  {
+    "question": "Câu 10Yến sào do tổ chức, cá nhân đầu tư xây dựng nhà dẫn dụ chim yến tự nhiên về nuôi và khai thác phải đảm bảo theo quy định tại văn bản nào?",
+    "options": [
+      "A.Thông tư 78/2014/TT-BTC",
+      "B.Thông tư 200/2014/TT-BTC",
+      "C.Thông tư 35/2013/TT-BNNPTNT",
+      "D.Nghị định 67/2014/NĐ-CP"
+    ],
+    "answer": "C.Thông tư 35/2013/TT-BNNPTNT"
+  },
+  {
+    "question": "Câu 11Theo quy định, người nộp thuế tài nguyên là ai?",
+    "options": [
+      "A.Người mua tài nguyên",
+      "B.Tổ chức, cá nhân khai thác tài nguyên thuộc đối tượng chịu thuế",
+      "C.Cơ quan cấp phép khai thác",
+      "D.Đơn vị vận chuyển tài nguyên"
+    ],
+    "answer": "B.Tổ chức, cá nhân khai thác tài nguyên thuộc đối tượng chịu thuế"
+  },
+  {
+    "question": "Câu 12Đối với hoạt động khai thác khoáng sản, người nộp thuế tài nguyên là ai?",
+    "options": [
+      "A.Cơ quan thuế",
+      "B.Tổ chức, hộ kinh doanh được cấp Giấy phép khai thác khoáng sản",
+      "C.Người tiêu thụ tài nguyên",
+      "D.Chính quyền địa phương"
+    ],
+    "answer": "B.Tổ chức, hộ kinh doanh được cấp Giấy phép khai thác khoáng sản"
+  },
+  {
+    "question": "Câu 13Trường hợp tổ chức được cấp Giấy phép khai thác khoáng sản sau đó giao cho đơn vị trực thuộc khai thác thì ai là người nộp thuế tài nguyên?",
+    "options": [
+      "A.Tổ chức mẹ",
+      "B.Cơ quan cấp phép",
+      "C.Mỗi đơn vị trực thuộc khai thác",
+      "D.Người mua khoáng sản"
+    ],
+    "answer": "C.Mỗi đơn vị trực thuộc khai thác"
+  },
+  {
+    "question": "Câu 14Doanh nghiệp khai thác tài nguyên được thành lập trên cơ sở liên doanh thì ai là người nộp thuế tài nguyên?",
+    "options": [
+      "A.Bên Việt Nam",
+      "B.Bên nước ngoài",
+      "C.Doanh nghiệp liên doanh",
+      "D.Cả hai bên cùng nộp riêng"
+    ],
+    "answer": "C.Doanh nghiệp liên doanh"
+  },
+  {
+    "question": "Câu 15Trường hợp hợp đồng hợp tác kinh doanh khai thác tài nguyên không xác định cụ thể bên có trách nhiệm nộp thuế thì xử lý thế nào?",
+    "options": [
+      "A.Không phải nộp thuế",
+      "B.Cơ quan thuế chỉ định",
+      "C.Các bên đều phải kê khai nộp thuế hoặc cử đại diện nộp thuế",
+      "D.Chỉ bên Việt Nam nộp thuế"
+    ],
+    "answer": "C.Các bên đều phải kê khai nộp thuế hoặc cử đại diện nộp thuế"
+  },
+  {
+    "question": "Câu 16Tổ chức, cá nhân nhận thầu thi công công trình có phát sinh tài nguyên khai thác hợp pháp thì phải nộp thuế ở đâu?",
+    "options": [
+      "A.Cơ quan thuế nơi ký hợp đồng",
+      "B.Cơ quan thuế địa phương nơi phát sinh tài nguyên khai thác",
+      "C.Tổng cục Thuế",
+      "D.UBND cấp huyện"
+    ],
+    "answer": "B.Cơ quan thuế địa phương nơi phát sinh tài nguyên khai thác"
+  },
+  {
+    "question": "Câu 17Tổ chức, cá nhân sử dụng nước từ công trình thủy lợi để phát điện có phải là người nộp thuế tài nguyên không?",
+    "options": [
+      "A.Không",
+      "B.Chỉ khi công trình dùng vốn nhà nước",
+      "C.Có",
+      "D.Chỉ doanh nghiệp nhà nước phải nộp"
+    ],
+    "answer": "C.Có"
+  },
+  {
+    "question": "Câu 18Trường hợp tổ chức quản lý công trình thủy lợi cung cấp nước cho đơn vị khác để sản xuất nước sinh hoạt thì ai là người nộp thuế tài nguyên?",
+    "options": [
+      "A.Đơn vị sử dụng nước",
+      "B.Người dân sử dụng nước",
+      "C.Tổ chức quản lý công trình thủy lợi",
+      "D.Cơ quan tài nguyên môi trường"
+    ],
+    "answer": "C.Tổ chức quản lý công trình thủy lợi"
+  },
+  {
+    "question": "Câu 19Đối với tài nguyên thiên nhiên cấm khai thác hoặc khai thác trái phép bị tịch thu và được phép bán ra thì tổ chức được giao bán phải nộp thuế tài nguyên vào thời điểm nào?",
+    "options": [
+      "A.Sau khi bán đấu giá xong",
+      "B.Sau khi trích thưởng",
+      "C.Trước khi trích các khoản chi phí liên quan đến bắt giữ, bán đấu giá, trích thưởng",
+      "D.Cuối năm tài chính"
+    ],
+    "answer": "C.Trước khi trích các khoản chi phí liên quan đến bắt giữ, bán đấu giá, trích thưởng"
+  },
+  {
+    "question": "Câu 20Trường hợp tổ chức được cấp Giấy phép khai thác khoáng sản được phép hợp tác với tổ chức, cá nhân khai thác tài nguyên và có quy định riêng về người nộp thuế thì xác định người nộp thuế như thế nào?",
+    "options": [
+      "A.Theo quyết định của cơ quan thuế",
+      "B.Theo thỏa thuận miệng giữa các bên",
+      "C.Theo văn bản quy định riêng đó",
+      "D.Tổ chức được cấp phép luôn là người nộp thuế"
+    ],
+    "answer": "C.Theo văn bản quy định riêng đó"
+  },
+  {
+    "question": "Câu 21Theo quy định, căn cứ tính thuế tài nguyên gồm những yếu tố nào?",
+    "options": [
+      "A.Doanh thu, chi phí, lợi nhuận",
+      "B.Sản lượng tài nguyên tính thuế, giá tính thuế tài nguyên, thuế suất thuế tài nguyên",
+      "C.Giá bán và doanh thu",
+      "D.Sản lượng khai thác và chi phí vận chuyển"
+    ],
+    "answer": "B.Sản lượng tài nguyên tính thuế, giá tính thuế tài nguyên, thuế suất thuế tài nguyên"
+  },
+  {
+    "question": "Câu 22Công thức tính thuế tài nguyên phải nộp trong kỳ theo phương pháp thông thường là gì?",
+    "options": [
+      "A.Sản lượng × Giá tính thuế × Thuế suất",
+      "B.Doanh thu × Thuế suất",
+      "C.Giá bán × Thuế suất",
+      "D.Sản lượng × Chi phí"
+    ],
+    "answer": "A.Sản lượng × Giá tính thuế × Thuế suất"
+  },
+  {
+    "question": "Câu 23Doanh nghiệp khai thác 1.000 m³ cát, giá tính thuế 120.000 đồng/m³, thuế suất 10%. Thuế tài nguyên phải nộp là bao nhiêu?",
+    "options": [
+      "A.10 triệu đồng",
+      "B.12 triệu đồng",
+      "C.120 triệu đồng",
+      "D.15 triệu đồng"
+    ],
+    "answer": "B.12 triệu đồng"
+  },
+  {
+    "question": "Câu 24Một doanh nghiệp khai thác đá xây dựng với sản lượng tính thuế 500 tấn, giá tính thuế 200.000 đồng/tấn, thuế suất 5%. Thuế tài nguyên phải nộp là bao nhiêu?",
+    "options": [
+      "A.2 triệu đồng",
+      "B.5 triệu đồng",
+      "C.10 triệu đồng",
+      "D.20 triệu đồng"
+    ],
+    "answer": "B.5 triệu đồng"
+  },
+  {
+    "question": "Câu 25Trường hợp cơ quan nhà nước ấn định mức thuế tài nguyên phải nộp trên một đơn vị tài nguyên khai thác thì thuế phải nộp được xác định bằng cách nào?",
+    "options": [
+      "A.Doanh thu × thuế suất",
+      "B.Sản lượng × mức thuế tài nguyên ấn định",
+      "C.Giá bán × sản lượng",
+      "D.Chi phí × tỷ lệ thuế"
+    ],
+    "answer": "B.Sản lượng × mức thuế tài nguyên ấn định"
+  },
+  {
+    "question": "Câu 26Hộ kinh doanh khai thác 300 m³ đất san lấp. Cơ quan thuế ấn định mức thuế tài nguyên là 15.000 đồng/m³. Thuế tài nguyên phải nộp là bao nhiêu?",
+    "options": [
+      "A.3 triệu đồng",
+      "B.4,5 triệu đồng",
+      "C.5 triệu đồng",
+      "D.6 triệu đồng"
+    ],
+    "answer": "B.4,5 triệu đồng"
+  },
+  {
+    "question": "Câu 27Việc ấn định thuế tài nguyên được thực hiện căn cứ vào đâu?",
+    "options": [
+      "A.Đề xuất của người nộp thuế",
+      "B.Giá thị trường quốc tế",
+      "C.Cơ sở dữ liệu của cơ quan Thuế và quy định pháp luật về quản lý thuế",
+      "D.Quyết định của UBND cấp xã"
+    ],
+    "answer": "C.Cơ sở dữ liệu của cơ quan Thuế và quy định pháp luật về quản lý thuế"
+  },
+  {
+    "question": "Câu 28Doanh nghiệp khai thác 2.000 tấn quặng, giá tính thuế 350.000 đồng/tấn, thuế suất 12%. Thuế tài nguyên phải nộp là bao nhiêu?",
+    "options": [
+      "A.72 triệu đồng",
+      "B.80 triệu đồng",
+      "C.84 triệu đồng",
+      "D.96 triệu đồng"
+    ],
+    "answer": "C.84 triệu đồng"
+  },
+  {
+    "question": "Câu 29Một doanh nghiệp khai thác 1.500 m³ đá. Theo công thức thông thường, giá tính thuế là 180.000 đồng/m³, thuế suất 8%. Tuy nhiên cơ quan thuế ấn định mức thuế 20.000 đồng/m³. Nếu áp dụng phương pháp ấn định thì số thuế phải nộp là bao nhiêu?",
+    "options": [
+      "A.21,6 triệu đồng",
+      "B.24 triệu đồng",
+      "C.27 triệu đồng",
+      "D.30 triệu đồng"
+    ],
+    "answer": "D.30 triệu đồng"
+  },
+  {
+    "question": "Câu 30Một doanh nghiệp khai thác tài nguyên có sản lượng tính thuế 800 tấn. Giá tính thuế đơn vị tài nguyên là 250.000 đồng/tấn, thuế suất 7%. Số thuế tài nguyên phải nộp trong kỳ là bao nhiêu?",
+    "options": [
+      "A.12 triệu đồng",
+      "B.14 triệu đồng",
+      "C.16 triệu đồng",
+      "D.18 triệu đồng"
+    ],
+    "answer": "B.14 triệu đồng"
+  },
+  {
+    "question": "Câu 31Đối với tài nguyên khai thác xác định được số lượng, trọng lượng hoặc khối lượng thì sản lượng tính thuế được xác định như thế nào?",
+    "options": [
+      "A.Theo giấy phép khai thác",
+      "B.Theo sản lượng đăng ký",
+      "C.Theo sản lượng thực tế khai thác trong kỳ tính thuế",
+      "D.Theo doanh thu bán ra"
+    ],
+    "answer": "C.Theo sản lượng thực tế khai thác trong kỳ tính thuế"
+  },
+  {
+    "question": "Câu 32Trường hợp tài nguyên khai thác có nhiều cấp độ, chất lượng khác nhau thì sản lượng tính thuế được xác định như thế nào?",
+    "options": [
+      "A.Chỉ tính loại có giá trị cao nhất",
+      "B.Chỉ tính loại bán ra",
+      "C.Theo từng loại tài nguyên có cùng cấp độ, chất lượng hoặc quy đổi về loại có sản lượng bán lớn nhất",
+      "D.Không phải phân loại"
+    ],
+    "answer": "C.Theo từng loại tài nguyên có cùng cấp độ, chất lượng hoặc quy đổi về loại có sản lượng bán lớn nhất"
+  },
+  {
+    "question": "Câu 33Doanh nghiệp khai thác than phải sàng tuyển mới bán ra thì sản lượng tính thuế là gì?",
+    "options": [
+      "A.Than nguyên khai",
+      "B.Sản lượng than sau sàng tuyển, phân loại",
+      "C.Sản lượng đất đá đi kèm",
+      "D.Tổng khối lượng khai đào"
+    ],
+    "answer": "B.Sản lượng than sau sàng tuyển, phân loại"
+  },
+  {
+    "question": "Câu 34Đất, đá, phế thải bán ra có lẫn tài nguyên chịu thuế thì xử lý như thế nào?",
+    "options": [
+      "A.Không tính thuế",
+      "B.Chỉ tính phí môi trường",
+      "C.Phải nộp thuế tài nguyên đối với phần tài nguyên có trong phế thải",
+      "D.Chỉ xử phạt hành chính"
+    ],
+    "answer": "C.Phải nộp thuế tài nguyên đối với phần tài nguyên có trong phế thải"
+  },
+  {
+    "question": "Câu 35Doanh nghiệp khai thác quặng sắt sau sàng tuyển thu được 3 kg vàng cốm và 200 tấn quặng sắt. Thuế tài nguyên được tính trên cơ sở nào?",
+    "options": [
+      "A.Chỉ tính quặng sắt",
+      "B.Chỉ tính vàng cốm",
+      "C.Tính trên cả vàng cốm và quặng sắt thu được",
+      "D.Không tính thuế vàng"
+    ],
+    "answer": "C.Tính trên cả vàng cốm và quặng sắt thu được"
+  },
+  {
+    "question": "Câu 36Quặng đa kim không xác định được sản lượng từng chất thì sản lượng tính thuế được xác định căn cứ vào đâu?",
+    "options": [
+      "A.Giá bán thực tế",
+      "B.Tỷ lệ từng chất trong tài nguyên đã được kiểm định và phê duyệt",
+      "C.Doanh thu xuất khẩu",
+      "D.Công suất máy móc"
+    ],
+    "answer": "B.Tỷ lệ từng chất trong tài nguyên đã được kiểm định và phê duyệt"
+  },
+  {
+    "question": "Câu 37Doanh nghiệp khai thác 2.000 tấn quặng đa kim, trong đó tỷ lệ đồng là 40%. Sản lượng tính thuế đối với đồng là bao nhiêu?",
+    "options": [
+      "A.400 tấn",
+      "B.600 tấn",
+      "C.800 tấn",
+      "D.1.000 tấn"
+    ],
+    "answer": "C.800 tấn"
+  },
+  {
+    "question": "Câu 38Doanh nghiệp khai thác 1.500 tấn quặng đa kim có tỷ lệ bạc 0,4%. Sản lượng bạc tính thuế là bao nhiêu?",
+    "options": [
+      "A.4 tấn",
+      "B.5 tấn",
+      "C.6 tấn",
+      "D.8 tấn"
+    ],
+    "answer": "C.6 tấn"
+  },
+  {
+    "question": "Câu 39Đối với tài nguyên khai thác không bán ra mà phải chế biến mới bán thì sản lượng tính thuế được xác định như thế nào?",
+    "options": [
+      "A.Theo doanh thu bán sản phẩm",
+      "B.Theo sản lượng sản phẩm bán ra quy đổi theo định mức sử dụng tài nguyên",
+      "C.Theo giá thành sản xuất",
+      "D.Theo công suất thiết kế"
+    ],
+    "answer": "B.Theo sản lượng sản phẩm bán ra quy đổi theo định mức sử dụng tài nguyên"
+  },
+  {
+    "question": "Câu 40Định mức sử dụng tài nguyên trên một đơn vị sản phẩm do ai kê khai?",
+    "options": [
+      "A.Cơ quan thuế",
+      "B.UBND tỉnh",
+      "C.Người nộp thuế",
+      "D.Bộ Công thương"
+    ],
+    "answer": "C.Người nộp thuế"
+  },
+  {
+    "question": "Câu 41Doanh nghiệp khai thác đá để sản xuất xi măng nhưng không xác định được lượng đá đưa vào sản xuất thì xử lý thế nào?",
+    "options": [
+      "A.Không tính thuế",
+      "B.Quy đổi từ sản lượng xi măng sản xuất ra sản lượng đá khai thác",
+      "C.Tính theo doanh thu xi măng",
+      "D.Áp dụng thuế khoán"
+    ],
+    "answer": "B.Quy đổi từ sản lượng xi măng sản xuất ra sản lượng đá khai thác"
+  },
+  {
+    "question": "Câu 42Đối với nước thiên nhiên dùng cho sản xuất thủy điện thì sản lượng tính thuế là gì?",
+    "options": [
+      "A.Sản lượng nước khai thác",
+      "B.Công suất nhà máy",
+      "C.Sản lượng điện bán cho bên mua điện",
+      "D.Tổng lượng nước hồ chứa"
+    ],
+    "answer": "C.Sản lượng điện bán cho bên mua điện"
+  },
+  {
+    "question": "Câu 43Sản lượng điện dùng tính thuế tài nguyên phải được xác định theo hệ thống nào?",
+    "options": [
+      "A.Hệ thống nội bộ doanh nghiệp",
+      "B.Hệ thống đo đếm đạt tiêu chuẩn đo lường chất lượng Việt Nam",
+      "C.Hệ thống của địa phương",
+      "D.Hệ thống tự chế"
+    ],
+    "answer": "B.Hệ thống đo đếm đạt tiêu chuẩn đo lường chất lượng Việt Nam"
+  },
+  {
+    "question": "Câu 44Sản lượng tính thuế đối với nước khoáng thiên nhiên được xác định bằng đơn vị nào?",
+    "options": [
+      "A.Kg hoặc tấn",
+      "B.MWh",
+      "C.Mét khối hoặc lít",
+      "D.Bao bì đóng gói"
+    ],
+    "answer": "C.Mét khối hoặc lít"
+  },
+  {
+    "question": "Câu 45Người nộp thuế khai thác nước thiên nhiên phải thực hiện nghĩa vụ nào sau đây?",
+    "options": [
+      "A.Chỉ báo cáo doanh thu",
+      "B.Lắp đặt thiết bị đo đếm đạt chuẩn và thông báo với cơ quan thuế",
+      "C.Xin xác nhận của khách hàng",
+      "D.Đăng ký giá bán hàng tháng"
+    ],
+    "answer": "B.Lắp đặt thiết bị đo đếm đạt chuẩn và thông báo với cơ quan thuế"
+  },
+  {
+    "question": "Câu 46Trường hợp khách quan không thể lắp thiết bị đo đếm sản lượng nước khai thác thì xử lý thế nào?",
+    "options": [
+      "A.Miễn thuế",
+      "B.Không cần kê khai",
+      "C.Thực hiện khoán sản lượng khai thác",
+      "D.Chỉ nộp phí môi trường"
+    ],
+    "answer": "C.Thực hiện khoán sản lượng khai thác"
+  },
+  {
+    "question": "Câu 47Trong bao nhiêu ngày làm việc kể từ khi nhận bảng kê quyết toán thuế tài nguyên, cơ quan thuế phải chuyển thông tin cho cơ quan Tài nguyên và Môi trường?",
+    "options": [
+      "A.03 ngày",
+      "B.05 ngày",
+      "C.07 ngày",
+      "D.10 ngày"
+    ],
+    "answer": "B.05 ngày"
+  },
+  {
+    "question": "Câu 48Trong bao nhiêu ngày làm việc kể từ khi nhận thông tin từ cơ quan thuế, cơ quan Tài nguyên và Môi trường phải phản hồi?",
+    "options": [
+      "A.03 ngày",
+      "B.05 ngày",
+      "C.07 ngày",
+      "D.15 ngày"
+    ],
+    "answer": "C.07 ngày"
+  },
+  {
+    "question": "Câu 49Doanh nghiệp khai thác 3.000 tấn quặng đa kim, trong đó tỷ lệ đồng 55%, bạc 0,3%, thiếc 1%. Sản lượng tính thuế đối với thiếc là bao nhiêu?",
+    "options": [
+      "A.15 tấn",
+      "B.20 tấn",
+      "C.25 tấn",
+      "D.30 tấn"
+    ],
+    "answer": "D.30 tấn"
+  },
+  {
+    "question": "Câu 50Qua kiểm tra phát hiện doanh nghiệp khai thác thêm tài nguyên nhưng không xác định được phát sinh ở kỳ nào thì áp dụng giá tính thuế và thuế suất tại thời điểm nào?",
+    "options": [
+      "A.Thời điểm cấp phép khai thác",
+      "B.Thời điểm phát hiện vi phạm",
+      "C.Thời điểm kết thúc năm khai thác tài nguyên",
+      "D.Thời điểm doanh nghiệp giải trình"
+    ],
+    "answer": "C.Thời điểm kết thúc năm khai thác tài nguyên"
+  },
+  {
+    "question": "Câu 51Giá tính thuế tài nguyên là gì?",
+    "options": [
+      "A.Giá bán đã có VAT",
+      "B.Giá bán đơn vị sản phẩm tài nguyên chưa có VAT",
+      "C.Giá nhập khẩu tài nguyên",
+      "D.Giá do doanh nghiệp tự quy định"
+    ],
+    "answer": "B.Giá bán đơn vị sản phẩm tài nguyên chưa có VAT"
+  },
+  {
+    "question": "Câu 52Trường hợp giá bán tài nguyên thấp hơn giá do UBND cấp tỉnh quy định thì tính thuế theo giá nào?",
+    "options": [
+      "A.Giá bán thực tế",
+      "B.Giá trung bình thị trường",
+      "C.Giá do UBND cấp tỉnh quy định",
+      "D.Giá do cơ quan thuế ấn định riêng"
+    ],
+    "answer": "C.Giá do UBND cấp tỉnh quy định"
+  },
+  {
+    "question": "Câu 53Khi chi phí vận chuyển được ghi riêng trên hóa đơn thì giá tính thuế tài nguyên được xác định như thế nào?",
+    "options": [
+      "A.Bao gồm cả chi phí vận chuyển",
+      "B.Không bao gồm chi phí vận chuyển",
+      "C.Chỉ tính phần vận chuyển",
+      "D.Do doanh nghiệp tự xác định"
+    ],
+    "answer": "B.Không bao gồm chi phí vận chuyển"
+  },
+  {
+    "question": "Câu 54Giá bán đơn vị tài nguyên được xác định bằng cách nào?",
+    "options": [
+      "A.Tổng doanh thu chia tổng chi phí",
+      "B.Tổng doanh thu chưa VAT chia tổng sản lượng bán ra tương ứng",
+      "C.Tổng doanh thu chia số ngày bán hàng",
+      "D.Giá niêm yết của doanh nghiệp"
+    ],
+    "answer": "B.Tổng doanh thu chưa VAT chia tổng sản lượng bán ra tương ứng"
+  },
+  {
+    "question": "Câu 55Trong tháng có khai thác tài nguyên nhưng không phát sinh doanh thu thì giá tính thuế được xác định như thế nào?",
+    "options": [
+      "A.Giá bán dự kiến",
+      "B.Giá bình quân tháng trước gần nhất có doanh thu",
+      "C.Giá nhập khẩu",
+      "D.Không phải tính thuế"
+    ],
+    "answer": "B.Giá bình quân tháng trước gần nhất có doanh thu"
+  },
+  {
+    "question": "Câu 56Doanh nghiệp bán 500 tấn đá với doanh thu chưa VAT là 750 triệu đồng. Giá tính thuế đơn vị tài nguyên là bao nhiêu?",
+    "options": [
+      "A.1 triệu đồng/tấn",
+      "B.1,2 triệu đồng/tấn",
+      "C.1,5 triệu đồng/tấn",
+      "D.2 triệu đồng/tấn"
+    ],
+    "answer": "C.1,5 triệu đồng/tấn"
+  },
+  {
+    "question": "Câu 57Trường hợp tổ chức khai thác tài nguyên bán cho Tập đoàn theo giá do Tập đoàn quyết định thì giá tính thuế được xác định thế nào?",
+    "options": [
+      "A.Theo giá thị trường quốc tế",
+      "B.Theo giá do Tập đoàn quyết định nhưng không thấp hơn giá UBND tỉnh quy định",
+      "C.Theo giá vốn",
+      "D.Theo giá xuất khẩu"
+    ],
+    "answer": "B.Theo giá do Tập đoàn quyết định nhưng không thấp hơn giá UBND tỉnh quy định"
+  },
+  {
+    "question": "Câu 58Đối với quặng chứa nhiều chất khác nhau, giá tính thuế được xác định căn cứ vào đâu?",
+    "options": [
+      "A.Tổng doanh thu bán tài nguyên và tỷ lệ hàm lượng từng chất",
+      "B.Giá bán bình quân ngành",
+      "C.Giá do doanh nghiệp kê khai",
+      "D.Giá nhập khẩu từng chất"
+    ],
+    "answer": "A.Tổng doanh thu bán tài nguyên và tỷ lệ hàm lượng từng chất"
+  },
+  {
+    "question": "Câu 59Doanh nghiệp bán 600 tấn quặng với doanh thu 900 triệu đồng, trong đó đồng chiếm 60%. Doanh thu tính cho đồng là bao nhiêu?",
+    "options": [
+      "A.360 triệu đồng",
+      "B.480 triệu đồng",
+      "C.540 triệu đồng",
+      "D.600 triệu đồng"
+    ],
+    "answer": "C.540 triệu đồng"
+  },
+  {
+    "question": "Câu 60Đối với tài nguyên khai thác phải qua chế biến rồi mới xuất khẩu dưới dạng sản phẩm tài nguyên thì giá tính thuế là gì?",
+    "options": [
+      "A.Giá CIF",
+      "B.Trị giá hải quan không bao gồm thuế xuất khẩu",
+      "C.Giá vốn sản xuất",
+      "D.Giá do doanh nghiệp tự xác định"
+    ],
+    "answer": "B.Trị giá hải quan không bao gồm thuế xuất khẩu"
+  },
+  {
+    "question": "Câu 61Đối với sản phẩm công nghiệp được chế biến từ tài nguyên khai thác, giá tính thuế được xác định như thế nào?",
+    "options": [
+      "A.Giá bán sản phẩm công nghiệp cộng chi phí chế biến",
+      "B.Giá bán sản phẩm công nghiệp trừ chi phí chế biến",
+      "C.Giá xuất khẩu cộng thuế xuất khẩu",
+      "D.Giá thành sản xuất"
+    ],
+    "answer": "B.Giá bán sản phẩm công nghiệp trừ chi phí chế biến"
+  },
+  {
+    "question": "Câu 62Chi phí nào không được trừ khi xác định giá tính thuế đối với sản phẩm công nghiệp chế biến từ tài nguyên?",
+    "options": [
+      "A.Chi phí chế biến công nghiệp",
+      "B.Chi phí điện sản xuất",
+      "C.Chi phí khai thác, sàng tuyển, làm giàu hàm lượng",
+      "D.Chi phí đóng gói"
+    ],
+    "answer": "C.Chi phí khai thác, sàng tuyển, làm giàu hàm lượng"
+  },
+  {
+    "question": "Câu 63Trường hợp giá tính thuế do người nộp thuế xác định thấp hơn bảng giá UBND tỉnh thì áp dụng giá nào?",
+    "options": [
+      "A.Giá kê khai",
+      "B.Giá thị trường",
+      "C.Giá của UBND cấp tỉnh",
+      "D.Giá do cơ quan hải quan xác định"
+    ],
+    "answer": "C.Giá của UBND cấp tỉnh"
+  },
+  {
+    "question": "Câu 64Giá tính thuế tài nguyên đối với nước thiên nhiên dùng sản xuất thủy điện là gì?",
+    "options": [
+      "A.Giá nước khai thác",
+      "B.Giá bán điện thương phẩm bình quân",
+      "C.Giá điện xuất khẩu",
+      "D.Giá điện bán lẻ"
+    ],
+    "answer": "B.Giá bán điện thương phẩm bình quân"
+  },
+  {
+    "question": "Câu 65Cơ quan nào công bố giá bán điện thương phẩm bình quân để tính thuế tài nguyên đối với thủy điện?",
+    "options": [
+      "A.Bộ Công thương",
+      "B.EVN",
+      "C.Bộ Tài chính",
+      "D.UBND cấp tỉnh"
+    ],
+    "answer": "A.Bộ Công thương"
+  },
+  {
+    "question": "Câu 66Giá tính thuế đối với gỗ được xác định tại đâu?",
+    "options": [
+      "A.Tại nơi tiêu thụ cuối cùng",
+      "B.Tại cảng xuất khẩu",
+      "C.Tại bãi giao nơi khai thác",
+      "D.Theo giá nhập khẩu"
+    ],
+    "answer": "C.Tại bãi giao nơi khai thác"
+  },
+  {
+    "question": "Câu 67Trường hợp tổ chức khai thác tài nguyên không thực hiện đầy đủ sổ sách kế toán thì cơ quan thuế xử lý thế nào?",
+    "options": [
+      "A.Miễn thuế",
+      "B.Chỉ cảnh cáo",
+      "C.Kiểm tra, ấn định thuế theo quy định",
+      "D.Không xử lý"
+    ],
+    "answer": "C.Kiểm tra, ấn định thuế theo quy định"
+  },
+  {
+    "question": "Câu 68Hàng năm, UBND cấp tỉnh phải ban hành Bảng giá tính thuế tài nguyên chậm nhất vào thời điểm nào?",
+    "options": [
+      "A.30-Thg6",
+      "B.30-Thg9",
+      "C.31-Thg12",
+      "D.01/01 năm sau"
+    ],
+    "answer": "C.31-Thg12"
+  },
+  {
+    "question": "Câu 69Doanh nghiệp bán sản phẩm công nghiệp với giá chưa VAT là 5 tỷ đồng. Chi phí chế biến công nghiệp được trừ là 1,2 tỷ đồng. Giá tính thuế tài nguyên là bao nhiêu?",
+    "options": [
+      "A.2,8 tỷ đồng",
+      "B.3 tỷ đồng",
+      "C.3,8 tỷ đồng",
+      "D.5 tỷ đồng"
+    ],
+    "answer": "C.3,8 tỷ đồng"
+  },
+  {
+    "question": "Câu 70Doanh nghiệp khai thác 800 tấn quặng, bán được 400 tấn với doanh thu 1,2 tỷ đồng. Trong quặng, đồng chiếm 50%. Giá tính thuế đối với đồng là bao nhiêu trên mỗi tấn đồng bán ra?",
+    "options": [
+      "A.4 triệu đồng/tấn",
+      "B.5 triệu đồng/tấn",
+      "C.6 triệu đồng/tấn",
+      "D.8 triệu đồng/tấn"
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 71Thuế suất thuế tài nguyên đối với từng loại tài nguyên khai thác được quy định tại văn bản nào?",
+    "options": [
+      "A.Luật Quản lý thuế",
+      "B.Nghị quyết số 712/2013/UBTVQH13",
+      "C.Luật Giá",
+      "D.Luật Khoáng sản"
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 72Thuế suất thuế tài nguyên là căn cứ để xác định yếu tố nào?",
+    "options": [
+      "A.Giá bán tài nguyên",
+      "B.Sản lượng khai thác",
+      "C.Số thuế tài nguyên phải nộp",
+      "D.Chi phí khai thác"
+    ],
+    "answer": "C.Số thuế tài nguyên phải nộp"
+  },
+  {
+    "question": "Câu 73Nước khoáng thiên nhiên đóng bình có áp dụng thuế suất khác nước khoáng đóng chai không?",
+    "options": [
+      "A.Có",
+      "B.Không",
+      "C.Chỉ áp dụng với doanh nghiệp lớn",
+      "D.Do UBND tỉnh quyết định"
+    ],
+    "answer": "B.Không"
+  },
+  {
+    "question": "Câu 74Nước thiên nhiên tinh lọc đóng hộp áp dụng thuế suất như thế nào?",
+    "options": [
+      "A.Theo mức riêng của nước hộp",
+      "B.Theo mức của nước đóng chai, đóng hộp",
+      "C.Theo giá bán sản phẩm",
+      "D.Theo quy định của doanh nghiệp"
+    ],
+    "answer": "B.Theo mức của nước đóng chai, đóng hộp"
+  },
+  {
+    "question": "Câu 75Trường hợp nước thiên nhiên dùng cho sản xuất thủy điện có lẫn nước khoáng thiên nhiên thì áp dụng thuế suất như thế nào?",
+    "options": [
+      "A.Theo thuế suất nước khoáng thiên nhiên",
+      "B.Theo thuế suất nước dùng cho sản xuất thủy điện nếu đáp ứng điều kiện quy định",
+      "C.Miễn thuế",
+      "D.Theo mức cao nhất"
+    ],
+    "answer": "B.Theo thuế suất nước dùng cho sản xuất thủy điện nếu đáp ứng điều kiện quy định"
+  },
+  {
+    "question": "Câu 76Điều kiện để nước có lẫn nước khoáng thiên nhiên không áp dụng thuế suất nước khoáng là gì?",
+    "options": [
+      "A.Có xác nhận của cơ quan thuế",
+      "B.Theo hồ sơ thiết kế, quy trình công nghệ được cơ quan có thẩm quyền phê duyệt xác định không thuộc diện sản xuất nước khoáng đóng chai, đóng hộp",
+      "C.Do doanh nghiệp tự xác nhận",
+      "D.Có doanh thu dưới 1 tỷ đồng"
+    ],
+    "answer": "B.Theo hồ sơ thiết kế, quy trình công nghệ được cơ quan có thẩm quyền phê duyệt xác định không thuộc diện sản xuất nước khoáng đóng chai, đóng hộp"
+  },
+  {
+    "question": "Câu 77Nước nóng thiên nhiên đóng thùng có thể chiết ra chai được áp dụng thuế suất như thế nào?",
+    "options": [
+      "A.Theo mức riêng của nước đóng thùng",
+      "B.Theo thuế suất của loại đóng chai, đóng hộp",
+      "C.Miễn thuế",
+      "D.Theo giá bán thực tế"
+    ],
+    "answer": "B.Theo thuế suất của loại đóng chai, đóng hộp"
+  },
+  {
+    "question": "Câu 78Trường hợp nước thiên nhiên được sử dụng cho sản xuất kinh doanh thông thường thì áp dụng thuế suất theo căn cứ nào?",
+    "options": [
+      "A.Theo doanh thu doanh nghiệp",
+      "B.Theo mục đích sử dụng tương ứng",
+      "C.Theo sản lượng tiêu thụ",
+      "D.Theo quy mô doanh nghiệp"
+    ],
+    "answer": "B.Theo mục đích sử dụng tương ứng"
+  },
+  {
+    "question": "Câu 79Doanh nghiệp sử dụng nước thiên nhiên có lẫn nước khoáng để sản xuất điện. Hồ sơ công nghệ đã được cơ quan có thẩm quyền xác định không phải sản xuất nước khoáng đóng chai. Thuế suất áp dụng là gì?",
+    "options": [
+      "A.Thuế suất nước khoáng thiên nhiên",
+      "B.Thuế suất nước nóng thiên nhiên",
+      "C.Thuế suất nước dùng cho sản xuất thủy điện",
+      "D.Thuế suất cao nhất theo biểu thuế"
+    ],
+    "answer": "C.Thuế suất nước dùng cho sản xuất thủy điện"
+  },
+  {
+    "question": "Câu 80Một cơ sở khai thác nước thiên nhiên tinh lọc đóng hộp và đóng bình lớn để chiết ra chai bán lẻ. Thuế suất áp dụng được xác định như thế nào?",
+    "options": [
+      "A.Đóng hộp và đóng bình áp dụng hai mức khác nhau",
+      "B.Chỉ áp dụng với sản phẩm bán lẻ",
+      "C.Tất cả áp dụng cùng mức thuế suất như loại đóng chai, đóng hộp",
+      "D.Do UBND tỉnh quy định riêng"
+    ],
+    "answer": "C.Tất cả áp dụng cùng mức thuế suất như loại đóng chai, đóng hộp"
+  },
+  {
+    "question": "Câu 81Việc đăng ký, khai, nộp và quyết toán thuế tài nguyên được thực hiện theo quy định của văn bản nào?",
+    "options": [
+      "A.Luật Khoáng sản",
+      "B.Luật Giá",
+      "C.Luật Quản lý thuế và các văn bản hướng dẫn",
+      "D.Luật Đầu tư"
+    ],
+    "answer": "C.Luật Quản lý thuế và các văn bản hướng dẫn"
+  },
+  {
+    "question": "Câu 82Đối với hoạt động khai thác khoáng sản, ngoài quy định chung về quản lý thuế còn phải thực hiện theo điều nào của Thông tư 152/2015/TT-BTC?",
+    "options": [
+      "A.Điều 5",
+      "B.Điều 7",
+      "C.Điều 9",
+      "D.Điều 10"
+    ],
+    "answer": "C.Điều 9"
+  },
+  {
+    "question": "Câu 83Tổ chức, hộ kinh doanh khai thác tài nguyên phải thông báo với cơ quan thuế nội dung gì?",
+    "options": [
+      "A.Số lao động doanh nghiệp",
+      "B.Phương pháp xác định giá tính thuế đối với từng loại tài nguyên khai thác",
+      "C.Chi phí khai thác",
+      "D.Kế hoạch tiêu thụ sản phẩm"
+    ],
+    "answer": "B.Phương pháp xác định giá tính thuế đối với từng loại tài nguyên khai thác"
+  },
+  {
+    "question": "Câu 84Người nộp thuế phải thông báo phương pháp xác định giá tính thuế vào thời điểm nào?",
+    "options": [
+      "A.Khi kết thúc năm tài chính",
+      "B.Khi được cơ quan thuế yêu cầu",
+      "C.Kèm theo hồ sơ khai thuế tháng đầu tiên có khai thác",
+      "D.Sau khi bán hết tài nguyên"
+    ],
+    "answer": "C.Kèm theo hồ sơ khai thuế tháng đầu tiên có khai thác"
+  },
+  {
+    "question": "Câu 85Khi thay đổi phương pháp xác định giá tính thuế, người nộp thuế phải làm gì?",
+    "options": [
+      "A.Không cần thông báo",
+      "B.Thông báo lại với cơ quan thuế trực tiếp quản lý trong tháng có thay đổi",
+      "C.Chỉ báo cáo cuối năm",
+      "D.Xin phép UBND tỉnh"
+    ],
+    "answer": "B.Thông báo lại với cơ quan thuế trực tiếp quản lý trong tháng có thay đổi"
+  },
+  {
+    "question": "Câu 86Hàng tháng, người nộp thuế phải khai thuế đối với sản lượng tài nguyên nào?",
+    "options": [
+      "A.Chỉ sản lượng đã bán",
+      "B.Chỉ sản lượng đã xuất hóa đơn",
+      "C.Toàn bộ sản lượng khai thác trong tháng",
+      "D.Chỉ sản lượng không tồn kho"
+    ],
+    "answer": "C.Toàn bộ sản lượng khai thác trong tháng"
+  },
+  {
+    "question": "Câu 87Khi quyết toán thuế, người nộp thuế phải lập bảng kê chi tiết sản lượng khai thác theo căn cứ nào?",
+    "options": [
+      "A.Theo từng khách hàng",
+      "B.Theo từng hợp đồng mua bán",
+      "C.Theo từng mỏ tương ứng với Giấy phép được cấp",
+      "D.Theo từng hóa đơn"
+    ],
+    "answer": "C.Theo từng mỏ tương ứng với Giấy phép được cấp"
+  },
+  {
+    "question": "Câu 88Sản lượng tài nguyên tính thuế khi quyết toán năm được xác định như thế nào?",
+    "options": [
+      "A.Chỉ tính sản lượng bán ra",
+      "B.Tổng sản lượng tài nguyên khai thác trong năm, không phân biệt tồn kho hay chế biến",
+      "C.Chỉ tính sản lượng xuất khẩu",
+      "D.Theo doanh thu trong năm"
+    ],
+    "answer": "B.Tổng sản lượng tài nguyên khai thác trong năm, không phân biệt tồn kho hay chế biến"
+  },
+  {
+    "question": "Câu 89(Câu khó) Doanh nghiệp vừa bán sản phẩm tài nguyên vừa bán sản phẩm công nghiệp chế biến từ tài nguyên thì sản lượng tính thuế được xác định như thế nào?",
+    "options": [
+      "A.Chỉ tính sản phẩm tài nguyên",
+      "B.Chỉ tính sản phẩm công nghiệp",
+      "C.Quy đổi từ tài nguyên có trong sản phẩm tài nguyên và sản phẩm công nghiệp ra sản lượng tài nguyên khai thác theo định mức sử dụng tài nguyên",
+      "D.Theo doanh thu bình quân năm"
+    ],
+    "answer": "C.Quy đổi từ tài nguyên có trong sản phẩm tài nguyên và sản phẩm công nghiệp ra sản lượng tài nguyên khai thác theo định mức sử dụng tài nguyên"
+  },
+  {
+    "question": "Câu 90(Câu khó) Giá tính thuế bình quân một đơn vị sản phẩm tài nguyên khi quyết toán năm được xác định bằng cách nào?",
+    "options": [
+      "A.Tổng doanh thu chia tổng chi phí",
+      "B.Tổng doanh thu bán tài nguyên chia tổng sản lượng tài nguyên bán ra tương ứng trong năm",
+      "C.Giá bán tháng cuối năm nhân sản lượng",
+      "D.Giá do UBND tỉnh quy định"
+    ],
+    "answer": "B.Tổng doanh thu bán tài nguyên chia tổng sản lượng tài nguyên bán ra tương ứng trong năm"
+  },
+  {
+    "question": "Câu 91Tổ chức, cá nhân khai thác hải sản tự nhiên có phải nộp thuế tài nguyên không?",
+    "options": [
+      "A.Có",
+      "B.Không",
+      "C.Chỉ nộp một phần",
+      "D.Do UBND tỉnh quyết định"
+    ],
+    "answer": "A.Có"
+  },
+  {
+    "question": "Câu 92Loại tài nguyên nào sau đây được miễn thuế khi cá nhân khai thác phục vụ sinh hoạt?",
+    "options": [
+      "A.Than đá",
+      "B.Quặng sắt",
+      "C.Tre, trúc, nứa",
+      "D.Dầu khí"
+    ],
+    "answer": "C.Tre, trúc, nứa"
+  },
+  {
+    "question": "Câu 93Nước thiên nhiên dùng cho hoạt động sản xuất thủy điện phục vụ sinh hoạt của hộ gia đình, cá nhân được áp dụng như thế nào?",
+    "options": [
+      "A.Không được miễn thuế",
+      "B.Được miễn thuế tài nguyên",
+      "C.Chỉ giảm 50% thuế",
+      "D.Nộp thuế theo mức thấp nhất"
+    ],
+    "answer": "B.Được miễn thuế tài nguyên"
+  },
+  {
+    "question": "Câu 94Hộ gia đình khai thác nước thiên nhiên phục vụ sinh hoạt có thuộc diện miễn thuế tài nguyên không?",
+    "options": [
+      "A.Không",
+      "B.Chỉ miễn ở vùng khó khăn",
+      "C.Có",
+      "D.Chỉ miễn khi đăng ký với UBND xã"
+    ],
+    "answer": "C.Có"
+  },
+  {
+    "question": "Câu 95Đất khai thác để san lấp công trình quốc phòng, an ninh có được miễn thuế tài nguyên không?",
+    "options": [
+      "A.Không",
+      "B.Có",
+      "C.Chỉ giảm thuế",
+      "D.Do cơ quan thuế quyết định từng trường hợp"
+    ],
+    "answer": "B.Có"
+  },
+  {
+    "question": "Câu 96Trường hợp cát, đá, sỏi lẫn trong đất khai thác sử dụng tại chỗ để san lấp thì xử lý thuế thế nào?",
+    "options": [
+      "A.Phải nộp thuế riêng",
+      "B.Được miễn thuế nếu sử dụng ở dạng thô tại chỗ",
+      "C.Chỉ miễn đối với cát",
+      "D.Không thuộc diện miễn"
+    ],
+    "answer": "B.Được miễn thuế nếu sử dụng ở dạng thô tại chỗ"
+  },
+  {
+    "question": "Câu 97Đất khai thác được miễn thuế nhưng sau đó vận chuyển đi nơi khác để bán thì xử lý như thế nào?",
+    "options": [
+      "A.Vẫn được miễn thuế",
+      "B.Chỉ nộp phí môi trường",
+      "C.Phải nộp thuế tài nguyên theo quy định",
+      "D.Không phải kê khai thuế"
+    ],
+    "answer": "C.Phải nộp thuế tài nguyên theo quy định"
+  },
+  {
+    "question": "Câu 98Người nộp thuế gặp thiên tai, hỏa hoạn gây tổn thất tài nguyên đã kê khai, nộp thuế thì được xử lý như thế nào?",
+    "options": [
+      "A.Không được hỗ trợ",
+      "B.Được xét miễn, giảm thuế đối với phần tài nguyên bị tổn thất",
+      "C.Chỉ được gia hạn nộp thuế",
+      "D.Chỉ được miễn tiền phạt"
+    ],
+    "answer": "B.Được xét miễn, giảm thuế đối với phần tài nguyên bị tổn thất"
+  },
+  {
+    "question": "Câu 99(Câu khó) Trường hợp người nộp thuế đã nộp thuế tài nguyên nhưng sau đó xảy ra thiên tai gây tổn thất tài nguyên thì số thuế đã nộp được xử lý như thế nào?",
+    "options": [
+      "A.Không được hoàn",
+      "B.Được hoàn trả hoặc trừ vào kỳ sau",
+      "C.Chỉ được khấu trừ 50%",
+      "D.Chuyển thành tiền phạt"
+    ],
+    "answer": "B.Được hoàn trả hoặc trừ vào kỳ sau"
+  },
+  {
+    "question": "Câu 100(Câu khó) Trình tự, thủ tục miễn, giảm thuế tài nguyên được thực hiện theo quy định của văn bản nào?",
+    "options": [
+      "A.Luật Giá",
+      "B.Luật Khoáng sản",
+      "C.Luật Quản lý thuế và các văn bản hướng dẫn thi hành",
+      "D.Luật Đầu tư công"
+    ],
+    "answer": "C.Luật Quản lý thuế và các văn bản hướng dẫn thi hành"
+  },
+  {
+    "question": "Câu 101Khi doanh nghiệp thực hiện nhiều hoạt động sản xuất, kinh doanh trong thời gian đang được hưởng ưu đãi thuế TNDN, doanh nghiệp phải làm gì?",
+    "options": [
+      "A.Phải hạch toán riêng thu nhập từ hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế TNDN và thu nhập từ hoạt động kinh doanh không được hưởng ưu đãi thuế để kê khai nộp thuế riêng.",
+      "B.Được gộp chung toàn bộ thu nhập để áp dụng mức thuế suất ưu đãi cao nhất.",
+      "C.Chỉ cần tính riêng nếu hoạt động không ưu đãi có thu nhập.",
+      "D.Chỉ cần tính riêng nếu hoạt động ưu đãi bị lỗ."
+    ],
+    "answer": "A.Phải hạch toán riêng thu nhập từ hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế TNDN và thu nhập từ hoạt động kinh doanh không được hưởng ưu đãi thuế để kê khai nộp thuế riêng."
+  },
+  {
+    "question": "Câu 102Trường hợp có khoản doanh thu hoặc chi phí được trừ không thể hạch toán riêng được thì khoản doanh thu hoặc chi phí được trừ đó được xác định theo tỷ lệ nào?",
+    "options": [
+      "A.Tỷ lệ giữa doanh thu hoặc chi phí được trừ của hoạt động sản xuất, kinh doanh hưởng ưu đãi thuế trên tổng doanh thu hoặc chi phí được trừ của doanh nghiệp.",
+      "B.Theo tỷ lệ 50% cho hoạt động ưu đãi và 50% cho hoạt động không ưu đãi.",
+      "C.Theo tỷ lệ vốn đầu tư của hoạt động ưu đãi so với tổng vốn đầu tư.",
+      "D.Theo tỷ lệ số lao động tham gia hoạt động ưu đãi."
+    ],
+    "answer": "A.Tỷ lệ giữa doanh thu hoặc chi phí được trừ của hoạt động sản xuất, kinh doanh hưởng ưu đãi thuế trên tổng doanh thu hoặc chi phí được trừ của doanh nghiệp."
+  },
+  {
+    "question": "Câu 103Nếu trong cùng một kỳ tính thuế có một khoản thu nhập thuộc diện áp dụng thuế suất ưu đãi và thời gian miễn, giảm thuế theo nhiều trường hợp khác nhau thì doanh nghiệp được làm gì?",
+    "options": [
+      "A.Tự lựa chọn một trong những trường hợp ưu đãi thuế TNDN có lợi nhất.",
+      "B.Bắt buộc áp dụng trường hợp có thời gian miễn thuế dài nhất.",
+      "C.Phải áp dụng theo quyết định của cơ quan thuế quản lý trực tiếp.",
+      "D.Bắt buộc áp dụng trường hợp có thuế suất ưu đãi thấp nhất."
+    ],
+    "answer": "A.Tự lựa chọn một trong những trường hợp ưu đãi thuế TNDN có lợi nhất."
+  },
+  {
+    "question": "Câu 104Nếu trong thời gian được ưu đãi thuế TNDN, trong năm tính thuế mà doanh nghiệp không đáp ứng đủ một trong các điều kiện ưu đãi thuế theo quy định thì doanh nghiệp xử lý như thế nào?",
+    "options": [
+      "A.Không được hưởng ưu đãi trong năm tính thuế đó mà phải nộp thuế TNDN theo mức thuế suất phổ thông.",
+      "B.Được tiếp tục hưởng ưu đãi nhưng chỉ với mức giảm 50% thời gian miễn giảm.",
+      "C.Được gia hạn thêm 1 năm để đáp ứng điều kiện.",
+      "D.Bị truy thu ưu đãi thuế đã hưởng của các năm trước."
+    ],
+    "answer": "A.Không được hưởng ưu đãi trong năm tính thuế đó mà phải nộp thuế TNDN theo mức thuế suất phổ thông."
+  },
+  {
+    "question": "Câu 105Thời gian miễn thuế, giảm thuế theo quy định được tính liên tục từ năm nào?",
+    "options": [
+      "A.Từ năm đầu tiên doanh nghiệp có thu nhập chịu thuế từ dự án đầu tư mới được hưởng ưu đãi thuế.",
+      "B.Từ năm thứ hai dự án đầu tư mới có doanh thu.",
+      "C.Từ năm thứ tư dự án đầu tư mới phát sinh doanh thu.",
+      "D.Từ năm được cấp Giấy chứng nhận đăng ký đầu tư."
+    ],
+    "answer": "A.Từ năm đầu tiên doanh nghiệp có thu nhập chịu thuế từ dự án đầu tư mới được hưởng ưu đãi thuế."
+  },
+  {
+    "question": "Câu 106Trường hợp doanh nghiệp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án đầu tư mới thì thời gian miễn thuế, giảm thuế được tính từ năm nào?",
+    "options": [
+      "A.Từ năm thứ tư dự án đầu tư mới phát sinh doanh thu.",
+      "B.Từ năm đầu tiên có doanh thu.",
+      "C.Từ năm đầu tiên có thu nhập chịu thuế.",
+      "D.Từ năm thứ ba dự án đi vào hoạt động chính thức."
+    ],
+    "answer": "A.Từ năm thứ tư dự án đầu tư mới phát sinh doanh thu."
+  },
+  {
+    "question": "Câu 107Thời gian tính miễn thuế, giảm thuế đối với doanh nghiệp công nghệ cao được tính từ năm nào?",
+    "options": [
+      "A.Từ năm được cấp Giấy chứng nhận công nhận là doanh nghiệp công nghệ cao.",
+      "B.Từ năm đầu tiên dự án có thu nhập chịu thuế.",
+      "C.Từ năm đầu tiên dự án phát sinh doanh thu.",
+      "D.Từ năm được cấp Giấy chứng nhận đầu tư."
+    ],
+    "answer": "A.Từ năm được cấp Giấy chứng nhận công nhận là doanh nghiệp công nghệ cao."
+  },
+  {
+    "question": "Câu 108Không áp dụng ưu đãi thuế thu nhập doanh nghiệp đối với khoản thu nhập nào sau đây?",
+    "options": [
+      "A.Chuyển nhượng vốn, bất động sản (trừ nhà ở xã hội)",
+      "B.Sản xuất phần mềm",
+      "C.Trồng trọt",
+      "D.Giáo dục"
+    ],
+    "answer": "A.Chuyển nhượng vốn, bất động sản (trừ nhà ở xã hội)"
+  },
+  {
+    "question": "Câu 109Ưu đãi thuế đối với đầu tư mở rộng không áp dụng cho:",
+    "options": [
+      "A.Chia, tách, sáp nhập, chuyển đổi sở hữu",
+      "B.Mở rộng công suất",
+      "C.Đầu tư công nghệ cao",
+      "D.Đầu tư môi trường"
+    ],
+    "answer": "A.Chia, tách, sáp nhập, chuyển đổi sở hữu"
+  },
+  {
+    "question": "Câu 110Thuế suất ưu đãi 10% trong 15 năm áp dụng cho đối tượng nào?",
+    "options": [
+      "A.Thu nhập của DN từ thực hiện dự án đầu tư mới tại địa bàn đặc biệt khó khăn, khu kinh tế, khu công nghệ cao",
+      "B.Thu nhập của DN từ thực hiện dự án đầu tư mới sản xuất bia, rượu",
+      "C.Thu nhập của DN từ thực hiện dự án đầu tư mới khai thác khoáng sản quý hiếm",
+      "D.Thu nhập của DN từ thực hiện dự án đầu tư mới thương mại dịch vụ"
+    ],
+    "answer": "A.Thu nhập của DN từ thực hiện dự án đầu tư mới tại địa bàn đặc biệt khó khăn, khu kinh tế, khu công nghệ cao"
+  },
+  {
+    "question": "Câu 111Trường hợp nào sau đây không được coi là dự án đầu tư mới được hưởng ưu đãi thuế TNDN theo diện đầu tư mới?",
+    "options": [
+      "A.Dự án đầu tư hình thành từ việc chuyển đổi chủ sở hữu (bao gồm cả mua lại dự án đầu tư đang hoạt động).",
+      "B.Dự án đầu tư độc lập với dự án doanh nghiệp đang hoạt động.",
+      "C.Dự án đã được cấp Giấy phép đầu tư trước ngày 01/01/2014 nhưng chưa phát sinh doanh thu.",
+      "D.Dự án đầu tư trong nước gắn với việc thành lập doanh nghiệp mới."
+    ],
+    "answer": "A.Dự án đầu tư hình thành từ việc chuyển đổi chủ sở hữu (bao gồm cả mua lại dự án đầu tư đang hoạt động)."
+  },
+  {
+    "question": "Câu 112Trường hợp doanh nghiệp không hạch toán riêng được phần thu nhập tăng thêm do đầu tư mở rộng mang lại thì thu nhập từ hoạt động đầu tư mở rộng xác định theo tỷ lệ nào?",
+    "options": [
+      "A.Tỷ lệ giữa nguyên giá tài sản cố định đầu tư mới đưa vào sử dụng cho sản xuất, kinh doanh trên tổng nguyên giá tài sản cố định của doanh nghiệp nhân với Tổng thu nhập chịu thuế trong kỳ tính thuế (không bao gồm thu nhập khác không được hưởng ưu đãi).",
+      "B.Tỷ lệ giữa doanh thu từ đầu tư mở rộng trên tổng doanh thu của doanh nghiệp.",
+      "C.Tỷ lệ giữa lợi nhuận từ đầu tư mở rộng trên tổng lợi nhuận của doanh nghiệp.",
+      "D.Tỷ lệ giữa chi phí từ đầu tư mở rộng trên tổng chi phí của doanh nghiệp."
+    ],
+    "answer": "A.Tỷ lệ giữa nguyên giá tài sản cố định đầu tư mới đưa vào sử dụng cho sản xuất, kinh doanh trên tổng nguyên giá tài sản cố định của doanh nghiệp nhân với Tổng thu nhập chịu thuế trong kỳ tính thuế (không bao gồm thu nhập khác không được hưởng ưu đãi)."
+  },
+  {
+    "question": "Câu 113Để được hưởng ưu đãi theo diện đầu tư mở rộng, Tỷ trọng nguyên giá tài sản cố định khi dự án đầu tư hoàn thành việc giải ngân số vốn đầu tư mở rộng đã đăng ký tăng thêm đạt tối thiểu từ bao nhiêu phần trăm (%) so với tổng nguyên giá tài sản cố định trước khi bắt đầu đầu tư mở rộng",
+    "options": [
+      "A.Từ 20%.",
+      "B.Từ 30%.",
+      "C.Từ 25%.",
+      "D.Từ 35%."
+    ],
+    "answer": "A.Từ 20%."
+  },
+  {
+    "question": "Câu 114Đối tượng nào được áp dụng ưu đãi thuế thu nhập doanh nghiệp?",
+    "options": [
+      "A.Ưu đãi thuế thu nhập doanh nghiệp quy định tại các điều 13, 14 và 15 của Luật thực hiện đầy đủ chế độ kế toán, hóa đơn, chứng từ và nộp thuế TNDN theo phương pháp kê khai",
+      "B.Mọi cá nhân có hoạt động kinh doanh nhỏ lẻ",
+      "C.Doanh nghiệp không cần đăng ký kinh doanh",
+      "D.Hộ kinh doanh nộp thuế khoán"
+    ],
+    "answer": "A.Ưu đãi thuế thu nhập doanh nghiệp quy định tại các điều 13, 14 và 15 của Luật thực hiện đầy đủ chế độ kế toán, hóa đơn, chứng từ và nộp thuế TNDN theo phương pháp kê khai"
+  },
+  {
+    "question": "Câu 115Trong thời gian được hưởng ưu đãi thuế TNDN, nếu doanh nghiệp có nhiều hoạt động kinh doanh thì phải:",
+    "options": [
+      "A.Hạch toán riêng thu nhập từ hoạt động được hưởng ưu đãi và thu nhập không được hưởng ưu đãi để kê khai nộp thuế riêng",
+      "B.Gộp chung tất cả thu nhập để tính thuế",
+      "C.Chỉ kê khai phần thu nhập không hưởng ưu đãi"
+    ],
+    "answer": "A.Hạch toán riêng thu nhập từ hoạt động được hưởng ưu đãi và thu nhập không được hưởng ưu đãi để kê khai nộp thuế riêng"
+  },
+  {
+    "question": "Câu 116Khoản chi nào sau đây không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN",
+    "options": [
+      "A.Tiền lương, tiền công của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên do một cá nhân làm chủ",
+      "B.Tiền lương trả cho các thành viên của hội đồng quản trị trực tiếp tham gia điều hành sản xuất, kinh doanh hàng hoá, dịch vụ",
+      "C.Tiền lương, tiền công của chủ Công ty TNHH 2 thành viên trở lên",
+      "D.Tiền lương, tiền công của giám đốc được thuê điều hành sản xuất, kinh doanh hàng hoá, dịch vụ"
+    ],
+    "answer": "A.Tiền lương, tiền công của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên do một cá nhân làm chủ"
+  },
+  {
+    "question": "Câu 117Thuế suất TNDN 17% áp dụng đối với doanh nghiệp có tổng doanh thu năm",
+    "options": [
+      "A.từ trên 03 tỷ đồng đến không quá 50 tỷ đồng",
+      "B.không quá 03 tỷ đồng",
+      "C.từ trên 10 tỷ đồng đến không quá 50 tỷ đồng",
+      "D.từ trên 03 tỷ đồng đến không quá 10 tỷ đồng"
+    ],
+    "answer": "A.từ trên 03 tỷ đồng đến không quá 50 tỷ đồng"
+  },
+  {
+    "question": "Câu 118Khoản thu nhập nào được miễn thuế TNDN",
+    "options": [
+      "A.Thu nhập từ hoạt động giáo dục nghề nghiệp, đào tạo nghề nghiệp dành riêng cho người dân tộc thiểu số, người khuyết tật, trẻ em có hoàn cảnh đặc biệt, đối tượng tệ nạn xã hội",
+      "B.Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải, chuyển nhượng tín chỉ các-bon lần đầu của doanh nghiệp được cấp chứng chỉ giảm phát thải, tín chỉ các-bon",
+      "C.Khoản chênh lệch do đánh giá lại tài sản theo quy định của pháp luật để cổ phần hóa, sắp xếp lại doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ.",
+      "D.Tất cả đáp án trên"
+    ],
+    "answer": "D.Tất cả đáp án trên"
+  },
+  {
+    "question": "Câu 119Doanh nghiệp kinh doanh bất động sản có thu tiền có thu tiền ứng trước của khách hàng theo tiến độ dưới mọi hình thức mà chưa xác định được chi phí tương ứng với doanh thu thì doanh nghiệp kê khai tạm nộp thuế thu nhập doanh nghiệp theo tỷ lệ",
+    "options": [
+      "A.0.005",
+      "B.0.01",
+      "C.0.02",
+      "D.Không nộp"
+    ],
+    "answer": "B.0.01"
+  },
+  {
+    "question": "Câu 120Thời gian miễn thuế, giảm thuế TNDN được tính từ",
+    "options": [
+      "A.Năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 02",
+      "B.Năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 02 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 03",
+      "C.năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 03 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 04",
+      "D.năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 04 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 05"
+    ],
+    "answer": "C.năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 03 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 04"
+  },
+  {
+    "question": "Câu 121Doanh nghiệp sản xuất trong kỳ có trích khấu hao tài sản cố định đối với xe ô tô 7 chỗ nguyên giá 1,8 tỷ đồng, chi phí khấu hao là 180 triệu đồng/năm. Chi phí khấu hao doanh nghiệp được ghi nhận vào chi phí hợp lý đối với TSCĐ này là",
+    "options": [
+      "A.180 triệu đồng",
+      "B.20 triệu đồng",
+      "C.160 triệu đồng",
+      "D.100 triệu đồng"
+    ],
+    "answer": "C.160 triệu đồng"
+  },
+  {
+    "question": "Câu 122Doanh nghiệp mua hàng hóa, dịch vụ thuộc trường hợp nào thì không bắt buộc phải có hóa đơn đầu vào nhưng phải lập bảng kê thu mua hàng hóa, dịch vụ do người đại diện theo pháp luật hoặc người được ủy quyền của doanh nghiệp ký và chịu trách nhiệm",
+    "options": [
+      "A.Mua sản phẩm là nông, lâm, thủy sản của người sản xuất, đánh bắt trực tiếp bán ra",
+      "B.Mua đồ dùng, tài sản của hộ gia đình, cá nhân trực tiếp bán ra",
+      "C.Mua phế liệu của người trực tiếp thu nhặt",
+      "D.Tất cả đáp án trên"
+    ],
+    "answer": "D.Tất cả đáp án trên"
+  },
+  {
+    "question": "Câu 123Thời điểm xác định thu nhập từ chuyển nhượng vốn là khi nào",
+    "options": [
+      "A.Khi ký hợp đồng chuyển nhượng",
+      "B.Thời điểm chuyển quyền sở hữu vốn",
+      "C.Khi nhận đủ tiền",
+      "D.Cuối năm tài chính"
+    ],
+    "answer": "B.Thời điểm chuyển quyền sở hữu vốn"
+  },
+  {
+    "question": "Câu 124Theo quy định tại Luật thuế TNDN năm 2025 Doanh nghiệp được chuyển lỗ liên tục trong mấy năm",
+    "options": [
+      "A.không quá 5 năm từ khi thành lập",
+      "B.không quá 5 năm kể từ năm tiếp theo năm phát sinh lỗ",
+      "C.không quá 3 năm kể từ năm tiếp theo năm phát sinh lỗ",
+      "D.không quá 5 năm"
+    ],
+    "answer": "B.không quá 5 năm kể từ năm tiếp theo năm phát sinh lỗ"
+  },
+  {
+    "question": "Câu 125Khoản chi nào sau đây được trừ khi tính thuế TNDN",
+    "options": [
+      "A.Khấu hao TSCĐ không phục vụ SXKD",
+      "B.Chi phí lãi vay trong kỳ tương ứng vốn điều lệ còn thiếu",
+      "C.Tiền lương của chủ Doanh nghiệp tư nhân, công ty TNHH MTV",
+      "D.Chi phí tiếp khách phục vụ hoạt động kinh doanh, có hóa đơn, chứng từ thanh toán theo quy định"
+    ],
+    "answer": "D.Chi phí tiếp khách phục vụ hoạt động kinh doanh, có hóa đơn, chứng từ thanh toán theo quy định"
+  },
+  {
+    "question": "Câu 126Khoản 6, điều 10 Nghị định 320/ND-CP năm 2025 quy định Trường hợp tài sản cố định thuộc quyền sở hữu của doanh nghiệp đang dùng cho sản xuất kinh doanh nhưng phải tạm thời dừng để sửa chữa, để di dời di chuyển địa điểm, để bảo trì, bảo dưỡng theo định kỳ thì",
+    "options": [
+      "A.Khoản chi phí khấu hao tài sản cố định trong thời gian tạm dừng (với thời gian tạm dừng dưới 24 tháng) được tính vào chi phí được trừ khi xác định thu nhập chịu thuế",
+      "B.Khoản chi phí khấu hao tài sản cố định trong thời gian tạm dừng không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế",
+      "C.Khoản chi phí khấu hao tài sản cố định trong thời gian tạm dừng (với thời gian tạm dừng dưới 15 tháng) được tính vào chi phí được trừ khi xác định thu nhập chịu thuế",
+      "D.Khoản chi phí khấu hao tài sản cố định trong thời gian tạm dừng (với thời gian tạm dừng dưới 12 tháng) được tính vào chi phí được trừ khi xác định thu nhập chịu thuế"
+    ],
+    "answer": "D.Khoản chi phí khấu hao tài sản cố định trong thời gian tạm dừng (với thời gian tạm dừng dưới 12 tháng) được tính vào chi phí được trừ khi xác định thu nhập chịu thuế"
+  },
+  {
+    "question": "Câu 127Khoản 6, điều 10, Nghị định 320/2025/NĐ-CP quy định: Doanh nghiệp sản xuất có chuyển nhượng, thanh lý xe ô tô chở người từ 9 chỗ ngồi trở xuống có nguyên giá trên 1,6 tỷ đồng thì giá trị còn lại của xe được xác định bằng",
+    "options": [
+      "A.a) Nguyên giá thực mua tài sản cố định trừ (-) số khấu hao lũy kế của tài sản cố định đã tính vào chi phí hợp lý theo chuẩn mực kế toán, chế độ kế toán tính đến thời điểm chuyển nhượng, thanh lý xe.",
+      "B.Nguyên giá thực mua tài sản cố định trừ (-) số khấu hao lũy kế của tài sản cố định đã tính vào chi phí hợp lý theo theo chính sách thuế tính đến thời điểm chuyển nhượng, thanh lý xe.",
+      "C.Nguyên giá xác định 1,6 tỷ trừ (-) số khấu hao lũy kế của tài sản cố định đã tính vào chi phí hợp lý theo chuẩn mực kế toán, chế độ kế toán tính đến thời điểm chuyển nhượng, thanh lý xe.",
+      "D.Nguyên giá xác định 1,6 tỷ trừ (-) số khấu hao lũy kế của tài sản cố định đã tính vào chi phí hợp lý theo theo chính sách thuế tính đến thời điểm chuyển nhượng, thanh lý xe"
+    ],
+    "answer": "A.a) Nguyên giá thực mua tài sản cố định trừ (-) số khấu hao lũy kế của tài sản cố định đã tính vào chi phí hợp lý theo chuẩn mực kế toán, chế độ kế toán tính đến thời điểm chuyển nhượng, thanh lý xe."
+  },
+  {
+    "question": "Câu 128Nghị định số 320/2025/NĐ-CP Quy định, phần chi trang phục bằng bằng tiền cho người lao động của doanh nghiệp được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN:",
+    "options": [
+      "A.Không vượt quá 5.000.000 đồng/người/ năm",
+      "B.Không vượt quá 6.000.000 đồng/người/ năm",
+      "C.Không vượt quá 8.000.000 đồng/người/ năm",
+      "D.Không vượt quá 10.000.000 đồng/người/ năm"
+    ],
+    "answer": "A.Không vượt quá 5.000.000 đồng/người/ năm"
+  },
+  {
+    "question": "Câu 129Nghị định 320/2025/NĐ-CP Quy định Doanh thu để tính thu nhập chịu thuế TNDN đối với hàng hoá, dịch vụ bán theo phương thức trả góp, trả chậm là:",
+    "options": [
+      "A.Tiền bán hàng hoá, dịch vụ trả tiền một lần, không bao gồm tiền lãi trả góp, trả chậm",
+      "B.Tổng số tiền khách hàng phải trả, bao gồm cả tiền lãi trả góp, trả chậm",
+      "C.Tổng số tiền phải thu tính theo phương thức trả chậm, trả góp (bao gồm cả tiền lãi trả chậm, trả góp)",
+      "D.Tổng số tiền bán hàng hoá, dịch vụ trả nhiều lần, không bao gồm tiền lãi trả góp, trả chậm"
+    ],
+    "answer": "A.Tiền bán hàng hoá, dịch vụ trả tiền một lần, không bao gồm tiền lãi trả góp, trả chậm"
+  },
+  {
+    "question": "Câu 130Điều 10 Nghị định số 320/2025/NĐ-CP quy định Giá trị quyền sử dụng đất có thời hạn nếu có đầy đủ hoá đơn chứng từ và thực hiện đúng các thủ tục theo quy định của pháp luật, có tham gia vào hoạt động sản xuất kinh doanh thì được:",
+    "options": [
+      "A.Tính vào chi phí được trừ",
+      "B.Không tính vào chi phí được trừ",
+      "C.Phân bổ dần vào chi phí được trừ theo thời hạn được phép sử dụng đất theo quy định",
+      "D.Trích khấu hao TSCĐ theo quy định"
+    ],
+    "answer": "C.Phân bổ dần vào chi phí được trừ theo thời hạn được phép sử dụng đất theo quy định"
+  },
+  {
+    "question": "Câu 131Căn cứ quy định Nghị định 320/2025. Doanh nghiệp có tổng doanh thu năm không quá 3 tỷ đồng được áp dụng thuế suất TNDN ưu đãi là gì?",
+    "options": [
+      "A.0.1",
+      "B.0.12",
+      "C.0.15",
+      "D.0.2"
+    ],
+    "answer": "C.0.15"
+  },
+  {
+    "question": "Câu 132Theo Nghị định 320/2025/NĐ-CP, mức thuế suất 40% được áp dụng cho?",
+    "options": [
+      "A.Hoạt động thương mại điện tử",
+      "B.Khai thác tài nguyên quý hiếm mà các mỏ có từ 70% diện tích được giao trở lên ở địa bàn có điều kiện kinh tế - xã hội đặc biệt Khó khăn",
+      "C.Hoạt động thăm dò, khai thác dầu khí",
+      "D.Hoạt động bình thường"
+    ],
+    "answer": "B.Khai thác tài nguyên quý hiếm mà các mỏ có từ 70% diện tích được giao trở lên ở địa bàn có điều kiện kinh tế - xã hội đặc biệt Khó khăn"
+  },
+  {
+    "question": "Câu 133Căn cứ khoản 2 Điều 7 Nghị định 320/2025/NĐ-CP quy định: Quá thời hạn 05 năm kể từ năm tiếp theo năm phát sinh lỗ, nếu số lỗ phát sinh chưa chuyển hết thì:",
+    "options": [
+      "A.Doanh nghiệp sẽ không được chuyển vào thu nhập của các năm tiếp theo.",
+      "B.Doanh nghiệp sẽ được giảm trừ tiếp vào thu nhập chịu thuế TNDN của các năm tiếp sau.",
+      "C.Doanh nghiệp sẽ không được giảm trừ tiếp vào thu nhập chịu thuế TNDN của các năm tiếp sau.",
+      "D.Không có trường hợp nào nêu trên"
+    ],
+    "answer": "A.Doanh nghiệp sẽ không được chuyển vào thu nhập của các năm tiếp theo."
+  },
+  {
+    "question": "Câu 134Nghị định 320/2025/NĐ-CP quy định Thuế suất thuế thu nhập doanh nghiệp Đối với hoạt động tìm kiếm, thăm dò và khai thác dầu khí",
+    "options": [
+      "A.0.15",
+      "B.0.17",
+      "C.0.2",
+      "D.Từ 25 đến 50%"
+    ],
+    "answer": "D.Từ 25 đến 50%"
+  },
+  {
+    "question": "Câu 135Theo quy định tại điều 10 nghị định 320/2025/NĐ-CP Doanh nghiệp được tính vào chi phí được trừ khi xác định thu nhập chịu thuế Thu nhập doanh nghiệp đối với khoản chi nào dưới đây",
+    "options": [
+      "A.Các khoản đã được chi từ quỹ phát triển khoa học và công nghệ của DN",
+      "B.Các khoản chi không tương ứng với doanh thu tính thuế",
+      "C.Các khoản tiền phạt về vi phạm hành chính theo quy định của pháp luật",
+      "D.Khoản thuế Thu nhập cá nhân của người lao động DN nộp thay trong trường hợp DN ký hợp đồng lao động quy định tiền lương, tiền công trả cho người lao động không bao gồm thuế TNCN"
+    ],
+    "answer": "D.Khoản thuế Thu nhập cá nhân của người lao động DN nộp thay trong trường hợp DN ký hợp đồng lao động quy định tiền lương, tiền công trả cho người lao động không bao gồm thuế TNCN"
+  },
+  {
+    "question": "Câu 136Thu nhập chịu thuế thu nhập doanh nghiệp bao gồm những thành phần nào?",
+    "options": [
+      "A.Chỉ bao gồm các khoản thu nhập phát sinh từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ của doanh nghiệp đã đăng ký ngành nghề kinh doanh chính thức với cơ quan nhà nước.",
+      "B.Thu nhập từ hoạt động thăm dò, khai thác dầu khí và các khoản thu nhập đặc thù khác có liên quan trực tiếp đến hoạt động dầu khí phát sinh trong kỳ tính thuế theo các hiệp định quốc tế.",
+      "C.Thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ và các khoản thu nhập khác theo quy định",
+      "D.Các khoản doanh thu từ việc bán hàng hóa và cung cấp dịch vụ cho khách hàng trong nước, không bao gồm các khoản thu nhập phát sinh từ các hoạt động đầu tư tài chính ở nước ngoài."
+    ],
+    "answer": "C.Thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ và các khoản thu nhập khác theo quy định"
+  },
+  {
+    "question": "Câu 137Khoản thu nhập nào sau đây KHÔNG được coi là \"thu nhập khác\" chịu thuế theo quy định tại Điều 3 mà thuộc diện miễn thuế TNDN",
+    "options": [
+      "A.Thu nhập từ hoạt động chuyển nhượng vốn, chuyển nhượng chứng khoán hoặc chuyển nhượng quyền góp vốn vào các tổ chức kinh tế khác (trừ các khoản liên quan đến phát hành cổ phiếu)",
+      "B.Các khoản tiền phạt hoặc tiền bồi thường mà doanh nghiệp nhận được từ các đối tác do bên kia vi phạm hợp đồng kinh tế hoặc do các vi phạm cam kết trong quá trình hợp tác kinh doanh",
+      "C.Khoản tài trợ nhận được để sử dụng cho hoạt động giáo dục, văn hóa, nghệ thuật, từ thiện, nhân đạo và hoạt động xã hội khác tại Việt Nam;… đáp ứng đủ điều kiện quy định",
+      "D.Thu nhập từ việc bán phế liệu, phế phẩm được tạo ra trong quá trình sản xuất của các sản phẩm không thuộc ngành nghề, địa bàn đang được hưởng ưu đãi thuế thu nhập doanh nghiệp"
+    ],
+    "answer": "C.Khoản tài trợ nhận được để sử dụng cho hoạt động giáo dục, văn hóa, nghệ thuật, từ thiện, nhân đạo và hoạt động xã hội khác tại Việt Nam;… đáp ứng đủ điều kiện quy định"
+  },
+  {
+    "question": "Câu 138Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ được miễn thuế TNDN trong thời gian tối đa là bao lâu kể từ khi có thu nhập?",
+    "options": [
+      "A.Được miễn thuế trong thời hạn 01 năm kể từ khi doanh nghiệp bắt đầu phát sinh doanh thu từ việc bán các sản phẩm thử nghiệm hoặc cung cấp các dịch vụ kỹ thuật đi kèm hợp đồng.",
+      "B.Được miễn thuế trong thời hạn 02 năm tính từ ngày hợp đồng nghiên cứu khoa học và phát triển công nghệ được cơ quan quản lý nhà nước có thẩm quyền nghiệm thu đạt kết quả",
+      "C.Được miễn thuế trong thời hạn không quá 03 năm kể từ khi có thu nhập từ thực hiện hợp đồng nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo",
+      "D.Được miễn thuế trong thời hạn 05 năm đối với các dự án nghiên cứu khoa học có quy mô vốn đầu tư lớn và được ứng dụng trực tiếp vào sản xuất các sản phẩm công nghiệp hỗ trợ."
+    ],
+    "answer": "C.Được miễn thuế trong thời hạn không quá 03 năm kể từ khi có thu nhập từ thực hiện hợp đồng nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo"
+  },
+  {
+    "question": "Câu 139Doanh nghiệp sử dụng lao động là người khuyết tật, người sau cai nghiện hoặc người nhiễm HIV được miễn thuế TNDN đối với thu nhập từ sản xuất kinh doanh khi đáp ứng điều kiện nào?",
+    "options": [
+      "A.Có số lao động là người khuyết tật, người sau cai nghiện hoặc người nhiễm HIV chiếm từ 20% số lao động bình quân trong năm trở lên và doanh nghiệp phải có ít nhất là 10 lao động.",
+      "B.Có số lao động đặc thù chiếm từ 51% tổng số nhân sự và hoạt động trong tất cả các lĩnh vực bao gồm cả tài chính, ngân hàng, bảo hiểm, kinh doanh bất động sản và dịch vụ cầm đồ.",
+      "C.Có từ 30% số lao động bình quân trong năm trở lên là đối tượng đặc thù và có số lao động bình quân từ 20 người trở lên (không bao gồm lĩnh vực tài chính, bất động sản)",
+      "D.Doanh nghiệp chỉ cần sử dụng tối thiểu 15 lao động là người khuyết tật hoặc người sau cai nghiện ma túy mà không cần quan tâm đến tỷ lệ phần trăm trên tổng số lao động bình quân năm"
+    ],
+    "answer": "C.Có từ 30% số lao động bình quân trong năm trở lên là đối tượng đặc thù và có số lao động bình quân từ 20 người trở lên (không bao gồm lĩnh vực tài chính, bất động sản)"
+  },
+  {
+    "question": "Câu 140Thu nhập được chia từ hoạt động góp vốn, cổ phần, liên doanh với doanh nghiệp trong nước được miễn thuế TNDN trong trường hợp nào?",
+    "options": [
+      "A.Doanh nghiệp nhận góp vốn đang trong thời gian được hưởng các chính sách ưu đãi về thuế suất hoặc đang trong giai đoạn được miễn thuế, giảm thuế thu nhập doanh nghiệp theo dự án",
+      "B.Các khoản thu nhập được chia này phải được doanh nghiệp cam kết sử dụng toàn bộ để tái đầu tư vào các dự án sản xuất mới hoặc mở rộng quy mô kinh doanh tại các địa bàn Khó khăn",
+      "C.Bên nhận góp vốn, mua cổ phần, liên doanh, liên kết kinh tế đã nộp thuế thu nhập doanh nghiệp theo quy định của Luật Thuế thu nhập doanh nghiệp trước khi thực hiện chia lãi",
+      "D.Doanh nghiệp thực hiện góp vốn có tổng số vốn điều lệ ghi trên giấy phép kinh doanh đạt từ 100 tỷ đồng trở lên và có báo cáo tài chính được kiểm toán bởi tổ chức kiểm toán độc lập."
+    ],
+    "answer": "C.Bên nhận góp vốn, mua cổ phần, liên doanh, liên kết kinh tế đã nộp thuế thu nhập doanh nghiệp theo quy định của Luật Thuế thu nhập doanh nghiệp trước khi thực hiện chia lãi"
+  },
+  {
+    "question": "Câu 141Phần thu nhập không chia của cơ sở thực hiện xã hội hóa được miễn thuế TNDN phải đáp ứng tỷ lệ phần trăm tối thiểu là bao nhiêu trên thu nhập tính thuế?",
+    "options": [
+      "A.Phải để lại tối thiểu là 15% thu nhập tính thuế nhằm mục đích tái đầu tư nâng cấp trang thiết bị dạy học và khám chữa bệnh theo đúng danh mục tiêu chuẩn quy định của Nhà nước.",
+      "B.Phải để lại tối thiểu là 20% thu nhập tính thuế để hình thành các quỹ hỗ trợ học sinh, sinh viên nghèo vượt Khó hoặc hỗ trợ chi phí khám bệnh cho các đối tượng chính sách xã hội.",
+      "C.Phải đáp ứng tỷ lệ phần thu nhập không chia để lại để đầu tư phát triển cơ sở đó tối thiểu là 25% trên tổng thu nhập tính thuế của đơn vị thực hiện xã hội hóa",
+      "D.Phải để lại tối thiểu là 30% thu nhập tính thuế để đầu tư xây dựng mới các hạng mục hạ tầng kỹ thuật và mua sắm các phương tiện vận chuyển chuyên dùng phục vụ hoạt động chuyên môn"
+    ],
+    "answer": "C.Phải đáp ứng tỷ lệ phần thu nhập không chia để lại để đầu tư phát triển cơ sở đó tối thiểu là 25% trên tổng thu nhập tính thuế của đơn vị thực hiện xã hội hóa"
+  },
+  {
+    "question": "Câu 142Dịch vụ kỹ thuật nào sau đây trực tiếp phục vụ nông nghiệp được liệt kê vào danh mục thu nhập được miễn thuế TNDN?",
+    "options": [
+      "A.Các dịch vụ vận chuyển nông sản từ nơi sản xuất đến các kho bãi lưu giữ hoặc dịch vụ bảo quản sản phẩm nông nghiệp trong các kho lạnh có sử dụng công nghệ cao để kéo dài thời hạn.",
+      "B.Các dịch vụ tư vấn về quản lý tài chính, dịch vụ pháp lý hoặc dịch vụ đào tạo nguồn nhân lực cho các thành viên của hợp tác xã nông nghiệp và các tổ hợp tác sản xuất tại địa phương.",
+      "C.Các dịch vụ tưới, tiêu nước; cày, bừa đất; nạo vét kênh, mương nội đồng; dịch vụ phòng trừ sâu, bệnh cho cây trồng, vật nuôi; dịch vụ thu hoạch sản phẩm nông nghiệp",
+      "D.Dịch vụ cung cấp và cho thuê các loại máy móc thiết bị nông nghiệp như máy cày, máy gặt đập liên hợp theo hình thức thuê tài chính có thời hạn từ 05 năm trở lên cho nông dân."
+    ],
+    "answer": "C.Các dịch vụ tưới, tiêu nước; cày, bừa đất; nạo vét kênh, mương nội đồng; dịch vụ phòng trừ sâu, bệnh cho cây trồng, vật nuôi; dịch vụ thu hoạch sản phẩm nông nghiệp"
+  },
+  {
+    "question": "Câu 143Trường hợp Doanh nghiệp A (không có quan hệ liên kết) trong năm 2025 đã hoạt động đầy đủ 12 tháng và đạt tổng doanh thu là 48 tỷ đồng. Sang năm 2026, do mở rộng quy mô, doanh nghiệp đạt doanh thu thực tế là 55 tỷ đồng. Theo quy định tại Nghị định 320/2025/NĐ-CP mức thuế suất thuế TNDN mà doanh nghiệp A phải áp dụng khi quyết toán thuế cho năm 2026 là:",
+    "options": [
+      "A.0.15",
+      "B.0.17",
+      "C.0.2",
+      "D.0.22"
+    ],
+    "answer": "B.0.17"
+  },
+  {
+    "question": "Câu 144Nghị định số 320/2025/NĐ-CP quy định về hiệu lực thi hành và thời điểm áp dụng như thế nào?",
+    "options": [
+      "A.Nghị định này có hiệu lực thi hành sau 45 ngày kể từ ngày ký ban hành và bắt đầu áp dụng cho kỳ tính thuế năm tài chính tiếp theo của đơn vị.",
+      "B.Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành và áp dụng từ kỳ tính thuế thu nhập doanh nghiệp năm 2025.",
+      "C.Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2026 và chỉ áp dụng đối với các dự án đầu tư mới phát sinh sau thời điểm ban hành",
+      "D.Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành nhưng doanh nghiệp bắt buộc phải áp dụng các quy định cũ cho đến hết kỳ tính thuế 2025"
+    ],
+    "answer": "B.Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành và áp dụng từ kỳ tính thuế thu nhập doanh nghiệp năm 2025."
+  },
+  {
+    "question": "Câu 145Thuế suất thuế thu nhập doanh nghiệp năm 2026 là 17% theo quy định tại Nghị định 320/2025/NĐ-CP đối với",
+    "options": [
+      "A.Trường hợp năm 2025 có tổng doanh thu từ 03 tỷ đồng đến không quá 50 tỷ đồng",
+      "B.Trường hợp năm 2025 có tổng doanh thu từ trên 03 tỷ đồng đến dưới 50 tỷ đồng",
+      "C.Trường hợp năm 2026 có tổng doanh thu từ 03 tỷ đồng đến 50 tỷ đồng",
+      "D.Trường hợp năm 2026 có tổng doanh thu từ trên 03 tỷ đồng đến dưới 50 tỷ đồng"
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 146Trong kỳ tính thuế, nếu doanh nghiệp không hạch toán riêng được thu nhập từ hoạt động được ưu đãi Thuế TNDN và hoạt động không được ưu đãi Thuế TNDN thì xử lý thế nào?",
+    "options": [
+      "A.Thu nhập ưu đãi được xác định bằng tổng thu nhập chịu thuế nhân với tỷ lệ phần trăm (%) doanh thu hoặc chi phí được trừ của hoạt động sản xuất, kinh doanh ưu đãi thuế so với tổng doanh thu hoặc tổng chi phí được trừ của doanh nghiệp trong kỳ tính thuế;.",
+      "B.Toàn bộ thu nhập của doanh nghiệp trong kỳ tính thuế đó sẽ bị cơ quan thuế ấn định nộp theo thuế suất phổ thông 20% do vi phạm nguyên tắc hạch toán kế toán riêng biệt.",
+      "C.Doanh nghiệp được phép tạm thời ước tính thu nhập ưu đãi dựa trên số liệu của năm trước liền kề và thực hiện điều chỉnh bổ sung vào hồ sơ quyết toán thuế của năm tiếp theo.",
+      "D.cơ quan thuế sẽ thực hiện việc thanh tra toàn diện để xác định chi tiết từng khoản chi phí trực tiếp và gián tiếp trước khi cho phép doanh nghiệp áp dụng mức thuế suất ưu đãi."
+    ],
+    "answer": "A.Thu nhập ưu đãi được xác định bằng tổng thu nhập chịu thuế nhân với tỷ lệ phần trăm (%) doanh thu hoặc chi phí được trừ của hoạt động sản xuất, kinh doanh ưu đãi thuế so với tổng doanh thu hoặc tổng chi phí được trừ của doanh nghiệp trong kỳ tính thuế;."
+  },
+  {
+    "question": "Câu 147Một dự án đầu tư mới tại khu kinh tế có 60% diện tích nằm trên địa bàn ưu đãi thuế và 40% nằm trên địa bàn không ưu đãi. Thu nhập từ dự án này được hưởng ưu đãi Thuế TNDN thế nào?",
+    "options": [
+      "A.Doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp theo địa bàn ưu đãi thuế đối với toàn bộ thu nhập của dự án đầu tư mới đó.",
+      "B.Doanh nghiệp phải thực hiện phân bổ thu nhập để hưởng ưu đãi theo tỷ lệ 60% thu nhập được miễn giảm và 40% thu nhập còn lại phải nộp thuế theo thuế suất phổ thông",
+      "C.Dự án này hoàn toàn không được hưởng bất kỳ mức ưu đãi thuế nào do không đáp ứng được tiêu chí có toàn bộ diện tích thực hiện dự án nằm trong địa bàn ưu đãi thuế quy định.",
+      "D.Doanh nghiệp chỉ được hưởng ưu đãi thuế nếu thực hiện việc hạch toán riêng biệt các khoản doanh thu và chi phí phát sinh trên từng phần diện tích đất khác nhau của dự án."
+    ],
+    "answer": "A.Doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp theo địa bàn ưu đãi thuế đối với toàn bộ thu nhập của dự án đầu tư mới đó."
+  },
+  {
+    "question": "Câu 148Doanh nghiệp A đang trong thời gian hưởng ưu đãi miễn thuế TNDN cho hoạt động sản xuất, nhưng hoạt động thương mại khác của công ty lại bị lỗ. Việc bù trừ lỗ lãi được thực hiện thế nào?",
+    "options": [
+      "A.Trường hợp doanh nghiệp có hoạt động sản xuất, kinh doanh bị lỗ thì được bù trừ số lỗ vào thu nhập chịu thuế của các hoạt động sản xuất, kinh doanh có thu nhập do doanh nghiệp tự lựa chọn",
+      "B.Doanh nghiệp bắt buộc phải hạch toán riêng khoản lỗ thương mại để chuyển sang các năm sau và không được phép làm giảm thu nhập đang được hưởng miễn thuế trong kỳ.",
+      "C.Doanh nghiệp chỉ được bù trừ lỗ của hoạt động thương mại vào thu nhập của dự án ưu đãi nếu hoạt động thương mại đó trực tiếp phục vụ cho quá trình tiêu thụ sản phẩm sản xuất.",
+      "D.Toàn bộ số thuế thu nhập doanh nghiệp của hoạt động sản xuất sẽ bị tính lại theo thuế suất phổ thông nếu doanh nghiệp thực hiện việc bù trừ lỗ từ các hoạt động không ưu đãi."
+    ],
+    "answer": "A.Trường hợp doanh nghiệp có hoạt động sản xuất, kinh doanh bị lỗ thì được bù trừ số lỗ vào thu nhập chịu thuế của các hoạt động sản xuất, kinh doanh có thu nhập do doanh nghiệp tự lựa chọn"
+  },
+  {
+    "question": "Câu 149Năm 2026 là năm đầu tiên doanh nghiệp có doanh thu từ dự án ưu đãi nhưng chưa có thu nhập chịu thuế. Đến năm 2030 doanh nghiệp mới bắt đầu có thu nhập chịu thuế. Thời gian miễn thuế TNDN được tính từ khi nào?",
+    "options": [
+      "A.Thời gian miễn thuế bắt đầu được tính từ năm 2029",
+      "B.Thời gian miễn thuế bắt đầu được tính ngay từ năm 2026 khi doanh nghiệp bắt đầu phát sinh doanh thu từ dự án đầu tư mới bất kể kết quả kinh doanh là lãi hay lỗ.",
+      "C.Thời gian miễn thuế chỉ bắt đầu được tính kể từ năm 2030 khi doanh nghiệp thực tế phát sinh thu nhập chịu thuế lần đầu tiên từ dự án đầu tư đang hưởng ưu đãi.",
+      "D.Doanh nghiệp bị mất quyền hưởng ưu đãi miễn thuế hoàn toàn do đã quá thời hạn 03 năm kể từ khi có doanh thu mà vẫn chưa thể tạo ra được thu nhập chịu thuế trong kỳ"
+    ],
+    "answer": "A.Thời gian miễn thuế bắt đầu được tính từ năm 2029"
+  },
+  {
+    "question": "Câu 150Khoản thu nhập nào sau đây KHÔNG được áp dụng ưu đãi thuế thu nhập doanh nghiệp",
+    "options": [
+      "A.Thu nhập từ chuyển nhượng vốn, chuyển nhượng quyền góp vốn; thu nhập từ chuyển nhượng bất động sản (trừ nhà ở xã hội)",
+      "B.Thu nhập từ hoạt động sản xuất phần mềm và các sản phẩm công nghệ thông tin trọng điểm theo danh mục quy định của Chính phủ.",
+      "C.Thu nhập từ hoạt động bảo vệ môi trường, thu gom và xử lý chất thải sinh hoạt tại các địa bàn có điều kiện khó khăn.",
+      "D.Thu nhập từ các hoạt động ứng dụng công nghệ cao và đầu tư vào nghiên cứu phát triển khoa học công nghệ tại doanh nghiệp."
+    ],
+    "answer": "A.Thu nhập từ chuyển nhượng vốn, chuyển nhượng quyền góp vốn; thu nhập từ chuyển nhượng bất động sản (trừ nhà ở xã hội)"
+  },
+  {
+    "question": "Câu 151Nếu trong cùng một thời gian, doanh nghiệp được hưởng nhiều mức ưu đãi thuế TNDN khác nhau cho cùng một khoản thu nhập thì xử lý thế nào?",
+    "options": [
+      "A.Doanh nghiệp được lựa chọn áp dụng mức ưu đãi thuế có lợi nhất cho doanh nghiệp trong suốt thời gian hưởng ưu đãi đó",
+      "B.Doanh nghiệp phải áp dụng tất cả các mức ưu đãi thuế cộng dồn lại để triệt tiêu hoàn toàn số thuế thu nhập doanh nghiệp phải nộp.",
+      "C.Doanh nghiệp bắt buộc phải áp dụng mức ưu đãi thấp nhất theo danh mục quy định để đảm bảo nguồn thu cho ngân sách nhà nước.",
+      "D.Doanh nghiệp thực hiện tính Trung bình cộng của các mức ưu đãi thuế để ra một con số thuế suất áp dụng chung cho cả năm tính thuế."
+    ],
+    "answer": "A.Doanh nghiệp được lựa chọn áp dụng mức ưu đãi thuế có lợi nhất cho doanh nghiệp trong suốt thời gian hưởng ưu đãi đó"
+  },
+  {
+    "question": "Câu 152Trong thời gian hưởng ưu đãi Thuế TNDN, nếu doanh nghiệp thực hiện nhiều hoạt động sản xuất kinh doanh thì phải làm gì?",
+    "options": [
+      "A.Doanh nghiệp phải hạch toán riêng thu nhập từ hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế thu nhập doanh nghiệp",
+      "B.Doanh nghiệp được phép gộp chung tất cả các nguồn thu nhập để tính thuế một lần theo mức thuế suất cao nhất của doanh nghiệp.",
+      "C.Doanh nghiệp thực hiện phân bổ thuế theo tỷ lệ diện tích nhà xưởng sử dụng cho từng loại hình hoạt động sản xuất kinh doanh khác nhau.",
+      "D.Doanh nghiệp không cần hạch toán riêng mà thực hiện nộp thuế theo mức thuế suất Trung bình của tất cả các hoạt động hiện có"
+    ],
+    "answer": "A.Doanh nghiệp phải hạch toán riêng thu nhập từ hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế thu nhập doanh nghiệp"
+  },
+  {
+    "question": "Câu 153Thời gian miễn thuế, giảm thuế TNDN cho dự án đầu tư mới được tính từ thời điểm nào?",
+    "options": [
+      "A.Tính liên tục từ năm đầu tiên doanh nghiệp có thu nhập chịu thuế từ dự án đầu tư mới được hưởng ưu đãi thuế.",
+      "B.Tính liên tục từ năm đầu tiên doanh nghiệp phát sinh doanh thu từ hoạt động sản xuất kinh doanh của dự án đầu tư mới.",
+      "C.Tính liên tục từ khi doanh nghiệp được cấp Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy phép đầu tư cho dự án mới.",
+      "D.Tính liên tục từ khi doanh nghiệp chính thức khánh thành và đưa dự án vào vận hành thực tế tại địa bàn thực hiện đầu tư."
+    ],
+    "answer": "A.Tính liên tục từ năm đầu tiên doanh nghiệp có thu nhập chịu thuế từ dự án đầu tư mới được hưởng ưu đãi thuế."
+  },
+  {
+    "question": "Câu 154Miễn thuế TNDN 04 năm và giảm 50% số thuế phải nộp trong 09 năm tiếp theo áp dụng cho đối tượng nào?",
+    "options": [
+      "A.Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới được áp dụng thuế suất ưu đãi 10% trong thời hạn 15 năm.",
+      "B.Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới được áp dụng thuế suất ưu đãi 17% trong thời hạn 10 năm",
+      "C.Thu nhập của doanh nghiệp từ hoạt động chuyển nhượng vốn và chuyển nhượng quyền góp vốn vào các tổ chức kinh tế khác",
+      "D.Thu nhập của doanh nghiệp từ các hoạt động dịch vụ hỗ trợ nông nghiệp thực hiện tại các địa bàn không thuộc diện khó khăn."
+    ],
+    "answer": "A.Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới được áp dụng thuế suất ưu đãi 10% trong thời hạn 15 năm."
+  },
+  {
+    "question": "Câu 155Đối tượng nào sau đây được áp dụng thuế suất thuế TNDN ưu đãi 10% trong suốt thời gian hoạt động?",
+    "options": [
+      "A.Thu nhập của doanh nghiệp từ hoạt động xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao.",
+      "B.Thu nhập của doanh nghiệp từ hoạt động kinh doanh bất động sản, chuyển nhượng dự án đầu tư và kinh doanh dịch vụ thương mại.",
+      "C.Thu nhập của doanh nghiệp từ hoạt động khai thác tài nguyên khoáng sản quý hiếm như vàng, bạc, đá quý tại địa bàn khó khăn.",
+      "D.Thu nhập của doanh nghiệp từ hoạt động kinh doanh các mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt theo quy định hiện hành."
+    ],
+    "answer": "A.Thu nhập của doanh nghiệp từ hoạt động xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao."
+  },
+  {
+    "question": "Câu 156Theo Luật Thuế TTĐB số 66/2025/QH15, loại phương tiện nào sau đây thuộc đối tượng chịu thuế TTĐB?",
+    "options": [
+      "A.Xe ô tô dưới 24 chỗ",
+      "B.Xe tải chở hàng 10 tấn",
+      "C.Xe máy điện",
+      "D.Xe đạp"
+    ],
+    "answer": "A.Xe ô tô dưới 24 chỗ"
+  },
+  {
+    "question": "Câu 157Theo Luật Thuế tiêu thụ đặc biệt số 66/2025/QH15, hàng hóa nào sau đây thuộc đối tượng chịu thuế TTĐB",
+    "options": [
+      "A.Thuốc lá",
+      "B.Nước khoáng thiên nhiên",
+      "C.Sữa tươi tiệt trùng",
+      "D.Gạo"
+    ],
+    "answer": "A.Thuốc lá"
+  },
+  {
+    "question": "Câu 158Theo Luật Thuế tiêu thụ đặc biệt số 66/2025/QH15, đối tượng không chịu thuế TTĐB là",
+    "options": [
+      "A.Thuốc lá xuất khẩu",
+      "B.Rượu tiêu dùng nội địa",
+      "C.Kinh doanh casino",
+      "D.Ô tô dưới 24 chỗ"
+    ],
+    "answer": "A.Thuốc lá xuất khẩu"
+  },
+  {
+    "question": "Câu 159Theo Luật Thuế tiêu thụ đặc biệt số 66/2025/QH15, hàng viện trợ nhân đạo thuộc diện",
+    "options": [
+      "A.Chịu thuế TTĐB",
+      "B.Không chịu thuế TTĐB",
+      "C.Chịu 50% thuế TTĐB",
+      "D.Chịu thuế theo từng trường hợp"
+    ],
+    "answer": "B.Không chịu thuế TTĐB"
+  },
+  {
+    "question": "Câu 160Theo Luật Thuế tiêu thụ đặc biệt số 66/2025/QH15, Giá tính thuế tiêu thụ đặc biệt đối với hàng hóa, dịch vụ",
+    "options": [
+      "A.Giá bán chưa có thuế tiêu thụ đặc biệt, chưa có thuế bảo vệ môi trường và chưa có thuế giá trị gia tăng",
+      "B.Giá bán đã có thuế GTGT",
+      "C.Giá nhập khẩu",
+      "D.Giá do UBND quy định"
+    ],
+    "answer": "A.Giá bán chưa có thuế tiêu thụ đặc biệt, chưa có thuế bảo vệ môi trường và chưa có thuế giá trị gia tăng"
+  },
+  {
+    "question": "Câu 161Theo Luật Thuế tiêu thụ đặc biệt số 66/2025/QH15, Người nộp thuế tiêu thụ đặc biệt được hoàn thuế đã nộp trong các trường hợp sau đây",
+    "options": [
+      "A.Hàng hóa là nguyên liệu nhập khẩu để sản xuất, gia công hàng xuất khẩu ra nước ngoài",
+      "B.Quyết toán thuế khi giải thể, phá sản có số thuế tiêu thụ đặc biệt chưa được khấu trừ hết",
+      "C.Hoàn thuế tiêu thụ đặc biệt theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên",
+      "D.Cả 3 đáp án trên"
+    ],
+    "answer": "D.Cả 3 đáp án trên"
+  },
+  {
+    "question": "Câu 162Theo Luật Thuế tiêu thụ đặc biệt số 66/2025/QH15, thời điểm xác định thuế tiêu thụ đặc biệt",
+    "options": [
+      "A.Thời điểm xác định thuế tiêu thụ đặc biệt đối với hàng hóa là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu được tiền hay chưa thu được tiền.",
+      "B.Thời điểm xác định thuế tiêu thụ đặc biệt đối với dịch vụ là thời điểm hoàn thành việc cung ứng dịch vụ hoặc thời điểm lập hóa đơn cung ứng dịch vụ, không phân biệt đã thu được tiền hay chưa thu được tiền",
+      "C.Thời điểm xác định thuế tiêu thụ đặc biệt đối với hàng hóa nhập khẩu là thời điểm đăng ký tờ khai hải quan",
+      "D.Cả 3 đáp án trên"
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 163Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế bán sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường cho doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã khác ở khâu kinh doanh thương mại thì",
+    "options": [
+      "A.phải tính thuế giá trị gia tăng theo mức thuế suất 5%",
+      "B.tính thuế giá trị gia tăng phải nộp theo doanh thu bằng 1% (tỷ lệ %) nhân với doanh thu",
+      "C.phải tính thuế giá trị gia tăng theo mức thuế suất 10%",
+      "D.không phải kê khai, tính nộp thuế giá trị gia tăng"
+    ],
+    "answer": "D.không phải kê khai, tính nộp thuế giá trị gia tăng"
+  },
+  {
+    "question": "Câu 164Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế bán sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường cho các đối tượng như hộ, cá nhân sản xuất, kinh doanh và các tổ chức, cá nhân khác thì",
+    "options": [
+      "A.phải tính thuế giá trị gia tăng theo mức thuế suất 5%",
+      "B.tính thuế giá trị gia tăng phải nộp theo doanh thu bằng 1% (tỷ lệ %) nhân với doanh thu",
+      "C.phải tính thuế giá trị gia tăng theo mức thuế suất 10%",
+      "D.không phải kê khai, tính nộp thuế giá trị gia tăng"
+    ],
+    "answer": "D.không phải kê khai, tính nộp thuế giá trị gia tăng"
+  },
+  {
+    "question": "Câu 165Hộ, cá nhân sản xuất, kinh doanh, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã và tổ chức kinh tế khác nộp thuế giá trị gia tăng theo phương pháp tính trực tiếp khi bán sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường ở khâu kinh doanh thương mại thì",
+    "options": [
+      "A.phải tính thuế giá trị gia tăng theo mức thuế suất 5%",
+      "B.tính thuế giá trị gia tăng phải nộp theo doanh thu bằng 1% (tỷ lệ %) nhân với doanh thu",
+      "C.phải tính thuế giá trị gia tăng theo mức thuế suất 10%",
+      "D.không phải kê khai, tính nộp thuế giá trị gia tăng"
+    ],
+    "answer": "B.tính thuế giá trị gia tăng phải nộp theo doanh thu bằng 1% (tỷ lệ %) nhân với doanh thu"
+  },
+  {
+    "question": "Câu 166Trong kỳ tính thuế, Doanh nghiệp C thanh toán dịch vụ đầu vào được tính khấu trừ là loại hoá đơn đặc thù như các loại vé. Tổng giá thanh toán theo hoá đơn là 110 triệu đồng (giá có thuế GTGT), dịch vụ này chịu thuế là 10%, số thuế GTGT đầu vào được khấu trừ sẽ là:",
+    "options": [
+      "A.Không được khấu trừ.",
+      "B.10 triệu đồng.",
+      "C.11 triệu đồng.",
+      "D.Cả 3 đáp án trên đều sai."
+    ],
+    "answer": "B.10 triệu đồng."
+  },
+  {
+    "question": "Câu 167Doanh nghiệp A nhập khẩu 100 tấn hạt điều thô. Giá nhập khẩu quy đổi ra tiền Việt Nam là 50 triệu đồng/tấn, thuế nhập khẩu bằng 2, 5 triệu đồng/ tấn. Giá tính thuế GTGT nhập khẩu của lô hàng là bao nhiêu",
+    "options": [
+      "A.5 tỷ đồng",
+      "B.5, 25 tỷ đồng",
+      "C.4,75 tỷ đồng",
+      "D.Không thuộc đối tượng chịu thuế GTGT"
+    ],
+    "answer": "B.5, 25 tỷ đồng"
+  },
+  {
+    "question": "Câu 168Công ty A thực hiện tách doanh nghiệp từ 01/01/2026, Công ty còn số thuế GTGT còn được khấu trừ chuyển kỳ sau trên tờ khai thuế GTGT (mẫu 01/GTGT) tháng 12/2025 là 500 triệu đồng. Đối với số thuế GTGT đầu vào chưa được khấu trừ hết, Công ty A được:",
+    "options": [
+      "A.Hoàn thuế 500 triệu đồng",
+      "B.Hoàn thuế 200 triệu đồng",
+      "C.Không được hoàn thuế",
+      "D.A hoặc B đều đúng."
+    ],
+    "answer": "A.Hoàn thuế 500 triệu đồng"
+  },
+  {
+    "question": "Câu 169Ngày 09/01/2016, CSKD A mua xe ô tô 5 chỗ với giá 2 tỷ đồng, thuế GTGT 200 triệu đồng. CSKD được khấu trừ thuế GTGT đầu vào bao nhiêu theo quy định tại Nghị định số 181/2025/NĐ-CP ngày 01/7/2025?",
+    "options": [
+      "A.200 triệu đồng.",
+      "B.40 triệu đồng.",
+      "C.160 triệu đồng",
+      "D.Tất cả đều sai."
+    ],
+    "answer": "C.160 triệu đồng"
+  },
+  {
+    "question": "Câu 170Doanh nghiệp A nhận ủy thác xuất khẩu hàng hóa cho một doanh nghiệp khác và đã thực hiện xuất khẩu, trong đó: - Giá trị lô hàng xuất khẩu (chưa có thuế GTGT): 820 triệu đồng - Hoa hồng ủy thác (chưa có thuế GTGT ): 5% trên giá trị lô hàng Giá tính thuế GTGT đối với hợp đồng nhận ủy thác xuất khẩu là:",
+    "options": [
+      "A.820 triệu đồng.",
+      "B.41 triệu đồng.",
+      "C.861 triệu đồng.",
+      "D.Số khác."
+    ],
+    "answer": "B.41 triệu đồng."
+  },
+  {
+    "question": "Câu 171Công ty CP Dịch vụ kỹ thuật Bảo An xuất bán 10 chiếc máy tính ACER cho Công ty Hải Nam, với giá bán 10.000.000/chiếc. Nhân dịp khai trương Công ty đã giảm giá hàng bán (chiết khấu thương mại) 5%, thuế suất thuế GTGT 10% . Yêu cầu: Xác định thuế GTGT của lô hàng?",
+    "options": [
+      "A.9.500.000đ",
+      "B.10.000.000đ",
+      "C.10.500.000đ",
+      "D.9.000.000đ"
+    ],
+    "answer": "A.9.500.000đ"
+  },
+  {
+    "question": "Câu 172Năm tài chính 2026, doanh nghiệp có quỹ lương phải trả cho nhân viên là 1 tỷ đồng. Tính đến ngày 31/12/2026, doanh nghiệp đã chi trả 800 triệu, còn 200 triệu đồng tiền lương tháng 12 dự kiến trả vào năm sau. Đến hết thời hạn nộp hồ sơ quyết toán thuế TNDN năm 2026 (ngày 31/03/2027), doanh nghiệp mới chỉ chi trả thêm được 50 triệu, còn 150 triệu đồng vẫn chưa thanh toán cho nhân viên do khó khăn tài chính và doanh nghiệp không trích lập dự phòng quỹ tiền lương. Kế toán phải ghi nhận chi phí tiền lương cho năm 2026 trên Báo cáo tài chính là bao nhiêu?",
+    "options": [
+      "A.800 triệu đồng.",
+      "B.850 triệu đồng",
+      "C.1 tỷ đồng.",
+      "D.200 triệu đồng"
+    ],
+    "answer": "C.1 tỷ đồng."
+  },
+  {
+    "question": "Câu 173Phát biểu sau đây là đúng hay sai: Trong năm 2026, doanh nghiệp xuất một số sản phẩm (giá vốn 100 triệu, giá bán chưa thuế 150 triệu) để tặng cho khách hàng nhân dịp khai trương chi nhánh. Về mặt Kế toán, vì đây là quà tặng không thu tiền, kế toán chỉ cần ghi giảm hàng tồn kho và ghi tăng chi phí quản lý (Nợ TK 642 / Có TK 156: 100 triệu), không được ghi nhận doanh thu (TK 511) và không phải kê khai thuế GTGT đầu ra cho số hàng này",
+    "options": [
+      "A.Đúng",
+      "B.Sai"
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 174Công ty A chuyên cung cấp suất ăn công nghiệp, trong tháng 10/2024 có thuế GTGT đầu ra 10 triệu đồng, thuế GTGT đầu vào là 60 triệu đồng (trong đó có 2 hóa đơn đầu vào mua cùng ngày của cùng một nhà cung cấp, thanh toán tiền mặt, có số thuế GTGT là 2 triệu đồng). Thuế GTGT phải nộp của Công ty A trong tháng 10/2018 là:",
+    "options": [
+      "A.Còn được khấu trừ chuyển sang kỳ sau 50 triệu đồng",
+      "B.Còn được khấu trừ chuyển sang kỳ sau 48 triệu đồng",
+      "C.Phải nộp thuế GTGT 50 triệu đồng",
+      "D.Phải nộp thuế GTGT 48 triệu đồng"
+    ],
+    "answer": "B.Còn được khấu trừ chuyển sang kỳ sau 48 triệu đồng"
+  },
+  {
+    "question": "Câu 175Năm 2024, Công ty X nhập khẩu một lô hàng máy móc. Sau khi kiểm tra sau thông quan, cơ quan Hải quan ra quyết định ấn định thuế với số thuế GTGT tăng thêm phải nộp là 200 triệu đồng do trốn thuế; Công ty X đã nộp đủ 200 triệu đồng vào Ngân sách Nhà nước. Số thuế GTGT Công ty đã nộp thêm theo Quyết định ấn định thuế của cơ quan hải quan được khấu trừ là bao nhiêu?",
+    "options": [
+      "A.Không được khấu trừ",
+      "B.300 triệu đồng",
+      "C.200 triệu đồng"
+    ],
+    "answer": "A.Không được khấu trừ"
+  },
+  {
+    "question": "Câu 176Công ty A có vốn điều lệ đăng ký 5 tỷ đồng, thực góp 4 tỷ đồng. Công ty vay ngân hàng số tiền 800 triệu với lãi suất 10%/năm, chi phí lãi vay phát sinh năm 2024 là 80 triệu đồng. Hỏi chi phí lãi vay không được trừ năm 2024 tương ứng với phần vốn điều lệ đã đăng ký còn thiếu là bao nhiêu:",
+    "options": [
+      "A.150 triệu đồng.",
+      "B.80 triệu đồng",
+      "C.50 triệu đồng"
+    ],
+    "answer": "B.80 triệu đồng"
+  },
+  {
+    "question": "Câu 177Năm 2026, Nhân viên đi công tác, tổng hóa đơn tiền phòng và vé máy bay là 25 triệu đồng. Nhân viên dùng thẻ tín dụng cá nhân để thanh toán, sau đó về công ty thanh toán chuyển khoản cho cá nhân. Quy chế công ty có quy định hình thức này. Hỏi: Khoản chi phí này xử lý như thế nào?",
+    "options": [
+      "A.Được trừ toàn bộ vì có hóa đơn và có quy định tại quy chế.",
+      "B.Bị loại toàn bộ vì không thanh toán từ tài khoản công ty sang tài khoản người bán.",
+      "C.Chỉ được trừ phần thuế GTGT."
+    ],
+    "answer": "A.Được trừ toàn bộ vì có hóa đơn và có quy định tại quy chế."
+  },
+  {
+    "question": "Câu 178Doanh nghiệp B có lô hàng thực phẩm bị hư hỏng do thay đổi quá trình sinh hóa tự nhiên và một số sản phẩm đã hết hạn sử dụng. Doanh nghiệp không được bảo hiểm hay tổ chức nào bồi thường. Theo quy định hiện hành, khoản tổn thất này được xử lý như thế nào khi xác định thu nhập chịu thuế TNDN?",
+    "options": [
+      "A.Không được tính vào chi phí được trừ vì đây là tổn thất chủ quan của doanh nghiệp.",
+      "B.Được tính vào chi phí được trừ toàn bộ giá trị tổn thất nếu có đầy đủ hồ sơ theo quy định",
+      "C.Chỉ được tính vào chi phí được trừ tối đa 50% giá trị lô hàng bị hư hỏng"
+    ],
+    "answer": "B.Được tính vào chi phí được trừ toàn bộ giá trị tổn thất nếu có đầy đủ hồ sơ theo quy định"
+  },
+  {
+    "question": "Câu 179Năm 2023, Công ty A (kê khai theo phương pháp khấu trừ) trong tháng có các số liệu sau: Thuế GTGT đầu vào dùng chung cho các hoạt động: 100 triệu đồng. Doanh thu hàng hóa chịu thuế GTGT: 800 triệu đồng. Doanh thu hàng hóa không chịu thuế GTGT: 200 triệu đồng. Số thuế GTGT đầu vào không được khấu trừ trong tháng là bao nhiêu?",
+    "options": [
+      "A.100 triệu đồng",
+      "B.80 triệu đồng.",
+      "C.20 triệu đồng."
+    ],
+    "answer": "C.20 triệu đồng."
+  },
+  {
+    "question": "Câu 180Trong năm 2024, xưởng may của Công ty A có gom được một đống vải vụn, chỉ thừa (phế liệu) sau khi cắt may. Kế toán đem bán cho đơn vị thu mua đồng nát: Tiền thu về: 5.500.000 đồng (đã bao gồm 10% thuế GTGT). Chi phí thuê xe chở đống phế liệu đi bán: 500.000 đồng (có phiếu chi). Câu hỏi: Khoản Thu nhập khác từ bán phế liệu để tính thuế TNDN là bao nhiêu?",
+    "options": [
+      "A.5 triệu đồng.",
+      "B.4,5 triệu đồng.",
+      "C.4 triệu đồng"
+    ],
+    "answer": "B.4,5 triệu đồng."
+  },
+  {
+    "question": "Câu 181Công ty cơ khí Y quyết định tạm dừng hoạt động một dây chuyền sản xuất linh kiện trong vòng 10 tháng (từ tháng 1 đến tháng 10 năm 2023) để bảo trì, sữa chửa. Trong thời gian này, kế toán vẫn trích khấu hao đều đặn cho dây chuyền đó. Chi phí khấu hao trong 10 tháng tạm dừng này có được cơ quan thuế chấp nhận là chi phí hợp lý không?",
+    "options": [
+      "A.Được trừ khi tính thuế TNDN.",
+      "B.Không được trừ khi tính thuế TNDN"
+    ],
+    "answer": "A.Được trừ khi tính thuế TNDN."
+  },
+  {
+    "question": "Câu 182Theo quy định của Luật thuế Giá trị gia tăng số 48/2024/QH15 ngày 26/11/2024, dịch vụ tiêm chủng vắc xin thuộc đối tượng chịu thuế suất thuế GTGT như thế nào?",
+    "options": [
+      "A.5%.",
+      "B.10%.",
+      "C.Không chịu thuế GTGT.",
+      "D.Không phải kê khai tính thuế GTGT."
+    ],
+    "answer": "C.Không chịu thuế GTGT."
+  },
+  {
+    "question": "Câu 183Từ kỳ tính thuế năm 2025, Doanh nghiệp được thành lập hoạt động theo quy định của pháp luật Việt Nam được trích tối đa bao nhiêu % thu nhập tính thuế hàng năm trước khi tính thuế TNDN để lập quỹ phát triển khoa học và công nghệ của doanh nghiệp:",
+    "options": [
+      "A.5%.",
+      "B.0.1",
+      "C.15%.",
+      "D.0.2"
+    ],
+    "answer": "D.0.2"
+  },
+  {
+    "question": "Câu 184Qua kiểm tra phát hiện, Công ty cổ phần HSC có khoản chi tiền phạt vi phạm hành chính về thuế và đã tính vào chi phí được trừ khi xác định thu nhập tính thuế. Theo quy định của pháp luật hiện hành, khoản chi này khi tính thuế TNDN:",
+    "options": [
+      "A.Được trừ",
+      "B.Không được trừ",
+      "C.Được trừ 50%",
+      "D.Được trừ nếu Công ty giải trình được lý do hợp lý"
+    ],
+    "answer": "B.Không được trừ"
+  },
+  {
+    "question": "Câu 185Qua kiểm tra phát hiện, Công ty cổ phần HSC có khoản chi tiền chậm nộp tiền thuế TNDN và đã tính vào chi phí được trừ khi xác định thu nhập tính thuế. Theo quy định của pháp luật hiện hành, khoản chi này khi tính thuế TNDN:",
+    "options": [
+      "A.Được trừ",
+      "B.Không được trừ",
+      "C.Được trừ 50%",
+      "D.Được trừ nếu Công ty giải trình được lý do hợp lý"
+    ],
+    "answer": "B.Không được trừ"
+  },
+  {
+    "question": "Câu 186Năm 2021, công ty X có dự án đầu tư mới sản xuất sản phẩm Y và được hưởng ưu đãi về thuế suất 10% trong thời hạn 15 năm. Theo pháp luật thuế TNDN hiện hành, nếu dự án đầu tư này phát sinh doanh thu từ năm 2023 nhưng đến năm 2025 mới phát sinh thu nhập thì thời gian áp dụng thuế suất ưu đãi 10% được tính liên tục từ năm:",
+    "options": [
+      "A.Năm 2021.",
+      "B.Năm 2023.",
+      "C.Năm 2025.",
+      "D.Năm 2026."
+    ],
+    "answer": "B.Năm 2023."
+  },
+  {
+    "question": "Câu 187Qua kiểm tra thuế năm 2025 tại Công ty N, cơ quan thuế phát hiện khoản thu nhập từ hoạt động sản xuất kinh doanh của các năm trước bị bỏ sót chưa kê khai tính thuế. Đoàn kiểm tra kiến nghị hạch toán khoản thu nhập này vào thu nhập khác. Theo anh/chị, việc xác định của Đoàn kiểm tra là đúng hay sai?",
+    "options": [
+      "A.Đúng",
+      "B.Sai"
+    ],
+    "answer": "A.Đúng"
+  },
+  {
+    "question": "Câu 188Qua kiểm tra thể hiện trong năm 2025, Công ty khoản nợ phải thu khó đòi đã xóa 1 tỷ nhưng nay đã đòi được. Đoàn kiểm tra kiến nghị tính vào thu nhập khác đối với khoản công nợ này. Theo bạn, Đoàn kiểm tra xác định như vậy là đúng hay sai?",
+    "options": [
+      "A.Đúng",
+      "B.Sai"
+    ],
+    "answer": "A.Đúng"
+  },
+  {
+    "question": "Câu 189Công ty B trả lương cho nhân viên bằng tiền mặt với mức lương 6 triệu đồng/người/tháng (có chứng từ chi trả). Theo quy định tại Nghị định số 320/2025, chi phí tiền lương này có được trừ khi tính thuế TNDN không?",
+    "options": [
+      "A.Được trừ toàn bộ",
+      "B.Không được trừ vì phải thanh toán không dùng tiền mặt",
+      "C.Chỉ trừ 80%",
+      "D.Phụ thuộc vào ngành nghề"
+    ],
+    "answer": "A.Được trừ toàn bộ"
+  },
+  {
+    "question": "Câu 190Công ty khai thác tài nguyên quý hiếm (bao gồm: bạch kim, vàng, bạc, thiếc, wonfram, antimoan, đá quý, đất hiếm và tài nguyên quý hiếm khác theo quy định của pháp luật) có thu nhập từ hoạt động khai thác. Theo Luật Thuế TNDN 2025, mức thuế suất áp dụng cho thu nhập này là?",
+    "options": [
+      "A.0.15",
+      "B.0.2",
+      "C.0.5",
+      "D.Miễn thuế"
+    ],
+    "answer": "C.0.5"
+  },
+  {
+    "question": "Câu 191Năm 2025, công ty sản xuất phần mềm A chi 800 triệu đồng quảng cáo trên Google và Facebook (có hóa đơn, chứng từ hợp lệ). Chi phí này có được tính vào chi phí được trừ khi tính thuế TNDN không?",
+    "options": [
+      "A.Không được trừ",
+      "B.Được trừ 800 triệu đồng",
+      "C.Chỉ được trừ 50%",
+      "D.Chỉ được trừ nếu quảng cáo trong nước"
+    ],
+    "answer": "B.Được trừ 800 triệu đồng"
+  },
+  {
+    "question": "Câu 192Công ty TNHH ABC là doanh nghiệp sản xuất thông thường, không thuộc trường hợp ưu đãi thuế, không thuộc lĩnh vực khai thác tài nguyên, có doanh thu năm 2024 là 45 tỷ đồng, năm 2025 là 55 tỷ đồng. Theo Luật Thuế TNDN 2025, mức thuế suất áp dụng cho công ty này là bao nhiêu? Biết rằng: Công ty đáp ứng đủ điều kiện áp dụng ưu đãi thuế theo Điều 18 Luật thuế TNDN năm 2025.",
+    "options": [
+      "A.0.15",
+      "B.0.17",
+      "C.0.2",
+      "D.0.32"
+    ],
+    "answer": "B.0.17"
+  },
+  {
+    "question": "Câu 193Công ty TNHH ABC là doanh nghiệp sản xuất thông thường, không thuộc trường hợp ưu đãi thuế, không thuộc lĩnh vực khai thác tài nguyên, có doanh thu năm 2024 là 3 tỷ đồng, năm 2025 là 5 tỷ đồng. Theo Luật Thuế TNDN 2025, mức thuế suất áp dụng cho công ty này là bao nhiêu? Biết rằng: Công ty đáp ứng đủ điều kiện theo Điều 18 Luật thuế TNDN năm 2025.",
+    "options": [
+      "A.0.15",
+      "B.0.17",
+      "C.0.2",
+      "D.0.32"
+    ],
+    "answer": "A.0.15"
+  },
+  {
+    "question": "Câu 194Công ty TNHH ABC là doanh nghiệp sản xuất thông thường, không thuộc trường hợp ưu đãi thuế, không thuộc lĩnh vực khai thác tài nguyên, có doanh thu năm 2025 là 180 tỷ đồng. Theo Luật Thuế TNDN 2025, mức thuế suất áp dụng cho công ty này là bao nhiêu?",
+    "options": [
+      "A.0.15",
+      "B.0.17",
+      "C.0.2",
+      "D.0.32"
+    ],
+    "answer": "C.0.2"
+  },
+  {
+    "question": "Câu 195Doanh nghiệp A chỉ sản xuất hàng hóa chịu thuế suất thuế giá trị gia tăng 5% có số thuế giá trị gia tăng đầu vào chưa được khấu trừ hết liên tục từ quý 1/2026 đến quý 4/2026 với số tiền luỹ kế là 250 triệu đồng. Theo quy định tại Nghị định 181/2025/NĐ-CP, doanh nghiệp A được giải quyết hoàn?",
+    "options": [
+      "A.Được hoàn 250 triệu đồng",
+      "B.Không được hoàn vì dưới 300 triệu đồng",
+      "C.Được hoàn nếu chứng minh được xuất khẩu",
+      "D.Được hoàn 200 triệu đồng"
+    ],
+    "answer": "B.Không được hoàn vì dưới 300 triệu đồng"
+  },
+  {
+    "question": "Câu 196Công ty A vừa có hàng hóa, dịch vụ xuất khẩu, vừa có hàng hoá, dịch vụ bán trong nước nếu không hạch toán riêng được thuế GTGT đầu vào phục vụ cho xuất khẩu và nội địa, theo Thông tư số 69/2025/TT-BTC cách xác định số thuế GTGT đầu vào được khấu trừ được hoàn là:",
+    "options": [
+      "A.Không được khấu trừ/ hoàn",
+      "B.Phân bổ theo tỷ lệ doanh thu xuất khẩu",
+      "C.Áp dụng hoàn toàn bộ",
+      "D.Chuyển hết sang thuế suất 5%"
+    ],
+    "answer": "B.Phân bổ theo tỷ lệ doanh thu xuất khẩu"
+  },
+  {
+    "question": "Câu 197Công ty F kinh doanh thương mại, mua bán mặt hàng chịu thuế suất thuế GTGT 5%, có số thuế giá trị gia tăng đầu vào chưa được khấu trừ hết liên tục từ kỳ quý 1/2026 đến quý 4/2026 với số tiền luỹ kế là 350 triệu đồng. Công ty có được hoàn thuế GTGT theo Nghị định 181/2025/NĐ-CP?",
+    "options": [
+      "A.Không được hoàn thuế GTGT",
+      "B.Được hoàn thuế GTGT số tiền 350 triệu đồng",
+      "C.Được hoàn thuế GTGT số tiền 300 triệu đồng"
+    ],
+    "answer": "A.Không được hoàn thuế GTGT"
+  },
+  {
+    "question": "Câu 198Công ty F chỉ sản xuất mặt hàng chịu thuế suất thuế GTGT 5%, có số thuế giá trị gia tăng đầu vào chưa được khấu trừ hết liên tục từ kỳ quý 1/2026 đến quý 4/2026 với số tiền luỹ kế là 350 triệu đồng. Công ty có được hoàn thuế theo Nghị định 181/2025/NĐ-CP?",
+    "options": [
+      "A.Không được hoàn",
+      "B.Được hoàn 350 triệu đồng",
+      "C.Được hoàn 300 triệu đồng"
+    ],
+    "answer": "B.Được hoàn 350 triệu đồng"
+  },
+  {
+    "question": "Câu 199Doanh nghiệp E sản xuất và bán phân bón cho nông dân với số tiền 48 triệu đồng (đã bao gồm thuế). Theo Nghị định 181/2025/NĐ-CP, mức thuế suất GTGT áp dụng là?",
+    "options": [
+      "A.0",
+      "B.0.05",
+      "C.0.1",
+      "D.Không chịu thuế"
+    ],
+    "answer": "B.0.05"
+  },
+  {
+    "question": "Câu 200Công ty D cung cấp dịch vụ sửa chữa tàu bay cho hãng hàng không nước ngoài, thực hiện tại khu vực cảng hàng không quốc tế Đà Nẵng. Theo Nghị định 181/2025/NĐ-CP thì thuế suất thuế GTGT áp dụng cho dịch vụ này là?",
+    "options": [
+      "A.0.1",
+      "B.0.05",
+      "C.0",
+      "D.Không chịu thuế"
+    ],
+    "answer": "C.0"
+  },
+  {
+    "question": "Câu 201Công ty C là doanh nghiệp trực tiếp đánh bắt thủy sản, bán tôm nguyên con (chưa qua chế biến) cho hợp tác xã với giá 12 triệu đồng. Theo Nghị định 181/2025/NĐ-CP (đã được sửa đổi bổ sung tại Nghị định 359/2025/NĐ-CP). Sản phẩm do Công ty C bán ra thuộc đối tượng?",
+    "options": [
+      "A.Chịu thuế GTGT 5%",
+      "B.Chịu thuế GTGT 8%",
+      "C.Chịu thuế GTGT 10%",
+      "D.Không chịu thuế GTGT"
+    ],
+    "answer": "D.Không chịu thuế GTGT"
+  },
+  {
+    "question": "Câu 202Tháng 9/2025, Công ty B xuất khẩu lô hàng cà phê rang xay sang Nhật Bản, Công ty B thuê Công ty C cung cấp dịch vụ vận tải hàng hoá xuất khẩu, theo đó hợp đồng vận tải quốc tế bao gồm cả chặng nội địa. Theo Nghị định 181, thuế suất GTGT áp dụng cho dịch vụ vận tải này là bao nhiêu?",
+    "options": [
+      "A.0.1",
+      "B.0.05",
+      "C.0",
+      "D.Không chịu thuế"
+    ],
+    "answer": "C.0"
+  },
+  {
+    "question": "Câu 203Công ty A mua nguyên vật liệu trị giá 8 triệu đồng (đã bao gồm thuế GTGT) từ nhà cung cấp bằng tiền mặt vào tháng 8/2025. Theo Nghị định 181/2025/NĐ-CP, công ty A có được khấu trừ thuế GTGT đầu vào của hóa đơn này không?",
+    "options": [
+      "A.Được khấu trừ",
+      "B.Không được khấu trừ.",
+      "C.Được khấu trừ nếu có giấy xác nhận của nhà cung cấp"
+    ],
+    "answer": "B.Không được khấu trừ."
+  },
+  {
+    "question": "Câu 204Năm 2016, DN A có dự án đầu tư mới sản xuất SP A và được hưởng ưu đãi về thời gian miễn thuế, giảm thuế theo mức miễn 4 năm và giảm 50% số thuế phải nộp trong 9 năm tiếp theo. Nếu dự án phát sinh doanh thu từ năm 2016, đến năm 2018 mới phát sinh thu nhập chịu thuế thì thời gian tính miễn thuế, giảm thuế được tính liên tục từ năm:",
+    "options": [
+      "A.2016.",
+      "B.2017",
+      "C.2018",
+      "D.2019"
+    ],
+    "answer": "C.2018"
+  },
+  {
+    "question": "Câu 205Khoản chi nào sau đây không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN:",
+    "options": [
+      "A.Tiền lương, tiền công của chủ doanh nghiệp tư nhân; Tiền lương, tiền công của chủ công ty TNHH 1 thành viên (do 1 cá nhân làm chủ).",
+      "B.Tiền lương trả cho các thành viên của hội đồng quản trị trực tiếp tham gia điều hành sản xuất, kinh doanh hàng hóa, dịch vụ.",
+      "C.Cả hai khoản chi (a) và (b) nêu trên",
+      "D.Không có đáp án đúng."
+    ],
+    "answer": "A.Tiền lương, tiền công của chủ doanh nghiệp tư nhân; Tiền lương, tiền công của chủ công ty TNHH 1 thành viên (do 1 cá nhân làm chủ)."
+  },
+  {
+    "question": "Câu 206Theo quy định của Nghị định 181/2025/NĐ-CP, đối tượng không chịu thuế GTGT là",
+    "options": [
+      "A.Chuyển quyền sử dụng đất theo quy định của pháp luật về đất đai",
+      "B.Vận chuyển hành khách công cộng bằng xe buýt",
+      "C.Sách phục vụ thông tin đối ngoại",
+      "D.Cả 3 đáp án trên"
+    ],
+    "answer": "D.Cả 3 đáp án trên"
+  },
+  {
+    "question": "Câu 207Theo quy định của Nghị định 181/2025/NĐ-CP, Nhà ở thuộc tài sản công do Nhà nước bán cho người đang thuê là đối tượng",
+    "options": [
+      "A.Chịu thuế suất 5%",
+      "B.Không chịu thuế GTGT",
+      "C.Chịu thuế GTGT 10%"
+    ],
+    "answer": "B.Không chịu thuế GTGT"
+  },
+  {
+    "question": "Câu 208Theo quy định của Nghị định 181/2025/NĐ-CP, Dịch vụ cho vay của người nộp thuế không phải là tổ chức tín dụng",
+    "options": [
+      "A.Không chịu thuế GTGT",
+      "B.Chịu thuế suất 5%",
+      "C.Chịu thuế GTGT 10%"
+    ],
+    "answer": "A.Không chịu thuế GTGT"
+  },
+  {
+    "question": "Câu 209Theo quy định của Nghị định 181/2025/NĐ-CP, môi giới chứng khoán là đối tượng",
+    "options": [
+      "A.Không chịu thuế GTGT",
+      "B.Chịu thuế suất 5%",
+      "C.Chịu thuế GTGT 10%"
+    ],
+    "answer": "A.Không chịu thuế GTGT"
+  },
+  {
+    "question": "Câu 210Theo quy định của Nghị định 181/2025/NĐ-CP, quặng để sản xuất phân bón là đối tượng",
+    "options": [
+      "A.Không chịu thuế GTGT",
+      "B.Chịu thuế suất 5%",
+      "C.Chịu thuế GTGT 10%"
+    ],
+    "answer": "B.Chịu thuế suất 5%"
+  },
+  {
+    "question": "Câu 211Theo quy định của Nghị định 181/2025/NĐ-CP, Dịch vụ đào đắp, nạo vét kênh, mương, ao hồ phục vụ sản xuất nông nghiệp là đối tượng",
+    "options": [
+      "A.Chịu thuế suất 5%",
+      "B.Chịu thuế GTGT 10%",
+      "C.Không chịu thuế GTGT"
+    ],
+    "answer": "C.Không chịu thuế GTGT"
+  },
+  {
+    "question": "Câu 212Theo quy định của Nghị định 181/2025/NĐ-CP, Mủ cao su là đối tượng",
+    "options": [
+      "A.Chịu thuế suất 5%",
+      "B.Chịu thuế GTGT 10%",
+      "C.Không chịu thuế GTGT"
+    ],
+    "answer": "A.Chịu thuế suất 5%"
+  },
+  {
+    "question": "Câu 213Theo quy định của Nghị định 181/2025/NĐ-CP, sản phẩm nào không chịu thuế GTGT",
+    "options": [
+      "A.Tàu khai thác thủy sản tại vùng biển",
+      "B.Hoạt động nghệ thuật biểu diễn truyền thống",
+      "C.Đồ chơi cho trẻ em",
+      "D.Sách giáo khoa"
+    ],
+    "answer": "A.Tàu khai thác thủy sản tại vùng biển"
+  },
+  {
+    "question": "Câu 214Theo Nghị định 70/2025/NĐ-CP, văn bản này sửa đổi, bổ sung chủ yếu về lĩnh vực nào?",
+    "options": [
+      "A.Quản lý thuế doanh nghiệp và thuế thu nhập cá nhân",
+      "B.Quy định về hóa đơn, chứng từ",
+      "C.Hải quan điện tử và xuất nhập khẩu",
+      "D.Đăng ký kinh doanh và cấp phép doanh nghiệp"
+    ],
+    "answer": "B.Quy định về hóa đơn, chứng từ"
+  },
+  {
+    "question": "Câu 215Theo Nghị định 70/2025/NĐ-CP, hóa đơn điện tử khởi tạo từ máy tính tiền kết nối chuyển dữ liệu điện tử với cơ quan thuế là loại hóa đơn như thế nào?",
+    "options": [
+      "A.Chỉ là hóa đơn do cơ quan thuế trực tiếp phát hành",
+      "B.Là hóa đơn có mã của cơ quan thuế hoặc dữ liệu điện tử lập từ hệ thống tính tiền của người bán, chuyển dữ liệu đến cơ quan thuế",
+      "C.Là hóa đơn điện tử in từ hệ thống của Kho bạc Nhà nước",
+      "D.Là biên lai thu tiền của Ngân hàng thương mại"
+    ],
+    "answer": "B.Là hóa đơn có mã của cơ quan thuế hoặc dữ liệu điện tử lập từ hệ thống tính tiền của người bán, chuyển dữ liệu đến cơ quan thuế"
+  },
+  {
+    "question": "Câu 216Căn cứ Nghị định 70/2025/NĐ-CP, nhà cung cấp ở nước ngoài không có cơ sở thường trú tại Việt Nam có hoạt động kinh doanh thương mại điện tử thực hiện đăng ký sử dụng hóa đơn điện tử theo hình thức nào?",
+    "options": [
+      "A.Bắt buộc đăng ký",
+      "B.Không được đăng ký",
+      "C.Đăng ký tự nguyện",
+      "D.Phải thông qua đại lý thuế tại Việt Nam"
+    ],
+    "answer": "C.Đăng ký tự nguyện"
+  },
+  {
+    "question": "Câu 217Theo Nghị định 70/2025/NĐ-CP, chứng từ điện tử được định nghĩa thể hiện ở hình thức nào?",
+    "options": [
+      "A.Dưới dạng văn bản giấy được in ra từ máy tính",
+      "B.Dưới dạng dữ liệu điện tử do tổ chức, cá nhân có trách nhiệm khấu trừ thuế, thu thuế, phí cấp bằng phương tiện điện tử",
+      "C.Dưới dạng bản sao y công chứng từ bản gốc",
+      "D.Dưới dạng tin nhắn văn bản thông thường"
+    ],
+    "answer": "B.Dưới dạng dữ liệu điện tử do tổ chức, cá nhân có trách nhiệm khấu trừ thuế, thu thuế, phí cấp bằng phương tiện điện tử"
+  },
+  {
+    "question": "Câu 218Căn cứ Nghị định 70/2025/NĐ-CP, tiêu hủy hóa đơn, chứng từ điện tử được hiểu là gì?",
+    "options": [
+      "A.Là việc cắt, xé nhỏ hoặc đốt hóa đơn điện tử in ra giấy",
+      "B.Là biện pháp làm cho hóa đơn, chứng từ điện tử không còn tồn tại trên hệ thống thông tin, không thể truy cập và tham chiếu",
+      "C.Là hành động xóa tài khoản đăng nhập trên hệ thống thuế",
+      "D.Là việc gửi thông báo thu hồi lại hóa đơn cho khách hàng"
+    ],
+    "answer": "B.Là biện pháp làm cho hóa đơn, chứng từ điện tử không còn tồn tại trên hệ thống thông tin, không thể truy cập và tham chiếu"
+  },
+  {
+    "question": "Câu 219Theo Nghị định 70/2025/NĐ-CP, hóa đơn, chứng từ được phép thực hiện tiêu hủy khi đáp ứng điều kiện nào sau đây?",
+    "options": [
+      "A.Khi khách hàng không có nhu cầu lấy hóa đơn",
+      "B.Khi hóa đơn, chứng từ đã hết thời hạn lưu trữ theo quy định pháp luật",
+      "C.Khi doanh nghiệp thay đổi tên gọi hoặc địa chỉ",
+      "D.Bất cứ lúc nào doanh nghiệp cảm thấy không cần thiết"
+    ],
+    "answer": "B.Khi hóa đơn, chứng từ đã hết thời hạn lưu trữ theo quy định pháp luật"
+  },
+  {
+    "question": "Câu 220Theo Nghị định 70/2025/NĐ-CP, Cổng thông tin điện tử của Tổng cục Thuế về hóa đơn điện tử dành cho người nộp thuế có chức năng chính nào?",
+    "options": [
+      "A.Chỉ là nơi để lưu trữ và tải hóa đơn điện tử",
+      "B.Gửi phản hồi tự động về việc tiếp nhận, gửi thông báo và kết quả giải quyết các nội dung liên quan đến hóa đơn điện tử",
+      "C.Cung cấp miễn phí chữ ký số cho mọi doanh nghiệp",
+      "D.Thay thế hoàn toàn phần mềm kế toán của doanh nghiệp"
+    ],
+    "answer": "B.Gửi phản hồi tự động về việc tiếp nhận, gửi thông báo và kết quả giải quyết các nội dung liên quan đến hóa đơn điện tử"
+  },
+  {
+    "question": "Câu 221Căn cứ Nghị định 70/2025/NĐ-CP, trong trường hợp cá nhân ủy quyền quyết toán thuế thì tổ chức trả thu nhập có cấp chứng từ khấu trừ thuế thu nhập cá nhân không?",
+    "options": [
+      "A.Có, bắt buộc phải cấp",
+      "B.Chỉ cấp khi cá nhân có yêu cầu bằng văn bản",
+      "C.Không cấp chứng từ khấu trừ thuế thu nhập cá nhân",
+      "D.Cấp biên lai thu tiền thay cho chứng từ"
+    ],
+    "answer": "C.Không cấp chứng từ khấu trừ thuế thu nhập cá nhân"
+  },
+  {
+    "question": "Câu 222Theo Nghị định 70/2025/NĐ-CP, hóa đơn thương mại điện tử được quy định áp dụng đối với đối tượng nào?",
+    "options": [
+      "A.Tổ chức, doanh nghiệp, cá nhân có hoạt động xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài",
+      "B.Hộ kinh doanh buôn bán nội địa",
+      "C.Cơ quan hành chính sự nghiệp",
+      "D.Hệ thống siêu thị bán lẻ trong nước"
+    ],
+    "answer": "A.Tổ chức, doanh nghiệp, cá nhân có hoạt động xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài"
+  },
+  {
+    "question": "Câu 223Căn cứ Nghị định 70/2025/NĐ-CP, thời điểm lập hóa đơn đối với hoạt động bán hàng hóa được xác định là thời điểm nào?",
+    "options": [
+      "A.Là thời điểm người bán nhận được tiền thanh toán từ người mua",
+      "B.Là thời điểm hai bên chính thức ký kết hợp đồng",
+      "C.Là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa, không phân biệt đã thu được tiền hay chưa",
+      "D.Là ngày cuối cùng của tháng phát sinh giao dịch"
+    ],
+    "answer": "C.Là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa, không phân biệt đã thu được tiền hay chưa"
+  },
+  {
+    "question": "Câu 224Theo Nghị định 70/2025/NĐ-CP, thời điểm lập hóa đơn đối với hoạt động cung cấp dịch vụ là khi nào?",
+    "options": [
+      "A.Khi đã thu được toàn bộ phí dịch vụ",
+      "B.Khi ký biên bản thỏa thuận dịch vụ",
+      "C.Là thời điểm hoàn thành việc cung cấp dịch vụ, không phân biệt đã thu được tiền hay chưa",
+      "D.Khi khách hàng thanh toán lần đầu tiên"
+    ],
+    "answer": "C.Là thời điểm hoàn thành việc cung cấp dịch vụ, không phân biệt đã thu được tiền hay chưa"
+  },
+  {
+    "question": "Câu 225Theo Nghị định 70/2025/NĐ-CP, hóa đơn điện tử bán xăng dầu cho khách hàng cá nhân không kinh doanh có bắt buộc phải hiển thị tên, địa chỉ, mã số thuế người mua không?",
+    "options": [
+      "A.Có, đây là những thông tin bắt buộc",
+      "B.Không nhất thiết phải có tên, địa chỉ, mã số thuế người mua",
+      "C.Bắt buộc phải có mã số thuế nhưng không cần tên, địa chỉ",
+      "D.Bắt buộc có họ tên nhưng không cần mã số thuế"
+    ],
+    "answer": "B.Không nhất thiết phải có tên, địa chỉ, mã số thuế người mua"
+  },
+  {
+    "question": "Câu 226Căn cứ Nghị định 70/2025/NĐ-CP, tên hàng hóa, dịch vụ trên hóa đơn phải được ghi bằng ngôn ngữ nào?",
+    "options": [
+      "A.Bắt buộc dùng tiếng Anh đối với hàng nhập khẩu",
+      "B.Phải thể hiện bằng tiếng Việt",
+      "C.Bắt buộc ghi song ngữ Anh - Việt",
+      "D.Có thể sử dụng bất kỳ ngôn ngữ nào do hai bên thỏa thuận"
+    ],
+    "answer": "B.Phải thể hiện bằng tiếng Việt"
+  },
+  {
+    "question": "Câu 227Theo Nghị định 70/2025/NĐ-CP, thời điểm ký số trên hóa đơn điện tử được xác định như thế nào?",
+    "options": [
+      "A.Là thời điểm người bán, người mua sử dụng chữ ký số để ký trên hóa đơn điện tử",
+      "B.Đồng nhất với thời điểm tạo file nháp hóa đơn",
+      "C.Là thời điểm email chứa hóa đơn được gửi đi",
+      "D.Là thời điểm khách hàng chuyển khoản thanh toán"
+    ],
+    "answer": "A.Là thời điểm người bán, người mua sử dụng chữ ký số để ký trên hóa đơn điện tử"
+  },
+  {
+    "question": "Câu 228Căn cứ Nghị định 70/2025/NĐ-CP, chữ số ghi trên biên lai điện tử phải là các chữ số nào?",
+    "options": [
+      "A.Chỉ sử dụng chữ số La Mã",
+      "B.Là các chữ số tự nhiên từ 0 đến 9",
+      "C.Bắt buộc phải ghi bằng chữ cái",
+      "D.Có thể dùng hệ nhị phân"
+    ],
+    "answer": "B.Là các chữ số tự nhiên từ 0 đến 9"
+  },
+  {
+    "question": "Câu 229Theo Nghị định 70/2025/NĐ-CP, đồng tiền ghi trên biên lai thu thuế, phí, lệ phí mặc định là đồng tiền nào?",
+    "options": [
+      "A.Đồng Việt Nam",
+      "B.Đô la Mỹ",
+      "C.Euro",
+      "D.Theo loại tiền tệ mà khách hàng sử dụng để thanh toán"
+    ],
+    "answer": "A.Đồng Việt Nam"
+  },
+  {
+    "question": "Câu 230Căn cứ Nghị định 70/2025/NĐ-CP, tổ chức thu thuế, phí, lệ phí có được phép ủy nhiệm cho bên thứ ba lập biên lai hay không?",
+    "options": [
+      "A.Hoàn toàn không được phép",
+      "B.Được phép, nhưng phải bằng văn bản và thông báo cho cơ quan thuế trực tiếp",
+      "C.Được phép thực hiện thông qua thỏa thuận miệng",
+      "D.Chỉ được phép ủy nhiệm cho Ngân hàng Nhà nước"
+    ],
+    "answer": "B.Được phép, nhưng phải bằng văn bản và thông báo cho cơ quan thuế trực tiếp"
+  },
+  {
+    "question": "Câu 231Theo Nghị định 70/2025/NĐ-CP, định dạng chứng từ điện tử sử dụng ngôn ngữ định dạng văn bản nào để chia sẻ dữ liệu?",
+    "options": [
+      "A.Ngôn ngữ HTML",
+      "B.Ngôn ngữ JSON",
+      "C.Ngôn ngữ XML (eXtensible Markup Language)",
+      "D.Ngôn ngữ CSV"
+    ],
+    "answer": "C.Ngôn ngữ XML (eXtensible Markup Language)"
+  },
+  {
+    "question": "Câu 232Theo Nghị định 70/2025/NĐ-CP, trong trường hợp kỳ báo cáo không sử dụng biên lai nào, Báo cáo tình hình sử dụng biên lai được ghi nhận thế nào?",
+    "options": [
+      "A.Doanh nghiệp không cần phải nộp Báo cáo",
+      "B.Tại báo cáo ghi số lượng biên lai sử dụng bằng 0",
+      "C.Nộp văn bản giải trình lý do không sử dụng",
+      "D.Phải đóng phạt trước khi nộp báo cáo trắng"
+    ],
+    "answer": "B.Tại báo cáo ghi số lượng biên lai sử dụng bằng 0"
+  },
+  {
+    "question": "Câu 233Căn cứ Nghị định 70/2025/NĐ-CP, khi lập hóa đơn điện tử điều chỉnh cho hóa đơn đã lập sai, trên hóa đơn mới bắt buộc phải ghi dòng chữ nào?",
+    "options": [
+      "A.Thay thế cho hóa đơn mẫu số...",
+      "B.Hủy bỏ hiệu lực của hóa đơn mẫu số...",
+      "C.Điều chỉnh cho hóa đơn Mẫu số... ký hiệu... số... ngày... tháng... năm",
+      "D.Hóa đơn bổ sung giá trị"
+    ],
+    "answer": "C.Điều chỉnh cho hóa đơn Mẫu số... ký hiệu... số... ngày... tháng... năm"
+  },
+  {
+    "question": "Câu 234Theo Nghị định 70/2025/NĐ-CP, nếu hóa đơn điện tử đã lập sai mã số thuế hoặc sai số tiền, người bán có quyền xử lý như thế nào?",
+    "options": [
+      "A.Chỉ được phép lập biên bản, không được thay đổi hóa đơn",
+      "B.Chỉ được lập duy nhất hóa đơn thay thế",
+      "C.Được quyền lựa chọn lập hóa đơn điện tử điều chỉnh hoặc hóa đơn điện tử thay thế",
+      "D.Đơn phương hủy hóa đơn trên hệ thống mà không cần lập hóa đơn mới"
+    ],
+    "answer": "C.Được quyền lựa chọn lập hóa đơn điện tử điều chỉnh hoặc hóa đơn điện tử thay thế"
+  },
+  {
+    "question": "Câu 235Căn cứ Nghị định 70/2025/NĐ-CP, hóa đơn điện tử khởi tạo từ máy tính tiền kết nối dữ liệu với cơ quan thuế có bắt buộc phải có chữ ký số không?",
+    "options": [
+      "A.Bắt buộc có chữ ký số của người bán",
+      "B.Bắt buộc có chữ ký số của cả người bán và người mua",
+      "C.Không bắt buộc có chữ ký số",
+      "D.Chỉ bắt buộc đối với hóa đơn có tổng trị giá trên 20 triệu đồng"
+    ],
+    "answer": "C.Không bắt buộc có chữ ký số"
+  },
+  {
+    "question": "Câu 236Theo Nghị định 70/2025/NĐ-CP, đối với hoạt động kinh doanh bảo hiểm, thời điểm lập hóa đơn được xác định là thời điểm nào?",
+    "options": [
+      "A.Khi khách hàng thanh toán phí bảo hiểm đầy đủ",
+      "B.Là thời điểm ghi nhận doanh thu bảo hiểm theo quy định pháp luật về kinh doanh bảo hiểm",
+      "C.Vào ngày cuối cùng của quý",
+      "D.Là ngày ký hợp đồng bảo hiểm"
+    ],
+    "answer": "B.Là thời điểm ghi nhận doanh thu bảo hiểm theo quy định pháp luật về kinh doanh bảo hiểm"
+  },
+  {
+    "question": "Câu 237Theo Nghị định 70/2025/NĐ-CP, nếu phát hiện hóa đơn điện tử đã lập chỉ bị sai về tên, địa chỉ của người mua (không sai MST, tiền thuế), người bán cần làm gì?",
+    "options": [
+      "A.Bắt buộc phải lập hóa đơn điều chỉnh",
+      "B.Bắt buộc phải lập hóa đơn thay thế",
+      "C.Thông báo cho người mua về việc sai sót và thông báo với cơ quan thuế (theo Mẫu 04/SS-HĐĐT), không phải lập lại hóa đơn",
+      "D.Lập biên bản thu hồi hóa đơn sai"
+    ],
+    "answer": "C.Thông báo cho người mua về việc sai sót và thông báo với cơ quan thuế (theo Mẫu 04/SS-HĐĐT), không phải lập lại hóa đơn"
+  },
+  {
+    "question": "Câu 238Căn cứ Nghị định 70/2025/NĐ-CP, trong các ngành đặc thù lập hóa đơn sau khi đối soát (viễn thông, điện, logistic...), kỳ quy ước được xác định dựa trên cơ sở nào?",
+    "options": [
+      "A.Theo quy định ấn định của cơ quan thuế địa phương",
+      "B.Căn cứ vào thỏa thuận giữa đơn vị bán hàng hóa, cung cấp dịch vụ với người mua",
+      "C.Luôn luôn là 30 ngày",
+      "D.Được xác định theo chu kỳ thanh toán do ngân hàng đề xuất"
+    ],
+    "answer": "B.Căn cứ vào thỏa thuận giữa đơn vị bán hàng hóa, cung cấp dịch vụ với người mua"
+  },
+  {
+    "question": "Câu 239Căn cứ Nghị định 70/2025/NĐ-CP, trường hợp bên nhận ủy nhiệm lập hóa đơn ủy nhiệm là hóa đơn điện tử không có mã của cơ quan thuế, bên ủy nhiệm phải làm gì?",
+    "options": [
+      "A.Gửi dữ liệu trực tiếp cho cơ quan thuế",
+      "B.Phải chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế thông qua tổ chức cung cấp dịch vụ",
+      "C.Phó mặc trách nhiệm gửi dữ liệu cho bên nhận ủy nhiệm",
+      "D.Không cần thiết phải gửi dữ liệu do đã có văn bản ủy nhiệm"
+    ],
+    "answer": "B.Phải chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế thông qua tổ chức cung cấp dịch vụ"
+  },
+  {
+    "question": "Câu 240Theo Nghị định 70/2025/NĐ-CP, khi tên, địa chỉ của người mua quá dài, người bán có được phép viết tắt trên hóa đơn điện tử không?",
+    "options": [
+      "A.Hoàn toàn không, phải viết đầy đủ chính xác từng từ",
+      "B.Được viết ngắn gọn một số danh từ thông dụng (như 'Phường' thành 'P', 'Thành phố' thành 'TP') nhưng phải đảm bảo xác định được chính xác tên, địa chỉ",
+      "C.Chỉ được viết tắt tên tỉnh/thành phố",
+      "D.Được viết tắt tùy ý miễn là người mua đọc hiểu"
+    ],
+    "answer": "B.Được viết ngắn gọn một số danh từ thông dụng (như 'Phường' thành 'P', 'Thành phố' thành 'TP') nhưng phải đảm bảo xác định được chính xác tên, địa chỉ"
+  },
+  {
+    "question": "Câu 241Theo Nghị định 70/2025/NĐ-CP, đối với cá nhân ký hợp đồng lao động từ 03 tháng trở lên, tổ chức trả thu nhập thực hiện cấp chứng từ khấu trừ thuế TNCN theo hình thức nào?",
+    "options": [
+      "A.Cấp theo mỗi lần phát sinh chi trả thu nhập",
+      "B.Cấp đều đặn mỗi tháng một lần",
+      "C.Chỉ cấp cho cá nhân một chứng từ khấu trừ thuế duy nhất trong một năm tính thuế",
+      "D.Không cấp vì đây là trách nhiệm của cơ quan thuế"
+    ],
+    "answer": "C.Chỉ cấp cho cá nhân một chứng từ khấu trừ thuế duy nhất trong một năm tính thuế"
+  },
+  {
+    "question": "Câu 242Căn cứ Nghị định 70/2025/NĐ-CP, đối với hoạt động kinh doanh casino và trò chơi điện tử có thưởng, thời hạn muộn nhất để lập hóa đơn điện tử là khi nào?",
+    "options": [
+      "A.Ngay lập tức sau khi người chơi kết thúc lượt chơi",
+      "B.Trước khi kết thúc ngày dương lịch",
+      "C.Chậm nhất là 01 ngày kể từ thời điểm kết thúc ngày xác định doanh thu",
+      "D.Vào ngày 10 của tháng liền kề"
+    ],
+    "answer": "C.Chậm nhất là 01 ngày kể từ thời điểm kết thúc ngày xác định doanh thu"
+  },
+  {
+    "question": "Câu 243Theo Nghị định 70/2025/NĐ-CP, người xuất khẩu hàng hóa phải xác định thời điểm lập hóa đơn thương mại điện tử chậm nhất là khi nào?",
+    "options": [
+      "A.Ngay khi hai bên hoàn thành việc ký hợp đồng xuất khẩu",
+      "B.Chậm nhất không quá ngày làm việc tiếp theo kể từ ngày hàng hóa được thông quan",
+      "C.Sau 15 ngày kể từ ngày hàng lên tàu",
+      "D.Ngay khi nhận được tiền thanh toán từ đối tác nước ngoài"
+    ],
+    "answer": "B.Chậm nhất không quá ngày làm việc tiếp theo kể từ ngày hàng hóa được thông quan"
+  },
+  {
+    "question": "Câu 244Theo Nghị định 70/2025/NĐ-CP, trường hợp điều chuyển tài sản giữa công ty mẹ đến các đơn vị hạch toán phụ thuộc thì tổ chức lập chứng từ như thế nào?",
+    "options": [
+      "A.Phải lập hóa đơn GTGT đầy đủ",
+      "B.Phải lập hóa đơn bán hàng cho tài sản điều chuyển",
+      "C.Tổ chức phải có lệnh điều chuyển tài sản, kèm theo bộ hồ sơ nguồn gốc tài sản và không phải lập hóa đơn",
+      "D.Chỉ cần ghi sổ kế toán nội bộ"
+    ],
+    "answer": "C.Tổ chức phải có lệnh điều chuyển tài sản, kèm theo bộ hồ sơ nguồn gốc tài sản và không phải lập hóa đơn"
+  },
+  {
+    "question": "Câu 245Căn cứ Nghị định 70/2025/NĐ-CP, việc tích hợp biên lai thu phí, lệ phí và hóa đơn điện tử trên cùng một định dạng (nếu cung cấp cùng lúc cho khách) cần thực hiện thủ tục nào?",
+    "options": [
+      "A.Chỉ cần tự thông báo trên website của người bán",
+      "B.Thỏa thuận nội bộ và thông báo đến cơ quan thuế quản lý trực tiếp theo Mẫu 01/ĐKTĐ-HĐĐT",
+      "C.Không cần thực hiện thủ tục gì thêm",
+      "D.Phải gửi văn bản xin phép giấy lên cấp bộ"
+    ],
+    "answer": "B.Thỏa thuận nội bộ và thông báo đến cơ quan thuế quản lý trực tiếp theo Mẫu 01/ĐKTĐ-HĐĐT"
+  },
+  {
+    "question": "Câu 246Theo Nghị định 70/2025/NĐ-CP, đối với doanh nghiệp kinh doanh vận tải hành khách bằng taxi có phần mềm tính tiền, hóa đơn điện tử được quy định lập vào thời điểm nào?",
+    "options": [
+      "A.Cuối ngày, tổng hợp thành một bảng kê để lập",
+      "B.Ngay khi khách hàng vừa bước lên xe",
+      "C.Tại thời điểm kết thúc chuyến đi, đồng thời chuyển dữ liệu hóa đơn đến cơ quan thuế",
+      "D.Chậm nhất vào cuối tháng"
+    ],
+    "answer": "C.Tại thời điểm kết thúc chuyến đi, đồng thời chuyển dữ liệu hóa đơn đến cơ quan thuế"
+  },
+  {
+    "question": "Câu 247Căn cứ Nghị định 70/2025/NĐ-CP, khoản tiền chiết khấu thương mại theo doanh số (thực hiện sau khi đã bán) được xử lý lập hóa đơn như thế nào?",
+    "options": [
+      "A.Được tính điều chỉnh trên hóa đơn của lần mua cuối cùng/kỳ tiếp sau, hoặc lập hóa đơn điều chỉnh kèm bảng kê",
+      "B.Buộc người mua nhận lại bằng tiền mặt",
+      "C.Hoàn toàn không được hiển thị lên hóa đơn",
+      "D.Lập hóa đơn riêng độc lập"
+    ],
+    "answer": "A.Được tính điều chỉnh trên hóa đơn của lần mua cuối cùng/kỳ tiếp sau, hoặc lập hóa đơn điều chỉnh kèm bảng kê"
+  },
+  {
+    "question": "Câu 248Theo Nghị định 70/2025/NĐ-CP, nếu người mua cá nhân không có Mã số thuế nhưng cần xuất hóa đơn, thông tin nào có thể dùng để thay thế?",
+    "options": [
+      "A.Số thẻ bảo hiểm y tế",
+      "B.Số định danh cá nhân",
+      "C.Số tài khoản ngân hàng",
+      "D.Biển số xe"
+    ],
+    "answer": "B.Số định danh cá nhân"
+  },
+  {
+    "question": "Câu 249Theo Nghị định 70/2025/NĐ-CP, khi người bán thực hiện lập hóa đơn điện tử thay thế cho hóa đơn sai, người mua và người bán phải khai bổ sung thuế vào kỳ nào?",
+    "options": [
+      "A.Kỳ phát sinh hóa đơn thay thế (hóa đơn mới)",
+      "B.Kỳ phát sinh hóa đơn bị điều chỉnh, bị thay thế (hóa đơn cũ)",
+      "C.Kỳ quyết toán thuế cuối năm",
+      "D.Tự động bù trừ vào kỳ kế tiếp, không cần khai bổ sung"
+    ],
+    "answer": "B.Kỳ phát sinh hóa đơn bị điều chỉnh, bị thay thế (hóa đơn cũ)"
+  },
+  {
+    "question": "Câu 250Căn cứ Nghị định 70/2025/NĐ-CP, tổ chức cung cấp giải pháp hóa đơn điện tử có trách nhiệm thế nào đối với thông tin hóa đơn?",
+    "options": [
+      "A.Bắt buộc phải bảo mật thông tin hóa đơn điện tử của khách hàng",
+      "B.Được quyền công khai trên mạng nội bộ",
+      "C.Chỉ bảo mật cho khách hàng có đóng phí đặc biệt",
+      "D.Được phép bán ẩn danh thông tin cho bên thứ 3"
+    ],
+    "answer": "A.Bắt buộc phải bảo mật thông tin hóa đơn điện tử của khách hàng"
+  },
+  {
+    "question": "Câu 251Theo Nghị định 70/2025/NĐ-CP, để đối chiếu thông tin đăng ký sử dụng hóa đơn điện tử, Cổng thông tin của Tổng cục Thuế tự động áp dụng công nghệ nào?",
+    "options": [
+      "A.Công nghệ Blockchain phi tập trung",
+      "B.Công nghệ sinh trắc học phù hợp quy định pháp luật và lộ trình của cơ quan thuế",
+      "C.Chỉ sử dụng mã OTP gửi qua SMS",
+      "D.Ký xác nhận văn bản giấy gửi qua bưu điện"
+    ],
+    "answer": "B.Công nghệ sinh trắc học phù hợp quy định pháp luật và lộ trình của cơ quan thuế"
+  },
+  {
+    "question": "Câu 252Căn cứ Nghị định 70/2025/NĐ-CP, sau thông báo lần 1 về rủi ro hóa đơn, nếu người nộp thuế giải trình không đạt, cơ quan thuế tiếp tục làm gì?",
+    "options": [
+      "A.Cưỡng chế đóng mã số thuế ngay",
+      "B.Gửi thông báo lần 2 yêu cầu người nộp thuế bổ sung thông tin trong 02 ngày làm việc",
+      "C.Đưa hồ sơ sang cơ quan điều tra",
+      "D.Xử phạt hành chính tối đa"
+    ],
+    "answer": "B.Gửi thông báo lần 2 yêu cầu người nộp thuế bổ sung thông tin trong 02 ngày làm việc"
+  },
+  {
+    "question": "Câu 253Theo Nghị định 70/2025/NĐ-CP, doanh nghiệp được phép chuyển dữ liệu hóa đơn điện tử trực tiếp đến cơ quan thuế khi đạt quy mô bao nhiêu hóa đơn/tháng?",
+    "options": [
+      "A.Bình quân từ 100.000 hóa đơn một tháng trở lên",
+      "B.Bình quân từ 500.000 hóa đơn một tháng trở lên",
+      "C.Bình quân từ 1.000.000 hóa đơn một tháng trở lên (và đáp ứng chuẩn dữ liệu)",
+      "D.Mọi doanh nghiệp đều được phép chuyển trực tiếp không giới hạn"
+    ],
+    "answer": "C.Bình quân từ 1.000.000 hóa đơn một tháng trở lên (và đáp ứng chuẩn dữ liệu)"
+  },
+  {
+    "question": "Câu 254Theo Nghị định 70/2025/NĐ-CP, nếu hóa đơn điện tử có thời điểm ký số khác thời điểm lập thì thời hạn gửi cơ quan thuế (hoặc chuyển dữ liệu) chậm nhất là khi nào?",
+    "options": [
+      "A.Cùng ngày với thời điểm lập hóa đơn",
+      "B.Ngày làm việc tiếp theo kể từ thời điểm lập hóa đơn (trừ trường hợp gửi theo bảng tổng hợp)",
+      "C.Vào ngày 20 của tháng kế tiếp",
+      "D.Không quy định bắt buộc thời hạn gửi"
+    ],
+    "answer": "B.Ngày làm việc tiếp theo kể từ thời điểm lập hóa đơn (trừ trường hợp gửi theo bảng tổng hợp)"
+  },
+  {
+    "question": "Câu 255Căn cứ Nghị định 70/2025/NĐ-CP, trong quá trình đăng ký hóa đơn, nếu hệ thống tự động đối chiếu thông tin sinh trắc học không khớp đúng với CSDL quốc gia về dân cư thì phản hồi thế nào?",
+    "options": [
+      "A.Chấp nhận tạm thời nhưng gắn cờ rủi ro",
+      "B.Yêu cầu chủ doanh nghiệp trực tiếp mang CCCD đến cơ quan Thuế để xác minh",
+      "C.Hệ thống tự động gửi Thông báo không chấp nhận hồ sơ đăng ký hóa đơn ngay trong ngày làm việc (hoặc chậm nhất ngày tiếp theo) để người nộp thuế điều chỉnh",
+      "D.Khóa mã số thuế công ty ngay lập tức"
+    ],
+    "answer": "C.Hệ thống tự động gửi Thông báo không chấp nhận hồ sơ đăng ký hóa đơn ngay trong ngày làm việc (hoặc chậm nhất ngày tiếp theo) để người nộp thuế điều chỉnh"
+  },
+  {
+    "question": "Câu 256Theo Nghị định 70/2025/NĐ-CP, cơ quan thuế sẽ ban hành thông báo ngừng sử dụng hóa đơn điện tử của người nộp thuế trong trường hợp cụ thể nào dưới đây?",
+    "options": [
+      "A.Người nộp thuế quên nộp báo cáo tình hình sử dụng hóa đơn",
+      "B.Người nộp thuế có hành vi sử dụng hóa đơn điện tử bán hàng giả, hàng lậu bị cơ quan có thẩm quyền phát hiện và thông báo",
+      "C.Người nộp thuế thay đổi phần mềm kế toán mà chưa báo cáo",
+      "D.Người nộp thuế kê khai lỗ trong 3 năm liên tục"
+    ],
+    "answer": "B.Người nộp thuế có hành vi sử dụng hóa đơn điện tử bán hàng giả, hàng lậu bị cơ quan có thẩm quyền phát hiện và thông báo"
+  },
+  {
+    "question": "Câu 257Theo Nghị định 70/2025/NĐ-CP, doanh nghiệp chế xuất thực hiện khai thuế GTGT theo phương pháp khấu trừ, nếu có thêm hoạt động kinh doanh nội địa (không thuộc chế xuất) thì sử dụng loại hóa đơn nào cho hoạt động này?",
+    "options": [
+      "A.Sử dụng Hóa đơn bán hàng",
+      "B.Sử dụng Hóa đơn giá trị gia tăng theo quy định chung (tại khoản 1 Điều 8)",
+      "C.Sử dụng Phiếu thu nội bộ",
+      "D.Không được xuất hóa đơn do không có chức năng"
+    ],
+    "answer": "B.Sử dụng Hóa đơn giá trị gia tăng theo quy định chung (tại khoản 1 Điều 8)"
+  },
+  {
+    "question": "Câu 258Căn cứ Nghị định 70/2025/NĐ-CP, tại cơ sở khám bệnh có phần mềm quản lý, nếu từng dịch vụ xét nghiệm có in phiếu thu mà khách hàng không lấy hóa đơn, đơn vị xử lý cuối ngày thế nào?",
+    "options": [
+      "A.Không cần lập hóa đơn, chỉ lưu phiếu thu",
+      "B.Buộc phải liên hệ lại bệnh nhân để xuất hóa đơn",
+      "C.Cuối ngày căn cứ vào phiếu thu tổng hợp lập hóa đơn điện tử cho các dịch vụ y tế thực hiện trong ngày",
+      "D.Để đến cuối tháng mới xuất chung một hóa đơn tổng"
+    ],
+    "answer": "C.Cuối ngày căn cứ vào phiếu thu tổng hợp lập hóa đơn điện tử cho các dịch vụ y tế thực hiện trong ngày"
+  },
+  {
+    "question": "Câu 259Căn cứ Nghị định 70/2025/NĐ-CP, trường hợp bên mua trả lại tài sản thuộc diện phải đăng ký quyền sở hữu và đã đăng ký tên người mua, việc lập hóa đơn trả hàng thực hiện thế nào (nếu người mua thuộc đối tượng dùng HĐ ĐT)?",
+    "options": [
+      "A.Người bán tự lập hóa đơn điều chỉnh giảm",
+      "B.Người mua lập hóa đơn điện tử trả lại hàng cho người bán",
+      "C.Hai bên lập biên bản hủy hóa đơn cũ mà không xuất hóa đơn mới",
+      "D.Cơ quan thuế sẽ trực tiếp thu hồi hóa đơn"
+    ],
+    "answer": "B.Người mua lập hóa đơn điện tử trả lại hàng cho người bán"
+  },
+  {
+    "question": "Câu 260Theo Nghị định 70/2025/NĐ-CP, nếu người bán lập sai nhiều hóa đơn điện tử trong cùng một tháng cho cùng một người mua (sai tên hàng, thuế suất...), cách thức điều chỉnh nhanh chóng nhất là gì?",
+    "options": [
+      "A.Bắt buộc phải lập riêng từng hóa đơn điều chỉnh cho mỗi hóa đơn sai",
+      "B.Được lập chung một hóa đơn điều chỉnh (hoặc thay thế) cho nhiều hóa đơn đã lập sai đó, đính kèm bảng kê (Mẫu số 01/BK-ĐCTT)",
+      "C.Chỉ cần làm một biên bản tổng hợp mà không cần lập hóa đơn",
+      "D.Báo cáo cơ quan thuế để hệ thống tự động sửa"
+    ],
+    "answer": "B.Được lập chung một hóa đơn điều chỉnh (hoặc thay thế) cho nhiều hóa đơn đã lập sai đó, đính kèm bảng kê (Mẫu số 01/BK-ĐCTT)"
+  },
+  {
+    "question": "Câu 261Căn cứ Nghị định 70/2025/NĐ-CP, đối với người nộp thuế thuộc diện rủi ro cao về thuế, khi đăng ký hóa đơn điện tử mà thông tin đối chiếu khớp đúng, cơ quan thuế quản lý trực tiếp sẽ làm gì?",
+    "options": [
+      "A.Chấp nhận hồ sơ tự động ngay lập tức",
+      "B.Bắt buộc chuyển sang hình thức sử dụng biên lai giấy",
+      "C.Ban hành thông báo yêu cầu giải trình, bổ sung tài liệu trong 01 ngày làm việc hoặc thực hiện xác minh hoạt động thực tế",
+      "D.Từ chối đăng ký và chuyển thông tin cho cơ quan Công an"
+    ],
+    "answer": "C.Ban hành thông báo yêu cầu giải trình, bổ sung tài liệu trong 01 ngày làm việc hoặc thực hiện xác minh hoạt động thực tế"
+  },
+  {
+    "question": "Câu 262Theo Nghị định 70/2025/NĐ-CP, doanh nghiệp viễn thông bán thẻ cào cước trả sau (đã lập hóa đơn GTGT), sau đó có thay đổi cước phí, việc lập hóa đơn điều chỉnh căn cứ vào đâu?",
+    "options": [
+      "A.Phải có yêu cầu của từng khách hàng cá nhân mới được lập",
+      "B.Tuyệt đối không được phép lập hóa đơn điều chỉnh",
+      "C.Căn cứ vào dữ liệu trên bảng kê hoặc biên bản làm việc với đối tác, khách hàng để thực hiện lập hóa đơn điều chỉnh",
+      "D.Căn cứ duy nhất vào lệnh đối soát từ Ngân hàng trung ương"
+    ],
+    "answer": "C.Căn cứ vào dữ liệu trên bảng kê hoặc biên bản làm việc với đối tác, khách hàng để thực hiện lập hóa đơn điều chỉnh"
+  },
+  {
+    "question": "Câu 263Căn cứ Nghị định 70/2025/NĐ-CP, tổ chức không kinh doanh nhưng bất ngờ có giao dịch thanh lý tài sản thì cần xin cấp loại hóa đơn nào để giao cho người mua?",
+    "options": [
+      "A.Hóa đơn điện tử có mã của cơ quan thuế cấp theo từng lần phát sinh (Hóa đơn bán hàng)",
+      "B.Hóa đơn giá trị gia tăng tự in",
+      "C.Biên lai thu thuế của ngân hàng",
+      "D.Không cần thiết cấp hóa đơn vì không đăng ký kinh doanh"
+    ],
+    "answer": "A.Hóa đơn điện tử có mã của cơ quan thuế cấp theo từng lần phát sinh (Hóa đơn bán hàng)"
+  },
+  {
+    "question": "Câu 264Những trường hợp nào thì con của đối tượng nộp thuế được xác định là người phụ thuộc được tính giảm trừ gia cảnh:",
+    "options": [
+      "A.Con dưới 18 tuổi",
+      "B.Con trên 18 tuổi nhưng bị tàn tật, không có khả năng lao động",
+      "C.Con đang theo học tại các trường đại học, cao đẳng, trung học chuyên nghiệp, dạy nghề, không có thu nhập hoặc có thu nhập nhưng không vượt quá mức quy định.",
+      "D.Tất cả các trường hợp trên."
+    ],
+    "answer": "D.Tất cả các trường hợp trên."
+  },
+  {
+    "question": "Câu 265Người nộp thuế đã đăng ký người phụ thuộc tại đơn vị A, sau đó thay đổi nơi làm việc tại đơn vị B thì có thực hiện đăng ký giảm trừ cho người phụ thuộc tại công ty B không?",
+    "options": [
+      "A.Người nộp thuế đăng ký lại và không cần nộp hồ sơ chứng minh người phụ thuộc",
+      "B.Thực hiện đăng ký và nộp hồ sơ chứng minh người phụ thuộc như trường hợp đăng ký người phụ thuộc lần đầu.",
+      "C.Không cần đăng ký lại người phụ thuộc.",
+      "D.Cả a, b, c đều sai"
+    ],
+    "answer": "B.Thực hiện đăng ký và nộp hồ sơ chứng minh người phụ thuộc như trường hợp đăng ký người phụ thuộc lần đầu."
+  },
+  {
+    "question": "Câu 266Thu nhập từ nhận thừa kế, quà tặng là bất động sản được miễn thuế TNCN đối với các trường hợp nào sau đây:",
+    "options": [
+      "A.Nhận thừa kế giữa cháu với cô, dì, chú, bác ruột",
+      "B.Nhận thừa kế giữa ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh chị em ruột với nhau.",
+      "C.Nhận thừa kế giữa anh, chị em họ con của cô, dì, chú, bác ruột",
+      "D.Tất cả các trường hợp trên"
+    ],
+    "answer": "B.Nhận thừa kế giữa ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh chị em ruột với nhau."
+  },
+  {
+    "question": "Câu 267Các trường hợp nào dưới đây phải trực tiếp nộp hồ sơ Quyết toán thuế thu nhập cá nhân:",
+    "options": [
+      "A.Cá nhân có thu nhập từ tiền lương, tiền công đã ủy quyền cho tổ chức chi trả thu nhập quyết toán thuế thay, đồng thời có thu nhập vãng lai ở các nơi khác bình quân tháng trong năm không quá 10 triệu đồng và đã được khấu trừ thuế thu nhập cá nhân theo tỷ lệ 10%.",
+      "B.Cá nhân có thu nhập từ tiền lương, tiền công phát sinh số thuế phải nộp sau quyết toán của từng năm từ 50.000 đồng trở xuống.",
+      "C.Cá nhân cư trú có thu nhập từ tiền lương, tiền công đồng thời thuộc diện xét giảm thuế do thiên tai, hoả hoạn, tai nạn, bệnh hiểm nghèo ảnh hưởng đến khả năng nộp thuế."
+    ],
+    "answer": "C.Cá nhân cư trú có thu nhập từ tiền lương, tiền công đồng thời thuộc diện xét giảm thuế do thiên tai, hoả hoạn, tai nạn, bệnh hiểm nghèo ảnh hưởng đến khả năng nộp thuế."
+  },
+  {
+    "question": "Câu 268Theo Luật thuế TNCN, người phụ thuộc của người nộp thuế không bao gồm:",
+    "options": [
+      "A.Con từ 18 tuổi trở lên bị khuyết tật, không có khả năng lao động.",
+      "B.Con đang theo học tại các trường học đại học, cao đẳng, trung học chuyên nghiệp, trung học phổ thông hoặc học nghề không có thu nhập hoặc có thu nhập dưới mức quy định.",
+      "C.Con đang học trình độ thạc sỹ tại các trường đại học.",
+      "D.Bố mẹ ngoài độ tuổi lao động và không có thu nhập."
+    ],
+    "answer": "C.Con đang học trình độ thạc sỹ tại các trường đại học."
+  },
+  {
+    "question": "Câu 269Theo Luật thuế TNCN, thời điểm xác định thu nhập tính thuế từ quà tặng là:",
+    "options": [
+      "A.Thời điểm tổ chức, cá nhân tặng cho người nộp thuế",
+      "B.Thời điểm người nộp thuế nhận được thu nhập",
+      "C.Cả A và B đều đúng.",
+      "D.Cả A và B đều sai"
+    ],
+    "answer": "B.Thời điểm người nộp thuế nhận được thu nhập"
+  },
+  {
+    "question": "Câu 270Theo Luật thuế TNCN, thời điểm xác định thu nhập tính thuế từ nhượng quyền thương mại là:",
+    "options": [
+      "A.Thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế.",
+      "B.Thời điểm hợp đồng chuyển nhượng có hiệu lực.",
+      "C.Thời điểm bên nhượng quyền thương mại và bên nhận quyền thương mại ký hợp đồng.",
+      "D.Cả A và B đều đúng."
+    ],
+    "answer": "A.Thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế."
+  },
+  {
+    "question": "Câu 271Thu nhập nào là thu nhập chịu thuế TNCN",
+    "options": [
+      "A.Lãi trái phiếu Chính phủ là khoản lãi mà cá nhân nhận được từ việc mua trái phiếu Chính phủ do Bộ Tài chính phát hành;",
+      "B.Tiền nhuận bút theo quy định của pháp luật về chế độ nhuận bút.",
+      "C.Thu nhập từ học bổng.",
+      "D.Tiền thưởng kèm theo các danh hiệu thi đua như Chiến sĩ thi đua toàn quốc; Chiến sĩ thi đua cấp Bộ, ngành, đoàn thể Trung ương, tỉnh, thành phố trực thuộc Trung ương; Chiến sĩ thi đua cơ sở, Lao động tiên tiến, Chiến sỹ tiên tiến."
+    ],
+    "answer": "B.Tiền nhuận bút theo quy định của pháp luật về chế độ nhuận bút."
+  },
+  {
+    "question": "Câu 272Theo Luật số 109/2025/QH15, thu nhập nào là thu nhập được miễn thuế TNCN?",
+    "options": [
+      "A.Tiền lương làm việc ban đêm, làm thêm giờ, tiền lương, tiền công trả cho những ngày không nghỉ phép theo quy định của pháp luật.",
+      "B.Tiền lương hưu do Quỹ bảo hiểm xã hội trả.",
+      "C.Thu nhập từ chuyển nhượng, nhận thừa kế, quà tặng là bất động sản giữa vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau.",
+      "D.Tất cả các khoản thu nhập trên."
+    ],
+    "answer": "D.Tất cả các khoản thu nhập trên."
+  },
+  {
+    "question": "Câu 273Theo Luật thuế TNCN năm 2025, biểu thuế lũy tiến từng phần đối với thu nhập từ tiền lương, tiền công có mức thuế suất cao nhất là:",
+    "options": [
+      "A.0.25",
+      "B.0.3",
+      "C.0.35",
+      "D.0.4"
+    ],
+    "answer": "C.0.35"
+  },
+  {
+    "question": "Câu 274Theo Luật thuế TNCN năm 2025, thu nhập từ chuyển nhượng chứng chỉ quỹ mở thành lập theo quy định của pháp luật về chứng khoán được miễn thuế TNCN khi đáp ứng điều kiện nào sau đây?",
+    "options": [
+      "A.Nắm giữ từ 01 năm trở lên",
+      "B.Nắm giữ từ 02 năm trở lên kể từ ngày mua",
+      "C.Nắm giữ từ 03 năm trở lên",
+      "D.Chỉ cần có lãi khi chuyển nhượng"
+    ],
+    "answer": "B.Nắm giữ từ 02 năm trở lên kể từ ngày mua"
+  },
+  {
+    "question": "Câu 275Các quy định liên quan đến thu nhập từ tiền lương, tiền công của cá nhân cư trú theo Luật thuế TNCN số 109/2025/QH15 áp dụng từ khi nào?",
+    "options": [
+      "A.Từ ngày 01/07/2026",
+      "B.Từ kỳ tính thuế năm 2026",
+      "C.Từ ngày 10/12/2025",
+      "D.Từ ngày Luật được Quốc hội thông qua"
+    ],
+    "answer": "B.Từ kỳ tính thuế năm 2026"
+  },
+  {
+    "question": "Câu 276Theo Luật thuế TNCN năm 2025, thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng vàng miếng của cá nhân cư trú được xác định như thế nào ?",
+    "options": [
+      "A.Thu nhập tính thuế x thuế suất 2%",
+      "B.Thu nhập tính thuế x thuế suất 5%",
+      "C.Giá chuyển nhượng nhân (x) với thuế suất 2%",
+      "D.Giá chuyển nhượng nhân (x) với thuế suất 0,1%"
+    ],
+    "answer": "D.Giá chuyển nhượng nhân (x) với thuế suất 0,1%"
+  },
+  {
+    "question": "Câu 277Theo Luật thuế TNCN năm 2025, thu nhập nào sau đây được miễn thuế TNCN:",
+    "options": [
+      "A.Thu nhập từ chuyển nhượng tên miền internet quốc gia Việt Nam “.vn”",
+      "B.Thu nhập từ chuyển nhượng biển số xe trúng đấu giá theo quy định của pháp luật",
+      "C.Thu nhập từ chuyển nhượng vàng miếng",
+      "D.Tiền lương làm việc ban đêm, làm thêm giờ, tiền lương, tiền công trả cho những ngày không nghỉ phép theo quy định của pháp luật"
+    ],
+    "answer": "D.Tiền lương làm việc ban đêm, làm thêm giờ, tiền lương, tiền công trả cho những ngày không nghỉ phép theo quy định của pháp luật"
+  },
+  {
+    "question": "Câu 278Theo Luật thuế TNCN năm 2025, biểu thuế luỹ tiến từng phần áp dụng đối với thu nhập tính thuế đối với thu nhập từ tiền lương, tiền công gồm bao nhiêu bậc:",
+    "options": [
+      "A.4 bậc",
+      "B.5 bậc",
+      "C.6 bậc",
+      "D.7 bậc"
+    ],
+    "answer": "B.5 bậc"
+  },
+  {
+    "question": "Câu 279Theo Luật thuế TNCN năm 2025, các khoản nào sau đây được giảm trừ vào thu nhập chịu thuế trước khi tính thuế đối với thu nhập từ tiền lương, tiền công:",
+    "options": [
+      "A.Khoản đóng góp vào các tổ chức có chức năng huy động tài trợ được thành lập và hoạt động theo quy định của pháp luật",
+      "B.Khoản đóng góp vào quỹ từ thiện, quỹ nhân đạo, quỹ khuyến học",
+      "C.Khoản chi cho y tế, giáo dục - đào tạo của người nộp thuế, người phụ thuộc của người nộp thuế",
+      "D.Tất cả các khoản trên"
+    ],
+    "answer": "D.Tất cả các khoản trên"
+  },
+  {
+    "question": "Câu 280Theo Luật thuế TNCN năm 2025, mức giảm trừ gia cảnh đối với mỗi người phụ thuộc là:",
+    "options": [
+      "A.4,4 triệu đồng/tháng",
+      "B.5 triệu đồng/tháng",
+      "C.6 triệu đồng/tháng",
+      "D.6,2 triệu đồng/tháng"
+    ],
+    "answer": "D.6,2 triệu đồng/tháng"
+  },
+  {
+    "question": "Câu 281Theo Luật Thuế TNCN 2025, mức giảm trừ gia cảnh đối với bản thân người nộp thuế là:",
+    "options": [
+      "A.11 triệu đồng/tháng",
+      "B.13,5 triệu đồng/tháng",
+      "C.15,5 triệu đồng/tháng",
+      "D.18 triệu đồng/tháng"
+    ],
+    "answer": "C.15,5 triệu đồng/tháng"
+  },
+  {
+    "question": "Câu 282Khoản thu nhập nào sau đây là thu nhập chịu thuế từ tiền lương, tiền công?",
+    "options": [
+      "A.Phụ cấp phục vụ đối với lãnh đạo cấp cao",
+      "B.Tiền thưởng về việc phát hiện, khai báo hành vi vi phạm pháp luật với cơ quan Nhà nước có thẩm quyền",
+      "C.Tiền thù lao nhận được dưới hình thức tham gia các đề tài nghiên cứu khoa học",
+      "D.Khoản hỗ trợ của người sử dụng lao động cho việc khám chữa bệnh hiểm nghèo cho bản thân người lao động và thân nhân của người lao động"
+    ],
+    "answer": "C.Tiền thù lao nhận được dưới hình thức tham gia các đề tài nghiên cứu khoa học"
+  },
+  {
+    "question": "Câu 283Cá nhân có thu nhập từ tiền lương, tiền công không được giảm trừ những khoản nào sau đây khi xác định thu nhập tính thuế:",
+    "options": [
+      "A.Các khoản giảm trừ gia cảnh",
+      "B.Các khoản đóng góp bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm trách nhiệm nghề nghiệp đối với một số ngành nghề phải tham gia bảo hiểm bắt buộc",
+      "C.Khoản mua bảo hiểm nhân thọ",
+      "D.Mua quỹ hưu trí tự nguyện"
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 284Quy định về việc giảm trừ gia cảnh chỉ áp dụng đối với các cá nhân có thu nhập từ:",
+    "options": [
+      "A.Tiền lương, tiền công.",
+      "B.Chuyển nhượng chứng khoán.",
+      "C.Chuyển nhượng bất động sản.",
+      "D.Chuyển nhượng vốn"
+    ],
+    "answer": "A.Tiền lương, tiền công."
+  },
+  {
+    "question": "Câu 285Theo Luật thuế TNCN năm 2025, cá nhân cư trú có hoạt động sản xuất kinh doanh có doanh thu năm mức nào thì không phải nộp thuế TNCN?",
+    "options": [
+      "A.từ 100 triệu đồng trở xuống.",
+      "B.từ 200 triệu đồng trở xuống",
+      "C.từ 300 triệu đồng trở xuống",
+      "D.từ 500 triệu đồng trở xuống"
+    ],
+    "answer": "D.từ 500 triệu đồng trở xuống"
+  },
+  {
+    "question": "Câu 286Đối tượng nào sau đây không được coi là người phụ thuộc khi xác định thu nhập tính thuế TNCN?",
+    "options": [
+      "A.Con 18 tuổi trở lên đang học phổ thông mà có thu nhập 800 ngàn đồng/tháng.",
+      "B.Con thành niên đang học đại học.",
+      "C.Con thành niên đang học nghề.",
+      "D.Con thành niên đang học cao học."
+    ],
+    "answer": "D.Con thành niên đang học cao học."
+  },
+  {
+    "question": "Câu 287Khoản thu nhập nào dưới đây là thu nhập chịu thuế thu nhập cá nhân",
+    "options": [
+      "A.Thu nhập từ chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cha dượng với con riêng của vợ.",
+      "B.Thu nhập từ chuyển nhượng nhà ở hình thành trong tương lai giữa anh chị em ruột với nhau.",
+      "C.Thu nhập từ chuyển nhượng nhà ở, quyền sử dụng đất ở của cá nhân có duy nhất một nhà ở, quyền sử dụng đất ở tại Việt Nam.",
+      "D.Tất cả các khoản thu nhập nêu trên."
+    ],
+    "answer": "A.Thu nhập từ chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cha dượng với con riêng của vợ."
+  },
+  {
+    "question": "Câu 288Thuế suất thuế TNCN của cá nhân không cư trú đối với thu nhập từ tiền lương, tiền công là:",
+    "options": [
+      "A.0.1",
+      "B.0.05",
+      "C.0.2",
+      "D.Lũy tiến"
+    ],
+    "answer": "C.0.2"
+  },
+  {
+    "question": "Câu 289Biểu thuế tính thuế TNCN từ thừa kế quà tặng là biểu thuế",
+    "options": [
+      "A.Toàn phần",
+      "B.Từng phần",
+      "C.Lũy tiến từng phần",
+      "D.Lũy tiến toàn phần"
+    ],
+    "answer": "A.Toàn phần"
+  },
+  {
+    "question": "Câu 290Người nộp thuế TNCN gặp thiên tai, hoả hoạn, tai nạn, bệnh hiểm nghèo thì theo quy định:",
+    "options": [
+      "A.Được miễn thuế TNCN phải nộp tương ứng với mức độ thiệt hại.",
+      "B.Được xét giảm thuế TNCN tương ứng với mức độ thiệt hại, số thuế được giảm không vượt quá số thuế phải nộp.",
+      "C.Không câu trả lời nào trên là đúng."
+    ],
+    "answer": "B.Được xét giảm thuế TNCN tương ứng với mức độ thiệt hại, số thuế được giảm không vượt quá số thuế phải nộp."
+  },
+  {
+    "question": "Câu 291Thuế suất đối với thu nhập từ chuyển nhượng bất động sản tại Việt Nam của cá nhân không cư trú được xác định bằng bao nhiêu % trên giá chuyển nhượng?",
+    "options": [
+      "A.0.01",
+      "B.0.02",
+      "C.0.03",
+      "D.0.04"
+    ],
+    "answer": "B.0.02"
+  },
+  {
+    "question": "Câu 292Phạm vi xác định thu nhập chịu thuế của cá nhân cư trú?",
+    "options": [
+      "A.Thu nhập phát sinh trong lãnh thổ Việt Nam",
+      "B.Thu nhập phát sinh ngoài lãnh thổ Việt Nam",
+      "C.Thu nhập phát sinh trong và ngoài lãnh thổ Việt Nam, tùy vào nơi trả thu nhập",
+      "D.Thu nhập phát sinh trong và ngoài lãnh thổ Việt Nam, không phân biệt nơi trả thu nhập"
+    ],
+    "answer": "D.Thu nhập phát sinh trong và ngoài lãnh thổ Việt Nam, không phân biệt nơi trả thu nhập"
+  },
+  {
+    "question": "Câu 293Doanh nghiệp thực hiện quyết toán thuế thu nhập cá nhân thay cho người lao động thì sử dụng mẫu tờ khai nào?",
+    "options": [
+      "A.Mẫu 05/KK-TNCN theo Thông tư 80/2021/TT-BTC",
+      "B.Mẫu 05/QTT-TNCN theo Thông tư 80/2021/TT-BTC",
+      "C.Mẫu 02/KK-TNCN theo Thông tư 80/2021/TT-BTC",
+      "D.Mẫu 02/QTT-TNCN theo Thông tư 80/2021/TT-BTC"
+    ],
+    "answer": "B.Mẫu 05/QTT-TNCN theo Thông tư 80/2021/TT-BTC"
+  },
+  {
+    "question": "Câu 294Theo luật Quản lý thuế số 38/2019/QH14, thời hạn nộp hồ sơ quyết toán thuế TNCN của cá nhân trực tiếp quyết toán thuế là:",
+    "options": [
+      "A.Chậm nhất là ngày cuối cùng của tháng thứ 1 kể từ ngày kết thúc năm dương lịch;",
+      "B.Chậm nhất là ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch;",
+      "C.Chậm nhất là 90 ngày kể từ ngày kết thúc năm dương lịch;",
+      "D.Chậm nhất là ngày cuối cùng của tháng thứ 4 kể từ ngày kết thúc năm dương lịch đối với hồ sơ quyết toán thuế thu nhập cá nhân của cá nhân trực tiếp quyết toán thuế"
+    ],
+    "answer": "D.Chậm nhất là ngày cuối cùng của tháng thứ 4 kể từ ngày kết thúc năm dương lịch đối với hồ sơ quyết toán thuế thu nhập cá nhân của cá nhân trực tiếp quyết toán thuế"
+  },
+  {
+    "question": "Câu 295Biểu thuế tính thuế TNCN từ nhượng quyền thương mại là biểu thuế",
+    "options": [
+      "A.Toàn phần",
+      "B.Từng phần",
+      "C.Lũy tiến từng phần",
+      "D.Lũy tiến toàn phần"
+    ],
+    "answer": "A.Toàn phần"
+  },
+  {
+    "question": "Câu 296Theo Luật Thuế thu nhập cá nhân năm 2025, mức thuế suất cao nhất trong biểu thuế lũy tiến từng phần áp dụng đối với thu nhập từ tiền lương, tiền công của cá nhân là bao nhiêu?",
+    "options": [
+      "A.0.3",
+      "B.0.32",
+      "C.0.35",
+      "D.0.4"
+    ],
+    "answer": "C.0.35"
+  },
+  {
+    "question": "Câu 297Các khoản thu nhập nào sau đây được miễn thuế TNCN:",
+    "options": [
+      "A.Thu nhập từ kiều hối.",
+      "B.Tiền lương hưu do Bảo hiểm xã hội chi trả",
+      "C.Thu nhập từ học bổng",
+      "D.Cả A, B, C"
+    ],
+    "answer": "D.Cả A, B, C"
+  },
+  {
+    "question": "Câu 298Quá thời hạn thi hành quyết định xử phạt vi phạm hành chính về thuế mà người vi phạm không tự nguyện chấp hành thì sẽ bị cưỡng chế thi hành. Trường hợp chậm nộp tiền phạt, cứ mỗi ngày chậm nộp, cá nhân, tổ chức vi phạm phải nộp thêm bao nhiêu phần trăm (%) tính trên tổng số tiền phạt chưa nộp?",
+    "options": [
+      "A.0.0002",
+      "B.0.0003",
+      "C.0.0004",
+      "D.0.0005"
+    ],
+    "answer": "D.0.0005"
+  },
+  {
+    "question": "Câu 299Người nộp thuế TNCN gặp thiên tai, hỏa hoạn, tai nạn hoặc mắc bệnh hiểm nghèo thì theo quy định của pháp luật về thuế TNCN, việc xử lý nghĩa vụ thuế được thực hiện như thế nào?",
+    "options": [
+      "A.Được miễn toàn bộ số thuế thu nhập cá nhân phải nộp",
+      "B.Được xét giảm thuế thu nhập cá nhân tương ứng với mức độ thiệt hại, nhưng số thuế được giảm không vượt quá số thuế phải nộp",
+      "C.Không được giảm thuế mà chỉ được gia hạn thời hạn nộp thuế",
+      "D.Không thuộc trường hợp được xem xét hỗ trợ về thuế thu nhập cá nhân"
+    ],
+    "answer": "B.Được xét giảm thuế thu nhập cá nhân tương ứng với mức độ thiệt hại, nhưng số thuế được giảm không vượt quá số thuế phải nộp"
+  },
+  {
+    "question": "Câu 300Giảm trừ gia cảnh là gì",
+    "options": [
+      "A.Là chi phí thực tế phát sinh cho việc nuôi dưỡng bản thân và người phụ thuộc.",
+      "B.Là số tiền được trừ vào thu nhập chịu thuế trước khi tính thuế đối với thu nhập từ tiền lương, tiền công của người nộp thuế là cá nhân cư trú.",
+      "C.Là Khoản thu nhập không phải chịu thuế thu nhập cá nhân.",
+      "D.Là Khoản miễn thuế thu nhập cá nhân."
+    ],
+    "answer": "B.Là số tiền được trừ vào thu nhập chịu thuế trước khi tính thuế đối với thu nhập từ tiền lương, tiền công của người nộp thuế là cá nhân cư trú."
+  },
+  {
+    "question": "Câu 301Luật số 109/2025/QH15 quy định biểu thuế lũy tiến từng phần áp dụng cho:",
+    "options": [
+      "A.Thu nhập từ chuyển nhượng vốn",
+      "B.Thu nhập từ tiền lương, tiền công của cá nhân cư trú",
+      "C.Thu nhập từ kinh doanh của cá nhân",
+      "D.Thu nhập từ chuyển nhượng vốn"
+    ],
+    "answer": "B.Thu nhập từ tiền lương, tiền công của cá nhân cư trú"
+  },
+  {
+    "question": "Câu 302Theo Luật số 109/2025/QH15, thuế suất thuế TNCN đối với thu nhập từ tiền lương, tiền công của cá nhân không cư trú là:",
+    "options": [
+      "A.0.2",
+      "B.0.25",
+      "C.0.35",
+      "D.0.15"
+    ],
+    "answer": "A.0.2"
+  },
+  {
+    "question": "Câu 303Thời hạn đăng ký giảm trừ gia cảnh cho người phụ thuộc thuộc đối tượng khác mà người nộp thuế trực tiếp nuôi dưỡng:",
+    "options": [
+      "A.Chậm nhất là ngày 31/12 của năm tính thuế.",
+      "B.Chậm nhất là ngày 30/4 năm liền kề năm nộp thuế.",
+      "C.Chậm nhất là ngày 31/3 năm liền kề năm nộp thuế.",
+      "D.Đăng ký trước thời gian nộp hồ sơ quyết toán."
+    ],
+    "answer": "A.Chậm nhất là ngày 31/12 của năm tính thuế."
+  },
+  {
+    "question": "Câu 304Tổ chức chi trả thu nhập không cấp chứng từ khấu trừ thuế TNCN đối với:",
+    "options": [
+      "A.Cá nhân không ký hợp đồng lao động",
+      "B.Cá nhân ủy quyền quyết toán thuế",
+      "C.Cá nhân ký hợp đồng lao động dưới 3 tháng",
+      "D.Cá nhân ký hợp đồng lao động từ 3 tháng trở lên"
+    ],
+    "answer": "B.Cá nhân ủy quyền quyết toán thuế"
+  },
+  {
+    "question": "Câu 305Luật thuế TNCN quy định các khoản đóng góp vào quỹ từ thiện, nhân đạo, quỹ khuyến học:",
+    "options": [
+      "A.Được trừ vào tất cả các loại thu nhập của cá nhân cư trú trước khi tính thuế",
+      "B.Được trừ vào thu nhập từ tiền lương tiền công của cá nhân cư trú trước khi tính thuế",
+      "C.Chỉ được trừ vào thu nhập từ tiền lương tiền công của cá nhân không cư trú trước khi tính thuế",
+      "D.Câu A và B"
+    ],
+    "answer": "B.Được trừ vào thu nhập từ tiền lương tiền công của cá nhân cư trú trước khi tính thuế"
+  },
+  {
+    "question": "Câu 306Trong các khoản thu nhập dưới đây, khoản nào là thu nhập không chịu thuế TNCN?",
+    "options": [
+      "A.Thu nhập từ trúng thưởng xổ số",
+      "B.Thu nhập từ thừa kế là 01 chiếc ô tô",
+      "C.Thu nhập từ chuyển nhượng tài sản số",
+      "D.Trợ cấp thôi việc"
+    ],
+    "answer": "D.Trợ cấp thôi việc"
+  },
+  {
+    "question": "Câu 307Đối với cá nhân cư trú thì kỳ tính thuế theo từng lần phát sinh thu nhập áp dụng đối với?",
+    "options": [
+      "A.Thu nhập từ đầu tư vốn",
+      "B.Thu nhập từ chuyển nhượng vốn",
+      "C.Thu nhập từ chuyển nhượng BĐS",
+      "D.Tất cả các khoản trên"
+    ],
+    "answer": "D.Tất cả các khoản trên"
+  },
+  {
+    "question": "Câu 308Theo Luật số 109/2025/QH15, thuế thu nhập cá nhân đối với thu nhập từ kinh doanh của cá nhân cư trú có doanh thu năm trên 50 tỷ đồng thì áp dụng mức thuế suất là?",
+    "options": [
+      "A.0.1",
+      "B.0.15",
+      "C.0.17",
+      "D.0.2"
+    ],
+    "answer": "D.0.2"
+  },
+  {
+    "question": "Câu 309Theo Luật số 109/2025/QH15, thuế thu nhập cá nhân đối với thu nhập từ kinh doanh của cá nhân cư trú có doanh thu năm trên 03 tỷ đồng đến 50 tỷ đồng thì áp dụng mức thuế suất là?",
+    "options": [
+      "A.0.1",
+      "B.0.15",
+      "C.0.17",
+      "D.0.2"
+    ],
+    "answer": "C.0.17"
+  },
+  {
+    "question": "Câu 310Thuế suất thuế TNCN đối với thu nhập từ đầu tư vốn của cá nhân cư trú là bao nhiêu:",
+    "options": [
+      "A.2%.",
+      "B.0.05",
+      "C.10%.",
+      "D.20%."
+    ],
+    "answer": "B.0.05"
+  },
+  {
+    "question": "Câu 311Kỳ tính thuế TNCN đối với cá nhân cư trú có thu nhập từ tiền lương, tiền công được quy định như thế nào:",
+    "options": [
+      "A.Theo từng lần phát sinh thu nhập.",
+      "B.Theo năm.",
+      "C.Theo quý.",
+      "D.Theo tháng."
+    ],
+    "answer": "B.Theo năm."
+  },
+  {
+    "question": "Câu 312Theo Luật thuế TNCN năm 2025, Thu nhập nào được miễn thuế TNCN?",
+    "options": [
+      "A.Thu nhập từ tiền lương, tiền công",
+      "B.Tiền lương hưu do Quỹ Bảo hiểm xã hội chi trả",
+      "C.Thu nhập từ nhượng quyền thương mại",
+      "D.Thu nhập từ nhận quà tặng."
+    ],
+    "answer": "B.Tiền lương hưu do Quỹ Bảo hiểm xã hội chi trả"
+  },
+  {
+    "question": "Câu 313Khoản chi nào sau đây không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN",
+    "options": [
+      "A.Tiền lương, tiền công của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên do một cá nhân làm chủ",
+      "B.Tiền lương trả cho các thành viên của hội đồng quản trị trực tiếp tham gia điều hành sản xuất, kinh doanh hàng hoá, dịch vụ",
+      "C.Tiền lương, tiền công của chủ Công ty TNHH 2 thành viên trở lên",
+      "D.Tiền lương, tiền công của giám đốc được thuê điều hành sản xuất, kinh doanh hàng hoá, dịch vụ"
+    ],
+    "answer": "A.Tiền lương, tiền công của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên do một cá nhân làm chủ"
+  },
+  {
+    "question": "Câu 314Thuế suất TNDN 17% áp dụng đối với doanh nghiệp có tổng doanh thu năm",
+    "options": [
+      "A.từ trên 03 tỷ đồng đến không quá 50 tỷ đồng",
+      "B.không quá 03 tỷ đồng",
+      "C.từ trên 10 tỷ đồng đến không quá 50 tỷ đồng",
+      "D.từ trên 03 tỷ đồng đến không quá 10 tỷ đồng"
+    ],
+    "answer": "A.từ trên 03 tỷ đồng đến không quá 50 tỷ đồng"
+  },
+  {
+    "question": "Câu 315Khoản thu nhập nào được miễn thuế TNDN",
+    "options": [
+      "A.Thu nhập từ hoạt động giáo dục nghề nghiệp, đào tạo nghề nghiệp dành riêng cho người dân tộc thiểu số, người khuyết tật, trẻ em có hoàn cảnh đặc biệt, đối tượng tệ nạn xã hội",
+      "B.Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải, chuyển nhượng tín chỉ các-bon lần đầu của doanh nghiệp được cấp chứng chỉ giảm phát thải, tín chỉ các-bon",
+      "C.Khoản chênh lệch do đánh giá lại tài sản theo quy định của pháp luật để cổ phần hóa, sắp xếp lại doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ.",
+      "D.Tất cả đáp án trên"
+    ],
+    "answer": "D.Tất cả đáp án trên"
+  },
+  {
+    "question": "Câu 316Theo quy định tại Luật thuế TNDN năm 2025 Doanh nghiệp được chuyển lỗ liên tục trong mấy năm",
+    "options": [
+      "A.không quá 5 năm từ khi thành lập",
+      "B.không quá 5 năm kể từ năm tiếp theo năm phát sinh lỗ",
+      "C.không quá 3 năm kể từ năm tiếp theo năm phát sinh lỗ",
+      "D.không quá 5 năm"
+    ],
+    "answer": "B.không quá 5 năm kể từ năm tiếp theo năm phát sinh lỗ"
+  },
+  {
+    "question": "Câu 317Thời gian miễn thuế, giảm thuế TNDN được tính từ",
+    "options": [
+      "A.Năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 02",
+      "B.Năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 02 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 03",
+      "C.năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 03 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 04",
+      "D.năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 04 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 05"
+    ],
+    "answer": "C.năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong 03 năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ 04"
+  },
+  {
+    "question": "Câu 318Khoản chi nào sau đây được trừ khi tính thuế TNDN",
+    "options": [
+      "A.Khấu hao TSCĐ không phục vụ SXKD",
+      "B.Chi phí lãi vay trong kỳ tương ứng vốn điều lệ còn thiếu",
+      "C.Tiền lương của chủ Doanh nghiệp tư nhân, công ty TNHH MTV",
+      "D.Chi phí tiếp khách phục vụ hoạt động kinh doanh, có hóa đơn, chứng từ thanh toán theo quy định"
+    ],
+    "answer": "D.Chi phí tiếp khách phục vụ hoạt động kinh doanh, có hóa đơn, chứng từ thanh toán theo quy định"
+  },
+  {
+    "question": "Câu 319Theo quy định tại Nghị định 181/2025/NĐ-CP, Đối với hoạt động kinh doanh bất động sản giá tính thuế GTGT là",
+    "options": [
+      "A.giá bán bất động sản có thuế giá trị gia tăng, gồm tiền sử dụng đất hoặc tiền thuê đất nộp ngân sách nhà nước",
+      "B.giá bán đất động sản có thuế GTGT, không bao gồm tiền sử dụng đất",
+      "C.giá bán bất động sản chưa có thuế giá trị gia tăng, trừ tiền sử dụng đất hoặc tiền thuê đất nộp ngân sách nhà nước (giá đất được trừ)."
+    ],
+    "answer": "C.giá bán bất động sản chưa có thuế giá trị gia tăng, trừ tiền sử dụng đất hoặc tiền thuê đất nộp ngân sách nhà nước (giá đất được trừ)."
+  },
+  {
+    "question": "Câu 320Theo quy định tại Nghị định 181/2025/NĐ-CP, Đối với dịch vụ kinh doanh đặt cược giá tính thuế GTGT là",
+    "options": [
+      "A.Số tiền thu được từ bán vé đặt cược chưa trừ số tiền đã trả thưởng cho khách (nếu có), đã có thuế tiêu thụ đặc biệt, chưa có thuế giá trị gia tăng.",
+      "B.Số tiền thu được từ bán vé đặt cược trừ số tiền đã trả thưởng cho khách (nếu có), đã có thuế tiêu thụ đặc biệt, chưa có thuế giá trị gia tăng.",
+      "C.Số tiền thu được từ bán vé đặt cược, đã có thuế tiêu thụ đặc biệt",
+      "D.Số tiền thu được từ bán vé đặt cược chưa có thuế giá trị gia tăng."
+    ],
+    "answer": "B.Số tiền thu được từ bán vé đặt cược trừ số tiền đã trả thưởng cho khách (nếu có), đã có thuế tiêu thụ đặc biệt, chưa có thuế giá trị gia tăng."
+  },
+  {
+    "question": "Câu 321Theo quy định tại Nghị định 181/2025/NĐ-CP, Nguyên tắc xác định giá tính thuế giá trị gia tăng",
+    "options": [
+      "A.Bao gồm cả khoản phụ thu và phí thu thêm ngoài giá hàng hóa, dịch vụ mà cơ sở kinh doanh được hưởng",
+      "B.Trường hợp cơ sở kinh doanh áp dụng hình thức chiết khấu thương mại dành cho khách hàng (nếu có) thì giá tính thuế giá trị gia tăng là giá bán đã chiết khấu thương mại dành cho khách hàng chưa có thuế giá trị gia tăng.",
+      "C.Trường hợp cơ sở kinh doanh đã tính thuế giá trị gia tăng nhưng giá tính thuế bị thay đổi theo kết luận của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật có liên quan thì giá tính thuế được xác định theo kết luận của cơ quan nhà nước có thẩm quyền",
+      "D.Cả 3 đáp án trên"
+    ],
+    "answer": "D.Cả 3 đáp án trên"
+  },
+  {
+    "question": "Câu 322Theo quy định tại Nghị định 181/2025/NĐ-CP, Đối với hàng hóa xuất khẩu, thời điểm xác định thuế giá trị gia tăng",
+    "options": [
+      "A.ngày làm việc tiếp theo kể từ ngày hàng hóa được thông quan theo quy định của pháp luật về hải quan",
+      "B.do người bán tự xác định",
+      "C.do người bán tự xác định nhưng chậm nhất không quá ngày làm việc tiếp theo kể từ ngày hàng hóa được thông quan theo quy định của pháp luật về hải quan"
+    ],
+    "answer": "C.do người bán tự xác định nhưng chậm nhất không quá ngày làm việc tiếp theo kể từ ngày hàng hóa được thông quan theo quy định của pháp luật về hải quan"
+  },
+  {
+    "question": "Câu 323Theo quy định tại Nghị định 181/2025/NĐ-CP, Đối với hoạt động kinh doanh bảo hiểm, thời điểm xác định thuế giá trị gia tăng là",
+    "options": [
+      "A.thời điểm thu tiền bảo hiểm",
+      "B.thời điểm ghi nhận doanh thu bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm.",
+      "C.thời điểm trả tiền bảo hiểm"
+    ],
+    "answer": "B.thời điểm ghi nhận doanh thu bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm."
+  },
+  {
+    "question": "Câu 324Theo quy định tại Nghị định 181/2025/NĐ-CP, hàng hóa nào sau đây chịu thuế suất 0%",
+    "options": [
+      "A.Hàng hóa bán trong cụm công nghiệp",
+      "B.Hàng hóa bán trong khu công nghiệp",
+      "C.Hàng hóa bán trong nước",
+      "D.Hàng hóa đã bán tại khu vực cách ly cho cá nhân (người nước ngoài hoặc người Việt Nam) đã làm thủ tục xuất cảnh"
+    ],
+    "answer": "D.Hàng hóa đã bán tại khu vực cách ly cho cá nhân (người nước ngoài hoặc người Việt Nam) đã làm thủ tục xuất cảnh"
+  },
+  {
+    "question": "Câu 325Theo quy định tại Nghị định 181/2025/NĐ-CP, dịch vụ nào không phải là Dịch vụ xuất khẩu",
+    "options": [
+      "A.Dịch vụ cung cấp trực tiếp cho tổ chức, cá nhân ở nước ngoài và được tiêu dùng ở ngoài Việt Nam",
+      "B.dịch vụ cung cấp trực tiếp cho tổ chức ở trong khu phi thuế quan và được tiêu dùng trong khu phi thuế quan phục vụ trực tiếp cho hoạt động sản xuất xuất khẩu",
+      "C.dịch vụ vận chuyển, dịch vụ cung cấp cho doanh nghiệp chế xuất (dịch vụ nâng hạ container tại cảng, nhà máy, kho hàng",
+      "D.Dịch vụ vận chuyển người nước ngoài"
+    ],
+    "answer": "D.Dịch vụ vận chuyển người nước ngoài"
+  },
+  {
+    "question": "Câu 326Dự án đầu tư có thuế GTGT đầu vào còn được khấu trừ 4.400 triệu hạch toán kê khai riêng, cùng kỳ kê khai cơ sở kinh doanh phát sinh thuế GTGT phải nộp của hoạt động sản xuất kinh doanh chính là 4.150 triệu. Kết quả hoàn thuế là",
+    "options": [
+      "A.Được xét hoàn 300 triệu đồng",
+      "B.Được xét hoàn 300 triệu đồng",
+      "C.Không được hoàn",
+      "D.Được xét hoàn 250 triệu đồng"
+    ],
+    "answer": "C.Không được hoàn"
+  },
+  {
+    "question": "Câu 327Mức thuế GTGT đầu vào tối thiểu chưa được khấu trừ hết để dự án đầu tư mới được hoàn thuế là bao nhiêu?",
+    "options": [
+      "A.từ 300 triệu đồng",
+      "B.200 triệu đồng",
+      "C.100 triệu đồng",
+      "D.500 triệu đồng"
+    ],
+    "answer": "A.từ 300 triệu đồng"
+  },
+  {
+    "question": "Câu 328Cơ sở kinh doanh trong tháng, quý vừa có hàng hóa, dịch vụ xuất khẩu, vừa có hàng hóa, dịch vụ tiêu thụ nội địa, khi hoàn thuế phải hạch toán như thế nào",
+    "options": [
+      "A.phải hạch toán riêng số thuế giá trị gia tăng đầu vào sử dụng cho sản xuất, kinh doanh hàng hóa, dịch vụ xuất khẩu",
+      "B.không phải hạch toán riêng số thuế giá trị gia tăng đầu vào sử dụng cho sản xuất, kinh doanh hàng hóa, dịch vụ xuất khẩu",
+      "C.Lấy tỷ lệ bất kỳ để phân bổ doanh thu"
+    ],
+    "answer": "A.phải hạch toán riêng số thuế giá trị gia tăng đầu vào sử dụng cho sản xuất, kinh doanh hàng hóa, dịch vụ xuất khẩu"
+  }
+]
